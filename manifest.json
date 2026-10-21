@@ -1,0 +1,16 @@
+{
+  "name": "Penser en Français — A1 → A2",
+  "short_name": "Français",
+  "description": "Lộ trình tiếng Pháp 32 tuần, tư duy trực tiếp bằng tiếng Pháp.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f6f1e7",
+  "theme_color": "#1f2a44",
+  "lang": "vi",
+  "icons": [
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "penser-en-francais",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "PWA học tiếng Pháp 32 tuần A1–A2",
+  "engines": { "node": ">=18" }
+}

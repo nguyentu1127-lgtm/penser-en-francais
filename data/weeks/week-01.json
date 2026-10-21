@@ -1,0 +1,441 @@
+{
+  "week": 1,
+  "level": "A1",
+  "title": "Bonjour ! Les sons du français",
+  "days": [
+    {
+      "id": "w01d1",
+      "day": 1,
+      "title": "L'alphabet et les accents",
+      "grammar": {
+        "title": "Les accents français",
+        "rule": "En français, il y a cinq signes : l'accent aigu (é), l'accent grave (è, à, ù), l'accent circonflexe (â, ê, î, ô, û), la cédille (ç) et le tréma (ë, ï).",
+        "note_vi": "Dấu thay đổi cách đọc: é đọc như 'ê' khép, è/ê đọc như 'e' mở, ç đọc là /s/. Dấu à, ù chỉ để phân biệt nghĩa (a = có, à = ở/tới).",
+        "table": {
+          "head": ["Accent", "Lettre", "Exemple"],
+          "rows": [
+            ["aigu", "é", "le café"],
+            ["grave", "è / à / ù", "la mère, à Paris, où"],
+            ["circonflexe", "â ê î ô û", "la fête, l'hôtel"],
+            ["cédille", "ç", "le garçon, ça va"],
+            ["tréma", "ë ï", "Noël, naïf"]
+          ]
+        },
+        "examples": ["Le café est chaud.", "Ma mère est à Paris.", "Ça va ? Oui, ça va bien.", "Le garçon est à l'école."],
+        "quiz": [
+          { "q": "Quel mot a un accent aigu ?", "options": ["la mère", "le café", "la fête", "ça"], "answer": 1 },
+          { "q": "« ç » se prononce comme...", "options": ["/k/", "/s/", "/ʃ/", "/g/"], "answer": 1 },
+          { "q": "Complétez : Ma mère est ___ Paris.", "options": ["a", "à", "â", "as"], "answer": 1 },
+          { "q": "Quel mot a une cédille ?", "options": ["le garçon", "l'hôtel", "Noël", "l'école"], "answer": 0 },
+          { "q": "Écrivez le mot : la f_te (accent circonflexe)", "answer": ["fête", "la fête"] }
+        ]
+      },
+      "vocab": [
+        { "fr": "l'alphabet", "ipa": "/lal.fa.bɛ/", "pos": "nom m.", "vi": "bảng chữ cái", "ex": "L'alphabet français a 26 lettres." },
+        { "fr": "une lettre", "ipa": "/yn lɛtʁ/", "pos": "nom f.", "vi": "chữ cái; lá thư", "ex": "« A » est une lettre." },
+        { "fr": "un mot", "ipa": "/œ̃ mo/", "pos": "nom m.", "vi": "từ", "ex": "Café est un mot français." },
+        { "fr": "épeler", "ipa": "/e.ple/", "pos": "verbe", "vi": "đánh vần", "ex": "Épelez votre nom, s'il vous plaît." },
+        { "fr": "le nom", "ipa": "/lə nɔ̃/", "pos": "nom m.", "vi": "họ; tên (nói chung)", "ex": "Mon nom est Nguyen." },
+        { "fr": "le prénom", "ipa": "/lə pʁe.nɔ̃/", "pos": "nom m.", "vi": "tên riêng (tên gọi)", "ex": "Mon prénom est Linh." },
+        { "fr": "le café", "ipa": "/lə ka.fe/", "pos": "nom m.", "vi": "cà phê; quán cà phê", "ex": "Le café est chaud." },
+        { "fr": "l'école", "ipa": "/le.kɔl/", "pos": "nom f.", "vi": "trường học", "ex": "Le garçon est à l'école." },
+        { "fr": "le garçon", "ipa": "/lə ɡaʁ.sɔ̃/", "pos": "nom m.", "vi": "cậu bé; bồi bàn", "ex": "Le garçon s'appelle Paul." },
+        { "fr": "la fête", "ipa": "/la fɛt/", "pos": "nom f.", "vi": "bữa tiệc; ngày lễ", "ex": "C'est la fête !" },
+        { "fr": "s'il vous plaît", "ipa": "/sil vu plɛ/", "pos": "expression", "vi": "làm ơn (lịch sự)", "ex": "Un café, s'il vous plaît." }
+      ],
+      "vocabQuiz": [
+        { "q": "« Épelez votre nom » : on demande de...", "options": ["dire son âge", "dire les lettres du nom", "écrire une lettre", "chanter"], "answer": 1 },
+        { "q": "« Linh » est un...", "options": ["prénom", "café", "mot de passe", "alphabet"], "answer": 0 },
+        { "q": "Le garçon est à ___.", "options": ["l'école", "épeler", "s'il vous plaît", "une lettre"], "answer": 0 },
+        { "q": "Combien de lettres dans l'alphabet français ?", "options": ["24", "26", "29", "30"], "answer": 1 },
+        { "q": "Un café, ___ (formule polie)", "answer": ["s'il vous plaît", "s'il vous plait"] }
+      ],
+      "listening": {
+        "dictee": ["Je m'appelle Anna.", "C'est un café.", "Épelez votre nom, s'il vous plaît.", "Le garçon est à l'école."],
+        "dialogue": [
+          { "s": "Réceptionniste", "t": "Bonjour madame. Votre nom, s'il vous plaît ?" },
+          { "s": "Linh", "t": "Bonjour. Je m'appelle Linh Nguyen." },
+          { "s": "Réceptionniste", "t": "Vous pouvez épeler votre nom ?" },
+          { "s": "Linh", "t": "Oui. N, G, U, Y, E, N." },
+          { "s": "Réceptionniste", "t": "Merci. Et votre prénom ?" },
+          { "s": "Linh", "t": "L, I, N, H. Linh." },
+          { "s": "Réceptionniste", "t": "Parfait, merci madame." }
+        ],
+        "questions": [
+          { "q": "Où est Linh ?", "options": ["à l'école", "à la réception", "au café", "à la fête"], "answer": 1 },
+          { "q": "Quel est le nom de Linh ?", "options": ["Linh", "Nguyen", "Anna", "Paul"], "answer": 1 },
+          { "q": "Combien de lettres dans « Linh » ?", "options": ["3", "4", "5", "6"], "answer": 1 }
+        ]
+      },
+      "speaking": {
+        "readAloud": ["A, B, C, D, E, F, G", "H, I, J, K, L, M, N", "O, P, Q, R, S, T, U", "V, W, X, Y, Z"],
+        "shadowing": ["Bonjour, je m'appelle Linh.", "Ça s'écrit L, I, N, H.", "Un café, s'il vous plaît."],
+        "roleplay": {
+          "scenario": "Tu arrives à la réception d'un hôtel à Paris. Le réceptionniste demande ton nom et ton prénom. Épelle-les.",
+          "aiRole": "un réceptionniste d'hôtel poli",
+          "starter": "Bonjour ! Bienvenue à l'hôtel Lumière. Votre nom, s'il vous plaît ?",
+          "goal": "Dire et épeler ton nom et ton prénom."
+        }
+      },
+      "reading": {
+        "title": "À l'école de langues",
+        "text": "Aujourd'hui, c'est le premier jour à l'école de langues. Le professeur s'appelle Marc. Il écrit l'alphabet au tableau. Les étudiants épellent leur prénom. Linh dit : « L, I, N, H ». Paul dit : « P, A, U, L ». Après la classe, ils vont au café.",
+        "questions": [
+          { "q": "Comment s'appelle le professeur ?", "options": ["Paul", "Marc", "Linh", "Anna"], "answer": 1 },
+          { "q": "Qu'est-ce que le professeur écrit ?", "options": ["un mot", "l'alphabet", "une lettre à sa mère", "son nom"], "answer": 1 },
+          { "q": "Où vont les étudiants après la classe ?", "options": ["à la fête", "à l'hôtel", "au café", "à Paris"], "answer": 2 }
+        ]
+      },
+      "writing": {
+        "prompt": "Écris 3 phrases : ton nom, ton prénom et comment ça s'écrit. Exemple : Je m'appelle... Ça s'écrit...",
+        "minWords": 15
+      }
+    },
+    {
+      "id": "w01d2",
+      "day": 2,
+      "title": "Saluer et se présenter",
+      "grammar": {
+        "title": "S'appeler : je m'appelle...",
+        "rule": "Pour dire son nom, on utilise le verbe s'appeler. Pour saluer : « bonjour » (la journée), « bonsoir » (le soir), « salut » (entre amis).",
+        "note_vi": "S'appeler là động từ phản thân: je m'appelle (tôi tên là), tu t'appelles, il/elle s'appelle. 'Tu' dùng với bạn bè, 'vous' dùng lịch sự hoặc số nhiều.",
+        "table": {
+          "head": ["Pronom", "S'appeler"],
+          "rows": [
+            ["je", "m'appelle"],
+            ["tu", "t'appelles"],
+            ["il / elle", "s'appelle"],
+            ["nous", "nous appelons"],
+            ["vous", "vous appelez"],
+            ["ils / elles", "s'appellent"]
+          ]
+        },
+        "examples": ["Bonjour, je m'appelle Linh.", "Comment tu t'appelles ?", "Comment vous appelez-vous ?", "Elle s'appelle Marie."],
+        "quiz": [
+          { "q": "Comment ___-vous ?", "options": ["appelle", "vous appelez", "t'appelles", "m'appelle"], "answer": 1 },
+          { "q": "Il est 20 heures. On dit...", "options": ["Bonjour", "Bonsoir", "Bonne nuit", "Salut madame"], "answer": 1 },
+          { "q": "Elle ___ Marie.", "options": ["m'appelle", "s'appelle", "t'appelles", "appelons"], "answer": 1 },
+          { "q": "À un ami, on dit...", "options": ["Salut !", "Bonjour monsieur", "Enchanté, madame", "Au revoir monsieur"], "answer": 0 },
+          { "q": "Complétez : Je ___ Linh.", "answer": ["m'appelle"] }
+        ]
+      },
+      "vocab": [
+        { "fr": "bonjour", "ipa": "/bɔ̃.ʒuʁ/", "pos": "interjection", "vi": "xin chào (ban ngày)", "ex": "Bonjour madame !" },
+        { "fr": "bonsoir", "ipa": "/bɔ̃.swaʁ/", "pos": "interjection", "vi": "chào buổi tối", "ex": "Bonsoir, monsieur." },
+        { "fr": "salut", "ipa": "/sa.ly/", "pos": "interjection", "vi": "chào (thân mật)", "ex": "Salut Paul, ça va ?" },
+        { "fr": "au revoir", "ipa": "/o ʁə.vwaʁ/", "pos": "interjection", "vi": "tạm biệt", "ex": "Au revoir et à demain !" },
+        { "fr": "enchanté", "ipa": "/ɑ̃.ʃɑ̃.te/", "pos": "adjectif", "vi": "rất vui được gặp", "ex": "Enchanté, je m'appelle Marc." },
+        { "fr": "ça va ?", "ipa": "/sa va/", "pos": "expression", "vi": "khỏe không?", "ex": "Salut ! Ça va ? — Ça va bien." },
+        { "fr": "merci", "ipa": "/mɛʁ.si/", "pos": "interjection", "vi": "cảm ơn", "ex": "Merci beaucoup !" },
+        { "fr": "monsieur", "ipa": "/mə.sjø/", "pos": "nom m.", "vi": "ông, ngài", "ex": "Bonjour monsieur Martin." },
+        { "fr": "madame", "ipa": "/ma.dam/", "pos": "nom f.", "vi": "bà, quý bà", "ex": "Merci madame." },
+        { "fr": "à bientôt", "ipa": "/a bjɛ̃.to/", "pos": "expression", "vi": "hẹn sớm gặp lại", "ex": "Au revoir, à bientôt !" }
+      ],
+      "vocabQuiz": [
+        { "q": "Le matin, au travail, on dit...", "options": ["Salut", "Bonjour", "Bonsoir", "Bonne nuit"], "answer": 1 },
+        { "q": "« Enchanté » s'utilise...", "options": ["quand on part", "quand on rencontre quelqu'un", "pour dire merci", "le soir seulement"], "answer": 1 },
+        { "q": "Ça va ? — ___", "options": ["Ça va bien, merci.", "Je m'appelle Paul.", "Au revoir.", "Bonsoir."], "answer": 0 },
+        { "q": "Pour partir, on dit...", "options": ["Bonjour", "Enchanté", "Au revoir", "Merci"], "answer": 2 },
+        { "q": "Complétez : Au revoir, à ___ !", "answer": ["bientôt", "demain"] }
+      ],
+      "listening": {
+        "dictee": ["Bonjour, comment allez-vous ?", "Je m'appelle Paul.", "Enchanté, madame.", "Au revoir, à bientôt !"],
+        "dialogue": [
+          { "s": "Paul", "t": "Salut ! Je m'appelle Paul. Et toi, comment tu t'appelles ?" },
+          { "s": "Linh", "t": "Salut Paul ! Moi, c'est Linh." },
+          { "s": "Paul", "t": "Enchanté, Linh. Ça va ?" },
+          { "s": "Linh", "t": "Ça va bien, merci. Et toi ?" },
+          { "s": "Paul", "t": "Très bien ! Bon, à bientôt !" },
+          { "s": "Linh", "t": "Au revoir, Paul !" }
+        ],
+        "questions": [
+          { "q": "Paul et Linh sont...", "options": ["formels", "amicaux (tu)", "en colère", "au téléphone"], "answer": 1 },
+          { "q": "Comment va Linh ?", "options": ["mal", "bien", "fatiguée", "on ne sait pas"], "answer": 1 },
+          { "q": "Qui parle en premier ?", "options": ["Linh", "Paul", "le professeur", "madame Martin"], "answer": 1 }
+        ]
+      },
+      "speaking": {
+        "readAloud": ["Bonjour, je m'appelle Linh.", "Enchantée !", "Ça va bien, merci. Et vous ?"],
+        "shadowing": ["Salut ! Ça va ?", "Comment vous appelez-vous ?", "Au revoir, à bientôt !"],
+        "roleplay": {
+          "scenario": "Tu rencontres un nouvel étudiant français à l'université. Salue-le, présente-toi et demande son nom.",
+          "aiRole": "un étudiant français sympathique nommé Lucas",
+          "starter": "Salut ! Je suis nouveau ici. Tu t'appelles comment ?",
+          "goal": "Saluer, se présenter, demander le nom et dire au revoir."
+        }
+      },
+      "reading": {
+        "title": "Le premier jour",
+        "text": "Lucas arrive à l'université. Il dit bonjour à une étudiante : « Bonjour, je m'appelle Lucas. Et toi ? » Elle répond : « Moi, c'est Mai. Enchantée ! » Ils parlent un peu. Le soir, Lucas rencontre le professeur. Il dit : « Bonsoir, monsieur. » Le professeur répond : « Bonsoir, Lucas. À demain ! »",
+        "questions": [
+          { "q": "Comment s'appelle l'étudiante ?", "options": ["Linh", "Marie", "Mai", "Anna"], "answer": 2 },
+          { "q": "Pourquoi Lucas dit « bonsoir » au professeur ?", "options": ["Parce que c'est le soir", "Parce qu'il part", "Parce que c'est un ami", "Parce qu'il est fatigué"], "answer": 0 },
+          { "q": "Avec le professeur, Lucas est...", "options": ["familier", "poli", "triste", "absent"], "answer": 1 }
+        ]
+      },
+      "writing": {
+        "prompt": "Écris un petit dialogue (4 à 6 répliques) : tu rencontres une personne, tu la salues, tu te présentes et tu dis au revoir.",
+        "minWords": 25
+      }
+    },
+    {
+      "id": "w01d3",
+      "day": 3,
+      "title": "Les pronoms sujets et le verbe être",
+      "grammar": {
+        "title": "Le verbe être au présent",
+        "rule": "Le verbe être est irrégulier et très important. On l'utilise pour la nationalité, la profession, la description et le lieu.",
+        "note_vi": "Être = thì, là, ở. 'Vous' vừa là ngôi lịch sự số ít vừa là số nhiều. 'On' (người ta/chúng ta) chia giống 'il'.",
+        "table": {
+          "head": ["Pronom", "Être"],
+          "rows": [
+            ["je", "suis"],
+            ["tu", "es"],
+            ["il / elle / on", "est"],
+            ["nous", "sommes"],
+            ["vous", "êtes"],
+            ["ils / elles", "sont"]
+          ]
+        },
+        "examples": ["Je suis vietnamienne.", "Tu es étudiant ?", "Elle est à Paris.", "Nous sommes amis.", "Vous êtes professeur ?", "Ils sont contents."],
+        "quiz": [
+          { "q": "Nous ___ étudiants.", "options": ["sont", "sommes", "êtes", "est"], "answer": 1 },
+          { "q": "Vous ___ français ?", "options": ["êtes", "es", "sommes", "suis"], "answer": 0 },
+          { "q": "Marie et Anna ___ à Lyon.", "options": ["est", "sont", "sommes", "es"], "answer": 1 },
+          { "q": "Quel pronom pour parler à un professeur (poli) ?", "options": ["tu", "vous", "il", "on"], "answer": 1 },
+          { "q": "Complétez : Je ___ vietnamien.", "answer": ["suis"] }
+        ]
+      },
+      "vocab": [
+        { "fr": "être", "ipa": "/ɛtʁ/", "pos": "verbe", "vi": "thì, là, ở", "ex": "Je suis étudiant." },
+        { "fr": "étudiant", "ipa": "/e.ty.djɑ̃/", "pos": "nom m.", "vi": "sinh viên (nam)", "ex": "Paul est étudiant." },
+        { "fr": "étudiante", "ipa": "/e.ty.djɑ̃t/", "pos": "nom f.", "vi": "sinh viên (nữ)", "ex": "Linh est étudiante." },
+        { "fr": "professeur", "ipa": "/pʁɔ.fɛ.sœʁ/", "pos": "nom m.", "vi": "giáo viên", "ex": "Marc est professeur." },
+        { "fr": "vietnamien", "ipa": "/vjɛt.na.mjɛ̃/", "pos": "adjectif", "vi": "người/thuộc Việt Nam (nam)", "ex": "Il est vietnamien." },
+        { "fr": "vietnamienne", "ipa": "/vjɛt.na.mjɛn/", "pos": "adjectif", "vi": "người/thuộc Việt Nam (nữ)", "ex": "Elle est vietnamienne." },
+        { "fr": "français", "ipa": "/fʁɑ̃.sɛ/", "pos": "adjectif", "vi": "người/thuộc Pháp (nam)", "ex": "Lucas est français." },
+        { "fr": "française", "ipa": "/fʁɑ̃.sɛz/", "pos": "adjectif", "vi": "người/thuộc Pháp (nữ)", "ex": "Marie est française." },
+        { "fr": "un ami", "ipa": "/œ̃.na.mi/", "pos": "nom m.", "vi": "bạn (nam)", "ex": "Paul est un ami." },
+        { "fr": "content", "ipa": "/kɔ̃.tɑ̃/", "pos": "adjectif", "vi": "vui, hài lòng", "ex": "Nous sommes contents." },
+        { "fr": "ici", "ipa": "/i.si/", "pos": "adverbe", "vi": "ở đây", "ex": "Je suis ici." }
+      ],
+      "vocabQuiz": [
+        { "q": "Linh est une femme. Elle est...", "options": ["vietnamien", "vietnamienne", "français", "étudiant"], "answer": 1 },
+        { "q": "Marie est une femme de France. Elle est...", "options": ["française", "français", "vietnamienne", "professeur"], "answer": 0 },
+        { "q": "« Ici » veut dire...", "options": ["là-bas", "à cet endroit", "demain", "aussi"], "answer": 1 },
+        { "q": "Marc enseigne. Il est...", "options": ["étudiant", "ami", "professeur", "content"], "answer": 2 },
+        { "q": "Complétez : Paul est un ___ (bạn nam).", "answer": ["ami"] }
+      ],
+      "listening": {
+        "dictee": ["Je suis étudiante.", "Vous êtes français ?", "Nous sommes à Hanoï.", "Ils sont contents."],
+        "dialogue": [
+          { "s": "Marc", "t": "Bonjour ! Vous êtes nouvelle ?" },
+          { "s": "Linh", "t": "Oui, je suis nouvelle. Je suis étudiante." },
+          { "s": "Marc", "t": "Vous êtes chinoise ?" },
+          { "s": "Linh", "t": "Non, je suis vietnamienne. Je suis de Hanoï." },
+          { "s": "Marc", "t": "Ah, très bien ! Moi, je suis professeur. Je suis français." }
+        ],
+        "questions": [
+          { "q": "Linh est...", "options": ["chinoise", "vietnamienne", "française", "professeur"], "answer": 1 },
+          { "q": "Marc est...", "options": ["étudiant", "vietnamien", "professeur", "nouveau"], "answer": 2 },
+          { "q": "Linh est de...", "options": ["Paris", "Lyon", "Hanoï", "Pékin"], "answer": 2 }
+        ]
+      },
+      "speaking": {
+        "readAloud": ["Je suis, tu es, il est.", "Nous sommes, vous êtes, ils sont.", "Je suis vietnamien et je suis étudiant."],
+        "shadowing": ["Vous êtes français ?", "Non, je suis vietnamienne.", "Nous sommes amis."],
+        "roleplay": {
+          "scenario": "Dans un café à Paris, une Française te parle. Dis ta nationalité, ta ville et ta profession.",
+          "aiRole": "une Française curieuse nommée Claire",
+          "starter": "Bonjour ! Vous n'êtes pas d'ici, non ? Vous êtes d'où ?",
+          "goal": "Utiliser le verbe être : nationalité, ville, profession."
+        }
+      },
+      "reading": {
+        "title": "Une classe internationale",
+        "text": "Dans la classe de Marc, il y a cinq étudiants. Linh est vietnamienne. Ken est japonais. Ana et Pedro sont espagnols. Sarah est anglaise. Ils sont tous contents d'être à Paris. Marc dit : « Vous êtes une super classe ! »",
+        "questions": [
+          { "q": "Combien d'étudiants dans la classe ?", "options": ["trois", "quatre", "cinq", "six"], "answer": 2 },
+          { "q": "Ana et Pedro sont...", "options": ["japonais", "espagnols", "anglais", "vietnamiens"], "answer": 1 },
+          { "q": "Où sont les étudiants ?", "options": ["à Madrid", "à Tokyo", "à Hanoï", "à Paris"], "answer": 3 }
+        ]
+      },
+      "writing": {
+        "prompt": "Présente-toi et deux personnes que tu connais avec le verbe être (nationalité, profession, ville).",
+        "minWords": 30
+      }
+    },
+    {
+      "id": "w01d4",
+      "day": 4,
+      "title": "Les voyelles nasales",
+      "grammar": {
+        "title": "Les sons nasaux : [ɑ̃], [ɔ̃], [ɛ̃]",
+        "rule": "Quand une voyelle est suivie de n ou m (et pas d'une autre voyelle), elle devient souvent nasale : l'air passe par le nez.",
+        "note_vi": "Âm mũi: không đọc rõ 'n' ở cuối. an/en → [ɑ̃] (gần 'ăng'), on → [ɔ̃] (gần 'ông'), in/ain/un → [ɛ̃] (gần 'anh' nhưng mở hơn). Nếu sau n/m là nguyên âm (ami, une) thì KHÔNG mũi.",
+        "table": {
+          "head": ["Son", "Écritures", "Exemples"],
+          "rows": [
+            ["[ɑ̃]", "an, am, en, em", "enfant, chambre, temps"],
+            ["[ɔ̃]", "on, om", "bonjour, nom, maison"],
+            ["[ɛ̃]", "in, im, ain, ein, un", "vin, pain, important, lundi"],
+            ["pas nasal", "n/m + voyelle", "ami, une, fine, bonne"]
+          ]
+        },
+        "examples": ["Mon enfant mange du pain.", "Le vin blanc est bon.", "Bonjour, mon nom est Simon.", "Une amie, une fine."],
+        "quiz": [
+          { "q": "Quel mot a le son [ɔ̃] ?", "options": ["pain", "maison", "enfant", "ami"], "answer": 1 },
+          { "q": "Quel mot N'est PAS nasal ?", "options": ["bon", "bonne", "pain", "temps"], "answer": 1 },
+          { "q": "« enfant » contient le son...", "options": ["[ɑ̃]", "[ɔ̃]", "[ɛ̃]", "aucun"], "answer": 0 },
+          { "q": "« pain » et « vin » ont le même son ?", "options": ["oui, [ɛ̃]", "non", "oui, [ɑ̃]", "oui, [ɔ̃]"], "answer": 0 },
+          { "q": "Écrivez le mot (bánh mì): le p___ ", "answer": ["pain", "le pain"] }
+        ]
+      },
+      "vocab": [
+        { "fr": "le pain", "ipa": "/lə pɛ̃/", "pos": "nom m.", "vi": "bánh mì", "ex": "Je mange du pain." },
+        { "fr": "le vin", "ipa": "/lə vɛ̃/", "pos": "nom m.", "vi": "rượu vang", "ex": "Le vin blanc est bon." },
+        { "fr": "un enfant", "ipa": "/œ̃.nɑ̃.fɑ̃/", "pos": "nom m.", "vi": "đứa trẻ", "ex": "L'enfant est content." },
+        { "fr": "la maison", "ipa": "/la mɛ.zɔ̃/", "pos": "nom f.", "vi": "ngôi nhà", "ex": "La maison est grande." },
+        { "fr": "bon", "ipa": "/bɔ̃/", "pos": "adjectif", "vi": "ngon; tốt (giống đực)", "ex": "Le pain est bon." },
+        { "fr": "bonne", "ipa": "/bɔn/", "pos": "adjectif", "vi": "ngon; tốt (giống cái)", "ex": "Bonne journée !" },
+        { "fr": "blanc", "ipa": "/blɑ̃/", "pos": "adjectif", "vi": "trắng", "ex": "Le vin blanc." },
+        { "fr": "le temps", "ipa": "/lə tɑ̃/", "pos": "nom m.", "vi": "thời gian; thời tiết", "ex": "Il fait beau temps." },
+        { "fr": "lundi", "ipa": "/lœ̃.di/", "pos": "nom m.", "vi": "thứ Hai", "ex": "Lundi, je suis à l'école." },
+        { "fr": "la chambre", "ipa": "/la ʃɑ̃bʁ/", "pos": "nom f.", "vi": "phòng ngủ", "ex": "La chambre est petite." }
+      ],
+      "vocabQuiz": [
+        { "q": "On mange du...", "options": ["vin", "pain", "temps", "lundi"], "answer": 1 },
+        { "q": "Le premier jour de la semaine (en France) :", "options": ["lundi", "dimanche", "samedi", "mardi"], "answer": 0 },
+        { "q": "« Bonne journée » : bonne est...", "options": ["nasal", "pas nasal", "muet", "anglais"], "answer": 1 },
+        { "q": "On dort dans la...", "options": ["chambre", "maison de vin", "école", "pain"], "answer": 0 },
+        { "q": "Le vin ___ (trắng)", "answer": ["blanc"] }
+      ],
+      "listening": {
+        "dictee": ["Le pain est bon.", "Mon enfant est dans la chambre.", "Lundi, il fait beau temps.", "Le vin blanc est bon."],
+        "dialogue": [
+          { "s": "Boulangère", "t": "Bonjour monsieur ! Vous désirez ?" },
+          { "s": "Simon", "t": "Bonjour madame. Un pain, s'il vous plaît." },
+          { "s": "Boulangère", "t": "Voilà. Et avec ça ?" },
+          { "s": "Simon", "t": "C'est tout, merci. Bonne journée !" },
+          { "s": "Boulangère", "t": "Merci, bonne journée, monsieur !" }
+        ],
+        "questions": [
+          { "q": "Où est Simon ?", "options": ["à la boulangerie", "à l'école", "dans la chambre", "au restaurant"], "answer": 0 },
+          { "q": "Qu'est-ce qu'il achète ?", "options": ["du vin", "un pain", "un café", "rien"], "answer": 1 },
+          { "q": "« C'est tout » veut dire...", "options": ["je veux encore", "je ne veux rien d'autre", "c'est cher", "au revoir"], "answer": 1 }
+        ]
+      },
+      "speaking": {
+        "readAloud": ["an, en, on, in, un", "enfant, maison, pain, lundi", "bon / bonne — un / une — fin / fine"],
+        "shadowing": ["Bonjour, un pain, s'il vous plaît.", "Le vin blanc est bon.", "Mon enfant est dans la maison."],
+        "roleplay": {
+          "scenario": "Tu es dans une boulangerie à Paris. Achète du pain et un croissant, puis dis au revoir.",
+          "aiRole": "une boulangère aimable",
+          "starter": "Bonjour ! Qu'est-ce que je vous sers aujourd'hui ?",
+          "goal": "Commander poliment avec des mots nasals : pain, bonjour, bonne journée."
+        }
+      },
+      "reading": {
+        "title": "Le dimanche de Simon",
+        "text": "Simon habite dans une petite maison. Le dimanche, il va à la boulangerie. Il achète un pain et des croissants. Son enfant, Léon, aime le pain chaud. Le soir, Simon boit un verre de vin blanc. C'est un bon moment.",
+        "questions": [
+          { "q": "Où habite Simon ?", "options": ["dans une petite maison", "dans un hôtel", "à l'école", "dans une chambre d'étudiant"], "answer": 0 },
+          { "q": "Comment s'appelle l'enfant ?", "options": ["Simon", "Léon", "Paul", "Marc"], "answer": 1 },
+          { "q": "Que boit Simon le soir ?", "options": ["du café", "du vin blanc", "de l'eau", "du lait"], "answer": 1 }
+        ]
+      },
+      "writing": {
+        "prompt": "Écris 4 phrases avec au moins 6 mots qui contiennent un son nasal (pain, maison, enfant, bon, lundi, temps...).",
+        "minWords": 25
+      }
+    },
+    {
+      "id": "w01d5",
+      "day": 5,
+      "title": "Les nombres de 0 à 20",
+      "grammar": {
+        "title": "Compter de 0 à 20 et dire son âge",
+        "rule": "Pour dire l'âge, on utilise le verbe avoir, pas être : « J'ai vingt ans. » Attention aux liaisons : deux‿ans [døz‿ɑ̃], trois‿ans, six‿ans [siz‿ɑ̃], dix‿ans [diz‿ɑ̃].",
+        "note_vi": "Tiếng Pháp nói tuổi bằng 'avoir' (có): J'ai 20 ans = Tôi 20 tuổi. Liaison: phụ âm cuối được nối với nguyên âm đầu từ sau.",
+        "table": {
+          "head": ["0–6", "7–13", "14–20"],
+          "rows": [
+            ["0 zéro", "7 sept", "14 quatorze"],
+            ["1 un", "8 huit", "15 quinze"],
+            ["2 deux", "9 neuf", "16 seize"],
+            ["3 trois", "10 dix", "17 dix-sept"],
+            ["4 quatre", "11 onze", "18 dix-huit"],
+            ["5 cinq", "12 douze", "19 dix-neuf"],
+            ["6 six", "13 treize", "20 vingt"]
+          ]
+        },
+        "examples": ["J'ai vingt ans.", "Tu as quel âge ?", "Il a dix-huit ans.", "Mon numéro, c'est le zéro six, douze, quinze..."],
+        "quiz": [
+          { "q": "16 se dit...", "options": ["seize", "six", "soixante", "dix-six"], "answer": 0 },
+          { "q": "J'___ dix-neuf ans.", "options": ["suis", "ai", "es", "est"], "answer": 1 },
+          { "q": "7 + 8 = ?", "options": ["quatorze", "quinze", "seize", "treize"], "answer": 1 },
+          { "q": "« dix-huit » = ", "options": ["16", "17", "18", "19"], "answer": 2 },
+          { "q": "Écrivez en lettres : 12", "answer": ["douze"] }
+        ]
+      },
+      "vocab": [
+        { "fr": "un an", "ipa": "/œ̃.nɑ̃/", "pos": "nom m.", "vi": "năm (tuổi)", "ex": "J'ai vingt ans." },
+        { "fr": "l'âge", "ipa": "/lɑʒ/", "pos": "nom m.", "vi": "tuổi", "ex": "Tu as quel âge ?" },
+        { "fr": "avoir", "ipa": "/a.vwaʁ/", "pos": "verbe", "vi": "có", "ex": "J'ai deux frères." },
+        { "fr": "le numéro", "ipa": "/lə ny.me.ʁo/", "pos": "nom m.", "vi": "số (điện thoại, phòng)", "ex": "Ton numéro de téléphone ?" },
+        { "fr": "compter", "ipa": "/kɔ̃.te/", "pos": "verbe", "vi": "đếm", "ex": "L'enfant compte jusqu'à dix." },
+        { "fr": "combien", "ipa": "/kɔ̃.bjɛ̃/", "pos": "adverbe", "vi": "bao nhiêu", "ex": "Combien d'étudiants ?" },
+        { "fr": "le téléphone", "ipa": "/lə te.le.fɔn/", "pos": "nom m.", "vi": "điện thoại", "ex": "Mon téléphone est noir." },
+        { "fr": "un frère", "ipa": "/œ̃ fʁɛʁ/", "pos": "nom m.", "vi": "anh/em trai", "ex": "J'ai un frère." },
+        { "fr": "une sœur", "ipa": "/yn sœʁ/", "pos": "nom f.", "vi": "chị/em gái", "ex": "Ma sœur a quinze ans." },
+        { "fr": "quel", "ipa": "/kɛl/", "pos": "adjectif interrogatif", "vi": "nào, gì", "ex": "Quel âge as-tu ?" }
+      ],
+      "vocabQuiz": [
+        { "q": "« Tu as quel âge ? » — ", "options": ["J'ai dix-sept ans.", "Je suis dix-sept.", "Dix-sept heures.", "Je m'appelle dix-sept."], "answer": 0 },
+        { "q": "« Combien » sert à demander...", "options": ["une quantité", "un lieu", "un nom", "une heure précise"], "answer": 0 },
+        { "q": "La fille de mes parents est ma...", "options": ["frère", "sœur", "mère", "amie"], "answer": 1 },
+        { "q": "Pour appeler quelqu'un, on a besoin de son...", "options": ["numéro", "âge", "frère", "pain"], "answer": 0 },
+        { "q": "J'ai un ___ (anh trai)", "answer": ["frère"] }
+      ],
+      "listening": {
+        "dictee": ["J'ai vingt ans.", "Ma sœur a quinze ans.", "Tu as quel âge ?", "Il y a douze étudiants."],
+        "dialogue": [
+          { "s": "Claire", "t": "Tu as des frères et sœurs ?" },
+          { "s": "Linh", "t": "Oui, j'ai un frère et une sœur." },
+          { "s": "Claire", "t": "Ils ont quel âge ?" },
+          { "s": "Linh", "t": "Mon frère a dix-huit ans et ma sœur a douze ans." },
+          { "s": "Claire", "t": "Et toi ?" },
+          { "s": "Linh", "t": "Moi, j'ai vingt ans." }
+        ],
+        "questions": [
+          { "q": "Linh a combien de frères et sœurs ?", "options": ["un", "deux", "trois", "zéro"], "answer": 1 },
+          { "q": "Quel âge a la sœur ?", "options": ["12", "18", "20", "2"], "answer": 0 },
+          { "q": "Quel âge a Linh ?", "options": ["18", "12", "20", "19"], "answer": 2 }
+        ]
+      },
+      "speaking": {
+        "readAloud": ["zéro, un, deux, trois, quatre, cinq, six", "sept, huit, neuf, dix, onze, douze, treize", "quatorze, quinze, seize, dix-sept, dix-huit, dix-neuf, vingt"],
+        "shadowing": ["Tu as quel âge ?", "J'ai vingt ans.", "Mon numéro, c'est le zéro six, douze, quinze, dix-huit, vingt."],
+        "roleplay": {
+          "scenario": "Tu t'inscris dans un club de sport. L'employé demande ton âge et ton numéro de téléphone.",
+          "aiRole": "un employé de club de sport",
+          "starter": "Bonjour ! Pour l'inscription, j'ai besoin de quelques informations. Quel âge avez-vous ?",
+          "goal": "Dire ton âge et ton numéro avec les nombres de 0 à 20."
+        }
+      },
+      "reading": {
+        "title": "La famille de Léa",
+        "text": "Léa a dix-sept ans. Elle habite à Lyon avec sa famille. Elle a deux frères : Hugo a quatorze ans et Tom a onze ans. Elle a aussi un chat, Minou. Il a trois ans. Dans sa classe, il y a vingt élèves.",
+        "questions": [
+          { "q": "Quel âge a Léa ?", "options": ["14", "17", "11", "20"], "answer": 1 },
+          { "q": "Combien de frères a Léa ?", "options": ["un", "deux", "trois", "aucun"], "answer": 1 },
+          { "q": "Minou est...", "options": ["un frère", "un chat", "un professeur", "une sœur"], "answer": 1 }
+        ]
+      },
+      "writing": {
+        "prompt": "Présente ta famille : combien de personnes, leurs prénoms et leur âge (utilise avoir + ans).",
+        "minWords": 30
+      }
+    }
+  ]
+}
