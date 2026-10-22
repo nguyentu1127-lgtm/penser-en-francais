@@ -1778,3 +1778,65 @@ l'éclair | nom m. | tia chớp
 l'épinard | nom m. | rau chân vịt
 l'étoile | nom f. | ngôi sao
 les cerfs-volants | nom m. pl. | những cái diều
+l'alarme | nom f. | chuông báo động
+l'ambiance | nom f. | bầu không khí
+@v apparaître | xuất hiện | apparais,apparais,apparaît,apparaissons,apparaissez,apparaissent | apparu | apparaiss | apparaîtr
+@v disparaître | biến mất | disparais,disparais,disparaît,disparaissons,disparaissez,disparaissent | disparu | disparaiss | disparaîtr
+@v interrompre | cắt ngang | interromps,interromps,interrompt,interrompons,interrompez,interrompent | interrompu | interromp | interrompr
+@v introduire | giới thiệu, đưa vào | introduis,introduis,introduit,introduisons,introduisez,introduisent | introduit | introduis | introduir
+@v percuter | đâm vào | percute,percutes,percute,percutons,percutez,percutent | percuté | percut | percuter
+l'appel | nom m. | cuộc gọi
+l'autographe | nom m. | chữ ký (người nổi tiếng)
+bizarre | adjectif | kỳ lạ
+la blessure | nom f. | vết thương
+la bougie | nom f. | cây nến
+le but | nom m. | bàn thắng; mục tiêu
+le camion | nom m. | xe tải
+la caméra | nom f. | camera
+le chanteur | nom m. | ca sĩ
+@er chasser | săn, đuổi
+le collier | nom m. | vòng cổ
+le conducteur | nom m. | tài xế
+le courage | nom m. | lòng can đảm
+la dame | nom f. | quý bà
+divers | adjectif | đa dạng (fait divers: tin vặt)
+déclencheur | adjectif | khởi phát
+désagréable | adjectif | khó chịu
+@er déserter | bỏ đi, rời bỏ
+final | adjectif | cuối cùng
+glissant | adjectif | trơn
+la grâce | nom f. | ân huệ (grâce à: nhờ)
+le héros | nom m. | người hùng
+l'incendie | nom m. | đám cháy
+initial | adjectif | ban đầu
+le klaxon | nom m. | còi xe
+la livraison | nom f. | việc giao hàng
+le lièvre | nom m. | con thỏ rừng
+la magie | nom f. | phép thuật
+magique | adjectif | thần kỳ
+@er marquer | ghi (bàn), đánh dấu
+le perroquet | nom m. | con vẹt
+le personnage | nom m. | nhân vật
+le piéton | nom m. | người đi bộ
+la police | nom f. | cảnh sát
+la princesse | nom f. | công chúa
+@er pêcher | câu cá
+le renard | nom m. | con cáo
+@er rouler | chạy (xe), lăn
+@ir réagir | phản ứng
+sain | adjectif | khoẻ mạnh, lành
+@er sauver | cứu
+le secours | nom m. | sự cứu giúp (au secours: cứu với)
+le silence | nom m. | sự im lặng
+la sorcière | nom f. | phù thuỷ
+les spaghettis | nom m. pl. | mì Ý
+le supporter | nom m. | cổ động viên
+surprenant | adjectif | đáng ngạc nhiên
+tandis que | conjonction | trong khi (đối lập)
+tandis | conjonction | (tandis que) trong khi
+la tortue | nom f. | con rùa
+@er trembler | run
+l'électricité | nom f. | điện
+l'élément | nom m. | yếu tố
+la péripétie | nom f. | tình tiết
+dormant | participe | đang ngủ (en dormant: trong khi ngủ)
