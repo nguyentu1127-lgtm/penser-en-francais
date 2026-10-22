@@ -1,0 +1,383 @@
+@week 14
+@title Les verbes pronominaux
+@level A2
+
+## 1 | Se lever, se coucher
+G.title: Les verbes pronominaux au présent
+G.rule: Un verbe pronominal se conjugue avec un pronom réfléchi : me, te, se, nous, vous, se. L'action revient sur le sujet. || Động từ phản thân được chia với một đại từ phản thân: me, te, se, nous, vous, se. Hành động quay trở lại chính chủ ngữ.
+G.note: Se lever = tự mình dậy. Je me lève (tôi thức dậy) khác Je lève la main (tôi giơ tay — hành động lên vật khác). Trước nguyên âm hoặc h câm: me → m', te → t', se → s' (je m'habille, il s'appelle). Lever: chú ý dấu è ở các ngôi có đuôi không đọc: je me lève, nous nous levons.
+G.table: Pronom | Réfléchi | Se lever | Se coucher
+G.row: je | me | me lève | me couche
+G.row: tu | te | te lèves | te couches
+G.row: il / elle | se | se lève | se couche
+G.row: nous | nous | nous levons | nous couchons
+G.row: vous | vous | vous levez | vous couchez
+G.row: ils / elles | se | se lèvent | se couchent
+G.ex: Je me lève à six heures et demie. || Tôi thức dậy lúc sáu rưỡi.
+G.ex: Les enfants se couchent à vingt et une heures. || Bọn trẻ đi ngủ lúc chín giờ tối.
+G.ex: Tu te réveilles facilement le matin ? || Buổi sáng bạn có dễ thức dậy không?
+G.ex: Nous nous reposons le dimanche. || Chúng tôi nghỉ ngơi vào Chủ Nhật.
+G.q: Nous ___ levons tôt. | se | *nous | vous | me
+G.q: Elle ___ couche tard. | me | te | *se | nous
+G.q: Je ___ habille. | me | *m' | se | je
+G.q: Vous ___ réveillez à quelle heure ? | se | nous | *vous | te
+G.q: Complétez : Tu ___ lèves à quelle heure ? = te
+V: se lever | /sə lə.ve/ | verbe | thức dậy, đứng dậy | Je me lève tôt. || Tôi dậy sớm.
+V: se réveiller | /sə ʁe.ve.je/ | verbe | thức giấc | Je me réveille à six heures. || Tôi thức giấc lúc sáu giờ.
+V: se coucher | /sə ku.ʃe/ | verbe | đi ngủ | Il se couche à minuit. || Anh ấy đi ngủ lúc nửa đêm.
+V: s'endormir | /sɑ̃.dɔʁ.miʁ/ | verbe | ngủ thiếp đi | Je m'endors vite. || Tôi ngủ thiếp đi nhanh.
+V: se reposer | /sə ʁə.po.ze/ | verbe | nghỉ ngơi | Repose-toi bien ! || Nghỉ ngơi cho khoẻ nhé!
+V: le réveil | /lə ʁe.vɛj/ | nom m. | đồng hồ báo thức | Mon réveil sonne à six heures. || Đồng hồ báo thức của tôi reo lúc sáu giờ.
+V: sonner | /sɔ.ne/ | verbe | reo, rung chuông | Le téléphone sonne. || Điện thoại reo.
+V: tard | /taʁ/ | adverbe | muộn | Je me couche tard le samedi. || Thứ Bảy tôi đi ngủ muộn.
+V: tôt | /to/ | adverbe | sớm | Elle se lève tôt pour courir. || Cô ấy dậy sớm để chạy bộ.
+V: fatigué | /fa.ti.ɡe/ | adjectif | mệt | Je suis fatigué, je vais me coucher. || Tôi mệt, tôi đi ngủ đây.
+VQ: Le contraire de « se lever » : | se réveiller | *se coucher | se reposer | sonner
+VQ: L'objet qui nous réveille le matin : | le lit | *le réveil | la lampe | l'oreiller
+VQ: « Je m'endors » veut dire… | *je commence à dormir | je me lève | je suis réveillé | je travaille
+VQ: Après le travail, on a besoin de se… | lever | *reposer | réveiller | sonner
+VQ: Mon réveil ___ à sept heures. = sonne
+D: Je me lève à six heures et demie.
+D: Les enfants se couchent tôt.
+D: Tu te réveilles facilement ?
+D: Nous nous reposons le dimanche.
+L: Journaliste | Vous vous levez à quelle heure ? || Anh thức dậy lúc mấy giờ?
+L: Boulanger | Je me lève à trois heures du matin. || Tôi dậy lúc ba giờ sáng.
+L: Journaliste | C'est très tôt ! Et vous vous couchez à quelle heure ? || Sớm thật! Còn anh đi ngủ lúc mấy giờ?
+L: Boulanger | Je me couche à vingt heures, comme les enfants ! || Tôi đi ngủ lúc tám giờ tối, giống bọn trẻ!
+L: Journaliste | Vous vous reposez l'après-midi ? || Buổi chiều anh có nghỉ ngơi không?
+L: Boulanger | Oui, je fais une sieste d'une heure. || Có, tôi ngủ trưa một tiếng.
+LQ: Le boulanger se lève à… | cinq heures | *trois heures | six heures | minuit
+LQ: Il se couche à… | minuit | *vingt heures | vingt-deux heures | dix-huit heures
+LQ: L'après-midi, il… | travaille | *fait une sieste | va à la plage | fait du sport
+RA: je me lève, tu te lèves, il se lève.
+RA: nous nous levons, vous vous levez, ils se lèvent.
+RA: je m'habille, il s'endort.
+SH: Vous vous levez à quelle heure ?
+SH: Je me lève à trois heures du matin.
+SH: Je me couche tôt, comme les enfants.
+R.title: Couche-tôt ou couche-tard ?
+R: Dans ma famille, nous ne vivons pas tous au même rythme. || Trong gia đình tôi, không phải ai cũng sống cùng nhịp độ.
+R: Mon père se lève à cinq heures pour faire du sport. || Bố tôi dậy lúc năm giờ để tập thể dục.
+R: Ma mère se réveille à sept heures, mais elle se lève à sept heures et demie. || Mẹ tôi thức giấc lúc bảy giờ nhưng dậy lúc bảy rưỡi.
+R: Mon frère est étudiant : il se couche à deux heures du matin et il se lève à midi ! || Anh trai tôi là sinh viên: anh ấy đi ngủ lúc hai giờ sáng và dậy lúc mười hai giờ trưa!
+R: Moi, je me couche à vingt-trois heures et je m'endors tout de suite. || Còn tôi đi ngủ lúc mười một giờ đêm và ngủ thiếp đi ngay.
+R: Le dimanche, toute la famille se repose. || Chủ Nhật, cả gia đình nghỉ ngơi.
+RQ: Pourquoi le père se lève à cinq heures ? | pour travailler | *pour faire du sport | pour préparer le petit-déjeuner | pour le chien
+RQ: Le frère se lève à… | sept heures | *midi | cinq heures | deux heures
+RQ: L'auteur s'endort… | difficilement | *tout de suite | à minuit | le matin
+W.prompt: Explique à quelle heure tu te réveilles, tu te lèves, tu te couches et tu t'endors en semaine et le week-end. || Giải thích bạn thức giấc, thức dậy, đi ngủ và ngủ thiếp đi lúc mấy giờ trong tuần và cuối tuần.
+W.min: 40
+W.must: je me lève ; je me couche
+W.check: Đại từ phản thân khớp với chủ ngữ (je me, tu te, nous nous)
+W.check: me → m' trước nguyên âm (je m'endors)
+W.check: Dấu è: je me lève, nous nous levons
+W.model: En semaine, mon réveil sonne à six heures. || Trong tuần, đồng hồ báo thức của tôi reo lúc sáu giờ.
+W.model: Je me réveille tout de suite, mais je me lève à six heures et quart. || Tôi thức giấc ngay nhưng sáu giờ mười lăm mới dậy.
+W.model: Le soir, je me couche à vingt-trois heures. || Buổi tối, tôi đi ngủ lúc mười một giờ đêm.
+W.model: Je lis un peu et je m'endors vers minuit. || Tôi đọc sách một chút và ngủ thiếp đi khoảng nửa đêm.
+W.model: Le week-end, je me lève tard et je me repose beaucoup. || Cuối tuần, tôi dậy muộn và nghỉ ngơi nhiều.
+
+## 2 | La routine quotidienne
+G.title: Raconter une journée type
+G.rule: Pour raconter sa routine, on utilise les verbes pronominaux et des mots pour organiser le récit : d'abord, ensuite, puis, après, enfin. || Để kể thói quen hằng ngày, ta dùng động từ phản thân và các từ sắp xếp trình tự: d'abord (trước tiên), ensuite (tiếp theo), puis (rồi), après (sau đó), enfin (cuối cùng).
+G.note: Các động từ phản thân về sinh hoạt: se réveiller, se lever, se laver, se doucher, se brosser les dents, s'habiller, se maquiller, se raser (cạo râu), se coiffer (chải tóc), se dépêcher (vội vàng), se préparer (chuẩn bị), se promener (đi dạo), se coucher. Chú ý: với bộ phận cơ thể dùng le/la/les: je me brosse LES dents (không nói "mes dents").
+G.table: Moment | Activité
+G.row: d'abord | je me réveille et je me lève
+G.row: ensuite | je me douche et je m'habille
+G.row: puis | je prends le petit-déjeuner
+G.row: après | je me dépêche pour prendre le bus
+G.row: enfin | j'arrive au bureau
+G.ex: D'abord, je me douche, ensuite je m'habille. || Trước tiên tôi tắm, sau đó tôi mặc quần áo.
+G.ex: Il se rase tous les matins. || Anh ấy cạo râu mỗi sáng.
+G.ex: Dépêche-toi, on va être en retard ! || Nhanh lên, chúng ta sẽ muộn mất!
+G.ex: Le soir, nous nous promenons au bord du lac. || Buổi tối, chúng tôi đi dạo bên hồ.
+G.q: Je me brosse ___ dents. | mes | *les | des | ses
+G.q: Pour finir une liste d'actions, on dit… | d'abord | ensuite | *enfin | puis
+G.q: Il ___ rase tous les matins. | me | *se | te | le
+G.q: Impératif de « tu te dépêches » : | Dépêche ! | *Dépêche-toi ! | Te dépêche ! | Dépêches-toi !
+G.q: Complétez : Nous nous ___ (promener) au parc. = promenons
+V: se doucher | /sə du.ʃe/ | verbe | tắm vòi sen | Je me douche le matin. || Tôi tắm vào buổi sáng.
+V: s'habiller | /sa.bi.je/ | verbe | mặc quần áo | Elle s'habille vite. || Cô ấy mặc quần áo nhanh.
+V: se brosser les dents | /sə bʁɔ.se le dɑ̃/ | verbe | đánh răng | Brosse-toi les dents ! || Đánh răng đi!
+V: se raser | /sə ʁa.ze/ | verbe | cạo râu | Mon père se rase chaque matin. || Bố tôi cạo râu mỗi sáng.
+V: se coiffer | /sə kwa.fe/ | verbe | chải tóc | Elle se coiffe devant le miroir. || Cô ấy chải tóc trước gương.
+V: se maquiller | /sə ma.ki.je/ | verbe | trang điểm | Ma sœur se maquille pour la fête. || Chị tôi trang điểm để đi tiệc.
+V: se dépêcher | /sə de.pe.ʃe/ | verbe | vội vàng | Dépêchez-vous, le train part ! || Nhanh lên, tàu sắp chạy!
+V: se promener | /sə pʁɔm.ne/ | verbe | đi dạo | Ils se promènent dans le parc. || Họ đi dạo trong công viên.
+V: la routine | /la ʁu.tin/ | nom f. | thói quen hằng ngày | Ma routine est simple. || Thói quen hằng ngày của tôi đơn giản.
+V: quotidien | /kɔ.ti.djɛ̃/ | adjectif | hằng ngày | La vie quotidienne. || Cuộc sống hằng ngày.
+VQ: Avec un rasoir, on se… | coiffe | *rase | maquille | promène
+VQ: Avec une brosse à dents, on se brosse les… | cheveux | *dents | mains | pieds
+VQ: « Dépêche-toi ! » veut dire… | repose-toi | *fais vite | couche-toi | promène-toi
+VQ: Avant de sortir, on met des vêtements, on s'… | endort | *habille | ennuie | promène
+VQ: Ce que je fais tous les jours, c'est ma ___. = routine
+D: D'abord, je me douche.
+D: Ensuite, je m'habille.
+D: Dépêche-toi, on va être en retard !
+D: Le soir, nous nous promenons.
+L: Mère | Lucas, tu es prêt ? Il est sept heures et demie ! || Lucas, con xong chưa? Bảy rưỡi rồi!
+L: Lucas | Je me lave, maman ! || Con đang tắm, mẹ ơi!
+L: Mère | Dépêche-toi ! Tu n'es pas encore habillé ? || Nhanh lên! Con chưa mặc quần áo à?
+L: Lucas | Si, je m'habille maintenant. Et je me brosse les dents. || Có, con đang mặc đây. Và con đánh răng nữa.
+L: Mère | Et ta sœur ? || Còn em gái con?
+L: Lucas | Elle se coiffe depuis vingt minutes ! || Em ấy chải tóc hai mươi phút rồi!
+LQ: Quelle heure est-il ? | sept heures | *sept heures et demie | huit heures | six heures et demie
+LQ: Que fait Lucas en premier ? | il s'habille | *il se lave | il se brosse les dents | il se coiffe
+LQ: Que fait la sœur ? | elle se maquille | elle dort | *elle se coiffe | elle mange
+RA: Je me lave, je me douche, je m'habille.
+RA: Je me brosse les dents et je me coiffe.
+RA: D'abord, ensuite, puis, après, enfin.
+SH: Dépêche-toi !
+SH: Je m'habille maintenant.
+SH: Elle se coiffe depuis vingt minutes !
+R.title: La routine d'une infirmière de nuit
+R: Hà est infirmière de nuit à l'hôpital Bach Mai. || Hà là y tá làm ca đêm ở bệnh viện Bạch Mai.
+R: Sa routine est différente de la routine des autres. || Thói quen của cô ấy khác với mọi người.
+R: Elle se lève à quinze heures, puis elle se douche et elle s'habille. || Cô ấy dậy lúc ba giờ chiều, rồi tắm và mặc quần áo.
+R: Ensuite, elle prépare le dîner pour sa famille. || Sau đó, cô ấy nấu bữa tối cho gia đình.
+R: À dix-neuf heures, elle se dépêche pour aller à l'hôpital. || Lúc bảy giờ tối, cô ấy vội vàng đến bệnh viện.
+R: Enfin, le matin, elle rentre et elle se couche quand ses enfants partent à l'école. || Cuối cùng, buổi sáng cô ấy về nhà và đi ngủ khi các con đi học.
+RQ: Hà travaille… | le matin | l'après-midi | *la nuit | le week-end seulement
+RQ: Hà se lève à… | sept heures | *quinze heures | dix-neuf heures | midi
+RQ: Quand se couche-t-elle ? | le soir | *le matin, quand ses enfants partent | à quinze heures | à minuit
+W.prompt: Raconte ta routine du matin, de ton réveil jusqu'à ton arrivée au travail ou à l'école. Utilise d'abord, ensuite, puis, après et enfin. || Kể thói quen buổi sáng của bạn, từ lúc thức dậy đến khi tới chỗ làm hoặc trường học. Dùng d'abord, ensuite, puis, après và enfin.
+W.min: 45
+W.must: d'abord ; ensuite ; enfin
+W.check: Có ít nhất năm động từ phản thân
+W.check: Bộ phận cơ thể dùng le / la / les (je me brosse les dents)
+W.check: Các từ nối được dùng đúng thứ tự
+W.model: D'abord, je me réveille à six heures et je me lève tout de suite. || Trước tiên, tôi thức giấc lúc sáu giờ và dậy ngay.
+W.model: Ensuite, je me douche et je me brosse les dents. || Tiếp theo, tôi tắm và đánh răng.
+W.model: Puis je m'habille et je me coiffe. || Rồi tôi mặc quần áo và chải tóc.
+W.model: Après, je prends un café avec ma colocataire. || Sau đó, tôi uống cà phê với bạn cùng phòng.
+W.model: Je me dépêche pour prendre le bus de sept heures. || Tôi vội vàng để bắt chuyến xe buýt bảy giờ.
+W.model: Enfin, j'arrive au bureau à huit heures moins le quart. || Cuối cùng, tôi đến văn phòng lúc tám giờ kém mười lăm.
+
+## 3 | La négation des verbes pronominaux
+G.title: Ne + pronom + verbe + pas
+G.rule: À la forme négative, le pronom réfléchi reste devant le verbe : ne se place avant le pronom et pas après le verbe. || Ở dạng phủ định, đại từ phản thân vẫn đứng trước động từ: ne đặt trước đại từ và pas đặt sau động từ.
+G.note: Cấu trúc: Chủ ngữ + ne + đại từ phản thân + động từ + pas. Je ne me lève pas. Tu ne t'habilles pas. Nous ne nous reposons jamais. Câu hỏi đảo ngữ: Te lèves-tu tôt ? Mệnh lệnh khẳng định: Lève-toi ! — mệnh lệnh phủ định: Ne te lève pas ! (đại từ trở lại trước động từ, dùng "te" chứ không dùng "toi").
+G.table: Forme | Exemple
+G.row: affirmative | Je me lève tôt.
+G.row: négative | Je ne me lève pas tôt.
+G.row: avec jamais | Il ne se repose jamais.
+G.row: impératif + | Couche-toi !
+G.row: impératif − | Ne te couche pas tard !
+G.ex: Le dimanche, je ne me lève pas avant dix heures. || Chủ Nhật, tôi không dậy trước mười giờ.
+G.ex: Il ne se rase jamais le week-end. || Anh ấy không bao giờ cạo râu vào cuối tuần.
+G.ex: Ne t'inquiète pas, tout va bien ! || Đừng lo, mọi việc ổn cả!
+G.ex: Nous ne nous ennuyons pas ici. || Chúng tôi không thấy chán ở đây.
+G.q: Négation de « Je me couche tard » : | Je me ne couche pas tard. | *Je ne me couche pas tard. | Je ne couche me pas tard. | Ne je me couche pas tard.
+G.q: Impératif négatif de « tu te lèves » : | Ne lève-toi pas ! | *Ne te lève pas ! | Ne toi lève pas ! | Te ne lève pas !
+G.q: Ils ne ___ disputent jamais. | les | *se | leur | nous
+G.q: « Ne t'inquiète pas » veut dire… | inquiète-toi | *sois tranquille | dépêche-toi | va-t'en
+G.q: Mettez à la forme négative : Tu te dépêches. = Tu ne te dépêches pas.
+V: s'inquiéter | /sɛ̃.kje.te/ | verbe | lo lắng | Ne t'inquiète pas ! || Đừng lo!
+V: s'ennuyer | /sɑ̃.nɥi.je/ | verbe | buồn chán | Je m'ennuie le dimanche. || Chủ Nhật tôi thấy chán.
+V: se disputer | /sə dis.py.te/ | verbe | cãi nhau | Mes frères se disputent souvent. || Các anh tôi hay cãi nhau.
+V: se souvenir | /sə su.və.niʁ/ | verbe | nhớ | Je ne me souviens pas de son nom. || Tôi không nhớ tên anh ấy.
+V: s'amuser | /sa.my.ze/ | verbe | vui chơi | Les enfants s'amusent au parc. || Bọn trẻ vui chơi ở công viên.
+V: se tromper | /sə tʁɔ̃.pe/ | verbe | nhầm | Je me trompe souvent de bus. || Tôi hay đi nhầm xe buýt.
+V: s'arrêter | /sa.ʁɛ.te/ | verbe | dừng lại | Le bus ne s'arrête pas ici. || Xe buýt không dừng ở đây.
+V: tranquille | /tʁɑ̃.kil/ | adjectif | yên tâm, yên tĩnh | Reste tranquille. || Hãy yên tâm.
+V: s'occuper de | /sɔ.ky.pe də/ | verbe | chăm lo | Je m'occupe de mon petit frère. || Tôi chăm sóc em trai.
+V: se fâcher | /sə fa.ʃe/ | verbe | nổi giận | Ne te fâche pas ! || Đừng giận nhé!
+VQ: Le contraire de « s'amuser » : | se tromper | *s'ennuyer | se reposer | s'arrêter
+VQ: « Ne te fâche pas » veut dire… | ne sois pas triste | *ne sois pas en colère | ne pars pas | ne dors pas
+VQ: Quand on oublie, on ne se ___ pas. | trompe | *souvient | dispute | fâche
+VQ: Prendre le mauvais chemin, c'est se… | souvenir | *tromper | amuser | reposer
+VQ: Ne t'___ pas, ce n'est pas grave ! (s'inquiéter) = inquiète
+D: Je ne me lève pas avant dix heures.
+D: Il ne se rase jamais le week-end.
+D: Ne t'inquiète pas !
+D: Nous ne nous ennuyons pas.
+L: Thu | Tu as l'air triste. Qu'est-ce qui se passe ? || Trông bạn buồn. Có chuyện gì vậy?
+L: Kevin | Je m'ennuie ici. Je ne m'amuse pas du tout. || Mình thấy chán ở đây. Mình chẳng vui chút nào.
+L: Thu | Pourquoi ? Tu ne t'entends pas avec tes colocataires ? || Sao vậy? Bạn không hợp với bạn cùng nhà à?
+L: Kevin | Si, mais ils se disputent tout le temps ! || Hợp chứ, nhưng họ cãi nhau suốt!
+L: Thu | Ne t'inquiète pas. Viens au club de français avec moi samedi ! || Đừng lo. Thứ Bảy đến câu lạc bộ tiếng Pháp với mình đi!
+L: Kevin | Bonne idée, merci ! || Ý hay, cảm ơn!
+LQ: Comment va Kevin ? | il s'amuse | *il s'ennuie | il est malade | il est content
+LQ: Quel est le problème avec les colocataires ? | ils sont absents | *ils se disputent tout le temps | ils ne parlent pas | ils font la fête
+LQ: Thu propose… | de partir | *d'aller au club de français | de déménager | de se reposer
+RA: Je ne me lève pas. Tu ne te lèves pas.
+RA: Il ne se repose jamais.
+RA: Lève-toi ! Ne te lève pas !
+SH: Qu'est-ce qui se passe ?
+SH: Je m'ennuie, je ne m'amuse pas.
+SH: Ne t'inquiète pas !
+R.title: Les conseils du docteur Sommeil
+R: Vous ne vous endormez pas facilement ? || Bạn khó ngủ à?
+R: Ne vous inquiétez pas, voici quelques conseils. || Đừng lo, đây là vài lời khuyên.
+R: Ne vous couchez pas après un repas trop lourd. || Đừng đi ngủ sau một bữa ăn quá no.
+R: Ne vous servez pas de votre téléphone dans le lit. || Đừng dùng điện thoại trên giường.
+R: Couchez-vous et levez-vous à la même heure chaque jour, même le week-end. || Hãy đi ngủ và thức dậy cùng một giờ mỗi ngày, kể cả cuối tuần.
+R: Et si vous vous réveillez la nuit, ne vous énervez pas : lisez un livre calme. || Và nếu bạn thức giấc ban đêm, đừng bực bội: hãy đọc một cuốn sách nhẹ nhàng.
+RQ: Ce texte est pour les personnes qui… | se lèvent tôt | *ne s'endorment pas facilement | font du sport | travaillent la nuit
+RQ: Le docteur conseille de ne pas utiliser… | la lumière | *le téléphone au lit | le réveil | les livres
+RQ: Si on se réveille la nuit, il faut… | regarder la télé | *lire un livre calme | manger | se lever et travailler
+W.prompt: Écris cinq conseils pour bien dormir avec des verbes pronominaux à l'impératif, à la forme affirmative et négative. || Viết năm lời khuyên để ngủ ngon với động từ phản thân ở thức mệnh lệnh, dạng khẳng định và phủ định.
+W.min: 40
+W.must: ne vous ; couchez-vous
+W.check: Mệnh lệnh khẳng định: đại từ sau động từ có gạch nối (couche-toi)
+W.check: Mệnh lệnh phủ định: ne + đại từ + động từ + pas (ne te couche pas)
+W.check: Dùng « toi » ở khẳng định, « te » ở phủ định
+W.model: Pour bien dormir, voici mes conseils. || Để ngủ ngon, đây là lời khuyên của tôi.
+W.model: Couchez-vous avant vingt-trois heures. || Hãy đi ngủ trước mười một giờ đêm.
+W.model: Ne vous énervez pas le soir. || Đừng bực bội vào buổi tối.
+W.model: Ne vous servez pas de votre ordinateur au lit. || Đừng dùng máy tính trên giường.
+W.model: Douchez-vous avec de l'eau tiède. || Hãy tắm bằng nước ấm.
+W.model: Et le matin, levez-vous dès que le réveil sonne ! || Và buổi sáng, hãy dậy ngay khi đồng hồ báo thức reo!
+
+## 4 | L'hygiène et la toilette
+G.title: Se laver + partie du corps
+G.rule: Avec les verbes pronominaux et une partie du corps, on utilise l'article défini : je me lave les mains, elle se sèche les cheveux. || Với động từ phản thân và một bộ phận cơ thể, ta dùng mạo từ xác định: je me lave les mains (tôi rửa tay), elle se sèche les cheveux (cô ấy sấy tóc).
+G.note: Phân biệt: Je me lave (tôi tắm rửa — chính mình) / Je lave la voiture (tôi rửa xe — vật khác) / Je me lave les mains (tôi rửa tay mình). Đồ dùng vệ sinh: le savon (xà phòng), le shampoing (dầu gội), la brosse à dents (bàn chải), le dentifrice (kem đánh răng), la serviette (khăn tắm), le peigne (lược), le sèche-cheveux (máy sấy tóc).
+G.table: Action | Objet
+G.row: se laver les mains | le savon
+G.row: se laver les cheveux | le shampoing
+G.row: se brosser les dents | la brosse à dents, le dentifrice
+G.row: se sécher | la serviette
+G.row: se coiffer | le peigne, la brosse
+G.ex: Lave-toi les mains avant de manger ! || Rửa tay trước khi ăn đi!
+G.ex: Je me lave les cheveux tous les deux jours. || Tôi gội đầu hai ngày một lần.
+G.ex: Elle se sèche les cheveux avec un sèche-cheveux. || Cô ấy sấy tóc bằng máy sấy.
+G.ex: Il n'y a plus de dentifrice ! || Hết kem đánh răng rồi!
+G.q: Je me lave ___ mains. | mes | *les | des | ses
+G.q: Pour se laver les cheveux, on utilise du… | savon | dentifrice | *shampoing | peigne
+G.q: Après la douche, on se sèche avec une… | brosse | *serviette | savon | peigne
+G.q: « Je lave la voiture » : le verbe est… | pronominal | *non pronominal | à l'impératif | au futur
+G.q: Complétez : Avec la brosse à dents, on met du ___. = dentifrice
+V: le savon | /lə sa.vɔ̃/ | nom m. | xà phòng | Lavez-vous les mains avec du savon. || Hãy rửa tay bằng xà phòng.
+V: le shampoing | /lə ʃɑ̃.pwɛ̃/ | nom m. | dầu gội | J'achète du shampoing. || Tôi mua dầu gội.
+V: la brosse à dents | /la bʁɔs a dɑ̃/ | nom f. | bàn chải đánh răng | Une brosse à dents neuve. || Một bàn chải đánh răng mới.
+V: le dentifrice | /lə dɑ̃.ti.fʁis/ | nom m. | kem đánh răng | Le dentifrice est dans la salle de bains. || Kem đánh răng ở trong phòng tắm.
+V: la serviette | /la sɛʁ.vjɛt/ | nom f. | khăn tắm; khăn ăn | Prends une serviette propre. || Lấy một chiếc khăn sạch.
+V: le peigne | /lə pɛɲ/ | nom m. | cái lược | Où est mon peigne ? || Lược của tôi đâu?
+V: se sécher | /sə se.ʃe/ | verbe | lau khô, sấy khô | Sèche-toi bien. || Lau khô người cho kỹ.
+V: l'hygiène | /li.ʒjɛn/ | nom f. | vệ sinh | L'hygiène est importante. || Vệ sinh rất quan trọng.
+V: propre | /pʁɔpʁ/ | adjectif | sạch | Mes mains sont propres. || Tay tôi sạch.
+V: sale | /sal/ | adjectif | bẩn | Tes chaussures sont sales. || Giày của bạn bẩn.
+VQ: Le contraire de « propre » : | sec | *sale | neuf | mouillé
+VQ: Pour se coiffer, on utilise un… | savon | *peigne | dentifrice | serviette
+VQ: On se lave les mains avec du… | dentifrice | *savon | peigne | shampoing
+VQ: Une serviette sert à… | se coiffer | *se sécher | se brosser | se raser
+VQ: Pour se brosser les dents, il faut une brosse à dents et du ___. = dentifrice
+D: Lave-toi les mains avant de manger.
+D: Je me lave les cheveux tous les deux jours.
+D: Elle se sèche les cheveux.
+D: Il n'y a plus de dentifrice.
+L: Père | Les enfants, à table ! Vous avez les mains propres ? || Các con, ra ăn cơm! Tay các con sạch chưa?
+L: Lina | Moi, oui ! Je viens de me laver les mains avec du savon. || Con rồi ạ! Con vừa rửa tay bằng xà phòng.
+L: Père | Et toi, Hugo ? || Còn con, Hugo?
+L: Hugo | Euh… oui, mes mains sont propres ! || Ơ… có ạ, tay con sạch mà!
+L: Père | Elles ne sont pas propres, tu viens de jouer avec le chien ! Va te laver les mains ! || Không sạch đâu, con vừa chơi với con chó! Đi rửa tay đi!
+L: Hugo | D'accord, j'y vais… || Vâng, con đi đây…
+LQ: Qui vient de se laver les mains ? | Hugo | *Lina | les deux | personne
+LQ: Pourquoi les mains d'Hugo sont sales ? | il a mangé | *il a joué avec le chien | il a fait du jardinage | il est tombé
+LQ: Le père dit à Hugo de… | se coucher | *aller se laver les mains | manger | jouer
+RA: Je me lave les mains avec du savon.
+RA: Je me brosse les dents avec du dentifrice.
+RA: Je me sèche avec une serviette.
+SH: Lave-toi les mains avant de manger !
+SH: Mes mains sont propres !
+SH: Il n'y a plus de dentifrice.
+R.title: Les gestes d'hygiène
+R: Pour rester en bonne santé, quelques gestes simples sont importants. || Để giữ sức khoẻ tốt, một vài thói quen đơn giản rất quan trọng.
+R: Il faut se laver les mains souvent, surtout avant de manger. || Cần rửa tay thường xuyên, nhất là trước khi ăn.
+R: Il faut se brosser les dents deux fois par jour, pendant deux minutes. || Cần đánh răng hai lần mỗi ngày, mỗi lần hai phút.
+R: Il est conseillé de changer de brosse à dents tous les trois mois. || Nên thay bàn chải đánh răng ba tháng một lần.
+R: Quand on tousse, on met la main ou le coude devant la bouche. || Khi ho, ta che miệng bằng tay hoặc khuỷu tay.
+R: Ces gestes protègent notre santé et la santé des autres. || Những thói quen này bảo vệ sức khoẻ của chúng ta và của người khác.
+RQ: Combien de fois par jour faut-il se brosser les dents ? | une fois | *deux fois | trois fois | quatre fois
+RQ: On change de brosse à dents… | chaque mois | *tous les trois mois | chaque année | jamais
+RQ: Quand on tousse, on met devant la bouche… | une serviette | *la main ou le coude | un mouchoir seulement | rien
+W.prompt: Explique ta routine dans la salle de bains le matin et le soir : ce que tu fais et avec quels objets. || Giải thích thói quen của bạn trong phòng tắm buổi sáng và buổi tối: bạn làm gì và với những đồ dùng nào.
+W.min: 40
+W.must: je me lave ; je me brosse les dents
+W.check: Bộ phận cơ thể dùng le / la / les sau động từ phản thân
+W.check: Dùng du / de la cho xà phòng, dầu gội (du savon, du shampoing)
+W.check: Phân biệt se laver (bản thân) và laver (vật khác)
+W.model: Le matin, je me lave le visage avec de l'eau froide. || Buổi sáng, tôi rửa mặt bằng nước lạnh.
+W.model: Ensuite, je me brosse les dents pendant deux minutes. || Tiếp theo, tôi đánh răng trong hai phút.
+W.model: Je me coiffe avec un peigne. || Tôi chải tóc bằng lược.
+W.model: Le soir, je prends une douche et je me lave les cheveux avec du shampoing. || Buổi tối, tôi tắm và gội đầu bằng dầu gội.
+W.model: Je me sèche les cheveux et je me brosse encore les dents. || Tôi sấy tóc và đánh răng lần nữa.
+W.model: Enfin, je lave ma serviette le dimanche. || Cuối cùng, tôi giặt khăn vào Chủ Nhật.
+
+## 5 | Raconter sa journée
+G.title: Organiser un récit au présent
+G.rule: Pour raconter une journée de manière vivante, on combine les verbes pronominaux et non pronominaux, les heures et les connecteurs de temps. || Để kể về một ngày sinh động, ta kết hợp động từ phản thân và không phản thân, giờ giấc và các từ nối thời gian.
+G.note: Một bài kể tốt có: mốc thời gian (à sept heures, vers midi, l'après-midi), từ nối (d'abord, ensuite, puis, après, pendant ce temps, enfin), đa dạng động từ, và một chút cảm xúc (heureusement: may mắn thay, malheureusement: không may, finalement: rốt cuộc). "Vers" = khoảng (giờ): vers midi.
+G.table: Connecteur | Sens
+G.row: vers | khoảng (giờ)
+G.row: pendant ce temps | trong khi đó
+G.row: heureusement | may mắn thay
+G.row: malheureusement | không may
+G.row: finalement | rốt cuộc
+G.ex: Je me lève vers sept heures. || Tôi dậy khoảng bảy giờ.
+G.ex: Pendant ce temps, mon mari prépare le petit-déjeuner. || Trong khi đó, chồng tôi chuẩn bị bữa sáng.
+G.ex: Malheureusement, le bus est en retard. || Không may, xe buýt đến muộn.
+G.ex: Heureusement, mon patron est gentil ! || May mắn thay, sếp tôi dễ tính!
+G.q: « Vers midi » veut dire… | exactement à midi | *à peu près à midi | après minuit | avant le matin
+G.q: Pour une bonne nouvelle, on dit… | malheureusement | *heureusement | pendant ce temps | vers
+G.q: « Pendant ce temps » exprime… | la cause | *la simultanéité | la conséquence | l'opposition
+G.q: Le contraire de « heureusement » : | finalement | *malheureusement | ensuite | enfin
+G.q: Complétez : Je me couche ___ minuit (à peu près). = vers
+V: heureusement | /œ.ʁøz.mɑ̃/ | adverbe | may mắn thay | Heureusement, il ne pleut pas. || May mắn thay, trời không mưa.
+V: malheureusement | /ma.lœ.ʁøz.mɑ̃/ | adverbe | không may | Malheureusement, le musée est fermé. || Không may, bảo tàng đóng cửa.
+V: finalement | /fi.nal.mɑ̃/ | adverbe | rốt cuộc | Finalement, je reste à la maison. || Rốt cuộc, tôi ở nhà.
+V: vers | /vɛʁ/ | préposition | khoảng (giờ) | J'arrive vers dix heures. || Tôi đến khoảng mười giờ.
+V: pendant | /pɑ̃.dɑ̃/ | préposition | trong suốt | Je lis pendant le trajet. || Tôi đọc sách trong khi đi đường.
+V: le trajet | /lə tʁa.ʒɛ/ | nom m. | quãng đường | Le trajet dure une heure. || Quãng đường mất một tiếng.
+V: le patron | /lə pa.tʁɔ̃/ | nom m. | ông chủ, sếp | Mon patron est sympa. || Sếp tôi dễ mến.
+V: la pause | /la poz/ | nom f. | giờ nghỉ | On fait une pause café ? || Mình nghỉ uống cà phê nhé?
+V: rentrer | /ʁɑ̃.tʁe/ | verbe | về nhà | Je rentre vers dix-huit heures. || Tôi về nhà khoảng sáu giờ chiều.
+V: épuisé | /e.pɥi.ze/ | adjectif | kiệt sức | Le soir, je suis épuisé. || Buổi tối tôi kiệt sức.
+VQ: Très, très fatigué = | reposé | *épuisé | heureux | malade
+VQ: Le chemin entre la maison et le travail : | la pause | *le trajet | le patron | la routine
+VQ: Un moment de repos au travail : | le trajet | *la pause | le réveil | la nuit
+VQ: La personne qui dirige l'entreprise : | le collègue | *le patron | le client | le voisin
+VQ: Il pleut, ___ j'ai mon parapluie ! (bonne nouvelle) = heureusement
+D: Je me lève vers sept heures.
+D: Malheureusement, le bus est en retard.
+D: Heureusement, mon patron est gentil.
+D: Le soir, je suis épuisé.
+L: Amie | Alors, ta journée au nouveau travail, c'est comment ? || Thế ngày làm việc ở chỗ mới thế nào?
+L: Quang | C'est intense ! Je me lève à six heures et le trajet dure une heure. || Căng lắm! Mình dậy lúc sáu giờ và đi đường mất một tiếng.
+L: Amie | Une heure ! Et tu fais quoi pendant le trajet ? || Một tiếng! Thế trong lúc đi đường bạn làm gì?
+L: Quang | J'écoute des podcasts en français. Heureusement, ça passe vite ! || Mình nghe podcast tiếng Pháp. May là thời gian trôi nhanh!
+L: Amie | Et le soir ? || Còn buổi tối?
+L: Quang | Je rentre vers dix-neuf heures, épuisé. Je me douche, je mange et je me couche ! || Mình về khoảng bảy giờ tối, kiệt sức. Mình tắm, ăn rồi đi ngủ!
+LQ: Quang se lève à… | sept heures | *six heures | cinq heures | huit heures
+LQ: Pendant le trajet, Quang… | dort | lit | *écoute des podcasts en français | téléphone
+LQ: Quang rentre vers… | dix-sept heures | dix-huit heures | *dix-neuf heures | vingt et une heures
+RA: Je me lève vers six heures.
+RA: Heureusement, malheureusement, finalement.
+RA: Je rentre épuisé, je me douche et je me couche.
+SH: Ta journée, c'est comment ?
+SH: Heureusement, ça passe vite !
+SH: Je rentre vers dix-neuf heures, épuisé.
+R.title: Une journée pas comme les autres
+R: Ce matin, Clara se réveille en retard : son réveil ne sonne pas ! || Sáng nay Clara thức dậy muộn: đồng hồ báo thức không reo!
+R: Elle se lève, elle se douche en deux minutes et elle s'habille très vite. || Cô ấy dậy, tắm trong hai phút và mặc quần áo thật nhanh.
+R: Malheureusement, il pleut et elle oublie son parapluie à la maison. || Không may, trời mưa và cô ấy để quên ô ở nhà.
+R: Elle arrive au bureau toute mouillée, vers neuf heures et demie. || Cô ấy đến văn phòng ướt sũng, khoảng chín rưỡi.
+R: Heureusement, sa collègue lui prête une serviette et un pull. || May mắn thay, đồng nghiệp cho cô ấy mượn một chiếc khăn và một chiếc áo len.
+R: Finalement, Clara rit : quelle journée ! || Rốt cuộc, Clara bật cười: một ngày gì thế không biết!
+RQ: Pourquoi Clara se réveille en retard ? | elle est malade | *son réveil ne sonne pas | elle se couche tard | elle oublie
+RQ: Qu'est-ce que Clara oublie ? | son sac | *son parapluie | son téléphone | ses clés
+RQ: Qui aide Clara ? | son patron | *sa collègue | son mari | personne
+W.prompt: Raconte une journée difficile ou drôle, du matin au soir. Utilise des verbes pronominaux, des heures et heureusement, malheureusement, finalement. || Kể về một ngày khó khăn hoặc hài hước, từ sáng đến tối. Dùng động từ phản thân, giờ giấc và heureusement, malheureusement, finalement.
+W.min: 55
+W.must: heureusement ; malheureusement ; finalement
+W.check: Có ít nhất bốn động từ phản thân
+W.check: Có mốc thời gian (à… heures, vers…, le soir)
+W.check: Câu chuyện có trình tự rõ ràng (d'abord, ensuite, puis…)
+W.model: Ce lundi, je me réveille à huit heures : je suis en retard ! || Thứ Hai này, tôi thức dậy lúc tám giờ: tôi muộn rồi!
+W.model: Je me lave et je m'habille en cinq minutes. || Tôi rửa mặt và mặc quần áo trong năm phút.
+W.model: Malheureusement, ma moto ne démarre pas. || Không may, xe máy của tôi không nổ máy.
+W.model: Heureusement, mon voisin m'emmène au bureau. || May mắn thay, hàng xóm chở tôi đến văn phòng.
+W.model: J'arrive vers neuf heures et ma réunion commence à neuf heures et quart. || Tôi đến khoảng chín giờ và cuộc họp bắt đầu lúc chín giờ mười lăm.
+W.model: Finalement, la journée se passe bien et le soir, je me couche tôt ! || Rốt cuộc, ngày trôi qua tốt đẹp và buổi tối tôi đi ngủ sớm!

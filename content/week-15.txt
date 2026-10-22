@@ -1,0 +1,384 @@
+@week 15
+@title Le passé composé avec avoir
+@level A2
+
+## 1 | La formation du passé composé
+G.title: Avoir + participe passé
+G.rule: Le passé composé exprime une action terminée dans le passé. Il se forme avec l'auxiliaire avoir au présent et le participe passé du verbe. || Thì quá khứ kép diễn tả một hành động đã hoàn thành trong quá khứ. Nó được tạo bằng trợ động từ avoir ở hiện tại và phân từ quá khứ của động từ.
+G.note: Cấu trúc: avoir (chia hiện tại) + phân từ quá khứ. J'ai mangé (tôi đã ăn), tu as parlé, il a fini. Phần lớn động từ dùng avoir làm trợ động từ (tuần sau học các động từ dùng être). Tiếng Việt thêm "đã", tiếng Pháp đổi cấu trúc động từ. Đây là thì quá khứ quan trọng nhất trong giao tiếp.
+G.table: Pronom | Avoir | Participe
+G.row: j' | ai | mangé
+G.row: tu | as | regardé
+G.row: il / elle | a | fini
+G.row: nous | avons | choisi
+G.row: vous | avez | travaillé
+G.row: ils / elles | ont | dîné
+G.ex: Hier, j'ai mangé une pizza. || Hôm qua tôi đã ăn pizza.
+G.ex: Nous avons regardé un film ce week-end. || Cuối tuần này chúng tôi đã xem một bộ phim.
+G.ex: Elle a fini son travail à vingt heures. || Cô ấy đã làm xong việc lúc tám giờ tối.
+G.ex: Ils ont téléphoné à leurs parents. || Họ đã gọi điện cho bố mẹ.
+G.q: Hier, nous ___ dansé. | sommes | *avons | ont | avez
+G.q: Le passé composé = … + participe passé | être toujours | *avoir (ou être) au présent | aller | avoir au futur
+G.q: Tu ___ travaillé hier ? | a | *as | ai | avez
+G.q: Le passé composé exprime une action… | future | *terminée dans le passé | habituelle au présent | en cours
+G.q: Mettez au passé composé : Il mange. = Il a mangé.
+V: hier | /jɛʁ/ | adverbe | hôm qua | Hier, j'ai travaillé tard. || Hôm qua tôi làm việc muộn.
+V: le passé | /lə pa.se/ | nom m. | quá khứ | On parle du passé. || Chúng ta nói về quá khứ.
+V: l'auxiliaire | /lɔɡ.zi.ljɛʁ/ | nom m. | trợ động từ | Avoir est un auxiliaire. || Avoir là một trợ động từ.
+V: le participe | /lə paʁ.ti.sip/ | nom m. | phân từ | « Mangé » est un participe passé. || « Mangé » là một phân từ quá khứ.
+V: dîner | /di.ne/ | verbe | ăn tối | Nous avons dîné au restaurant. || Chúng tôi đã ăn tối ở nhà hàng.
+V: déjeuner | /de.ʒœ.ne/ | verbe | ăn trưa | Tu as déjeuné ? || Bạn ăn trưa chưa?
+V: terminé | /tɛʁ.mi.ne/ | adjectif | đã kết thúc | Le cours est terminé. || Tiết học đã kết thúc.
+V: déjà | /de.ʒa/ | adverbe | đã, rồi | J'ai déjà mangé. || Tôi đã ăn rồi.
+V: ce matin | /sə ma.tɛ̃/ | expression | sáng nay | Ce matin, j'ai pris le bus. || Sáng nay tôi đã đi xe buýt.
+V: tout à l'heure | /tu.t‿a lœʁ/ | expression | lúc nãy; lát nữa | Je l'ai vu tout à l'heure. || Tôi đã thấy anh ấy lúc nãy.
+VQ: Le jour avant aujourd'hui : | demain | *hier | après-demain | ce soir
+VQ: « J'ai déjà mangé » veut dire… | je vais manger | *j'ai fini de manger | je mange maintenant | je n'ai pas mangé
+VQ: Le repas du midi : on ___. | dîne | *déjeune | petit-déjeune | soupe
+VQ: Dans « j'ai mangé », « ai » est… | le participe | *l'auxiliaire | le sujet | l'infinitif
+VQ: Le contraire de « le futur » : le ___. = passé
+D: Hier, j'ai mangé une pizza.
+D: Nous avons regardé un film.
+D: Elle a fini son travail.
+D: Tu as déjeuné ?
+L: Collègue | Tu as passé un bon week-end ? || Cuối tuần của bạn vui chứ?
+L: Hoa | Oui, très bon ! Samedi, j'ai travaillé dans le jardin. || Có, rất vui! Thứ Bảy mình làm vườn.
+L: Collègue | Et dimanche ? || Còn Chủ Nhật?
+L: Hoa | Dimanche, nous avons déjeuné chez mes beaux-parents. || Chủ Nhật, bọn mình ăn trưa ở nhà bố mẹ chồng.
+L: Collègue | Vous avez mangé quoi ? || Mọi người ăn gì vậy?
+L: Hoa | Ma belle-mère a préparé un bœuf bourguignon. C'était délicieux ! || Mẹ chồng mình làm món bò hầm vang đỏ. Ngon tuyệt!
+LQ: Samedi, Hoa a… | cuisiné | *travaillé dans le jardin | dormi | regardé un film
+LQ: Dimanche, Hoa a déjeuné… | au restaurant | *chez ses beaux-parents | chez elle | au bureau
+LQ: Qui a préparé le repas ? | Hoa | son mari | *sa belle-mère | le collègue
+RA: j'ai mangé, tu as parlé, il a fini.
+RA: nous avons choisi, vous avez travaillé, ils ont dîné.
+RA: Hier, j'ai regardé un film.
+SH: Tu as passé un bon week-end ?
+SH: Samedi, j'ai travaillé dans le jardin.
+SH: Vous avez mangé quoi ?
+R.title: Le journal de Minh
+R: Lundi, j'ai commencé mon nouveau travail à Paris. || Thứ Hai, tôi đã bắt đầu công việc mới ở Paris.
+R: J'ai rencontré mes collègues et j'ai visité les bureaux. || Tôi đã gặp các đồng nghiệp và tham quan văn phòng.
+R: À midi, nous avons déjeuné dans un petit restaurant italien. || Buổi trưa, chúng tôi đã ăn trưa ở một nhà hàng Ý nhỏ.
+R: L'après-midi, j'ai travaillé sur un projet important. || Buổi chiều, tôi đã làm việc với một dự án quan trọng.
+R: Le soir, j'ai téléphoné à mes parents au Viêt Nam. || Buổi tối, tôi đã gọi điện cho bố mẹ ở Việt Nam.
+R: Ils ont posé beaucoup de questions ! || Họ đã hỏi rất nhiều câu!
+RQ: Quand Minh a-t-il commencé son travail ? | dimanche | *lundi | mardi | hier
+RQ: Où ont-ils déjeuné ? | au bureau | *dans un restaurant italien | chez Minh | à la cantine
+RQ: Le soir, Minh a… | dîné avec ses collègues | *téléphoné à ses parents | regardé la télé | travaillé
+W.prompt: Raconte ce que tu as fait hier : le matin, l'après-midi et le soir. Utilise au moins six verbes au passé composé avec avoir. || Kể những gì bạn đã làm hôm qua: buổi sáng, buổi chiều và buổi tối. Dùng ít nhất sáu động từ ở quá khứ kép với avoir.
+W.min: 45
+W.must: hier ; j'ai
+W.check: avoir chia đúng theo chủ ngữ (j'ai, nous avons, ils ont)
+W.check: Phân từ quá khứ của động từ -er kết thúc bằng -é
+W.check: Có mốc thời gian (hier, le matin, à midi, le soir)
+W.model: Hier, j'ai travaillé toute la journée. || Hôm qua tôi đã làm việc cả ngày.
+W.model: Le matin, j'ai préparé une présentation pour mon patron. || Buổi sáng, tôi đã chuẩn bị một bài thuyết trình cho sếp.
+W.model: À midi, j'ai mangé avec une collègue. || Buổi trưa, tôi đã ăn với một đồng nghiệp.
+W.model: L'après-midi, nous avons rencontré des clients. || Buổi chiều, chúng tôi đã gặp khách hàng.
+W.model: Le soir, j'ai regardé un match de football avec mon frère. || Buổi tối, tôi đã xem một trận bóng đá với anh trai.
+W.model: Il a crié très fort quand son équipe a gagné ! || Anh ấy đã hét rất to khi đội của anh ấy thắng!
+
+## 2 | Les participes passés réguliers
+G.title: -é, -i, -u
+G.rule: Les participes passés réguliers se forment ainsi : les verbes en -er font -é, les verbes comme finir font -i, et beaucoup de verbes en -re font -u. || Phân từ quá khứ có quy tắc được tạo như sau: động từ -er thành -é, động từ như finir thành -i, và nhiều động từ -re thành -u.
+G.note: parler → parlé, manger → mangé (tất cả -er, kể cả aller → allé). finir → fini, choisir → choisi, dormir → dormi, partir → parti. attendre → attendu, vendre → vendu, répondre → répondu, perdre → perdu, entendre → entendu. Phát âm: parlé /paʁ.le/ giống hệt parler /paʁ.le/ — khi nghe, dựa vào trợ động từ (j'ai parlé) để nhận ra quá khứ.
+G.table: Infinitif | Participe | Exemple
+G.row: -er : parler | parlé | J'ai parlé.
+G.row: -ir : finir | fini | Tu as fini.
+G.row: -ir : dormir | dormi | Il a dormi.
+G.row: -re : attendre | attendu | Nous avons attendu.
+G.row: -re : vendre | vendu | Ils ont vendu leur maison.
+G.ex: J'ai attendu le bus pendant vingt minutes. || Tôi đã chờ xe buýt hai mươi phút.
+G.ex: Tu as choisi ton cadeau ? || Bạn đã chọn quà chưa?
+G.ex: Ils ont vendu leur vieille voiture. || Họ đã bán chiếc xe cũ.
+G.ex: Elle a bien dormi cette nuit. || Đêm qua cô ấy ngủ ngon.
+G.q: Participe passé de « choisir » : | choisé | *choisi | choisu | choisit
+G.q: Participe passé de « répondre » : | répondé | répondi | *répondu | répondre
+G.q: J'ai ___ mes clés ! (perdre) | perdé | *perdu | perdi | perdre
+G.q: Nous avons ___ la question. (entendre) | entendé | entendi | *entendu | entend
+G.q: Participe passé de « finir » : ___ = fini
+V: attendre | /a.tɑ̃dʁ/ | verbe | chờ đợi | J'ai attendu longtemps. || Tôi đã chờ lâu.
+V: perdre | /pɛʁdʁ/ | verbe | đánh mất | Il a perdu son portefeuille. || Anh ấy đã làm mất ví.
+V: répondre | /ʁe.pɔ̃dʁ/ | verbe | trả lời | Elle a répondu à mon message. || Cô ấy đã trả lời tin nhắn của tôi.
+V: entendre | /ɑ̃.tɑ̃dʁ/ | verbe | nghe thấy | Tu as entendu ce bruit ? || Bạn có nghe thấy tiếng động đó không?
+V: vendre | /vɑ̃dʁ/ | verbe | bán | J'ai vendu mon vélo. || Tôi đã bán xe đạp.
+V: oublier | /u.bli.je/ | verbe | quên | J'ai oublié mon parapluie. || Tôi đã quên ô.
+V: dormir | /dɔʁ.miʁ/ | verbe | ngủ | Tu as bien dormi ? || Bạn ngủ ngon không?
+V: longtemps | /lɔ̃.tɑ̃/ | adverbe | lâu | Nous avons parlé longtemps. || Chúng tôi đã nói chuyện lâu.
+V: retrouver | /ʁə.tʁu.ve/ | verbe | tìm lại được | J'ai retrouvé mes clés ! || Tôi đã tìm lại được chìa khoá!
+V: le message | /lə me.saʒ/ | nom m. | tin nhắn | J'ai reçu ton message. || Tôi đã nhận được tin nhắn của bạn.
+VQ: Le contraire de « perdre » (un objet) : | vendre | *retrouver | attendre | oublier
+VQ: Le contraire de « acheter » : | perdre | *vendre | attendre | répondre
+VQ: « Tu as bien dormi ? » se demande… | le soir | *le matin | à midi | jamais
+VQ: Le contraire de « se souvenir » : | répondre | *oublier | entendre | attendre
+VQ: Participe passé de « vendre » : ___ = vendu
+D: J'ai attendu le bus.
+D: Tu as choisi ton cadeau ?
+D: Ils ont vendu leur voiture.
+D: Elle a bien dormi.
+L: Femme | Tu as l'air énervé. Qu'est-ce qui s'est passé ? || Trông anh bực bội. Có chuyện gì vậy?
+L: Mari | J'ai perdu mon téléphone dans le métro ! || Anh làm mất điện thoại trên tàu điện ngầm!
+L: Femme | Oh non ! Tu as appelé ton numéro ? || Ôi không! Anh đã gọi vào số của mình chưa?
+L: Mari | Oui, j'ai appelé trois fois. Personne n'a répondu. || Rồi, anh gọi ba lần. Không ai trả lời.
+L: Femme | Attends… J'ai entendu une sonnerie dans ton sac ! || Chờ đã… Em nghe thấy tiếng chuông trong túi anh!
+L: Mari | Ah ! Il est là ! Je n'ai pas bien cherché… || A! Nó đây rồi! Anh tìm không kỹ…
+LQ: Le mari pense qu'il a perdu son téléphone… | au bureau | *dans le métro | au restaurant | à la maison
+LQ: Combien de fois a-t-il appelé ? | une fois | deux fois | *trois fois | jamais
+LQ: Où était le téléphone ? | dans le métro | *dans son sac | dans sa poche | au bureau
+RA: parler, parlé ; finir, fini ; attendre, attendu.
+RA: J'ai perdu, j'ai attendu, j'ai répondu.
+RA: Tu as choisi ? Tu as bien dormi ?
+SH: J'ai perdu mon téléphone !
+SH: Personne n'a répondu.
+SH: J'ai entendu une sonnerie.
+R.title: Une soirée d'attente
+R: Vendredi soir, Julie a attendu Marc devant le cinéma. || Tối thứ Sáu, Julie đã chờ Marc trước rạp chiếu phim.
+R: Elle a attendu dix minutes, puis vingt minutes. || Cô ấy đã chờ mười phút, rồi hai mươi phút.
+R: Elle a téléphoné, mais Marc n'a pas répondu. || Cô ấy đã gọi điện nhưng Marc không trả lời.
+R: Finalement, elle a choisi un film et elle a regardé le film seule. || Cuối cùng, cô ấy đã chọn một bộ phim và xem một mình.
+R: Plus tard, Marc a envoyé un message : il a oublié le rendez-vous ! || Sau đó, Marc đã gửi tin nhắn: anh ấy đã quên cuộc hẹn!
+R: Julie n'a pas répondu à son message. || Julie đã không trả lời tin nhắn của anh ấy.
+RQ: Julie a attendu Marc… | devant le restaurant | *devant le cinéma | chez elle | au café
+RQ: Pourquoi Marc n'est pas venu ? | il était malade | *il a oublié le rendez-vous | il a perdu son téléphone | il a travaillé
+RQ: Qu'est-ce que Julie a fait finalement ? | elle est rentrée | *elle a regardé un film seule | elle a dîné | elle a appelé une amie
+W.prompt: Raconte une petite mésaventure : tu as perdu, oublié ou attendu quelque chose. Utilise des participes en -é, -i et -u. || Kể một chuyện không may nho nhỏ: bạn đã làm mất, quên hoặc chờ đợi điều gì đó. Dùng các phân từ đuôi -é, -i và -u.
+W.min: 45
+W.must: j'ai perdu ; j'ai attendu
+W.check: Phân từ: -er → -é, -ir → -i, -re → -u
+W.check: Phủ định: ne + avoir + pas + phân từ (je n'ai pas répondu)
+W.check: Có kết thúc câu chuyện (finalement…)
+W.model: La semaine dernière, j'ai perdu mon portefeuille au marché. || Tuần trước, tôi đã làm mất ví ở chợ.
+W.model: J'ai cherché partout, mais je n'ai pas trouvé. || Tôi đã tìm khắp nơi nhưng không thấy.
+W.model: J'ai attendu une heure au commissariat. || Tôi đã chờ một tiếng ở đồn cảnh sát.
+W.model: Le soir, une vendeuse du marché a téléphoné. || Buổi tối, một chị bán hàng ở chợ đã gọi điện.
+W.model: Elle a trouvé mon portefeuille sous sa table ! || Chị ấy đã tìm thấy ví của tôi dưới bàn của chị!
+W.model: Finalement, j'ai choisi un beau cadeau pour la remercier. || Cuối cùng, tôi đã chọn một món quà đẹp để cảm ơn chị ấy.
+
+## 3 | Les participes passés irréguliers
+G.title: Être → été, avoir → eu, faire → fait…
+G.rule: Beaucoup de verbes fréquents ont un participe passé irrégulier qu'il faut apprendre par cœur : été, eu, fait, pris, mis, dit, écrit, vu, lu, bu, pu, voulu, dû. || Nhiều động từ thông dụng có phân từ quá khứ bất quy tắc cần học thuộc: été, eu, fait, pris, mis, dit, écrit, vu, lu, bu, pu, voulu, dû.
+G.note: Nhóm theo đuôi để dễ nhớ — đuôi -u: avoir → eu, voir → vu, lire → lu, boire → bu, pouvoir → pu, vouloir → voulu, devoir → dû, recevoir → reçu, connaître → connu. Đuôi -is: prendre → pris, mettre → mis, apprendre → appris, comprendre → compris. Đuôi -it: faire → fait, dire → dit, écrire → écrit. Đặc biệt: être → été, ouvrir → ouvert, offrir → offert.
+G.table: Infinitif | Participe | Infinitif | Participe
+G.row: être | été | prendre | pris
+G.row: avoir | eu | mettre | mis
+G.row: faire | fait | voir | vu
+G.row: dire | dit | lire | lu
+G.row: écrire | écrit | boire | bu
+G.row: ouvrir | ouvert | recevoir | reçu
+G.ex: J'ai eu de la chance. || Tôi đã gặp may.
+G.ex: Nous avons fait une longue promenade. || Chúng tôi đã đi dạo một chặng dài.
+G.ex: Tu as vu le dernier film de ce réalisateur ? || Bạn đã xem bộ phim mới nhất của đạo diễn này chưa?
+G.ex: Elle a pris le train de sept heures. || Cô ấy đã đi chuyến tàu bảy giờ.
+G.q: Participe passé de « faire » : | faisé | *fait | fai | faité
+G.q: Participe passé de « voir » : | voyé | voi | *vu | voit
+G.q: J'ai ___ un livre passionnant. (lire) | lisé | *lu | li | lit
+G.q: Ils ont ___ le métro. (prendre) | prendu | prendé | *pris | prit
+G.q: Participe passé de « être » : ___ = été
+V: voir | /vwaʁ/ | verbe | xem, thấy | J'ai vu ce film deux fois. || Tôi đã xem bộ phim này hai lần.
+V: lire | /liʁ/ | verbe | đọc | Tu as lu ce roman ? || Bạn đã đọc cuốn tiểu thuyết này chưa?
+V: écrire | /e.kʁiʁ/ | verbe | viết | Il a écrit une lettre à sa mère. || Anh ấy đã viết một lá thư cho mẹ.
+V: mettre | /mɛtʁ/ | verbe | đặt; mặc | J'ai mis mon manteau. || Tôi đã mặc áo khoác.
+V: recevoir | /ʁə.sə.vwaʁ/ | verbe | nhận | J'ai reçu un cadeau. || Tôi đã nhận được một món quà.
+V: le roman | /lə ʁɔ.mɑ̃/ | nom m. | tiểu thuyết | J'ai lu un roman policier. || Tôi đã đọc một cuốn tiểu thuyết trinh thám.
+V: le réalisateur | /lə ʁe.a.li.za.tœʁ/ | nom m. | đạo diễn | Ce réalisateur est célèbre. || Đạo diễn này nổi tiếng.
+V: passionnant | /pa.sjɔ.nɑ̃/ | adjectif | hấp dẫn, say mê | Un livre passionnant. || Một cuốn sách hấp dẫn.
+V: la chance | /la ʃɑ̃s/ | nom f. | may mắn | Nous avons eu de la chance. || Chúng tôi đã gặp may.
+V: la lettre | /la lɛtʁ/ | nom f. | lá thư | J'ai écrit une longue lettre. || Tôi đã viết một lá thư dài.
+VQ: Un livre long avec une histoire inventée est un… | journal | *roman | dictionnaire | cahier
+VQ: La personne qui fait un film est le… | acteur seulement | *réalisateur | spectateur | vendeur
+VQ: « Passionnant » veut dire… | ennuyeux | *très intéressant | difficile | long
+VQ: Le contraire de « envoyer » : | écrire | *recevoir | lire | mettre
+VQ: Participe passé de « recevoir » : ___ = reçu
+D: J'ai eu de la chance.
+D: Nous avons fait une promenade.
+D: Tu as vu ce film ?
+D: Elle a pris le train de sept heures.
+L: Lan | Qu'est-ce que tu as fait pendant les vacances ? || Kỳ nghỉ bạn đã làm gì?
+L: Hugo | J'ai lu trois romans et j'ai vu beaucoup de films. || Mình đã đọc ba cuốn tiểu thuyết và xem rất nhiều phim.
+L: Lan | Tu n'as pas voyagé ? || Bạn không đi du lịch à?
+L: Hugo | Non, j'ai eu un accident de vélo. J'ai dû rester à la maison. || Không, mình bị tai nạn xe đạp. Mình phải ở nhà.
+L: Lan | Oh, je suis désolée ! Tu as eu mal ? || Ôi, mình rất tiếc! Bạn có bị đau không?
+L: Hugo | Un peu, mais j'ai pris des médicaments et maintenant ça va. || Hơi đau, nhưng mình đã uống thuốc và giờ ổn rồi.
+LQ: Combien de romans Hugo a-t-il lus ? | un | deux | *trois | aucun
+LQ: Pourquoi Hugo n'a pas voyagé ? | il n'a pas eu d'argent | *il a eu un accident de vélo | il a travaillé | il a eu peur
+LQ: Comment va Hugo maintenant ? | mal | *ça va | il est à l'hôpital | on ne sait pas
+RA: être, été ; avoir, eu ; faire, fait.
+RA: prendre, pris ; mettre, mis ; voir, vu.
+RA: lire, lu ; boire, bu ; écrire, écrit.
+SH: Qu'est-ce que tu as fait pendant les vacances ?
+SH: J'ai lu trois romans.
+SH: J'ai eu un accident de vélo.
+R.title: Le mail d'Élodie
+R: Chère Thu, || Thu thân mến,
+R: Merci pour ta carte postale, je l'ai reçue hier ! || Cảm ơn tấm bưu thiếp của bạn, mình đã nhận được hôm qua!
+R: Ce week-end, j'ai fait une fête pour mes trente ans. || Cuối tuần này, mình đã tổ chức tiệc mừng ba mươi tuổi.
+R: Mes amis ont préparé un gâteau énorme et nous avons bu du champagne. || Bạn bè mình đã làm một chiếc bánh khổng lồ và bọn mình đã uống sâm panh.
+R: J'ai eu beaucoup de cadeaux, et mon frère m'a écrit une chanson ! || Mình đã nhận được rất nhiều quà, và anh trai mình đã viết tặng mình một bài hát!
+R: Tu m'as beaucoup manqué. Bisous, Élodie. || Mình nhớ bạn lắm. Hôn bạn, Élodie.
+RQ: Qu'est-ce que Thu a envoyé ? | un cadeau | *une carte postale | un gâteau | une chanson
+RQ: Pourquoi Élodie a fait une fête ? | pour Noël | *pour ses trente ans | pour son mariage | pour son nouveau travail
+RQ: Qu'est-ce que le frère d'Élodie a fait ? | un gâteau | *une chanson | une photo | rien
+W.prompt: Écris un e-mail à un ami pour raconter un événement récent (une fête, un voyage, un concert). Utilise au moins cinq participes irréguliers. || Viết e-mail cho một người bạn để kể về một sự kiện gần đây (bữa tiệc, chuyến đi, buổi hoà nhạc). Dùng ít nhất năm phân từ bất quy tắc.
+W.min: 50
+W.must: j'ai fait ; j'ai vu
+W.check: Phân từ bất quy tắc viết đúng (fait, pris, mis, vu, lu, bu, eu, été)
+W.check: Trợ động từ avoir chia đúng
+W.check: Có lời chào đầu và lời kết thư
+W.model: Salut Paul ! || Chào Paul!
+W.model: Le week-end dernier, j'ai fait un voyage à Da Lat avec ma sœur. || Cuối tuần trước, mình đã đi Đà Lạt với chị gái.
+W.model: Nous avons pris le bus de nuit et nous avons vu le lever du soleil sur les montagnes. || Bọn mình đã đi xe đêm và đã ngắm bình minh trên núi.
+W.model: Il a fait froid, alors j'ai mis deux pulls ! || Trời lạnh nên mình đã mặc hai áo len!
+W.model: Nous avons bu du café et nous avons eu beaucoup de chance avec la météo. || Bọn mình đã uống cà phê và rất may mắn với thời tiết.
+W.model: J'ai pris cent photos ! À bientôt, Mai. || Mình đã chụp một trăm tấm ảnh! Hẹn sớm gặp lại, Mai.
+
+## 4 | Hier, la semaine dernière
+G.title: Les marqueurs du passé
+G.rule: Pour situer une action dans le passé, on utilise hier, avant-hier, la semaine dernière, le mois dernier, il y a trois jours ou en 2020. || Để đặt một hành động trong quá khứ, ta dùng hier (hôm qua), avant-hier (hôm kia), la semaine dernière (tuần trước), le mois dernier (tháng trước), il y a trois jours (cách đây ba ngày) hoặc en 2020.
+G.note: "Il y a + thời lượng" = cách đây (quá khứ): Je suis arrivé il y a deux ans. Đối xứng với "dans + thời lượng" (tương lai). "Dernier" đứng sau danh từ chỉ thời gian: la semaine dernière, l'année dernière. Phủ định quá khứ kép: ne + avoir + pas + phân từ: Je n'ai pas mangé. Với "jamais": Je n'ai jamais vu la neige (tôi chưa bao giờ thấy tuyết).
+G.table: Passé | Présent | Futur
+G.row: hier | aujourd'hui | demain
+G.row: avant-hier | aujourd'hui | après-demain
+G.row: la semaine dernière | cette semaine | la semaine prochaine
+G.row: il y a trois jours | maintenant | dans trois jours
+G.ex: Avant-hier, j'ai rencontré un vieil ami. || Hôm kia tôi đã gặp một người bạn cũ.
+G.ex: L'année dernière, nous avons visité l'Italie. || Năm ngoái chúng tôi đã đến thăm nước Ý.
+G.ex: J'ai commencé le français il y a six mois. || Tôi đã bắt đầu học tiếng Pháp cách đây sáu tháng.
+G.ex: Je n'ai jamais mangé d'escargots. || Tôi chưa bao giờ ăn ốc sên.
+G.q: « Il y a deux ans » parle… | du futur | *du passé | du présent | d'une habitude
+G.q: Le jour avant hier : | avant-demain | *avant-hier | après-hier | la veille de demain
+G.q: L'année ___, j'ai déménagé. | prochaine | *dernière | passée prochaine | dans
+G.q: Négation : Je ___ ai ___ vu ce film. | ne… pas (je ne ai pas) | *n'… pas | pas… ne | ne… plus de
+G.q: Complétez : J'ai fini mes études ___ trois ans. (dans le passé) = il y a
+V: avant-hier | /a.vɑ̃.tjɛʁ/ | adverbe | hôm kia | Avant-hier, il a neigé. || Hôm kia trời có tuyết.
+V: dernier | /dɛʁ.nje/ | adjectif | trước, vừa qua | Le mois dernier, j'ai changé de travail. || Tháng trước tôi đã đổi việc.
+V: il y a | /il.j‿a/ | expression | cách đây | Il y a dix ans, j'habitais à Huê. || Mười năm trước tôi sống ở Huế.
+V: autrefois | /o.tʁə.fwa/ | adverbe | ngày xưa | Autrefois, ce quartier était calme. || Ngày xưa khu phố này yên tĩnh.
+V: récemment | /ʁe.sa.mɑ̃/ | adverbe | gần đây | J'ai récemment lu ce livre. || Gần đây tôi đã đọc cuốn sách này.
+V: une fois | /yn fwa/ | expression | một lần | J'ai vu la mer une fois. || Tôi đã thấy biển một lần.
+V: jamais | /ʒa.mɛ/ | adverbe | chưa bao giờ | Je n'ai jamais pris l'avion. || Tôi chưa bao giờ đi máy bay.
+V: l'escargot | /lɛs.kaʁ.ɡo/ | nom m. | ốc sên | Les escargots sont une spécialité française. || Ốc sên là một đặc sản của Pháp.
+V: l'expérience | /lɛks.pe.ʁjɑ̃s/ | nom f. | trải nghiệm, kinh nghiệm | C'est une belle expérience. || Đó là một trải nghiệm đẹp.
+V: la veille | /la vɛj/ | nom f. | ngày hôm trước | La veille de Noël, on mange en famille. || Đêm trước Giáng sinh, người ta ăn cùng gia đình.
+VQ: « Je n'ai jamais pris l'avion » veut dire… | j'ai pris l'avion une fois | *zéro fois | souvent | hier
+VQ: « Récemment » veut dire… | il y a longtemps | *il y a peu de temps | demain | jamais
+VQ: Le jour avant un événement, c'est la… | *veille | lendemain | semaine | fois
+VQ: Le contraire de « la semaine prochaine » : | cette semaine | *la semaine dernière | dans une semaine | la semaine
+VQ: J'ai commencé à travailler ___ deux ans. = il y a
+D: Avant-hier, j'ai rencontré un vieil ami.
+D: L'année dernière, nous avons visité l'Italie.
+D: J'ai commencé le français il y a six mois.
+D: Je n'ai jamais mangé d'escargots.
+L: Recruteuse | Vous avez de l'expérience dans la vente ? || Anh có kinh nghiệm bán hàng không?
+L: Dung | Oui. Il y a trois ans, j'ai travaillé dans un magasin de vêtements. || Có. Cách đây ba năm, tôi đã làm việc ở một cửa hàng quần áo.
+L: Recruteuse | Pendant combien de temps ? || Trong bao lâu?
+L: Dung | Pendant deux ans. Ensuite, l'année dernière, j'ai fait un stage en France. || Trong hai năm. Sau đó, năm ngoái, tôi đã thực tập ở Pháp.
+L: Recruteuse | Vous avez déjà travaillé avec des clients étrangers ? || Anh đã từng làm việc với khách nước ngoài chưa?
+L: Dung | Oui, souvent. Mais je n'ai jamais travaillé dans une grande entreprise. || Có, thường xuyên. Nhưng tôi chưa bao giờ làm ở một công ty lớn.
+LQ: Il y a trois ans, Dung a travaillé… | dans une banque | *dans un magasin de vêtements | dans un restaurant | en France
+LQ: L'année dernière, Dung a fait… | un voyage | *un stage en France | des études | une formation en ligne
+LQ: Dung n'a jamais travaillé… | avec des clients étrangers | *dans une grande entreprise | dans un magasin | en France
+RA: hier, avant-hier, la semaine dernière.
+RA: le mois dernier, l'année dernière, il y a trois ans.
+RA: Je n'ai jamais pris l'avion.
+SH: Il y a trois ans, j'ai travaillé dans un magasin.
+SH: L'année dernière, j'ai fait un stage.
+SH: Je n'ai jamais travaillé dans une grande entreprise.
+R.title: Une vie de voyages
+R: Mon grand-père a eu une vie extraordinaire. || Ông tôi đã có một cuộc đời phi thường.
+R: Il y a cinquante ans, il a quitté son village pour devenir marin. || Cách đây năm mươi năm, ông rời làng để trở thành thuỷ thủ.
+R: Il a visité plus de quarante pays et il a appris trois langues. || Ông đã đến hơn bốn mươi nước và học ba thứ tiếng.
+R: Il a rencontré ma grand-mère à Marseille, il y a quarante-cinq ans. || Ông gặp bà tôi ở Marseille cách đây bốn mươi lăm năm.
+R: L'année dernière, il a écrit un livre sur ses voyages. || Năm ngoái, ông đã viết một cuốn sách về những chuyến đi của mình.
+R: Mais il n'a jamais pris l'avion : il a toujours voyagé en bateau ! || Nhưng ông chưa bao giờ đi máy bay: ông luôn đi bằng tàu thuỷ!
+RQ: Quel était le métier du grand-père ? | pilote | *marin | écrivain | professeur
+RQ: Où a-t-il rencontré la grand-mère ? | au village | *à Marseille | sur un bateau | à Paris
+RQ: Le grand-père n'a jamais… | visité l'Europe | écrit de livre | *pris l'avion | appris de langue
+W.prompt: Raconte cinq moments importants de ta vie avec des marqueurs de temps : il y a…, en…, l'année dernière… Ajoute une chose que tu n'as jamais faite. || Kể năm khoảnh khắc quan trọng trong cuộc đời bạn với các mốc thời gian: il y a…, en…, l'année dernière… Thêm một điều bạn chưa bao giờ làm.
+W.min: 50
+W.must: il y a ; l'année dernière ; jamais
+W.check: « il y a + thời lượng » = cách đây
+W.check: Phủ định: je n'ai jamais + phân từ
+W.check: Các sự kiện theo thứ tự thời gian
+W.model: Je suis né à Can Tho, il y a vingt-six ans. || Tôi sinh ra ở Cần Thơ cách đây hai mươi sáu năm.
+W.model: En deux mille dix-sept, j'ai commencé mes études à Hô Chi Minh-Ville. || Năm hai nghìn mười bảy, tôi bắt đầu học đại học ở Thành phố Hồ Chí Minh.
+W.model: Il y a trois ans, j'ai trouvé mon premier travail. || Cách đây ba năm, tôi tìm được công việc đầu tiên.
+W.model: L'année dernière, j'ai rencontré ma copine. || Năm ngoái, tôi gặp bạn gái.
+W.model: Le mois dernier, nous avons fait notre premier voyage ensemble. || Tháng trước, chúng tôi đã có chuyến du lịch đầu tiên cùng nhau.
+W.model: Mais je n'ai jamais vu la neige ! || Nhưng tôi chưa bao giờ thấy tuyết!
+
+## 5 | Raconter un souvenir
+G.title: Raconter un souvenir au passé composé
+G.rule: Pour raconter un souvenir, on présente le moment et le lieu, on enchaîne les actions au passé composé et on termine par une impression. || Để kể một kỷ niệm, ta giới thiệu thời gian và địa điểm, nối tiếp các hành động ở quá khứ kép và kết thúc bằng một cảm nhận.
+G.note: Cấu trúc một câu chuyện ngắn: (1) Bối cảnh: Un jour…, Il y a deux ans…, Pendant les vacances… (2) Chuỗi hành động: d'abord, ensuite, puis, tout à coup (bỗng nhiên), finalement. (3) Kết thúc và cảm nhận: C'était génial ! J'ai adoré ! Je n'ai jamais oublié ce jour. "C'était" là dạng quá khứ của "c'est" — sẽ học kỹ ở tuần 18, tạm thời dùng như một cụm cố định.
+G.table: Étape | Expression
+G.row: commencer | Un jour… / Il y a deux ans…
+G.row: enchaîner | D'abord… Ensuite… Puis…
+G.row: surprise | Tout à coup…
+G.row: finir | Finalement… / À la fin…
+G.row: impression | C'était génial ! / J'ai adoré !
+G.ex: Un jour, j'ai trouvé un petit chien dans la rue. || Một ngày nọ, tôi đã tìm thấy một chú chó nhỏ trên đường.
+G.ex: Tout à coup, il a commencé à pleuvoir. || Bỗng nhiên, trời bắt đầu mưa.
+G.ex: À la fin, nous avons beaucoup ri. || Cuối cùng, chúng tôi đã cười rất nhiều.
+G.ex: C'était le plus beau jour de ma vie ! || Đó là ngày đẹp nhất trong đời tôi!
+G.q: « Tout à coup » exprime… | une habitude | *une surprise | une fin | une cause
+G.q: Pour commencer une histoire, on dit… | finalement | *un jour | tout à coup | c'était génial
+G.q: « C'était génial » donne… | une action | *une impression | une date | un lieu
+G.q: Nous avons beaucoup ___. (rire) | rié | *ri | rit | riu
+G.q: Complétez : ___ à coup, la lumière s'est éteinte. = Tout / tout
+V: le souvenir | /lə su.v(ə).niʁ/ | nom m. | kỷ niệm | C'est un bon souvenir. || Đó là một kỷ niệm đẹp.
+V: tout à coup | /tu.t‿a ku/ | expression | bỗng nhiên | Tout à coup, j'ai entendu un cri. || Bỗng nhiên, tôi nghe thấy một tiếng hét.
+V: rire | /ʁiʁ/ | verbe | cười | Nous avons beaucoup ri. || Chúng tôi đã cười rất nhiều.
+V: pleurer | /plœ.ʁe/ | verbe | khóc | Elle a pleuré de joie. || Cô ấy đã khóc vì vui sướng.
+V: génial | /ʒe.njal/ | adjectif | tuyệt vời | C'était génial ! || Thật tuyệt vời!
+V: inoubliable | /i.nu.bli.jabl/ | adjectif | khó quên | Un voyage inoubliable. || Một chuyến đi khó quên.
+V: l'enfance | /lɑ̃.fɑ̃s/ | nom f. | thời thơ ấu | J'ai de bons souvenirs d'enfance. || Tôi có những kỷ niệm tuổi thơ đẹp.
+V: la surprise | /la syʁ.pʁiz/ | nom f. | điều bất ngờ | Quelle surprise ! || Thật bất ngờ!
+V: se passer | /sə pa.se/ | verbe | xảy ra | Qu'est-ce qui s'est passé ? || Chuyện gì đã xảy ra?
+V: la première fois | /la pʁə.mjɛʁ fwa/ | expression | lần đầu tiên | C'est la première fois que je viens ici. || Đây là lần đầu tôi đến đây.
+VQ: Un moment qu'on n'oublie jamais est… | ennuyeux | *inoubliable | récent | facile
+VQ: Le contraire de « rire » : | sourire | *pleurer | parler | chanter
+VQ: La période où on est enfant : | la vieillesse | *l'enfance | la jeunesse adulte | la surprise
+VQ: « Qu'est-ce qui s'est passé ? » demande… | l'heure | *ce qui est arrivé | le prix | le lieu
+VQ: Un très bon souvenir, c'était ___ ! (tuyệt vời) = génial
+D: Un jour, j'ai trouvé un petit chien.
+D: Tout à coup, il a commencé à pleuvoir.
+D: Nous avons beaucoup ri.
+D: C'était un voyage inoubliable.
+L: Grand-mère | Tu veux que je te raconte un souvenir ? || Cháu có muốn bà kể một kỷ niệm không?
+L: Petit-fils | Oui ! Raconte ta première rencontre avec grand-père ! || Có ạ! Bà kể lần đầu gặp ông đi!
+L: Grand-mère | Il y a cinquante ans, j'ai pris le bus pour aller au marché. || Cách đây năm mươi năm, bà đi xe buýt ra chợ.
+L: Grand-mère | Tout à coup, le bus a freiné et j'ai fait tomber mes oranges ! || Bỗng nhiên, xe buýt phanh gấp và bà làm rơi hết cam!
+L: Grand-mère | Un jeune homme a ramassé les oranges avec moi… c'était ton grand-père ! || Một chàng trai đã nhặt cam cùng bà… đó là ông cháu!
+L: Petit-fils | C'est trop mignon ! || Dễ thương quá!
+LQ: La grand-mère est allée… | à l'école | *au marché | au travail | chez une amie
+LQ: Qu'est-ce qui est tombé ? | son sac | *ses oranges | ses lunettes | le grand-père
+LQ: Qui a aidé la grand-mère ? | le chauffeur | *le futur grand-père | une amie | personne
+RA: Un jour, il y a cinquante ans…
+RA: Tout à coup, le bus a freiné.
+RA: C'était inoubliable !
+SH: Raconte-moi un souvenir !
+SH: Tout à coup, j'ai fait tomber mes oranges.
+SH: C'était ton grand-père !
+R.title: Mon premier jour d'école
+R: Je me souviens bien de mon premier jour d'école. || Tôi nhớ rõ ngày đầu tiên đi học của mình.
+R: J'ai eu six ans en août et en septembre, ma mère m'a accompagné à l'école. || Tôi tròn sáu tuổi vào tháng Tám và tháng Chín, mẹ đưa tôi đến trường.
+R: J'ai pleuré devant la porte, parce que je n'ai pas voulu quitter ma mère. || Tôi đã khóc trước cổng vì không muốn rời mẹ.
+R: Puis une petite fille m'a donné la main et elle m'a montré la classe. || Rồi một bé gái nắm tay tôi và dẫn tôi vào lớp.
+R: Nous avons dessiné, nous avons chanté et nous avons beaucoup ri. || Chúng tôi đã vẽ, đã hát và đã cười rất nhiều.
+R: Cette petite fille s'appelle Mai : c'est toujours ma meilleure amie ! || Bé gái đó tên là Mai: đến giờ vẫn là bạn thân nhất của tôi!
+RQ: Qui a accompagné l'auteur à l'école ? | son père | *sa mère | sa grand-mère | Mai
+RQ: Pourquoi l'auteur a pleuré ? | il a eu mal | *il n'a pas voulu quitter sa mère | il a perdu son sac | il a eu faim
+RQ: Qui est Mai aujourd'hui ? | sa sœur | sa professeure | *sa meilleure amie | sa voisine
+W.prompt: Raconte un souvenir important : où, quand, avec qui, ce qui s'est passé et ce que tu as ressenti. || Kể một kỷ niệm quan trọng: ở đâu, khi nào, với ai, chuyện gì đã xảy ra và bạn đã cảm thấy thế nào.
+W.min: 60
+W.must: un jour ; tout à coup ; c'était
+W.check: Câu chuyện có bối cảnh, diễn biến, kết thúc
+W.check: Các hành động ở quá khứ kép với avoir
+W.check: Có ít nhất một từ cảm xúc (génial, inoubliable, triste…)
+W.model: Il y a deux ans, j'ai fait mon premier voyage seul, à Phu Quoc. || Cách đây hai năm, tôi có chuyến đi một mình đầu tiên, đến Phú Quốc.
+W.model: Le premier jour, j'ai loué une moto et j'ai visité l'île. || Ngày đầu tiên, tôi thuê một chiếc xe máy và đi tham quan đảo.
+W.model: Tout à coup, il a commencé à pleuvoir très fort. || Bỗng nhiên, trời bắt đầu mưa rất to.
+W.model: Une famille m'a invité dans sa maison et nous avons mangé ensemble. || Một gia đình đã mời tôi vào nhà và chúng tôi cùng ăn cơm.
+W.model: Ils m'ont appris à cuisiner le poisson à la vietnamienne. || Họ đã dạy tôi nấu cá theo kiểu Việt Nam.
+W.model: C'était une soirée inoubliable ! || Đó là một buổi tối khó quên!

@@ -95,7 +95,7 @@ def main():
             for v in day['vocab']:
                 key = v['fr'].lower()
                 bare = key
-                for art in ('le ', 'la ', 'les ', "l'", 'un ', 'une ', 'des ', 'du '):
+                for art in ('le ', 'la ', 'les ', "l'", 'un ', 'une ', 'des ', 'du ', 'se ', "s'"):
                     if key.startswith(art):
                         bare = key[len(art):]
                 d.setdefault(bare, {'l': v['fr'], 'p': v['pos'], 'v': v['vi']})

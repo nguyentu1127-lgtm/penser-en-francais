@@ -1573,3 +1573,103 @@ la conductrice | nom f. | người lái xe (nữ)
 le recruteur | nom m. | nhà tuyển dụng
 l'Europe | nom f. | châu Âu
 cuisinière | nom f. | đầu bếp (nữ); bếp nấu
+adieu | interjection | vĩnh biệt
+@er annoncer | thông báo
+l'architecte | nom m./f. | kiến trúc sư
+l'atelier | nom m. | xưởng; lớp thực hành
+bio | adjectif | hữu cơ
+certain | adjectif | chắc chắn; một số
+curieux | adjectif | tò mò
+la cérémonie | nom f. | buổi lễ
+direct | adjectif | trực tiếp (en direct: trực tiếp)
+le départ | nom m. | sự khởi hành, chia tay
+enceinte | adjectif | có thai
+l'enfance | nom f. | thời thơ ấu
+fatigant | adjectif | mệt mỏi, gây mệt
+@er installer | lắp đặt, dựng; (s'installer) ổn định chỗ ở
+nombreux | adjectif | đông, nhiều
+le pilote | nom m. | phi công
+le refus | nom m. | sự từ chối
+le repos | nom m. | sự nghỉ ngơi
+le colocataire | nom m. | bạn ở chung nhà
+propre | adjectif | riêng; sạch
+couramment | adverbe | trôi chảy
+@er garder | trông, giữ
+l'exposition | nom f. | triển lãm
+le cabinet | nom m. | phòng khám, văn phòng
+complet | adjectif | kín chỗ, đầy đủ
+même | adjectif | chính (moi-même: chính tôi)
+moi-même | pronom | chính tôi
+toi-même | pronom | chính bạn
+la cause | nom f. | nguyên nhân
+le chemin | nom m. | con đường
+@er coiffer | chải tóc (se coiffer)
+@er combiner | kết hợp
+le connecteur | nom m. | từ nối
+la conséquence | nom f. | hậu quả
+le coude | nom m. | khuỷu tay
+difficilement | adverbe | một cách khó khăn
+facilement | adverbe | dễ dàng
+@er diriger | điều hành, hướng
+@v endormir | (s'endormir) ngủ thiếp đi | endors,endors,endort,endormons,endormez,endorment | endormi | endorm | endormir
+@er fâcher | (se fâcher) nổi giận
+le geste | nom m. | cử chỉ, thao tác
+intense | adjectif | căng thẳng, dữ dội
+le jardinage | nom m. | việc làm vườn
+la manière | nom f. | cách thức
+le mouchoir | nom m. | khăn tay
+@er mouiller | làm ướt (mouillé: ướt)
+l'oreiller | nom m. | cái gối
+le podcast | nom m. | podcast
+pronominal | adjectif | phản thân (động từ)
+@v protéger | bảo vệ | protège,protèges,protège,protégeons,protégez,protègent | protégé | protége | protéger
+@er raser | cạo (se raser: cạo râu)
+le rasoir | nom m. | dao cạo
+le rythme | nom m. | nhịp điệu
+le récit | nom m. | câu chuyện kể
+la sieste | nom f. | giấc ngủ trưa
+simple | adjectif | đơn giản
+la simultanéité | nom f. | sự đồng thời
+@v sécher | làm khô (se sécher: lau khô) | sèche,sèches,sèche,séchons,séchez,sèchent | séché | séch | sécher
+@er tromper | lừa; (se tromper) nhầm
+vivant | adjectif | sống động
+la toilette | nom f. | việc tắm rửa vệ sinh
+le dentifrice | nom m. | kem đánh răng
+@er démarrer | khởi động, nổ máy
+@v emmener | dẫn đi, chở đi | emmène,emmènes,emmène,emmenons,emmenez,emmènent | emmené | emmen | emmèner
+tiède | adjectif | ấm (nước)
+le sèche-cheveux | nom m. | máy sấy tóc
+l'accident | nom m. | tai nạn
+@er accompagner | đi cùng, đưa đi
+ainsi | adverbe | như vậy, như thế
+le bourguignon | nom m. | món bò hầm vang đỏ (bœuf bourguignon)
+la cantine | nom f. | căng tin
+le champagne | nom m. | rượu sâm panh
+composé | adjectif | ghép, kép
+le coup | nom m. | cú, cái (tout à coup: bỗng nhiên)
+le cri | nom m. | tiếng hét
+@er enchaîner | nối tiếp
+la formation | nom f. | sự hình thành; khoá đào tạo
+@er former | tạo thành, hình thành
+@er freiner | phanh
+fréquent | adjectif | thường xuyên, phổ biến
+habituel | adjectif | thường lệ, quen thuộc
+l'impression | nom f. | ấn tượng, cảm nhận
+@er inventer | phát minh, bịa ra
+la jeunesse | nom f. | tuổi trẻ
+le lendemain | nom m. | ngày hôm sau
+le marin | nom m. | thuỷ thủ
+le marqueur | nom m. | dấu hiệu, từ đánh dấu
+la mésaventure | nom f. | chuyện không may
+la poche | nom f. | túi (áo, quần)
+postal | adjectif | thuộc bưu điện (carte postale: bưu thiếp)
+@er ramasser | nhặt
+@v ressentir | cảm thấy | ressens,ressens,ressent,ressentons,ressentez,ressentent | ressenti | ressent | ressentir
+@er terminer | kết thúc
+la période | nom f. | thời kỳ, giai đoạn
+la sonnerie | nom f. | tiếng chuông
+le spectateur | nom m. | khán giả
+la vieillesse | nom f. | tuổi già
+l'écrivain | nom m. | nhà văn
+énorme | adjectif | khổng lồ
+l'événement | nom m. | sự kiện

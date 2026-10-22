@@ -1,0 +1,383 @@
+@week 13
+@title Le futur proche
+@level A2
+
+## 1 | Aller + infinitif
+G.title: Le futur proche
+G.rule: Le futur proche se forme avec le verbe aller au présent suivi d'un verbe à l'infinitif. On l'utilise pour une action future, souvent proche ou déjà décidée. || Thì tương lai gần được tạo bằng động từ aller ở hiện tại cộng với một động từ nguyên thể. Ta dùng nó cho một hành động trong tương lai, thường là sắp xảy ra hoặc đã quyết định.
+G.note: Cấu trúc: aller (chia) + động từ nguyên thể. Je vais manger (tôi sắp ăn / tôi sẽ ăn). Phủ định: ne… pas bao quanh "aller": Je ne vais pas sortir. Với động từ phản thân, đại từ đứng trước nguyên thể: Je vais me lever tôt. Đây là cách nói tương lai phổ biến nhất trong giao tiếp hằng ngày.
+G.table: Pronom | Aller | Infinitif
+G.row: je | vais | partir
+G.row: tu | vas | manger
+G.row: il / elle | va | pleuvoir
+G.row: nous | allons | voyager
+G.row: vous | allez | voir
+G.row: ils / elles | vont | arriver
+G.ex: Ce soir, je vais regarder un film. || Tối nay tôi sẽ xem một bộ phim.
+G.ex: Attention, il va pleuvoir ! || Cẩn thận, trời sắp mưa!
+G.ex: Nous allons déménager en septembre. || Chúng tôi sẽ chuyển nhà vào tháng Chín.
+G.ex: Je ne vais pas travailler demain. || Ngày mai tôi sẽ không đi làm.
+G.q: Demain, nous ___ visiter le musée. | allez | *allons | vont | va
+G.q: Le futur proche = aller + … | participe passé | *infinitif | présent | impératif
+G.q: Négation : Je ___ vais ___ venir. | pas… ne | *ne… pas | ne… plus de | non… pas
+G.q: Il y a des nuages noirs : il va… | neiger demain | *pleuvoir | faire beau | chaud
+G.q: Mettez au futur proche : Tu manges. = Tu vas manger.
+V: bientôt | /bjɛ̃.to/ | adverbe | sắp, chẳng bao lâu | Le train va bientôt partir. || Tàu sắp khởi hành.
+V: déménager | /de.me.na.ʒe/ | verbe | chuyển nhà | Ils vont déménager à Lyon. || Họ sẽ chuyển đến Lyon.
+V: le nuage | /lə nɥaʒ/ | nom m. | đám mây | Il y a beaucoup de nuages. || Có nhiều mây.
+V: pleuvoir | /plø.vwaʁ/ | verbe | mưa | Il va pleuvoir cet après-midi. || Chiều nay trời sẽ mưa.
+V: commencer | /kɔ.mɑ̃.se/ | verbe | bắt đầu | Le cours va commencer. || Tiết học sắp bắt đầu.
+V: rentrer | /ʁɑ̃.tʁe/ | verbe | về nhà | Je vais rentrer tard. || Tôi sẽ về muộn.
+V: se marier | /sə ma.ʁje/ | verbe | kết hôn | Ils vont se marier en juin. || Họ sẽ cưới vào tháng Sáu.
+V: le bébé | /lə be.be/ | nom m. | em bé | Ma sœur va avoir un bébé. || Chị tôi sắp sinh em bé.
+V: dans | /dɑ̃/ | préposition | trong (thời gian tới) | Je pars dans dix minutes. || Mười phút nữa tôi đi.
+V: tout à l'heure | /tu.t‿a lœʁ/ | expression | lát nữa | À tout à l'heure ! || Lát nữa gặp lại!
+VQ: « Il va pleuvoir » parle… | du passé | du présent | *du futur | d'une habitude
+VQ: Changer de maison, c'est… | rentrer | *déménager | voyager | commencer
+VQ: « À tout à l'heure » veut dire… | à demain | *à plus tard aujourd'hui | à l'année prochaine | adieu
+VQ: Ma sœur est enceinte, elle va avoir un… | chat | *bébé | mari | nuage
+VQ: Je pars ___ cinq minutes. (dans le futur) = dans
+D: Ce soir, je vais regarder un film.
+D: Il va pleuvoir.
+D: Nous allons déménager en septembre.
+D: Je ne vais pas travailler demain.
+L: Camille | Qu'est-ce que tu vas faire pendant les vacances ? || Kỳ nghỉ này bạn sẽ làm gì?
+L: Tuan | Je vais rentrer au Viêt Nam pour voir ma famille. || Mình sẽ về Việt Nam thăm gia đình.
+L: Camille | Super ! Tu vas rester combien de temps ? || Tuyệt! Bạn sẽ ở lại bao lâu?
+L: Tuan | Trois semaines. Ma sœur va se marier ! || Ba tuần. Chị gái mình sắp cưới!
+L: Camille | Félicitations ! Tu vas faire des photos ? || Chúc mừng! Bạn sẽ chụp ảnh chứ?
+L: Tuan | Bien sûr, je vais t'envoyer les photos. || Tất nhiên, mình sẽ gửi ảnh cho bạn.
+LQ: Pendant les vacances, Tuan va… | travailler | *rentrer au Viêt Nam | aller à Paris | rester chez lui
+LQ: Combien de temps va-t-il rester ? | une semaine | deux semaines | *trois semaines | un mois
+LQ: Qu'est-ce qui va se passer ? | sa mère va déménager | *sa sœur va se marier | il va changer de travail | il va avoir un bébé
+RA: je vais partir, tu vas manger, il va pleuvoir.
+RA: nous allons voyager, vous allez voir, ils vont arriver.
+RA: Je ne vais pas sortir ce soir.
+SH: Qu'est-ce que tu vas faire ?
+SH: Je vais rentrer au Viêt Nam.
+SH: Ma sœur va se marier !
+R.title: Une nouvelle vie
+R: Dans un mois, la vie de Pauline va changer. || Một tháng nữa, cuộc sống của Pauline sẽ thay đổi.
+R: Elle va quitter Paris pour travailler à Montréal. || Cô ấy sẽ rời Paris để làm việc ở Montréal.
+R: Son entreprise va payer le billet d'avion et le premier mois de loyer. || Công ty sẽ trả vé máy bay và tháng tiền nhà đầu tiên.
+R: Elle va habiter dans un petit appartement près du centre. || Cô ấy sẽ sống trong một căn hộ nhỏ gần trung tâm.
+R: Elle ne va pas emporter beaucoup de vêtements, mais elle va acheter un gros manteau ! || Cô ấy sẽ không mang nhiều quần áo, nhưng sẽ mua một chiếc áo khoác dày!
+R: Ses amis vont organiser une fête de départ samedi. || Bạn bè cô ấy sẽ tổ chức một bữa tiệc chia tay vào thứ Bảy.
+RQ: Pauline va travailler à… | Paris | *Montréal | Lyon | Québec
+RQ: Qui va payer le billet d'avion ? | Pauline | ses parents | *son entreprise | ses amis
+RQ: Qu'est-ce que Pauline va acheter ? | des vêtements d'été | *un gros manteau | un appartement | une voiture
+W.prompt: Écris tes projets pour les cinq prochaines années avec le futur proche : travail, études, voyages, famille. || Viết dự định của bạn trong năm năm tới bằng thì tương lai gần: công việc, học tập, du lịch, gia đình.
+W.min: 45
+W.must: je vais ; nous allons
+W.check: aller chia đúng + động từ nguyên thể
+W.check: Phủ định: je ne vais pas + nguyên thể
+W.check: Động từ phản thân: je vais me + nguyên thể
+W.model: Dans cinq ans, ma vie va beaucoup changer. || Trong năm năm tới, cuộc sống của tôi sẽ thay đổi nhiều.
+W.model: D'abord, je vais finir mes études l'année prochaine. || Trước tiên, tôi sẽ học xong vào năm sau.
+W.model: Ensuite, je vais travailler dans une entreprise française. || Sau đó, tôi sẽ làm việc ở một công ty Pháp.
+W.model: Je vais aussi passer le DELF B1. || Tôi cũng sẽ thi DELF B1.
+W.model: Mon copain et moi, nous allons voyager en Europe. || Bạn trai tôi và tôi sẽ đi du lịch châu Âu.
+W.model: Mais je ne vais pas quitter le Viêt Nam pour toujours ! || Nhưng tôi sẽ không rời Việt Nam mãi mãi!
+
+## 2 | Mes projets du week-end
+G.title: Parler de ses projets
+G.rule: Pour parler de projets, on utilise le futur proche, mais aussi avoir envie de, penser + infinitif, ou espérer + infinitif. || Để nói về dự định, ta dùng tương lai gần, và cả avoir envie de (muốn), penser + nguyên thể (định), hoặc espérer + nguyên thể (hy vọng).
+G.note: Mức độ chắc chắn: Je vais partir (chắc chắn) > Je pense partir (dự định) > J'espère partir (hy vọng) > J'ai envie de partir (muốn, chưa chắc). Hỏi: Qu'est-ce que tu fais ce week-end ? (dùng hiện tại để nói tương lai gần cũng rất phổ biến), Tu as des projets ? Từ chối nhẹ nhàng: Je ne sais pas encore (Mình chưa biết).
+G.table: Expression | Exemple
+G.row: aller + infinitif | Je vais faire du vélo.
+G.row: avoir envie de + infinitif | J'ai envie d'aller à la mer.
+G.row: penser + infinitif | Je pense rester à la maison.
+G.row: espérer + infinitif | J'espère voir mes amis.
+G.ex: Ce week-end, j'ai envie de faire une randonnée. || Cuối tuần này tôi muốn đi bộ đường dài.
+G.ex: Samedi, je pense aller au marché aux fleurs. || Thứ Bảy, tôi định đi chợ hoa.
+G.ex: J'espère qu'il va faire beau ! || Tôi hy vọng trời sẽ đẹp!
+G.ex: Tu as des projets pour dimanche ? || Bạn có dự định gì cho Chủ Nhật không?
+G.q: J'ai envie ___ dormir. | à | *de | pour | que
+G.q: Le plus certain : | J'ai envie de partir. | J'espère partir. | *Je vais partir. | Je pense partir.
+G.q: Je pense ___ au cinéma. | à aller | *aller | de aller | allé
+G.q: « Tu as des projets ? » — | *Oui, je vais voir ma tante. | Oui, j'ai vu ma tante. | J'ai vingt ans. | Non, merci.
+G.q: Complétez : J'ai envie ___ manger une pizza. = de
+V: le projet | /lə pʁɔ.ʒɛ/ | nom m. | dự định | Quels sont tes projets ? || Dự định của bạn là gì?
+V: avoir envie de | /a.vwaʁ ɑ̃.vi də/ | expression | muốn | J'ai envie de dormir. || Tôi buồn ngủ quá.
+V: espérer | /ɛs.pe.ʁe/ | verbe | hy vọng | J'espère te voir bientôt. || Tôi hy vọng sớm gặp bạn.
+V: penser | /pɑ̃.se/ | verbe | nghĩ; định | Je pense partir lundi. || Tôi định đi vào thứ Hai.
+V: la randonnée | /la ʁɑ̃.dɔ.ne/ | nom f. | đi bộ đường dài | On fait une randonnée ? || Mình đi bộ đường dài nhé?
+V: se reposer | /sə ʁə.po.ze/ | verbe | nghỉ ngơi | Je vais me reposer ce week-end. || Cuối tuần này tôi sẽ nghỉ ngơi.
+V: sortir | /sɔʁ.tiʁ/ | verbe | đi chơi, ra ngoài | On sort ce soir ? || Tối nay mình đi chơi nhé?
+V: le pique-nique | /lə pik.nik/ | nom m. | buổi dã ngoại | On fait un pique-nique au parc. || Chúng tôi đi dã ngoại ở công viên.
+V: le concert | /lə kɔ̃.sɛʁ/ | nom m. | buổi hoà nhạc | Il y a un concert gratuit samedi. || Thứ Bảy có buổi hoà nhạc miễn phí.
+V: encore | /ɑ̃.kɔʁ/ | adverbe | vẫn còn | Je ne sais pas encore. || Tôi vẫn chưa biết.
+VQ: Manger dehors sur l'herbe avec des amis, c'est faire un… | concert | *pique-nique | projet | repos
+VQ: « Je ne sais pas encore » veut dire… | je sais | *je n'ai pas encore décidé | je ne veux pas | c'est fini
+VQ: Après une semaine fatigante, on a envie de… | travailler | *se reposer | déménager | courir
+VQ: On écoute de la musique en direct à un… | pique-nique | *concert | marché | projet
+VQ: J'___ qu'il va faire beau. (espérer) = espère
+D: Tu as des projets pour le week-end ?
+D: J'ai envie de faire une randonnée.
+D: Je pense aller au marché.
+D: J'espère qu'il va faire beau.
+L: Antoine | Tu as des projets pour le week-end ? || Cuối tuần bạn có dự định gì không?
+L: Ly | Samedi, je vais aider ma mère. Mais dimanche, je suis libre. || Thứ Bảy mình sẽ giúp mẹ. Nhưng Chủ Nhật thì rảnh.
+L: Antoine | On fait un pique-nique au parc dimanche ? || Chủ Nhật đi dã ngoại ở công viên nhé?
+L: Ly | Bonne idée ! J'ai envie de sortir. Mais s'il pleut ? || Ý hay! Mình muốn ra ngoài. Nhưng nếu trời mưa thì sao?
+L: Antoine | S'il pleut, on va aller au cinéma. || Nếu mưa, mình sẽ đi xem phim.
+L: Ly | Parfait ! J'apporte des sandwichs. || Tuyệt! Mình mang bánh mì kẹp.
+LQ: Samedi, Ly va… | se reposer | *aider sa mère | faire un pique-nique | aller au cinéma
+LQ: S'il pleut dimanche, ils vont… | rester chez eux | *aller au cinéma | faire un pique-nique quand même | aller au restaurant
+LQ: Ly va apporter… | des boissons | *des sandwichs | un gâteau | des fruits
+RA: Je vais faire du vélo.
+RA: J'ai envie d'aller à la mer.
+RA: J'espère voir mes amis.
+SH: Tu as des projets pour le week-end ?
+SH: J'ai envie de sortir.
+SH: S'il pleut, on va aller au cinéma.
+R.title: Le programme du week-end à Lyon
+R: Ce week-end, il va y avoir beaucoup d'activités à Lyon. || Cuối tuần này sẽ có nhiều hoạt động ở Lyon.
+R: Samedi matin, un grand marché bio va s'installer sur les quais du Rhône. || Sáng thứ Bảy, một phiên chợ hữu cơ lớn sẽ được dựng trên bờ sông Rhône.
+R: L'après-midi, les enfants vont pouvoir faire des ateliers de cuisine. || Buổi chiều, trẻ em sẽ có thể tham gia các xưởng nấu ăn.
+R: Le soir, un concert gratuit va avoir lieu au parc de la Tête d'Or. || Buổi tối, một buổi hoà nhạc miễn phí sẽ diễn ra ở công viên Tête d'Or.
+R: Dimanche, si le temps le permet, une course à pied va traverser la ville. || Chủ Nhật, nếu thời tiết cho phép, một cuộc chạy bộ sẽ đi qua thành phố.
+R: Alors, qu'est-ce que vous allez choisir ? || Vậy bạn sẽ chọn gì?
+RQ: Où va être le marché ? | dans un parc | *sur les quais du Rhône | à la gare | dans un musée
+RQ: Les ateliers de cuisine sont pour… | les adultes | *les enfants | les touristes | les cuisiniers
+RQ: Le concert du samedi soir est… | cher | *gratuit | à la gare | annulé
+W.prompt: Écris un message à un ami pour lui proposer un programme de week-end. Utilise le futur proche, avoir envie de et espérer. || Viết tin nhắn cho một người bạn để rủ đi chơi cuối tuần. Dùng tương lai gần, avoir envie de và espérer.
+W.min: 40
+W.must: on va ; j'ai envie de ; j'espère
+W.check: avoir envie de / penser / espérer + động từ nguyên thể
+W.check: Có kế hoạch dự phòng: s'il pleut, on va…
+W.check: Có câu hỏi để bạn trả lời
+W.model: Salut Hoa ! || Chào Hoa!
+W.model: J'ai envie de sortir ce week-end. || Cuối tuần này mình muốn ra ngoài chơi.
+W.model: Samedi, on va faire du vélo autour du lac ? || Thứ Bảy, mình đạp xe quanh hồ nhé?
+W.model: Ensuite, on va manger une glace. || Sau đó, mình đi ăn kem.
+W.model: S'il pleut, on va aller au musée. || Nếu trời mưa, mình sẽ đi bảo tàng.
+W.model: J'espère que tu es libre ! Réponds-moi vite. || Mong là bạn rảnh! Trả lời mình sớm nhé.
+
+## 3 | Les expressions de temps futur
+G.title: Situer une action dans le futur
+G.rule: Pour situer une action dans le futur, on utilise des expressions comme demain, après-demain, la semaine prochaine, dans trois jours ou l'année prochaine. || Để đặt một hành động trong tương lai, ta dùng các cụm như demain (ngày mai), après-demain (ngày kia), la semaine prochaine (tuần sau), dans trois jours (ba ngày nữa) hay l'année prochaine (năm sau).
+G.note: "Dans + thời lượng" = sau (bao lâu) kể từ bây giờ: dans deux heures (hai tiếng nữa). Đừng nhầm với "en + thời lượng" = mất bao lâu để làm: Je fais mes devoirs en une heure. "Prochain" đứng sau danh từ chỉ thời gian: la semaine prochaine, le mois prochain, mais "le prochain train" (chuyến tàu kế tiếp).
+G.table: Aujourd'hui | Futur
+G.row: ce soir | demain soir
+G.row: aujourd'hui | demain, après-demain
+G.row: cette semaine | la semaine prochaine
+G.row: ce mois-ci | le mois prochain
+G.row: cette année | l'année prochaine
+G.row: maintenant | dans deux heures, dans trois jours
+G.ex: Je pars en vacances après-demain. || Ngày kia tôi đi nghỉ.
+G.ex: Le mois prochain, nous allons visiter Rome. || Tháng sau chúng tôi sẽ đến thăm Rome.
+G.ex: Le film commence dans dix minutes. || Phim bắt đầu sau mười phút nữa.
+G.ex: L'année prochaine, je vais étudier en France. || Năm sau tôi sẽ du học Pháp.
+G.q: Le jour après demain, c'est… | hier | *après-demain | avant-hier | demain soir
+G.q: « Dans deux heures » veut dire… | pendant deux heures | *deux heures après maintenant | il y a deux heures | à deux heures
+G.q: ___ semaine prochaine, je vais à Paris. | Le | *La | Cette | Dans
+G.q: Le contraire de « l'année dernière » : | cette année | *l'année prochaine | l'année passée | dans l'année
+G.q: Complétez : Le train part ___ cinq minutes. = dans
+V: après-demain | /a.pʁɛ.də.mɛ̃/ | adverbe | ngày kia | On se voit après-demain ? || Ngày kia mình gặp nhau nhé?
+V: prochain | /pʁɔ.ʃɛ̃/ | adjectif | tới, sau | La semaine prochaine, je suis en vacances. || Tuần sau tôi được nghỉ.
+V: le mois | /lə mwa/ | nom m. | tháng | Le mois prochain, c'est mon anniversaire. || Tháng sau là sinh nhật tôi.
+V: l'avenir | /lav.niʁ/ | nom m. | tương lai | Personne ne connaît l'avenir. || Không ai biết trước tương lai.
+V: plus tard | /ply taʁ/ | expression | sau này | Plus tard, je veux être médecin. || Sau này tôi muốn làm bác sĩ.
+V: un jour | /œ̃ ʒuʁ/ | expression | một ngày nào đó | Un jour, je vais visiter le Japon. || Một ngày nào đó tôi sẽ đến Nhật Bản.
+V: le futur | /lə fy.tyʁ/ | nom m. | tương lai | On parle du futur. || Chúng ta nói về tương lai.
+V: l'agenda | /la.ʒɛ̃.da/ | nom m. | sổ lịch | Je regarde mon agenda. || Tôi xem sổ lịch của mình.
+V: libre | /libʁ/ | adjectif | rảnh | Tu es libre la semaine prochaine ? || Tuần sau bạn rảnh không?
+V: prévoir | /pʁe.vwaʁ/ | verbe | dự kiến, lên kế hoạch | Qu'est-ce que tu prévois pour l'été ? || Mùa hè bạn dự định gì?
+VQ: On note ses rendez-vous dans un… | journal | *agenda | avenir | mois
+VQ: « Un jour » parle d'un moment… | précis | *non précis dans le futur | passé | d'aujourd'hui
+VQ: Le contraire de « le passé » : | le présent seulement | *l'avenir | hier | le mois
+VQ: « Plus tard, je veux être pilote » parle de… | *l'avenir | l'enfance | la semaine dernière | maintenant
+VQ: Le jour avant demain, c'est aujourd'hui ; le jour après demain, c'est ___. = après-demain
+D: Je pars après-demain.
+D: Le mois prochain, nous allons à Rome.
+D: Le film commence dans dix minutes.
+D: Plus tard, je veux être médecin.
+L: Secrétaire | Cabinet du docteur Lambert, bonjour. || Phòng khám bác sĩ Lambert, xin chào.
+L: Patiente | Bonjour, je voudrais un rendez-vous, s'il vous plaît. || Xin chào, tôi muốn đặt một cuộc hẹn.
+L: Secrétaire | Demain, c'est complet. Après-demain à quinze heures, ça vous va ? || Ngày mai kín lịch rồi. Ngày kia lúc ba giờ chiều được không ạ?
+L: Patiente | Non, je travaille. Et la semaine prochaine ? || Không được, tôi phải làm. Còn tuần sau thì sao?
+L: Secrétaire | Lundi prochain à neuf heures ? || Thứ Hai tuần sau lúc chín giờ nhé?
+L: Patiente | Parfait, merci beaucoup. || Tuyệt, cảm ơn nhiều.
+LQ: Pourquoi pas demain ? | la patiente travaille | *c'est complet | le médecin est en vacances | c'est dimanche
+LQ: Pourquoi pas après-demain ? | c'est complet | *la patiente travaille | elle est malade | c'est trop tôt
+LQ: Le rendez-vous est… | demain | après-demain | *lundi prochain à neuf heures | lundi à quinze heures
+RA: demain, après-demain, dans trois jours.
+RA: la semaine prochaine, le mois prochain, l'année prochaine.
+RA: Plus tard, un jour, dans l'avenir.
+SH: Demain, c'est complet.
+SH: Et la semaine prochaine ?
+SH: Lundi prochain, ça me va.
+R.title: La lettre à moi-même
+R: Chère Lan du futur, || Gửi Lan của tương lai,
+R: Aujourd'hui, j'ai dix-huit ans et j'écris cette lettre pour toi. || Hôm nay mình mười tám tuổi và viết lá thư này cho bạn.
+R: Dans dix ans, tu vas avoir vingt-huit ans. || Mười năm nữa, bạn sẽ hai mươi tám tuổi.
+R: J'espère que tu vas être architecte, comme dans mes rêves. || Mình hy vọng bạn sẽ trở thành kiến trúc sư như trong giấc mơ của mình.
+R: Peut-être que tu vas habiter à Paris, ou peut-être à Hanoï avec nos parents. || Có lẽ bạn sẽ sống ở Paris, hoặc có lẽ ở Hà Nội với bố mẹ.
+R: N'oublie pas de rester curieuse et gentille. À dans dix ans ! || Đừng quên luôn tò mò và tốt bụng nhé. Hẹn gặp lại sau mười năm!
+RQ: Quel âge a Lan aujourd'hui ? | vingt-huit ans | *dix-huit ans | dix ans | huit ans
+RQ: Quel métier Lan espère avoir ? | médecin | professeur | *architecte | journaliste
+RQ: Lan conseille à son futur « moi » de rester… | riche | *curieuse et gentille | à Paris | célèbre
+W.prompt: Écris une lettre à toi-même dans dix ans. Utilise le futur proche et au moins cinq expressions de temps futur. || Viết một lá thư gửi chính bạn của mười năm sau. Dùng tương lai gần và ít nhất năm cụm từ chỉ thời gian tương lai.
+W.min: 50
+W.must: dans dix ans ; tu vas ; j'espère
+W.check: dans + thời lượng (dans dix ans) để chỉ tương lai
+W.check: prochain đứng sau danh từ (l'année prochaine)
+W.check: Có lời chào đầu thư và lời kết
+W.model: Cher Minh du futur, || Gửi Minh của tương lai,
+W.model: Dans dix ans, tu vas avoir trente-deux ans. || Mười năm nữa, bạn sẽ ba mươi hai tuổi.
+W.model: L'année prochaine, je vais commencer à travailler. || Năm sau, mình sẽ bắt đầu đi làm.
+W.model: Plus tard, j'espère que tu vas avoir ta propre entreprise. || Sau này, mình hy vọng bạn sẽ có công ty riêng.
+W.model: Un jour, tu vas peut-être parler français couramment ! || Một ngày nào đó, có lẽ bạn sẽ nói tiếng Pháp lưu loát!
+W.model: À dans dix ans ! || Hẹn gặp lại sau mười năm!
+
+## 4 | Le verbe venir
+G.title: Venir et venir de
+G.rule: Le verbe venir est irrégulier. Venir de + lieu indique l'origine, et venir de + infinitif exprime une action qui vient juste de se passer : c'est le passé récent. || Động từ venir bất quy tắc. Venir de + nơi chốn chỉ nguồn gốc, còn venir de + động từ nguyên thể diễn tả một hành động vừa mới xảy ra: đó là quá khứ gần.
+G.note: Venir: je viens, tu viens, il vient, nous venons, vous venez, ils viennent. (1) Đến: Tu viens avec moi ? (2) Đến từ: Je viens du Viêt Nam. (3) Quá khứ gần — VỪA MỚI: Je viens de manger (tôi vừa ăn xong). So sánh với tương lai gần: Je vais manger (tôi sắp ăn). Các động từ cùng mẫu: revenir (quay lại), devenir (trở thành).
+G.table: Pronom | Venir | Passé récent
+G.row: je | viens | je viens de finir
+G.row: tu | viens | tu viens d'arriver
+G.row: il / elle | vient | il vient de partir
+G.row: nous | venons | nous venons de manger
+G.row: vous | venez | vous venez de lire
+G.row: ils / elles | viennent | ils viennent de sortir
+G.ex: Tu viens au cinéma avec nous ? || Bạn đi xem phim với bọn mình không?
+G.ex: Elle vient de Corée. || Cô ấy đến từ Hàn Quốc.
+G.ex: Je viens de finir mes devoirs. || Tôi vừa làm xong bài tập.
+G.ex: Le train vient de partir, il faut attendre le prochain. || Tàu vừa mới đi, phải chờ chuyến sau.
+G.q: Ils ___ ce soir ? | vient | venent | *viennent | venons
+G.q: « Je viens de manger » veut dire… | je vais manger | *j'ai mangé il y a très peu de temps | je mange maintenant | je ne mange pas
+G.q: Je ___ du Japon. | vais | suis | *viens | ai
+G.q: Le contraire du passé récent : | venir de + infinitif | *aller + infinitif | être + infinitif | avoir + infinitif
+G.q: Complétez : Nous ___ (venir) de Hanoï. = venons
+V: venir | /və.niʁ/ | verbe | đến | Tu viens ? || Bạn có đến không?
+V: revenir | /ʁə.və.niʁ/ | verbe | quay lại | Je reviens dans cinq minutes. || Năm phút nữa tôi quay lại.
+V: devenir | /də.və.niʁ/ | verbe | trở thành | Il veut devenir pilote. || Anh ấy muốn trở thành phi công.
+V: juste | /ʒyst/ | adverbe | vừa đúng, vừa mới | Il vient juste d'arriver. || Anh ấy vừa mới đến.
+V: arriver | /a.ʁi.ve/ | verbe | đến nơi | Nous venons d'arriver à l'hôtel. || Chúng tôi vừa đến khách sạn.
+V: récent | /ʁe.sɑ̃/ | adjectif | gần đây | C'est une photo récente. || Đó là một bức ảnh gần đây.
+V: l'aéroport | /la.e.ʁɔ.pɔʁ/ | nom m. | sân bay | L'avion vient d'atterrir à l'aéroport. || Máy bay vừa hạ cánh xuống sân bay.
+V: atterrir | /a.te.ʁiʁ/ | verbe | hạ cánh | L'avion atterrit à midi. || Máy bay hạ cánh lúc mười hai giờ.
+V: décoller | /de.kɔ.le/ | verbe | cất cánh | L'avion va décoller. || Máy bay sắp cất cánh.
+V: la nouvelle | /la nu.vɛl/ | nom f. | tin tức | J'ai une bonne nouvelle ! || Tôi có một tin vui!
+VQ: Le contraire de « décoller » : | partir | *atterrir | arriver tard | voler
+VQ: « Je reviens » veut dire… | je pars pour toujours | *je retourne ici bientôt | je viens de partir | je deviens
+VQ: Un enfant qui grandit va ___ adulte. | venir | revenir | *devenir | arriver
+VQ: « J'ai une bonne nouvelle » : on va annoncer… | une mauvaise information | *une information positive | un journal | un livre
+VQ: L'avion ___ de décoller. (passé récent, il) = vient
+D: Tu viens au cinéma avec nous ?
+D: Elle vient de Corée.
+D: Je viens de finir mes devoirs.
+D: Le train vient de partir.
+L: Mère | Allô, Minh ? Tu es où ? || A lô, Minh à? Con đang ở đâu?
+L: Minh | Je viens d'arriver à l'aéroport de Paris ! || Con vừa đến sân bay Paris!
+L: Mère | Super ! Le voyage est bien passé ? || Tuyệt! Chuyến đi ổn chứ con?
+L: Minh | Oui, mais je suis fatigué. Je viens de dormir dix heures dans l'avion ! || Ổn ạ, nhưng con mệt. Con vừa ngủ mười tiếng trên máy bay!
+L: Mère | Et ton ami vient te chercher ? || Bạn con có đến đón con không?
+L: Minh | Oui, il vient de m'envoyer un message, il arrive dans dix minutes. || Có ạ, bạn ấy vừa nhắn tin, mười phút nữa bạn ấy đến.
+LQ: Où est Minh ? | à Hanoï | *à l'aéroport de Paris | dans l'avion | à l'hôtel
+LQ: Minh vient de dormir combien d'heures ? | deux heures | cinq heures | *dix heures | il n'a pas dormi
+LQ: Quand arrive l'ami de Minh ? | il est déjà là | *dans dix minutes | dans une heure | demain
+RA: je viens, tu viens, il vient.
+RA: nous venons, vous venez, ils viennent.
+RA: Je viens de finir. Je vais commencer.
+SH: Je viens d'arriver à l'aéroport !
+SH: Il vient de m'envoyer un message.
+SH: Je reviens dans cinq minutes.
+R.title: Les nouvelles de la classe
+R: Notre classe de français vient de recevoir de bonnes nouvelles ! || Lớp tiếng Pháp của chúng tôi vừa nhận được tin vui!
+R: Mai vient de réussir son examen DELF A2. || Mai vừa đỗ kỳ thi DELF A2.
+R: Ahmed vient d'avoir un bébé, une petite fille qui s'appelle Nour. || Ahmed vừa có em bé, một bé gái tên là Nour.
+R: Et notre professeur vient de devenir directeur de l'école ! || Và thầy giáo của chúng tôi vừa trở thành hiệu trưởng!
+R: Une nouvelle étudiante vient d'arriver : elle vient du Brésil. || Một học viên mới vừa đến: cô ấy đến từ Brazil.
+R: Elle s'appelle Ana et elle va commencer lundi. || Cô ấy tên là Ana và sẽ bắt đầu học vào thứ Hai.
+RQ: Mai vient de… | avoir un bébé | *réussir son examen | arriver | devenir professeur
+RQ: Qui vient de devenir directeur ? | Ahmed | *le professeur | Ana | Mai
+RQ: D'où vient Ana ? | du Portugal | *du Brésil | d'Espagne | du Mexique
+W.prompt: Raconte cinq choses que tu viens de faire aujourd'hui et cinq choses que tu vas faire ce soir ou demain. || Kể năm việc bạn vừa làm hôm nay và năm việc bạn sẽ làm tối nay hoặc ngày mai.
+W.min: 45
+W.must: je viens de ; je vais
+W.check: venir de + nguyên thể (vừa mới) và aller + nguyên thể (sắp)
+W.check: Chia đúng venir: je viens, nous venons, ils viennent
+W.check: de → d' trước nguyên âm (je viens d'arriver)
+W.model: Il est dix-huit heures et je viens de rentrer du travail. || Bây giờ là sáu giờ chiều và tôi vừa đi làm về.
+W.model: Je viens de prendre une douche et je viens de téléphoner à ma mère. || Tôi vừa tắm xong và vừa gọi điện cho mẹ.
+W.model: Mon colocataire vient de préparer le dîner. || Bạn cùng phòng của tôi vừa nấu xong bữa tối.
+W.model: Ce soir, nous allons regarder un match de football. || Tối nay chúng tôi sẽ xem một trận bóng đá.
+W.model: Demain, je vais me lever tôt et je vais aller à la piscine. || Ngày mai tôi sẽ dậy sớm và đi bơi.
+
+## 5 | Inviter et répondre
+G.title: Inviter, accepter, refuser
+G.rule: Pour inviter, on peut dire « Tu veux… ? », « Ça te dit de… ? » ou « Je t'invite à… ». Pour refuser poliment, on s'excuse et on donne une raison. || Để mời, ta có thể nói « Tu veux… ? », « Ça te dit de… ? » hoặc « Je t'invite à… ». Để từ chối lịch sự, ta xin lỗi và đưa ra lý do.
+G.note: Mời thân mật: Ça te dit d'aller au cinéma ? (Đi xem phim không?), On va au restaurant ? Mời trang trọng: Je voudrais vous inviter à… / Nous serions heureux de… Chấp nhận: Avec plaisir ! / Volontiers ! / Bonne idée ! Từ chối: Désolé(e), je ne peux pas, je dois… / C'est dommage, mais… Đề nghị khác: Une autre fois ? / Et samedi, ça te va ?
+G.table: Action | Familier | Formel
+G.row: inviter | Ça te dit de venir ? | Je voudrais vous inviter à…
+G.row: accepter | Avec plaisir ! Super ! | J'accepte avec plaisir.
+G.row: refuser | Désolé, je ne peux pas. | Je regrette, mais je ne suis pas disponible.
+G.row: proposer | Une autre fois ? | Pouvons-nous choisir une autre date ?
+G.ex: Ça te dit d'aller à la plage dimanche ? || Chủ Nhật đi biển không?
+G.ex: Avec plaisir, c'est une excellente idée ! || Rất sẵn lòng, ý tưởng tuyệt vời!
+G.ex: Désolée, je ne peux pas, je dois travailler. || Xin lỗi, mình không đi được, mình phải làm việc.
+G.ex: C'est dommage ! Une autre fois, peut-être ? || Tiếc quá! Lần khác nhé?
+G.q: Pour accepter, on dit… | Désolé. | *Volontiers ! | Dommage. | Une autre fois.
+G.q: « Ça te dit de venir ? » est… | un refus | *une invitation | une excuse | une réponse
+G.q: Pour refuser poliment, il faut… | dire non seulement | *s'excuser et donner une raison | partir | ne rien dire
+G.q: Le plus formel : | Ça te dit ? | On y va ? | *Je voudrais vous inviter à dîner. | Tu viens ?
+G.q: Complétez : ___ plaisir ! (accepter) = Avec / avec
+V: inviter | /ɛ̃.vi.te/ | verbe | mời | Je t'invite à mon anniversaire. || Mình mời bạn đến sinh nhật mình.
+V: l'invitation | /lɛ̃.vi.ta.sjɔ̃/ | nom f. | lời mời | Merci pour l'invitation ! || Cảm ơn vì lời mời!
+V: accepter | /ak.sɛp.te/ | verbe | chấp nhận | J'accepte avec plaisir. || Tôi rất vui lòng nhận lời.
+V: refuser | /ʁə.fy.ze/ | verbe | từ chối | Il refuse l'invitation. || Anh ấy từ chối lời mời.
+V: volontiers | /vɔ.lɔ̃.tje/ | adverbe | sẵn lòng | Un café ? Volontiers ! || Một tách cà phê nhé? Sẵn lòng!
+V: dommage | /dɔ.maʒ/ | nom m. | đáng tiếc | C'est dommage, tu ne viens pas ? || Tiếc quá, bạn không đến à?
+V: disponible | /dis.pɔ.nibl/ | adjectif | rảnh, sẵn có | Je ne suis pas disponible lundi. || Thứ Hai tôi không rảnh.
+V: une autre fois | /yn otʁ fwa/ | expression | lần khác | On se voit une autre fois. || Mình gặp nhau lần khác nhé.
+V: s'excuser | /sɛks.ky.ze/ | verbe | xin lỗi | Je m'excuse, je suis en retard. || Xin lỗi, tôi đến muộn.
+V: la soirée | /la swa.ʁe/ | nom f. | buổi tiệc tối | Tu viens à ma soirée samedi ? || Thứ Bảy bạn đến tiệc tối của mình không?
+VQ: Le contraire de « accepter » : | inviter | *refuser | proposer | venir
+VQ: « Volontiers » veut dire… | non merci | *oui, avec plaisir | peut-être | jamais
+VQ: Quand on n'est pas libre, on n'est pas… | dommage | *disponible | volontiers | invité
+VQ: « C'est dommage » exprime… | la joie | *le regret | la colère | la peur
+VQ: Merci pour l'___ ! (on vient de m'inviter) = invitation
+D: Ça te dit d'aller au cinéma ?
+D: Avec plaisir !
+D: Désolé, je ne peux pas, je dois travailler.
+D: C'est dommage, une autre fois peut-être.
+L: Sarah | Salut Nam ! Je fais une soirée samedi pour mon anniversaire. Tu viens ? || Chào Nam! Thứ Bảy mình tổ chức tiệc sinh nhật. Bạn đến không?
+L: Nam | Oh, merci pour l'invitation ! Mais samedi, je ne peux pas. || Ồ, cảm ơn vì lời mời! Nhưng thứ Bảy mình không đến được.
+L: Sarah | Dommage ! Pourquoi ? || Tiếc quá! Sao vậy?
+L: Nam | Je dois aller à Lyon pour le mariage de mon cousin. || Mình phải đến Lyon dự đám cưới anh họ.
+L: Sarah | Je comprends. On peut fêter ça dimanche soir, alors ? || Mình hiểu. Vậy mình ăn mừng vào tối Chủ Nhật nhé?
+L: Nam | Volontiers ! Je t'invite au restaurant. || Sẵn lòng! Mình mời bạn đi nhà hàng.
+LQ: Pourquoi Sarah fait une soirée ? | c'est Noël | *c'est son anniversaire | elle déménage | elle part en voyage
+LQ: Pourquoi Nam refuse ? | il est malade | il travaille | *il va au mariage de son cousin | il n'aime pas les soirées
+LQ: Qu'est-ce qu'ils vont faire dimanche ? | une soirée | *aller au restaurant | aller à Lyon | rien
+RA: Ça te dit de venir ? Avec plaisir !
+RA: Désolé, je ne peux pas, je dois travailler.
+RA: C'est dommage. Une autre fois ?
+SH: Tu viens à ma soirée samedi ?
+SH: Merci pour l'invitation, mais je ne peux pas.
+SH: Volontiers !
+R.title: Une invitation officielle
+R: Monsieur et Madame Lefèvre ont le plaisir de vous inviter au mariage de leur fille Julie. || Ông bà Lefèvre hân hạnh mời quý vị đến dự đám cưới của con gái họ, Julie.
+R: La cérémonie va avoir lieu le samedi douze juin à quinze heures, à la mairie de Nantes. || Buổi lễ sẽ diễn ra vào thứ Bảy, ngày mười hai tháng Sáu, lúc ba giờ chiều, tại toà thị chính Nantes.
+R: Un dîner va suivre au château de la Loire. || Sau đó sẽ có tiệc tối tại lâu đài sông Loire.
+R: Merci de répondre avant le premier mai. || Xin vui lòng hồi âm trước ngày mùng một tháng Năm.
+R: Vous pouvez envoyer votre réponse par courriel ou par téléphone. || Quý vị có thể gửi hồi âm qua thư điện tử hoặc điện thoại.
+R: Nous espérons vous voir nombreux ! || Chúng tôi mong được đón tiếp đông đủ quý vị!
+RQ: Qui se marie ? | Monsieur Lefèvre | *Julie | Nantes | les invités
+RQ: Où a lieu la cérémonie ? | au château | *à la mairie de Nantes | à l'église | au restaurant
+RQ: Il faut répondre avant… | le douze juin | *le premier mai | samedi | quinze heures
+W.prompt: Écris deux messages : une invitation à un ami pour une sortie, puis la réponse de ton ami qui refuse poliment et propose une autre date. || Viết hai tin nhắn: một lời mời bạn đi chơi, và câu trả lời của bạn ấy từ chối lịch sự và đề xuất ngày khác.
+W.min: 50
+W.must: ça te dit ; désolé ; une autre fois
+W.check: Lời mời có thời gian, địa điểm, hoạt động
+W.check: Lời từ chối có xin lỗi + lý do
+W.check: Có đề xuất ngày khác
+W.model: Salut Linh ! Ça te dit d'aller voir l'exposition de photos samedi après-midi ? || Chào Linh! Thứ Bảy chiều đi xem triển lãm ảnh không?
+W.model: Elle est au musée d'art, et c'est gratuit ! || Ở bảo tàng mỹ thuật, và miễn phí nữa!
+W.model: On peut se retrouver devant l'entrée à quatorze heures. || Mình có thể gặp nhau trước cổng lúc hai giờ chiều.
+W.model: Salut Hai ! Merci pour l'invitation, c'est très gentil. || Chào Hải! Cảm ơn vì lời mời, bạn thật tốt.
+W.model: Désolée, mais samedi je ne peux pas : je dois garder mon petit frère. || Xin lỗi nhưng thứ Bảy mình không đi được: mình phải trông em trai.
+W.model: Une autre fois ? Dimanche, je suis disponible ! || Lần khác nhé? Chủ Nhật mình rảnh!

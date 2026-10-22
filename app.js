@@ -66,7 +66,7 @@ function indexWeek(w) {
   for (const d of w.days || []) for (const v of d.vocab || []) {
     const entry = { l: v.fr, p: v.pos, v: v.vi, ex: v.ex, ipa: v.ipa };
     const low = v.fr.toLowerCase().replace(/’/g, "'");
-    const bare = low.replace(/^(le|la|les|un|une|des|du|l')\s*/, '').trim();
+    const bare = low.replace(/^(le|la|les|un|une|des|du|l'|se|s')\s*/, '').trim();
     VOCAB_INDEX[low] = entry;
     if (!VOCAB_INDEX[bare]) VOCAB_INDEX[bare] = entry;
   }
