@@ -1,0 +1,381 @@
+@week 11
+@title Mon corps, ma santé
+@level A1
+
+## 1 | Les parties du corps
+G.title: Le corps et l'article défini
+G.rule: Pour parler des parties de son propre corps, on utilise souvent l'article défini le, la, les et non le possessif : je lève la main, il ferme les yeux. || Khi nói về bộ phận cơ thể của chính mình, ta thường dùng mạo từ xác định le, la, les chứ không dùng tính từ sở hữu: je lève la main (tôi giơ tay), il ferme les yeux (anh ấy nhắm mắt).
+G.note: Tiếng Việt nói "giơ tay", tiếng Pháp nói "lever la main" — không cần "ma main" vì đã rõ là tay của mình. Một số số nhiều bất quy tắc: un œil → des yeux (mắt), un genou → des genoux (đầu gối). Les cheveux (tóc) luôn số nhiều khi nói về mái tóc.
+G.table: Partie | Singulier | Pluriel
+G.row: đầu | la tête | les têtes
+G.row: mắt | un œil | les yeux
+G.row: tay | la main | les mains
+G.row: chân | la jambe | les jambes
+G.row: đầu gối | le genou | les genoux
+G.row: bàn chân | le pied | les pieds
+G.ex: Levez la main pour répondre. || Hãy giơ tay để trả lời.
+G.ex: Elle a les yeux verts et les cheveux longs. || Cô ấy có mắt xanh lá và tóc dài.
+G.ex: Je me lave les mains avant de manger. || Tôi rửa tay trước khi ăn.
+G.ex: Il ferme les yeux pour écouter la musique. || Anh ấy nhắm mắt để nghe nhạc.
+G.q: Pluriel de « un œil » : | des œils | *des yeux | des œuils | des yeuxs
+G.q: Je lève ___ main. | ma | *la | une | mon
+G.q: On marche avec les… | mains | bras | *jambes et les pieds | oreilles
+G.q: On entend avec les… | yeux | *oreilles | dents | doigts
+G.q: Pluriel de « un genou » : des ___ = genoux
+V: la tête | /la tɛt/ | nom f. | đầu | Il tourne la tête. || Anh ấy quay đầu.
+V: le bras | /lə bʁa/ | nom m. | cánh tay | Elle a mal au bras. || Cô ấy bị đau tay.
+V: la main | /la mɛ̃/ | nom f. | bàn tay | Lavez-vous les mains. || Hãy rửa tay.
+V: le doigt | /lə dwa/ | nom m. | ngón tay | J'ai dix doigts. || Tôi có mười ngón tay.
+V: la jambe | /la ʒɑ̃b/ | nom f. | chân | Il a de longues jambes. || Anh ấy có đôi chân dài.
+V: le pied | /lə pje/ | nom m. | bàn chân | J'ai froid aux pieds. || Chân tôi lạnh.
+V: le dos | /lə do/ | nom m. | lưng | Mon père a mal au dos. || Bố tôi bị đau lưng.
+V: le ventre | /lə vɑ̃tʁ/ | nom m. | bụng | J'ai mal au ventre. || Tôi bị đau bụng.
+V: l'oreille | /lɔ.ʁɛj/ | nom f. | tai | Elle porte des boucles d'oreilles. || Cô ấy đeo khuyên tai.
+V: la bouche | /la buʃ/ | nom f. | miệng | Ouvrez la bouche. || Há miệng ra.
+VQ: On mange avec la… | main droite seulement | *bouche | oreille | tête
+VQ: On a cinq ___ à chaque main. | pieds | *doigts | bras | dos
+VQ: Le contraire de « le ventre » : | la tête | *le dos | le pied | la bouche
+VQ: On met des chaussures aux… | mains | *pieds | bras | oreilles
+VQ: Pour écrire, on utilise la ___. = main
+D: Levez la main.
+D: Elle a les yeux verts.
+D: J'ai mal au dos.
+D: Lavez-vous les mains.
+L: Professeur | Aujourd'hui, on fait de la gymnastique ! || Hôm nay chúng ta tập thể dục!
+L: Professeur | Levez les bras. Très bien ! || Giơ hai tay lên. Rất tốt!
+L: Professeur | Maintenant, touchez les pieds avec les mains. || Bây giờ, chạm tay vào bàn chân.
+L: Élève | Je ne peux pas, j'ai mal au dos ! || Em không làm được, em bị đau lưng!
+L: Professeur | Alors, assieds-toi et tourne la tête doucement. || Vậy em ngồi xuống và xoay đầu nhẹ nhàng.
+L: Élève | D'accord, merci. || Vâng, cảm ơn thầy.
+LQ: Qu'est-ce qu'ils font ? | de la musique | *de la gymnastique | de la cuisine | de la lecture
+LQ: Pourquoi l'élève ne peut pas toucher ses pieds ? | il est fatigué | *il a mal au dos | il a mal aux pieds | il ne veut pas
+LQ: Le professeur dit à l'élève de… | partir | *s'asseoir et tourner la tête | courir | lever les bras
+RA: la tête, le bras, la main, le doigt.
+RA: la jambe, le pied, le dos, le ventre.
+RA: un œil, des yeux ; un genou, des genoux.
+SH: Levez les bras !
+SH: Touchez les pieds avec les mains.
+SH: J'ai mal au dos.
+R.title: Le corps humain en chiffres
+R: Le corps humain est extraordinaire. || Cơ thể con người thật phi thường.
+R: Un adulte a deux cent six os. || Một người trưởng thành có hai trăm linh sáu cái xương.
+R: Le cœur bat environ soixante-dix fois par minute. || Tim đập khoảng bảy mươi lần mỗi phút.
+R: Nous avons trente-deux dents quand nous sommes adultes. || Khi trưởng thành chúng ta có ba mươi hai cái răng.
+R: Les cheveux poussent d'environ un centimètre par mois. || Tóc mọc khoảng một xăng-ti-mét mỗi tháng.
+R: Et le muscle le plus fort du corps, c'est la langue ! || Và cơ khoẻ nhất cơ thể chính là cái lưỡi!
+RQ: Combien d'os a un adulte ? | cent six | *deux cent six | trois cent six | soixante-dix
+RQ: Le cœur bat environ… | trente fois par minute | *soixante-dix fois par minute | cent fois par heure | dix fois par minute
+RQ: Les cheveux poussent d'environ… | un millimètre par jour | *un centimètre par mois | dix centimètres par mois | un mètre par an
+W.prompt: Décris une personne célèbre ou un membre de ta famille avec les parties du corps : les yeux, les cheveux, les mains, la taille. || Miêu tả một người nổi tiếng hoặc một người trong gia đình với các bộ phận cơ thể: mắt, tóc, tay, vóc dáng.
+W.min: 35
+W.must: il a ; les yeux
+W.check: avoir + le / la / les + bộ phận cơ thể + tính từ
+W.check: Số nhiều bất quy tắc: les yeux, les genoux
+W.check: Tính từ đứng sau và hợp giống, số
+W.model: Mon grand-père est grand et mince. || Ông tôi cao và gầy.
+W.model: Il a les cheveux blancs et courts. || Ông có tóc trắng và ngắn.
+W.model: Il a les yeux noirs et un grand sourire. || Ông có đôi mắt đen và nụ cười rạng rỡ.
+W.model: Il a de grandes mains, parce qu'il travaille dans le jardin. || Ông có đôi bàn tay to vì ông làm vườn.
+W.model: Il a souvent mal aux genoux, mais il marche tous les jours. || Ông hay bị đau đầu gối nhưng ngày nào cũng đi bộ.
+
+## 2 | J'ai mal à...
+G.title: Exprimer la douleur
+G.rule: Pour dire qu'une partie du corps fait mal, on utilise avoir mal à + le, la, l', les. À + le devient au et à + les devient aux. || Để nói một bộ phận cơ thể bị đau, ta dùng avoir mal à + le, la, l', les. À + le thành au và à + les thành aux.
+G.note: J'ai mal à la tête (đau đầu), j'ai mal au ventre (đau bụng), j'ai mal à l'oreille (đau tai), j'ai mal aux dents (đau răng). Hỏi: Où est-ce que vous avez mal ? / Tu as mal où ? Các triệu chứng khác: j'ai de la fièvre (sốt), je tousse (ho), j'ai le nez qui coule (sổ mũi), je suis fatigué(e), j'ai envie de vomir (buồn nôn).
+G.table: Article | Exemple
+G.row: à la | J'ai mal à la gorge.
+G.row: au (à + le) | J'ai mal au dos.
+G.row: à l' | J'ai mal à l'estomac.
+G.row: aux (à + les) | J'ai mal aux pieds.
+G.ex: J'ai mal à la tête depuis ce matin. || Tôi bị đau đầu từ sáng.
+G.ex: Il a mal au ventre, il ne mange pas. || Anh ấy đau bụng, không ăn gì.
+G.ex: Tu as mal où ? || Bạn đau ở đâu?
+G.ex: J'ai de la fièvre et je tousse beaucoup. || Tôi bị sốt và ho nhiều.
+G.q: J'ai mal ___ dos. | à le | *au | à la | aux
+G.q: Elle a mal ___ dents. | au | à la | *aux | à les
+G.q: J'ai mal ___ oreille. | au | *à l' | à la | aux
+G.q: Avec une température de trente-neuf degrés, on a… | mal au dos | *de la fièvre | froid aux pieds | faim
+G.q: Complétez : J'ai mal ___ gorge. = à la
+V: avoir mal | /a.vwaʁ mal/ | expression | bị đau | J'ai mal partout. || Tôi đau khắp người.
+V: la gorge | /la ɡɔʁʒ/ | nom f. | cổ họng | J'ai mal à la gorge. || Tôi bị đau họng.
+V: les dents | /le dɑ̃/ | nom f. pl. | răng | J'ai mal aux dents. || Tôi bị đau răng.
+V: la fièvre | /la fjɛvʁ/ | nom f. | sốt | Il a de la fièvre. || Anh ấy bị sốt.
+V: tousser | /tu.se/ | verbe | ho | Le bébé tousse la nuit. || Em bé ho về đêm.
+V: le rhume | /lə ʁym/ | nom m. | cảm lạnh | J'ai un rhume. || Tôi bị cảm lạnh.
+V: la grippe | /la ɡʁip/ | nom f. | cúm | En hiver, beaucoup de gens ont la grippe. || Mùa đông nhiều người bị cúm.
+V: malade | /ma.lad/ | adjectif | ốm | Je suis malade aujourd'hui. || Hôm nay tôi bị ốm.
+V: fatigué | /fa.ti.ɡe/ | adjectif | mệt | Elle est très fatiguée. || Cô ấy rất mệt.
+V: depuis | /də.pɥi/ | préposition | từ (khi), đã… | J'ai mal à la tête depuis deux jours. || Tôi bị đau đầu đã hai ngày.
+VQ: Quand on mange trop de bonbons, on a mal… | au dos | *aux dents | aux pieds | à l'oreille
+VQ: Une maladie légère avec le nez qui coule : | la grippe | *le rhume | la fièvre | la gorge
+VQ: « Je tousse » veut dire… | j'ai de la fièvre | *je fais « keuf keuf » | j'ai faim | je dors
+VQ: Après une longue marche, on a mal… | à la gorge | aux dents | *aux pieds | à l'oreille
+VQ: J'ai mal à la tête ___ hier soir. = depuis
+D: J'ai mal à la tête.
+D: Il a mal au ventre.
+D: J'ai de la fièvre depuis hier.
+D: Tu as mal où ?
+L: Mère | Tu ne vas pas à l'école ? Qu'est-ce qui ne va pas ? || Con không đi học à? Con bị sao vậy?
+L: Fille | Je suis malade. J'ai mal à la gorge et à la tête. || Con ốm. Con bị đau họng và đau đầu.
+L: Mère | Tu as de la fièvre ? || Con có sốt không?
+L: Fille | Oui, trente-huit et demi. Et je tousse beaucoup. || Có ạ, ba mươi tám rưỡi. Và con ho nhiều.
+L: Mère | C'est peut-être la grippe. On va chez le médecin. || Có lẽ là cúm. Mình đi khám bác sĩ.
+L: Fille | D'accord, maman. || Vâng, mẹ.
+LQ: La fille a mal… | au ventre | *à la gorge et à la tête | aux dents | au dos
+LQ: Quelle est sa température ? | trente-sept | *trente-huit et demi | trente-neuf | quarante
+LQ: Que pense la mère ? | c'est un rhume | *c'est peut-être la grippe | ce n'est pas grave | elle ment
+RA: J'ai mal à la tête, au dos, aux dents.
+RA: J'ai de la fièvre et je tousse.
+RA: Qu'est-ce qui ne va pas ?
+SH: Qu'est-ce qui ne va pas ?
+SH: J'ai mal à la gorge.
+SH: J'ai de la fièvre depuis hier.
+R.title: Le message d'absence
+R: Bonjour Madame Leblanc, || Kính gửi bà Leblanc,
+R: Je suis désolé, mais je ne peux pas venir au travail aujourd'hui. || Tôi rất tiếc, nhưng hôm nay tôi không thể đi làm.
+R: Je suis malade depuis hier soir. || Tôi bị ốm từ tối hôm qua.
+R: J'ai de la fièvre, mal à la tête et mal au ventre. || Tôi bị sốt, đau đầu và đau bụng.
+R: Je vais chez le médecin ce matin. || Sáng nay tôi sẽ đi khám bác sĩ.
+R: Je vous envoie le certificat médical demain. Cordialement, Hugo. || Tôi sẽ gửi bà giấy chứng nhận y tế vào ngày mai. Trân trọng, Hugo.
+RQ: Hugo écrit à… | son médecin | *sa responsable au travail | sa mère | un ami
+RQ: Depuis quand est-il malade ? | ce matin | *hier soir | une semaine | deux jours
+RQ: Qu'est-ce qu'il va envoyer demain ? | un cadeau | *un certificat médical | une facture | une photo
+W.prompt: Écris un message à ton professeur ou à ton chef pour dire que tu es malade : tes symptômes, depuis quand, et ce que tu vas faire. || Viết tin nhắn cho thầy cô hoặc sếp để báo bạn bị ốm: triệu chứng, từ khi nào và bạn sẽ làm gì.
+W.min: 40
+W.must: j'ai mal ; depuis
+W.check: avoir mal à la / au / à l' / aux đúng dạng
+W.check: Dùng « depuis » để nói thời gian bắt đầu
+W.check: Có lời chào và lời kết lịch sự (Bonjour… Cordialement)
+W.model: Bonjour Monsieur Dupont, || Kính gửi ông Dupont,
+W.model: Je ne peux pas venir au cours aujourd'hui. || Hôm nay em không thể đến lớp.
+W.model: J'ai mal à la gorge et j'ai de la fièvre depuis hier. || Em bị đau họng và sốt từ hôm qua.
+W.model: Je tousse beaucoup et je suis très fatigué. || Em ho nhiều và rất mệt.
+W.model: Je vais chez le médecin cet après-midi. || Chiều nay em sẽ đi khám bác sĩ.
+W.model: Merci de votre compréhension. Cordialement, Minh. || Cảm ơn thầy đã thông cảm. Trân trọng, Minh.
+
+## 3 | Chez le médecin
+G.title: Une consultation médicale
+G.rule: Chez le médecin, on décrit ses symptômes. Le médecin pose des questions, examine le patient et donne une ordonnance avec des médicaments. || Ở chỗ bác sĩ, ta miêu tả triệu chứng. Bác sĩ đặt câu hỏi, khám bệnh và kê đơn thuốc.
+G.note: Các bước: prendre rendez-vous (đặt hẹn), décrire les symptômes (mô tả triệu chứng), le médecin examine (bác sĩ khám), fait une ordonnance (kê đơn), aller à la pharmacie (đến hiệu thuốc). Câu bác sĩ hay hỏi: Qu'est-ce qui ne va pas ? (Anh bị sao?), Depuis quand ? (Từ khi nào?), Vous avez de la fièvre ? Cách dùng thuốc: trois fois par jour (ba lần mỗi ngày), après les repas (sau bữa ăn), pendant cinq jours (trong năm ngày).
+G.table: Médecin | Patient
+G.row: Qu'est-ce qui ne va pas ? | J'ai mal au ventre.
+G.row: Depuis quand ? | Depuis trois jours.
+G.row: Vous avez de la fièvre ? | Oui, trente-huit.
+G.row: Prenez ce médicament trois fois par jour. | Avant ou après les repas ?
+G.ex: Je voudrais prendre rendez-vous avec le docteur Martin. || Tôi muốn đặt hẹn với bác sĩ Martin.
+G.ex: Le médecin m'examine et écoute mon cœur. || Bác sĩ khám và nghe tim cho tôi.
+G.ex: Prenez un comprimé trois fois par jour, après les repas. || Uống một viên ba lần mỗi ngày, sau bữa ăn.
+G.ex: Allez à la pharmacie avec cette ordonnance. || Hãy đến hiệu thuốc với đơn thuốc này.
+G.q: Le papier du médecin avec les médicaments s'appelle… | le rendez-vous | *l'ordonnance | la facture | le formulaire
+G.q: Avant d'aller chez le médecin, on… | achète des médicaments | *prend rendez-vous | va à la pharmacie | paie l'ordonnance
+G.q: « Trois fois par jour » veut dire… | tous les trois jours | *le matin, le midi et le soir | trois jours | trois heures
+G.q: Le médecin demande « Depuis quand ? » ; on répond… | Trois fois par jour. | *Depuis lundi. | À la pharmacie. | Le docteur Martin.
+G.q: On achète les médicaments à la ___. = pharmacie
+V: le médecin | /lə med.sɛ̃/ | nom m. | bác sĩ | Je vais chez le médecin. || Tôi đi khám bác sĩ.
+V: le rendez-vous | /lə ʁɑ̃.de.vu/ | nom m. | cuộc hẹn | J'ai rendez-vous à dix heures. || Tôi có hẹn lúc mười giờ.
+V: l'ordonnance | /lɔʁ.dɔ.nɑ̃s/ | nom f. | đơn thuốc | Voici votre ordonnance. || Đây là đơn thuốc của anh.
+V: le médicament | /lə me.di.ka.mɑ̃/ | nom m. | thuốc | Ce médicament est très efficace. || Thuốc này rất hiệu quả.
+V: le comprimé | /lə kɔ̃.pʁi.me/ | nom m. | viên thuốc | Prenez deux comprimés. || Uống hai viên.
+V: examiner | /ɛɡ.za.mi.ne/ | verbe | khám (bệnh) | Le médecin examine l'enfant. || Bác sĩ khám cho đứa trẻ.
+V: le symptôme | /lə sɛ̃p.tom/ | nom m. | triệu chứng | Quels sont vos symptômes ? || Triệu chứng của anh là gì?
+V: le patient | /lə pa.sjɑ̃/ | nom m. | bệnh nhân | Le patient attend dans la salle d'attente. || Bệnh nhân chờ ở phòng chờ.
+V: la santé | /la sɑ̃.te/ | nom f. | sức khoẻ | La santé, c'est important. || Sức khoẻ thật quan trọng.
+V: guérir | /ɡe.ʁiʁ/ | verbe | khỏi bệnh | Vous allez guérir rapidement. || Anh sẽ khỏi nhanh thôi.
+VQ: La personne malade chez le médecin est le… | médecin | *patient | pharmacien | rendez-vous
+VQ: Une petite pilule, c'est un… | sirop | *comprimé | rendez-vous | symptôme
+VQ: La fièvre et la toux sont des… | médicaments | *symptômes | ordonnances | rendez-vous
+VQ: Après le traitement, on va… | tomber malade | *guérir | examiner | tousser
+VQ: Le médecin écrit une ___ pour les médicaments. = ordonnance
+D: Je voudrais prendre rendez-vous.
+D: Qu'est-ce qui ne va pas ?
+D: Prenez un comprimé trois fois par jour.
+D: Voici votre ordonnance.
+L: Médecin | Bonjour, asseyez-vous. Qu'est-ce qui ne va pas ? || Chào anh, mời ngồi. Anh bị sao vậy?
+L: Patient | J'ai mal au ventre et j'ai envie de vomir. || Tôi bị đau bụng và buồn nôn.
+L: Médecin | Depuis quand ? || Từ khi nào?
+L: Patient | Depuis hier soir, après le dîner. || Từ tối qua, sau bữa tối.
+L: Médecin | Ce n'est pas grave, c'est une petite indigestion. Prenez ce médicament deux fois par jour. || Không nghiêm trọng đâu, chỉ là khó tiêu nhẹ. Uống thuốc này hai lần mỗi ngày.
+L: Patient | Merci docteur. Je peux manger normalement ? || Cảm ơn bác sĩ. Tôi có thể ăn uống bình thường không?
+LQ: Le patient a mal… | à la tête | *au ventre | au dos | aux dents
+LQ: Depuis quand ? | depuis une semaine | *depuis hier soir | depuis ce matin | depuis deux jours
+LQ: Le médicament se prend… | trois fois par jour | *deux fois par jour | une fois par semaine | le soir seulement
+RA: Je voudrais prendre rendez-vous.
+RA: Qu'est-ce qui ne va pas ? Depuis quand ?
+RA: Prenez ce médicament deux fois par jour.
+SH: J'ai mal au ventre depuis hier soir.
+SH: Ce n'est pas grave.
+SH: Merci docteur.
+R.title: La pharmacie en France
+R: En France, les pharmacies ont une grande croix verte lumineuse. || Ở Pháp, các hiệu thuốc có một chữ thập lớn màu xanh lá phát sáng.
+R: Pour beaucoup de médicaments, il faut une ordonnance du médecin. || Với nhiều loại thuốc, cần có đơn của bác sĩ.
+R: Le pharmacien donne aussi des conseils pour les petits problèmes de santé. || Dược sĩ cũng tư vấn cho những vấn đề sức khoẻ nhỏ.
+R: Le dimanche et la nuit, il y a toujours une pharmacie de garde ouverte. || Chủ Nhật và ban đêm, luôn có một hiệu thuốc trực mở cửa.
+R: Avec la carte Vitale, la Sécurité sociale rembourse une partie du prix. || Với thẻ Vitale, Bảo hiểm xã hội hoàn trả một phần tiền.
+R: C'est un système très pratique. || Đó là một hệ thống rất tiện lợi.
+RQ: Le symbole des pharmacies est… | une croix rouge | *une croix verte | un cœur | un comprimé
+RQ: La nuit, on peut aller à… | l'hôpital seulement | *la pharmacie de garde | la mairie | la poste
+RQ: Qui rembourse une partie du prix ? | le médecin | le pharmacien | *la Sécurité sociale | la banque
+W.prompt: Écris un dialogue chez le médecin : tes symptômes, depuis quand, et les conseils du médecin pour les médicaments. || Viết một đoạn hội thoại ở chỗ bác sĩ: triệu chứng của bạn, từ khi nào và lời dặn của bác sĩ về thuốc.
+W.min: 45
+W.must: depuis ; médicament ; fois par jour
+W.check: Có các câu hỏi của bác sĩ (Qu'est-ce qui ne va pas ? Depuis quand ?)
+W.check: avoir mal à + đúng mạo từ
+W.check: Cách dùng thuốc rõ ràng (… fois par jour, avant / après les repas)
+W.model: — Bonjour, qu'est-ce qui ne va pas ? || — Chào chị, chị bị sao vậy?
+W.model: — J'ai mal à la gorge et je tousse. || — Tôi bị đau họng và ho.
+W.model: — Depuis quand ? || — Từ khi nào?
+W.model: — Depuis trois jours. || — Từ ba ngày nay.
+W.model: — Vous avez de la fièvre ? || — Chị có sốt không?
+W.model: — Un peu, trente-sept et demi. || — Hơi sốt, ba mươi bảy rưỡi.
+W.model: — C'est un rhume. Prenez ce sirop trois fois par jour, après les repas. || — Chị bị cảm lạnh. Uống si-rô này ba lần mỗi ngày, sau bữa ăn.
+
+## 4 | L'impératif
+G.title: Donner un ordre ou une consigne
+G.rule: L'impératif sert à donner un ordre, un conseil ou une consigne. Il a trois personnes, tu, nous et vous, et on n'utilise pas de pronom sujet. || Thức mệnh lệnh dùng để ra lệnh, khuyên hoặc hướng dẫn. Nó có ba ngôi: tu, nous và vous, và không dùng đại từ chủ ngữ.
+G.note: Lấy dạng hiện tại rồi bỏ chủ ngữ: tu prends → Prends ! nous prenons → Prenons ! vous prenez → Prenez ! Động từ -er mất "s" ở ngôi tu: tu manges → Mange ! Phủ định: Ne mange pas ! Bất quy tắc: être → sois, soyons, soyez; avoir → aie, ayons, ayez. Thêm "s'il te plaît / s'il vous plaît" cho lịch sự.
+G.table: Verbe | tu | nous | vous
+G.row: parler | parle | parlons | parlez
+G.row: finir | finis | finissons | finissez
+G.row: prendre | prends | prenons | prenez
+G.row: aller | va | allons | allez
+G.row: être | sois | soyons | soyez
+G.ex: Ferme la porte, s'il te plaît ! || Đóng cửa lại giúp mình!
+G.ex: Prenez la deuxième rue à droite. || Hãy rẽ vào phố thứ hai bên phải.
+G.ex: Allons au cinéma ce soir ! || Tối nay chúng ta đi xem phim đi!
+G.ex: Ne parle pas trop fort ! || Đừng nói to quá!
+G.q: Impératif de « tu manges » : | Manges ! | *Mange ! | Tu mange ! | Mangez-tu !
+G.q: Impératif de « vous êtes calmes » : | Êtes calmes ! | *Soyez calmes ! | Sois calmes ! | Soyons calme !
+G.q: Négation : ___ fume pas ici ! | Pas | *Ne | Non | N'
+G.q: Pour proposer une activité ensemble, on utilise… | tu | vous | *nous | ils
+G.q: Impératif de « tu vas » : ___ ! = Va / va
+V: fermer | /fɛʁ.me/ | verbe | đóng | Fermez la fenêtre, il fait froid. || Đóng cửa sổ lại, trời lạnh.
+V: ouvrir | /u.vʁiʁ/ | verbe | mở | Ouvre la porte, s'il te plaît. || Mở cửa giúp mình.
+V: écouter | /e.ku.te/ | verbe | nghe | Écoutez bien ! || Hãy nghe kỹ!
+V: attendre | /a.tɑ̃dʁ/ | verbe | chờ | Attends-moi ! || Chờ mình với!
+V: tourner | /tuʁ.ne/ | verbe | rẽ | Tournez à gauche. || Rẽ trái.
+V: continuer | /kɔ̃.ti.nɥe/ | verbe | tiếp tục | Continuez tout droit. || Tiếp tục đi thẳng.
+V: fort | /fɔʁ/ | adverbe | to, mạnh | Parlez plus fort, je n'entends pas. || Nói to hơn, tôi không nghe thấy.
+V: doucement | /dus.mɑ̃/ | adverbe | nhẹ nhàng, chậm | Parle doucement, le bébé dort. || Nói khẽ thôi, em bé đang ngủ.
+V: la consigne | /la kɔ̃.siɲ/ | nom f. | lời hướng dẫn, yêu cầu | Lisez la consigne. || Hãy đọc yêu cầu đề bài.
+V: sage | /saʒ/ | adjectif | ngoan | Sois sage ! || Ngoan nhé!
+VQ: Le contraire de « ouvrir » : | tourner | *fermer | attendre | écouter
+VQ: Le contraire de « fort » (parler) : | vite | *doucement | tard | bien
+VQ: Pour dire à un enfant de bien se comporter : | Sois fort ! | *Sois sage ! | Ouvre ! | Tourne !
+VQ: Dans un exercice, on lit d'abord la… | correction | *consigne | réponse | note
+VQ: Impératif de « vous attendez » : ___ ! = Attendez / attendez
+D: Ferme la porte, s'il te plaît.
+D: Prenez la deuxième rue à droite.
+D: Allons au cinéma !
+D: Ne parle pas trop fort.
+L: Mère | Les enfants, écoutez-moi ! Je pars au travail. || Các con, nghe mẹ nói này! Mẹ đi làm đây.
+L: Fils | Oui, maman. || Vâng, mẹ.
+L: Mère | Faites vos devoirs et ne regardez pas trop la télé. || Làm bài tập đi và đừng xem ti vi nhiều quá.
+L: Fille | D'accord. Et pour le déjeuner ? || Vâng. Còn bữa trưa thì sao ạ?
+L: Mère | Mangez la soupe dans le frigo. Et soyez sages ! || Ăn súp trong tủ lạnh nhé. Và ngoan nhé!
+L: Fils | Promis ! À ce soir, maman ! || Bọn con hứa! Hẹn tối nay mẹ nhé!
+LQ: La mère demande aux enfants de faire… | le ménage | *leurs devoirs | les courses | la cuisine
+LQ: Pour le déjeuner, ils mangent… | une pizza | *la soupe dans le frigo | des sandwichs | au restaurant
+LQ: La mère dit aussi… | « Sortez ! » | *« Soyez sages ! » | « Dormez ! » | « Téléphonez-moi ! »
+RA: Parle ! Parlons ! Parlez !
+RA: Prends ! Prenons ! Prenez !
+RA: Sois sage ! Soyez sages !
+SH: Écoutez-moi !
+SH: Ne regardez pas trop la télé.
+SH: Soyez sages !
+R.title: Les consignes de l'examen
+R: Lisez attentivement les consignes. || Hãy đọc kỹ các yêu cầu.
+R: Écrivez votre nom en haut de la feuille. || Viết tên của bạn ở đầu tờ giấy.
+R: N'utilisez pas votre téléphone pendant l'examen. || Không sử dụng điện thoại trong khi thi.
+R: Répondez à toutes les questions. || Trả lời tất cả các câu hỏi.
+R: Vous avez une heure : ne perdez pas de temps ! || Bạn có một tiếng: đừng lãng phí thời gian!
+R: Relisez vos réponses avant de rendre la copie. Bonne chance ! || Đọc lại câu trả lời trước khi nộp bài. Chúc may mắn!
+RQ: Où faut-il écrire son nom ? | en bas de la feuille | *en haut de la feuille | au dos | sur le téléphone
+RQ: Qu'est-ce qui est interdit ? | écrire | *utiliser le téléphone | répondre | relire
+RQ: Combien de temps dure l'examen ? | trente minutes | *une heure | deux heures | toute la journée
+W.prompt: Écris des conseils pour un nouvel étudiant dans ta ville ou ton école. Utilise l'impératif avec tu, puis avec vous. || Viết lời khuyên cho một sinh viên mới ở thành phố hoặc trường của bạn. Dùng thức mệnh lệnh với tu, rồi với vous.
+W.min: 40
+W.must: prends ; n'oublie pas
+W.check: Không dùng chủ ngữ ở thức mệnh lệnh
+W.check: Động từ -er ở ngôi tu không có -s (mange, parle)
+W.check: Phủ định: Ne + động từ + pas
+W.model: Bienvenue à Hanoï ! || Chào mừng đến Hà Nội!
+W.model: Prends le bus, c'est pratique et pas cher. || Hãy đi xe buýt, tiện và không đắt.
+W.model: Mange dans les petits restaurants de rue, c'est délicieux. || Hãy ăn ở các quán vỉa hè, ngon lắm.
+W.model: N'oublie pas ton parapluie en été ! || Đừng quên ô vào mùa hè nhé!
+W.model: Visitez le lac Hoan Kiem le week-end. || Hãy tham quan hồ Hoàn Kiếm vào cuối tuần.
+W.model: Et ne traversez pas la rue trop vite ! || Và đừng băng qua đường quá nhanh!
+
+## 5 | Les conseils simples
+G.title: Donner des conseils
+G.rule: Pour donner un conseil, on peut utiliser l'impératif, il faut + infinitif, ou tu dois + infinitif. Pour une interdiction, on dit il ne faut pas. || Để khuyên, ta có thể dùng thức mệnh lệnh, il faut + nguyên thể, hoặc tu dois + nguyên thể. Để cấm, ta nói il ne faut pas.
+G.note: Il faut (cần phải) là cấu trúc không ngôi, chỉ dùng với "il": Il faut dormir huit heures. Devoir (phải): je dois, tu dois, il doit, nous devons, vous devez, ils doivent. Mức độ: "Il faut / Tu dois" (bắt buộc) mạnh hơn mệnh lệnh nhẹ "Bois de l'eau". "Il ne faut pas" = không được (cấm), khác "pas besoin de" (không cần).
+G.table: Structure | Exemple
+G.row: impératif | Bois beaucoup d'eau.
+G.row: il faut + infinitif | Il faut dormir huit heures.
+G.row: devoir + infinitif | Tu dois faire du sport.
+G.row: il ne faut pas | Il ne faut pas fumer.
+G.ex: Pour être en forme, il faut manger des fruits et des légumes. || Để khoẻ mạnh, cần ăn trái cây và rau.
+G.ex: Tu dois dormir plus, tu es fatigué. || Bạn phải ngủ nhiều hơn, bạn mệt rồi.
+G.ex: Il ne faut pas manger trop de sucre. || Không nên ăn quá nhiều đường.
+G.ex: Faites du sport trois fois par semaine. || Hãy chơi thể thao ba lần mỗi tuần.
+G.q: Il faut ___ beaucoup d'eau. | bois | *boire | buvez | bu
+G.q: Vous ___ faire attention. | doit | *devez | devons | doivent
+G.q: « Il ne faut pas fumer » veut dire… | on peut fumer | *c'est interdit / déconseillé de fumer | il faut fumer | on fume peu
+G.q: Après « il faut », le verbe est… | conjugué | *à l'infinitif | à l'impératif | au futur
+G.q: Complétez : Nous ___ (devoir) partir maintenant. = devons
+V: le conseil | /lə kɔ̃.sɛj/ | nom m. | lời khuyên | Je te donne un conseil. || Tôi cho bạn một lời khuyên.
+V: il faut | /il fo/ | expression | cần phải | Il faut se reposer. || Cần phải nghỉ ngơi.
+V: devoir | /də.vwaʁ/ | verbe | phải | Tu dois prendre tes médicaments. || Bạn phải uống thuốc.
+V: en forme | /ɑ̃ fɔʁm/ | expression | khoẻ khoắn | Je suis en forme aujourd'hui ! || Hôm nay tôi rất khoẻ!
+V: se reposer | /sə ʁə.po.ze/ | verbe | nghỉ ngơi | Reposez-vous bien. || Hãy nghỉ ngơi cho tốt.
+V: boire | /bwaʁ/ | verbe | uống | Il faut boire deux litres d'eau par jour. || Cần uống hai lít nước mỗi ngày.
+V: le stress | /lə stʁɛs/ | nom m. | căng thẳng | Le sport réduit le stress. || Thể thao giảm căng thẳng.
+V: équilibré | /e.ki.li.bʁe/ | adjectif | cân bằng | Un repas équilibré. || Một bữa ăn cân bằng.
+V: éviter | /e.vi.te/ | verbe | tránh | Évitez les aliments trop gras. || Hãy tránh thức ăn quá nhiều dầu mỡ.
+V: gras | /ɡʁa/ | adjectif | béo, nhiều mỡ | Les frites sont grasses. || Khoai tây chiên nhiều dầu mỡ.
+VQ: Quand on est très fatigué, il faut… | courir | *se reposer | boire du café | travailler plus
+VQ: Une alimentation avec de tout en bonne quantité est… | grasse | *équilibrée | sucrée | rapide
+VQ: « Évitez le sucre » veut dire… | mangez beaucoup de sucre | *ne mangez pas trop de sucre | achetez du sucre | cuisinez avec du sucre
+VQ: Le sport et le sommeil réduisent le… | sucre | *stress | gras | conseil
+VQ: Tu ___ (devoir) dormir plus. = dois
+D: Il faut boire beaucoup d'eau.
+D: Tu dois dormir plus.
+D: Il ne faut pas fumer.
+D: Faites du sport trois fois par semaine.
+L: Lan | Je suis toujours fatiguée en ce moment… || Dạo này mình lúc nào cũng mệt…
+L: Coach | Tu dors combien d'heures par nuit ? || Bạn ngủ mấy tiếng mỗi đêm?
+L: Lan | Cinq ou six heures. Je travaille tard. || Năm hay sáu tiếng. Mình làm việc muộn.
+L: Coach | Ce n'est pas assez ! Il faut dormir sept ou huit heures. || Như vậy không đủ! Cần ngủ bảy hay tám tiếng.
+L: Lan | Et pour l'énergie ? || Còn để có năng lượng?
+L: Coach | Mange des fruits, bois de l'eau et fais une promenade chaque jour. || Ăn trái cây, uống nước và đi dạo mỗi ngày.
+LQ: Combien d'heures dort Lan ? | quatre heures | *cinq ou six heures | huit heures | dix heures
+LQ: Pourquoi dort-elle peu ? | elle est malade | *elle travaille tard | elle regarde la télé | elle a un bébé
+LQ: Le coach conseille de… | boire du café | *manger des fruits et marcher | travailler plus | dormir l'après-midi
+RA: Il faut dormir huit heures.
+RA: Tu dois faire du sport.
+RA: Il ne faut pas manger trop de sucre.
+SH: Je suis toujours fatiguée.
+SH: Il faut dormir sept ou huit heures.
+SH: Bois de l'eau et fais une promenade.
+R.title: Dix conseils pour être en bonne santé
+R: Il faut manger cinq fruits et légumes par jour. || Cần ăn năm phần trái cây và rau mỗi ngày.
+R: Buvez de l'eau, pas de sodas. || Hãy uống nước, đừng uống nước ngọt có ga.
+R: Il ne faut pas rester assis toute la journée. || Không nên ngồi suốt cả ngày.
+R: Marchez au moins trente minutes par jour. || Hãy đi bộ ít nhất ba mươi phút mỗi ngày.
+R: Vous devez dormir sept à huit heures par nuit et éviter les écrans le soir. || Bạn phải ngủ bảy đến tám tiếng mỗi đêm và tránh màn hình vào buổi tối.
+R: Enfin, riez et voyez vos amis : le bonheur, c'est aussi la santé ! || Cuối cùng, hãy cười và gặp gỡ bạn bè: hạnh phúc cũng là sức khoẻ!
+RQ: Combien de fruits et légumes par jour ? | trois | *cinq | sept | dix
+RQ: Il faut marcher au moins… | dix minutes | *trente minutes | une heure | deux heures
+RQ: Le soir, il faut éviter… | l'eau | les amis | *les écrans | les fruits
+W.prompt: Ton ami est stressé et fatigué. Écris-lui cinq conseils avec l'impératif, il faut, tu dois et il ne faut pas. || Bạn của bạn đang căng thẳng và mệt mỏi. Viết cho bạn ấy năm lời khuyên với thức mệnh lệnh, il faut, tu dois và il ne faut pas.
+W.min: 40
+W.must: il faut ; tu dois ; il ne faut pas
+W.check: Sau il faut / devoir dùng động từ nguyên thể
+W.check: Chia đúng devoir: tu dois, vous devez
+W.check: Đa dạng cấu trúc (không lặp lại một mẫu)
+W.model: Salut Nam, tu as l'air fatigué en ce moment. || Chào Nam, dạo này trông bạn mệt mỏi.
+W.model: D'abord, tu dois dormir plus. || Trước hết, bạn phải ngủ nhiều hơn.
+W.model: Il faut aussi faire du sport, par exemple du yoga. || Cũng cần chơi thể thao, ví dụ như yoga.
+W.model: Mange bien et bois beaucoup d'eau. || Ăn uống đầy đủ và uống nhiều nước.
+W.model: Il ne faut pas travailler le soir. || Không nên làm việc buổi tối.
+W.model: Et le week-end, sors avec tes amis ! || Và cuối tuần, hãy đi chơi với bạn bè!

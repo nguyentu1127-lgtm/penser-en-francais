@@ -1368,3 +1368,208 @@ la mousse | nom f. | bánh mousse; bọt
 le pain au chocolat | nom m. | bánh mì nhân sô cô la
 le jus d'orange | nom m. | nước cam
 la pièce | nom f. | phòng; đồng xu; vở kịch
+l'action | nom f. | hành động
+l'affaire | nom f. | việc; món hàng (une bonne affaire: món hời); (les affaires) đồ đạc, công việc kinh doanh
+l'anorak | nom m. | áo khoác gió
+@er augmenter | tăng lên
+bancaire | adjectif | (thuộc) ngân hàng
+le biscuit | nom m. | bánh quy
+la botte | nom f. | ủng, bốt
+la cabine | nom f. | buồng (cabine d'essayage: phòng thử đồ)
+la casquette | nom f. | mũ lưỡi trai
+la ceinture | nom f. | thắt lưng
+la centaine | nom f. | khoảng một trăm
+le centre | nom m. | trung tâm
+la cerise | nom f. | quả anh đào
+la chaussette | nom f. | chiếc tất
+commercial | adjectif | thương mại
+la crêpe | nom f. | bánh crêpe
+@v cueillir | hái | cueille,cueilles,cueille,cueillons,cueillez,cueillent | cueilli | cueill | cueiller
+la farine | nom f. | bột mì
+foncé | adjectif | đậm, sẫm (màu)
+clair | adjectif | nhạt (màu); sáng
+gratuitement | adverbe | miễn phí
+@er hésiter | do dự, phân vân
+la laine | nom f. | len
+la liberté | nom f. | sự tự do
+le libraire | nom m. | người bán sách
+la liste | nom f. | danh sách
+la longueur | nom f. | chiều dài
+le lycée | nom m. | trường trung học phổ thông
+le maillot de bain | nom m. | đồ bơi
+le marchand | nom m. | người bán hàng
+la mode | nom f. | thời trang (à la mode: hợp mốt)
+original | adjectif | độc đáo
+la pincée | nom f. | nhúm (muối…)
+le poissonnier | nom m. | người bán cá
+la poêle | nom f. | chảo
+proche | adjectif | gần
+la pâte | nom f. | bột nhào
+sauf | préposition | ngoại trừ
+le shopping | nom m. | việc mua sắm
+le short | nom m. | quần soóc
+le soulier | nom m. | giày
+la tendance | nom f. | xu hướng
+l'uniforme | nom m. | đồng phục
+la virgule | nom f. | dấu phẩy
+le vêtement | nom m. | quần áo (một món)
+éloigné | adjectif | ở xa
+l'áo dài | nom m. | áo dài (trang phục Việt Nam)
+dài | mot vietnamien | (áo dài) trang phục truyền thống Việt Nam
+le pour cent | nom m. | phần trăm
+l'accueil | nom m. | sự tiếp đón; quầy lễ tân
+le canal | nom m. | con kênh
+la capacité | nom f. | khả năng
+la cathédrale | nom f. | nhà thờ lớn
+celle-ci | pronom | cái này, người này (giống cái)
+celui-ci | pronom | cái này, người này (giống đực)
+le château | nom m. | lâu đài
+la colline | nom f. | ngọn đồi
+dangereux | adjectif | nguy hiểm
+le distributeur | nom m. | máy rút tiền; máy bán hàng
+la décision | nom f. | quyết định
+le désir | nom m. | mong muốn
+la facture | nom f. | hoá đơn
+le flash | nom m. | đèn flash
+@ir fleurir | nở hoa (fleuri: đầy hoa)
+le fleuve | nom m. | con sông lớn
+@er fonctionner | hoạt động, vận hành
+horrible | adjectif | kinh khủng
+@er indiquer | chỉ ra
+les mathématiques | nom f. pl. | toán học
+le moyen | nom m. | phương tiện; cách
+la permission | nom f. | sự cho phép
+pratique | adjectif | tiện lợi
+@v redire | nói lại | redis,redis,redit,redisons,redites,redisent | redit | redis | redir
+le regret | nom m. | sự tiếc nuối
+le résultat | nom m. | kết quả
+le terminus | nom m. | ga cuối
+le transport | nom m. | giao thông, vận tải
+@er échouer | thất bại, thi trượt
+les études | nom f. pl. | việc học
+l'œuvre | nom f. | tác phẩm
+le compte | nom m. | tài khoản
+or | nom m. | vàng (kim loại)
+la partie | nom f. | phần
+écrit | adjectif / nom m. | (bằng) viết; phần thi viết
+le point | nom m. | điểm
+dommage | nom m. | (C'est dommage ! / Dommage !) Tiếc quá!
+l'heure de pointe | nom f. | giờ cao điểm
+la pointe | nom f. | đầu nhọn (heure de pointe: giờ cao điểm)
+le quai | nom m. | sân ga
+sois | verbe | (être, mệnh lệnh, tu) hãy là, hãy…
+soyons | verbe | (être, mệnh lệnh, nous) chúng ta hãy…
+soyez | verbe | (être, mệnh lệnh, vous) hãy…
+aie | verbe | (avoir, mệnh lệnh, tu) hãy có
+ayons | verbe | (avoir, mệnh lệnh, nous) chúng ta hãy có
+ayez | verbe | (avoir, mệnh lệnh, vous) hãy có
+va | verbe | (aller) đi — hiện tại il/elle; mệnh lệnh tu
+l'adulte | nom m./f. | người lớn
+l'alimentation | nom f. | chế độ ăn uống
+l'aliment | nom m. | thực phẩm
+l'attente | nom f. | sự chờ đợi (salle d'attente: phòng chờ)
+attentivement | adverbe | một cách chăm chú
+@re battre | đập, đánh (le cœur bat: tim đập)
+le bonbon | nom m. | kẹo
+le bonheur | nom m. | hạnh phúc
+la boucle d'oreille | nom f. | khuyên tai
+la boucle | nom f. | vòng, khoen
+le centimètre | nom m. | xăng-ti-mét
+le millimètre | nom m. | mi-li-mét
+le certificat | nom m. | giấy chứng nhận
+la chance | nom f. | may mắn (Bonne chance ! Chúc may mắn!)
+le coach | nom m. | huấn luyện viên
+@er comporter | (se comporter) cư xử
+la copie | nom f. | bài làm (thi); bản sao
+la correction | nom f. | sự sửa bài
+@er couler | chảy (le nez qui coule: sổ mũi)
+la croix | nom f. | chữ thập
+le docteur | nom m. | bác sĩ
+@er déconseiller | khuyên không nên
+défini | adjectif | xác định
+efficace | adjectif | hiệu quả
+l'estomac | nom m. | dạ dày
+extraordinaire | adjectif | phi thường
+gras | adjectif | béo, nhiều dầu mỡ
+la gymnastique | nom f. | thể dục
+le haut | nom m. | phần trên (en haut: ở trên)
+humain | adjectif | (thuộc) con người
+l'impératif | nom m. | thức mệnh lệnh
+l'indigestion | nom f. | chứng khó tiêu
+l'interdiction | nom f. | sự cấm đoán
+@v mentir | nói dối | mens,mens,ment,mentons,mentez,mentent | menti | ment | mentir
+le muscle | nom m. | cơ bắp
+médical | adjectif | (thuộc) y tế
+normalement | adverbe | bình thường
+le papier | nom m. | giấy
+partout | adverbe | khắp nơi
+la pilule | nom f. | viên thuốc
+rapidement | adverbe | nhanh chóng
+@v relire | đọc lại | relis,relis,relit,relisons,relisez,relisent | relu | relis | relir
+@er rembourser | hoàn tiền
+le responsable | nom m. | người phụ trách
+@v réduire | giảm | réduis,réduis,réduit,réduisons,réduisez,réduisent | réduit | réduis | réduir
+le sirop | nom m. | si-rô
+social | adjectif | xã hội (la Sécurité sociale: bảo hiểm xã hội)
+le soda | nom m. | nước ngọt có ga
+le sommeil | nom m. | giấc ngủ
+@er stresser | gây căng thẳng (stressé: căng thẳng)
+le symbole | nom m. | biểu tượng
+le système | nom m. | hệ thống
+la toux | nom f. | cơn ho
+le traitement | nom m. | sự điều trị
+@ir vomir | nôn
+l'écran | nom m. | màn hình
+l'énergie | nom f. | năng lượng
+la garde | nom f. | sự canh giữ (pharmacie de garde: hiệu thuốc trực)
+cordialement | adverbe | (cuối thư) trân trọng
+la compréhension | nom f. | sự thông cảm; sự hiểu
+le genou | nom m. | đầu gối
+l'astuce | nom f. | mẹo
+bienvenue | interjection | chào mừng
+le blog | nom m. | blog
+clairement | adverbe | rõ ràng
+complet | adjectif | đầy đủ, hoàn chỉnh
+la culture | nom f. | văn hoá
+le dessin | nom m. | bức vẽ
+le document | nom m. | tài liệu
+@er effacer | xoá
+entier | adjectif | toàn bộ (le monde entier: toàn thế giới)
+l'examinateur | nom m. | giám khảo
+@v frire | rán, chiên | fris,fris,frit,- | frit | fris | frir
+@er identifier | xác định
+l'identité | nom f. | danh tính
+indéfini | adjectif | không xác định
+l'interview | nom f. | cuộc phỏng vấn
+le lapin | nom m. | con thỏ
+@er mémoriser | ghi nhớ
+normal | adjectif | bình thường
+l'opposition | nom f. | sự đối lập
+l'oral | nom m. | phần thi nói
+oral | adjectif | (bằng) lời nói
+l'origine | nom f. | nguồn gốc
+le plaisir | nom m. | niềm vui (avec plaisir: rất sẵn lòng)
+la planète | nom f. | hành tinh
+le portefeuille | nom m. | cái ví
+la production | nom f. | sự sản xuất; (production écrite) phần viết
+@er prouver | chứng minh
+la présentation | nom f. | bài giới thiệu
+la recette | nom f. | công thức nấu ăn
+@v relier | nối | relie,relies,relie,relions,reliez,relient | relié | reli | relier
+@er ressembler | giống
+le réseau | nom m. | mạng lưới (réseau social: mạng xã hội)
+sauvage | adjectif | hoang dã
+utile | adjectif | hữu ích
+valable | adjectif | có giá trị
+la voix | nom f. | giọng nói
+énormément | adverbe | cực kỳ nhiều
+le bánh xèo | nom m. | bánh xèo
+paresseux | adjectif | lười
+la photographie | nom f. | nhiếp ảnh
+le témoin | nom m. | nhân chứng
+le fond | nom m. | đáy, cuối (au fond de)
+@er jardiner | làm vườn
+la conductrice | nom f. | người lái xe (nữ)
+le recruteur | nom m. | nhà tuyển dụng
+l'Europe | nom f. | châu Âu
+cuisinière | nom f. | đầu bếp (nữ); bếp nấu

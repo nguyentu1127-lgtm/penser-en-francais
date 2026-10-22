@@ -698,7 +698,7 @@ function expandDict(raw) {
   const PERS = ['je', 'tu', 'il/elle', 'nous', 'vous', 'ils/elles'];
   const IMP = ['ais', 'ais', 'ait', 'ions', 'iez', 'aient'], FUT = ['ai', 'as', 'a', 'ons', 'ez', 'ont'];
   for (const [inf, vi, pres, pp, imp, fut] of raw.v) {
-    const add = (f, label) => { f = f.toLowerCase(); if (!D[f]) D[f] = { l: inf, p: 'verbe', v: `${vi} — ${label}` }; };
+    const add = (f, label) => { if (!f || f === '-') return; f = f.toLowerCase(); if (!D[f]) D[f] = { l: inf, p: 'verbe', v: `${vi} — ${label}` }; };
     D[inf] = { l: inf, p: 'verbe (nguyên thể)', v: vi };
     for (const pre of ['se ', "s'"]) if (inf.startsWith(pre)) D[inf.slice(pre.length)] = D[inf];
     const ps = pres.split(',');

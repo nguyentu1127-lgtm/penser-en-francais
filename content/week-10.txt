@@ -1,0 +1,380 @@
+@week 10
+@title En ville
+@level A1
+
+## 1 | Les lieux de la ville
+G.title: Situer un lieu en ville
+G.rule: Pour demander si un lieu existe près d'ici, on dit « Il y a un… près d'ici ? ». Pour demander où il est, on dit « Où est le… ? ». || Để hỏi gần đây có một địa điểm nào không, ta nói « Il y a un… près d'ici ? ». Để hỏi nó ở đâu, ta nói « Où est le… ? ».
+G.note: "Il y a une banque près d'ici ?" (gần đây có ngân hàng nào không — chưa biết có hay không, dùng un/une). "Où est la banque ?" (ngân hàng ở đâu — một ngân hàng cụ thể, dùng le/la). Trả lời với giới từ nơi chốn đã học: en face de, à côté de, au coin de la rue (ở góc phố), au bout de la rue (ở cuối phố).
+G.table: Question | Réponse
+G.row: Il y a une pharmacie près d'ici ? | Oui, au coin de la rue.
+G.row: Où est la gare ? | Elle est en face du parc.
+G.row: C'est loin ? | Non, c'est à cinq minutes à pied.
+G.row: Où se trouve la mairie ? | Elle se trouve sur la place.
+G.ex: Excusez-moi, il y a une banque près d'ici ? || Xin lỗi, gần đây có ngân hàng nào không?
+G.ex: La poste est au bout de la rue. || Bưu điện ở cuối phố.
+G.ex: L'hôpital se trouve en face de la gare. || Bệnh viện nằm đối diện nhà ga.
+G.ex: C'est à dix minutes à pied. || Đi bộ mất mười phút.
+G.q: ___ une pharmacie près d'ici ? | Où est | *Il y a | C'est | Est-il
+G.q: Où ___ la gare ? | sont | *est | a | va
+G.q: « Au bout de la rue » veut dire… | au début de la rue | *à la fin de la rue | au milieu de la rue | dans une autre rue
+G.q: Le bâtiment du maire, c'est… | la poste | *la mairie | la gare | le musée
+G.q: Complétez : C'est à cinq minutes à ___. = pied
+V: la mairie | /la mɛ.ʁi/ | nom f. | toà thị chính | La mairie est sur la place. || Toà thị chính nằm trên quảng trường.
+V: la place | /la plas/ | nom f. | quảng trường | Il y a un marché sur la place. || Có một khu chợ trên quảng trường.
+V: la gare | /la ɡaʁ/ | nom f. | nhà ga | La gare est loin du centre. || Nhà ga xa trung tâm.
+V: l'église | /le.ɡliz/ | nom f. | nhà thờ | L'église est très ancienne. || Nhà thờ rất cổ.
+V: le pont | /lə pɔ̃/ | nom m. | cây cầu | On traverse le pont. || Chúng ta đi qua cầu.
+V: le centre-ville | /lə sɑ̃tʁ.vil/ | nom m. | trung tâm thành phố | J'habite au centre-ville. || Tôi sống ở trung tâm thành phố.
+V: se trouver | /sə tʁu.ve/ | verbe | nằm ở | Le musée se trouve près du fleuve. || Bảo tàng nằm gần con sông.
+V: le coin | /lə kwɛ̃/ | nom m. | góc | Le café est au coin de la rue. || Quán cà phê ở góc phố.
+V: le bout | /lə bu/ | nom m. | đầu, cuối | Au bout de la rue, tournez à droite. || Ở cuối phố, rẽ phải.
+V: le cinéma | /lə si.ne.ma/ | nom m. | rạp chiếu phim | Le cinéma est à côté du parc. || Rạp chiếu phim ở bên cạnh công viên.
+VQ: On prend le train à la… | mairie | *gare | place | poste
+VQ: Pour traverser la rivière, on prend le… | coin | *pont | bout | métro de la rivière
+VQ: On se marie à la mairie et parfois à l'… | gare | *église | école | hôpital
+VQ: « Se trouver » veut dire… | chercher | *être situé | trouver un objet | perdre
+VQ: Le centre de la ville, c'est le ___. = centre-ville
+D: Il y a une banque près d'ici ?
+D: La poste est au bout de la rue.
+D: La mairie se trouve sur la place.
+D: C'est à dix minutes à pied.
+L: Touriste | Excusez-moi, il y a un distributeur près d'ici ? || Xin lỗi, gần đây có cây rút tiền nào không?
+L: Passante | Oui, il y a une banque au coin de la rue. || Có, có một ngân hàng ở góc phố.
+L: Touriste | Merci ! Et où est la cathédrale ? || Cảm ơn! Còn nhà thờ lớn ở đâu?
+L: Passante | Elle se trouve sur la place du Marché, derrière la mairie. || Nó nằm trên quảng trường Chợ, phía sau toà thị chính.
+L: Touriste | C'est loin ? || Có xa không?
+L: Passante | Non, c'est à cinq minutes à pied. || Không, đi bộ năm phút.
+LQ: Le touriste cherche d'abord… | une poste | *un distributeur | un hôtel | un taxi
+LQ: Où se trouve la cathédrale ? | devant la mairie | *derrière la mairie | à côté de la gare | au bout de la rue
+LQ: La cathédrale est à… | dix minutes en bus | *cinq minutes à pied | quinze minutes à pied | une heure
+RA: la mairie, la place, la gare, l'église.
+RA: au coin de la rue, au bout de la rue.
+RA: C'est à cinq minutes à pied.
+SH: Il y a une banque près d'ici ?
+SH: Elle se trouve derrière la mairie.
+SH: C'est loin ? Non, c'est tout près.
+R.title: Bienvenue à Annecy
+R: Annecy est une petite ville des Alpes, au bord d'un lac magnifique. || Annecy là một thị trấn nhỏ ở dãy Alpes, bên bờ một hồ nước tuyệt đẹp.
+R: Le centre-ville est ancien, avec des canaux et des ponts fleuris. || Trung tâm thị trấn cổ kính, với những con kênh và những cây cầu đầy hoa.
+R: Le château se trouve sur une colline, au-dessus de la vieille ville. || Lâu đài nằm trên một ngọn đồi, phía trên khu phố cổ.
+R: La gare est à dix minutes à pied du lac. || Nhà ga cách hồ mười phút đi bộ.
+R: Le marché a lieu sur la place le mardi, le vendredi et le dimanche. || Chợ họp trên quảng trường vào thứ Ba, thứ Sáu và Chủ Nhật.
+R: C'est une ville parfaite pour une promenade. || Đó là một thị trấn hoàn hảo để đi dạo.
+RQ: Annecy se trouve au bord… | de la mer | *d'un lac | d'une rivière | d'une forêt
+RQ: Où se trouve le château ? | près de la gare | *sur une colline | sur la place | au bord du lac
+RQ: Le marché a lieu… | tous les jours | *trois jours par semaine | le samedi seulement | le lundi
+W.prompt: Présente le centre de ta ville : trois lieux importants et où ils se trouvent. || Giới thiệu trung tâm thành phố của bạn: ba địa điểm quan trọng và vị trí của chúng.
+W.min: 40
+W.must: se trouve ; près de
+W.check: Dùng giới từ nơi chốn (en face de, à côté de, près de…)
+W.check: de + le → du (à côté du parc)
+W.check: Có khoảng cách: C'est à … minutes à pied / en bus
+W.model: J'habite à Huê, une ville au centre du Viêt Nam. || Tôi sống ở Huế, một thành phố ở miền Trung Việt Nam.
+W.model: La citadelle se trouve au nord de la rivière des Parfums. || Kinh thành nằm ở phía bắc sông Hương.
+W.model: Le marché Dong Ba est à côté du pont Truong Tien. || Chợ Đông Ba ở bên cạnh cầu Trường Tiền.
+W.model: La gare se trouve au sud, près du centre-ville. || Nhà ga nằm ở phía nam, gần trung tâm thành phố.
+W.model: Du marché à la citadelle, c'est à quinze minutes à pied. || Từ chợ đến kinh thành đi bộ mất mười lăm phút.
+
+## 2 | Les transports
+G.title: Prendre un moyen de transport
+G.rule: On utilise prendre + le, la, l' + transport : je prends le bus, je prends le train. Pour dire comment on voyage, on dit en ou à. || Ta dùng prendre + le, la, l' + phương tiện: je prends le bus, je prends le train. Để nói mình đi bằng gì, ta dùng en hoặc à.
+G.note: Prendre là động từ bất quy tắc: je prends, tu prends, il prend, nous prenons, vous prenez, ils prennent. Với phương tiện "bên trong" (ngồi trong): en bus, en voiture, en train, en avion, en métro. Với phương tiện "ngồi trên" hoặc đi bộ: à pied, à vélo, à moto, à cheval (người Pháp nói trẻ thường nghe "en vélo" nhưng chuẩn là "à vélo").
+G.table: Pronom | Prendre
+G.row: je | prends
+G.row: tu | prends
+G.row: il / elle | prend
+G.row: nous | prenons
+G.row: vous | prenez
+G.row: ils / elles | prennent
+G.ex: Je prends le bus pour aller au travail. || Tôi đi xe buýt đi làm.
+G.ex: Nous prenons le train de huit heures. || Chúng tôi đi chuyến tàu tám giờ.
+G.ex: Ils prennent un taxi parce qu'il pleut. || Họ đi taxi vì trời mưa.
+G.ex: Mon père va au bureau à moto. || Bố tôi đi làm bằng xe máy.
+G.q: Nous ___ le métro. | prendons | *prenons | prennons | prenez
+G.q: Ils ___ l'avion demain. | prend | prenent | *prennent | prenons
+G.q: Je vais à l'école ___ vélo. | en | *à | au | par
+G.q: Elle va à Lyon ___ train. | à | *en | au | par le
+G.q: Complétez : Vous ___ un taxi ? = prenez
+V: prendre | /pʁɑ̃dʁ/ | verbe | lấy, đi (xe) | Je prends le bus. || Tôi đi xe buýt.
+V: le bus | /lə bys/ | nom m. | xe buýt | Le bus est en retard. || Xe buýt bị trễ.
+V: le métro | /lə me.tʁo/ | nom m. | tàu điện ngầm | À Paris, je prends le métro. || Ở Paris, tôi đi tàu điện ngầm.
+V: le taxi | /lə tak.si/ | nom m. | taxi | On prend un taxi ? || Mình đi taxi nhé?
+V: la moto | /la mɔ.to/ | nom f. | xe máy | Au Viêt Nam, beaucoup de gens ont une moto. || Ở Việt Nam, nhiều người có xe máy.
+V: le tramway | /lə tʁam.wɛ/ | nom m. | tàu điện mặt đất | Le tramway traverse la ville. || Tàu điện chạy xuyên thành phố.
+V: l'arrêt | /la.ʁɛ/ | nom m. | điểm dừng | L'arrêt de bus est devant l'école. || Điểm dừng xe buýt ở trước trường.
+V: le ticket | /lə ti.kɛ/ | nom m. | vé | Un ticket de métro coûte deux euros. || Một vé tàu điện ngầm giá hai euro.
+V: les embouteillages | /le.z‿ɑ̃.bu.tɛ.jaʒ/ | nom m. pl. | tắc đường | Il y a des embouteillages le matin. || Buổi sáng có tắc đường.
+V: rapide | /ʁa.pid/ | adjectif | nhanh | Le métro est rapide. || Tàu điện ngầm nhanh.
+VQ: Quand il y a beaucoup de voitures et qu'on n'avance pas, il y a des… | arrêts | tickets | *embouteillages | métros
+VQ: On attend le bus à l'… | *arrêt | gare de train | aéroport | ticket
+VQ: Le contraire de « rapide » : | grand | *lent | cher | loin
+VQ: Pour prendre le métro, il faut un… | arrêt | *ticket | moto | pont
+VQ: Le moyen de transport le plus courant au Viêt Nam : la ___. = moto
+D: Je prends le bus pour aller au travail.
+D: Nous prenons le métro.
+D: Il va au bureau à moto.
+D: L'arrêt de bus est devant l'école.
+L: Collègue | Comment tu viens au bureau ? || Bạn đến văn phòng bằng gì?
+L: Nam | Je prends le métro. C'est rapide. Et toi ? || Mình đi tàu điện ngầm. Nhanh lắm. Còn bạn?
+L: Collègue | Moi, je viens en voiture. || Mình thì đi ô tô.
+L: Nam | Il n'y a pas trop d'embouteillages ? || Không bị tắc đường nhiều à?
+L: Collègue | Si, le matin, c'est horrible ! Je mets une heure. || Có chứ, buổi sáng kinh khủng lắm! Mình mất một tiếng.
+L: Nam | Prends le métro avec moi demain ! || Mai đi tàu điện ngầm với mình đi!
+LQ: Comment vient Nam au bureau ? | en bus | *en métro | en voiture | à vélo
+LQ: Quel est le problème de la voiture ? | le prix | *les embouteillages | le parking | la pluie
+LQ: Combien de temps met le collègue ? | dix minutes | une demi-heure | *une heure | deux heures
+RA: je prends, tu prends, il prend.
+RA: nous prenons, vous prenez, ils prennent.
+RA: en bus, en métro, en train, à pied, à vélo.
+SH: Comment tu viens au bureau ?
+SH: Je prends le métro, c'est rapide.
+SH: Le matin, il y a des embouteillages.
+R.title: Se déplacer à Hô Chi Minh-Ville
+R: À Hô Chi Minh-Ville, il y a plus de sept millions de motos ! || Ở Thành phố Hồ Chí Minh có hơn bảy triệu xe máy!
+R: La plupart des gens vont au travail à moto. || Phần lớn mọi người đi làm bằng xe máy.
+R: Aux heures de pointe, il y a beaucoup d'embouteillages. || Vào giờ cao điểm, tắc đường rất nhiều.
+R: Les bus sont bon marché, mais ils sont souvent lents. || Xe buýt rẻ nhưng thường chậm.
+R: Depuis peu, la ville a une première ligne de métro. || Gần đây, thành phố có tuyến tàu điện ngầm đầu tiên.
+R: Beaucoup d'habitants espèrent que le métro va changer la ville. || Nhiều người dân hy vọng tàu điện ngầm sẽ thay đổi thành phố.
+RQ: Combien de motos il y a ? | sept cent mille | *plus de sept millions | sept mille | soixante-dix millions
+RQ: Les bus sont… | chers et rapides | *bon marché mais lents | nouveaux | gratuits
+RQ: La ville a… | dix lignes de métro | *une première ligne de métro | pas de métro | un tramway
+W.prompt: Explique comment tu te déplaces dans ta ville : les transports que tu prends, pourquoi, et combien de temps tu mets. || Giải thích bạn đi lại trong thành phố thế nào: phương tiện bạn dùng, vì sao, và mất bao lâu.
+W.min: 40
+W.must: je prends ; parce que
+W.check: Chia đúng prendre (nous prenons, ils prennent)
+W.check: en bus / en voiture nhưng à pied / à vélo / à moto
+W.check: Có thời gian di chuyển: je mets vingt minutes
+W.model: Pour aller au travail, je prends le bus. || Để đi làm, tôi đi xe buýt.
+W.model: Je mets environ trente minutes. || Tôi mất khoảng ba mươi phút.
+W.model: Je ne prends pas la moto parce qu'il y a trop d'embouteillages. || Tôi không đi xe máy vì tắc đường quá nhiều.
+W.model: Le week-end, je vais au marché à pied. || Cuối tuần, tôi đi bộ ra chợ.
+W.model: Pour les vacances, ma famille et moi, nous prenons le train. || Kỳ nghỉ, gia đình tôi đi tàu hoả.
+
+## 3 | Prendre le métro
+G.title: Les verbes descendre, changer, sortir
+G.rule: Dans le métro, on prend une ligne en direction d'un terminus, on change à une station, puis on descend à sa station. || Trong tàu điện ngầm, ta đi một tuyến theo hướng ga cuối, đổi tuyến ở một ga, rồi xuống ở ga của mình.
+G.note: Các động từ: prendre la ligne 4 (đi tuyến số 4), direction Porte de Clignancourt (hướng đi Porte de Clignancourt — tên ga cuối), changer à Châtelet (đổi tàu ở Châtelet), descendre à Odéon (xuống ở Odéon), la correspondance (chỗ đổi tuyến), la sortie (lối ra). Descendre: je descends, nous descendons.
+G.table: Étape | Phrase
+G.row: acheter | Un ticket, s'il vous plaît.
+G.row: prendre | Prenez la ligne un, direction La Défense.
+G.row: changer | Changez à Châtelet.
+G.row: descendre | Descendez à Bastille.
+G.row: sortir | Prenez la sortie numéro deux.
+G.ex: Prenez la ligne quatre, direction Montrouge. || Đi tuyến số bốn, hướng Montrouge.
+G.ex: Il faut changer à la station République. || Phải đổi tàu ở ga République.
+G.ex: Je descends à la prochaine station. || Tôi xuống ở ga tiếp theo.
+G.ex: La sortie est à droite. || Lối ra ở bên phải.
+G.q: Le nom de la dernière station d'une ligne indique… | la sortie | *la direction | la correspondance | le ticket
+G.q: Je ___ à la prochaine station. | descend | *descends | descende | descendre
+G.q: Changer de ligne, c'est prendre une… | sortie | *correspondance | direction | station
+G.q: Pour sortir de la station, on cherche la… | ligne | direction | *sortie | correspondance
+G.q: Complétez : Nous ___ à Bastille. (descendre) = descendons
+V: la ligne | /la liɲ/ | nom f. | tuyến | La ligne un va à La Défense. || Tuyến số một đi La Défense.
+V: la station | /la sta.sjɔ̃/ | nom f. | ga (tàu điện) | La station est fermée. || Ga đóng cửa.
+V: la direction | /la di.ʁɛk.sjɔ̃/ | nom f. | hướng | Prenez la direction Nation. || Đi theo hướng Nation.
+V: changer | /ʃɑ̃.ʒe/ | verbe | đổi | Je change à Châtelet. || Tôi đổi tàu ở Châtelet.
+V: descendre | /de.sɑ̃dʁ/ | verbe | xuống (xe, tàu) | On descend ici ? || Mình xuống ở đây à?
+V: la correspondance | /la kɔ.ʁɛs.pɔ̃.dɑ̃s/ | nom f. | chỗ đổi tuyến | Suivez la correspondance ligne quatre. || Đi theo biển đổi sang tuyến bốn.
+V: la sortie | /la sɔʁ.ti/ | nom f. | lối ra | Où est la sortie ? || Lối ra ở đâu?
+V: prochain | /pʁɔ.ʃɛ̃/ | adjectif | tiếp theo | La prochaine station est Odéon. || Ga tiếp theo là Odéon.
+V: le plan | /lə plɑ̃/ | nom m. | bản đồ | Regarde le plan du métro. || Xem bản đồ tàu điện ngầm đi.
+V: monter | /mɔ̃.te/ | verbe | lên (xe, tàu) | Montez dans le métro. || Lên tàu đi.
+VQ: Le contraire de « monter » : | changer | *descendre | entrer | prendre
+VQ: Le contraire de « l'entrée » : | la ligne | *la sortie | la station | la direction
+VQ: Pour voir toutes les lignes, on regarde le… | ticket | *plan | quai | sortie
+VQ: La station après celle-ci est la station… | dernière | *prochaine | première | sortie
+VQ: Je dois ___ de ligne à Châtelet. = changer
+D: Prenez la ligne quatre.
+D: Il faut changer à République.
+D: Je descends à la prochaine station.
+D: Où est la sortie ?
+L: Touriste | Pardon, pour aller au musée d'Orsay, s'il vous plaît ? || Xin lỗi, đi đến bảo tàng Orsay thế nào ạ?
+L: Agent | Prenez la ligne un, direction La Défense. || Anh đi tuyến số một, hướng La Défense.
+L: Touriste | Et je change où ? || Rồi tôi đổi tàu ở đâu?
+L: Agent | Changez à Concorde et prenez la ligne douze. || Đổi ở Concorde và đi tuyến số mười hai.
+L: Touriste | Je descends à quelle station ? || Tôi xuống ở ga nào?
+L: Agent | Descendez à Solférino. Le musée est à deux minutes. || Xuống ở Solférino. Bảo tàng cách đó hai phút.
+LQ: Le touriste va… | au Louvre | *au musée d'Orsay | à la tour Eiffel | à La Défense
+LQ: Il change à… | Solférino | *Concorde | La Défense | Châtelet
+LQ: Il descend à… | Concorde | *Solférino | Orsay | La Défense
+RA: Prenez la ligne un, direction La Défense.
+RA: Changez à Concorde.
+RA: Descendez à Solférino.
+SH: Pour aller au musée, s'il vous plaît ?
+SH: Je change où ?
+SH: Je descends à quelle station ?
+R.title: Le métro de Paris
+R: Le métro de Paris est très ancien : la première ligne date de mille neuf cents. || Tàu điện ngầm Paris rất lâu đời: tuyến đầu tiên có từ năm một nghìn chín trăm.
+R: Aujourd'hui, il y a seize lignes et plus de trois cents stations. || Ngày nay có mười sáu tuyến và hơn ba trăm ga.
+R: Chaque ligne a un numéro et une couleur. || Mỗi tuyến có một số và một màu.
+R: Le métro fonctionne de cinq heures et demie à environ une heure du matin. || Tàu điện ngầm chạy từ năm rưỡi sáng đến khoảng một giờ sáng.
+R: Le week-end, il ferme plus tard. || Cuối tuần, nó đóng cửa muộn hơn.
+R: Pour les touristes, c'est le moyen le plus pratique de visiter la ville. || Với khách du lịch, đó là phương tiện tiện lợi nhất để tham quan thành phố.
+RQ: Combien de lignes il y a ? | dix | *seize | trois cents | une
+RQ: Le matin, le métro commence à… | quatre heures | *cinq heures et demie | sept heures | minuit
+RQ: Pour les touristes, le métro est… | cher | dangereux | *pratique | lent
+W.prompt: Explique à un ami comment aller de chez toi à un lieu de ta ville en transports : quelle ligne, où changer, où descendre. || Giải thích cho một người bạn cách đi từ nhà bạn đến một địa điểm trong thành phố bằng phương tiện công cộng: tuyến nào, đổi ở đâu, xuống ở đâu.
+W.min: 40
+W.must: prends ; descends
+W.check: Dùng mệnh lệnh hoặc « tu prends… tu changes… »
+W.check: Có hướng đi (direction …)
+W.check: Có tên ga xuống và thời gian
+W.model: Pour venir chez moi, c'est facile. || Để đến nhà mình, dễ lắm.
+W.model: Tu prends le bus numéro trente-deux, direction Long Bien. || Bạn đi xe buýt số ba mươi hai, hướng Long Biên.
+W.model: Tu changes à la gare et tu prends le métro. || Bạn đổi ở nhà ga và đi tàu điện.
+W.model: Tu descends à la station Cau Giay. || Bạn xuống ở ga Cầu Giấy.
+W.model: Ma maison est à cinq minutes à pied de la sortie. || Nhà mình cách lối ra năm phút đi bộ.
+
+## 4 | Les verbes pouvoir et vouloir
+G.title: Pouvoir et vouloir + infinitif
+G.rule: Les verbes pouvoir et vouloir sont suivis d'un verbe à l'infinitif. On les utilise pour exprimer la capacité, la permission et le désir. || Động từ pouvoir và vouloir được theo sau bởi một động từ nguyên thể. Ta dùng chúng để nói khả năng, sự cho phép và mong muốn.
+G.note: Pouvoir = có thể (khả năng hoặc được phép): Je peux nager. Vous pouvez entrer. Dùng để nhờ vả lịch sự: Vous pouvez m'aider ? / Tu peux fermer la porte ? Vouloir = muốn: Je veux partir. Phủ định đặt quanh pouvoir/vouloir: Je ne peux pas venir. Je ne veux pas manger.
+G.table: Pronom | Pouvoir | Vouloir
+G.row: je | peux | veux
+G.row: tu | peux | veux
+G.row: il / elle | peut | veut
+G.row: nous | pouvons | voulons
+G.row: vous | pouvez | voulez
+G.row: ils / elles | peuvent | veulent
+G.ex: Je peux entrer ? || Tôi vào được không?
+G.ex: Vous pouvez répéter, s'il vous plaît ? || Anh có thể nhắc lại được không?
+G.ex: Nous voulons visiter le musée. || Chúng tôi muốn tham quan bảo tàng.
+G.ex: Je ne peux pas venir ce soir, je travaille. || Tối nay tôi không đến được, tôi phải làm việc.
+G.q: Tu ___ m'aider ? | peut | *peux | pouvez | peuvent
+G.q: Ils ___ partir en vacances. | veut | voulent | *veulent | voulons
+G.q: Après pouvoir, le verbe est… | conjugué | *à l'infinitif | au passé | au pluriel
+G.q: Négation : Je ___ peux ___ venir. | pas… ne | *ne… pas | ne… plus de | pas… pas
+G.q: Complétez : Nous ___ (pouvoir) parler français. = pouvons
+V: pouvoir | /pu.vwaʁ/ | verbe | có thể | Je peux t'aider. || Tôi có thể giúp bạn.
+V: vouloir | /vu.lwaʁ/ | verbe | muốn | Tu veux un café ? || Bạn muốn uống cà phê không?
+V: aider | /e.de/ | verbe | giúp đỡ | Vous pouvez m'aider ? || Ông có thể giúp tôi không?
+V: répéter | /ʁe.pe.te/ | verbe | nhắc lại | Pouvez-vous répéter ? || Ông có thể nhắc lại không?
+V: entrer | /ɑ̃.tʁe/ | verbe | đi vào | On peut entrer ? || Chúng tôi vào được không?
+V: visiter | /vi.zi.te/ | verbe | tham quan | Je veux visiter Paris. || Tôi muốn tham quan Paris.
+V: venir | /və.niʁ/ | verbe | đến | Tu peux venir samedi ? || Thứ Bảy bạn đến được không?
+V: interdit | /ɛ̃.tɛʁ.di/ | adjectif | bị cấm | Il est interdit de fumer ici. || Cấm hút thuốc ở đây.
+V: possible | /pɔ.sibl/ | adjectif | có thể | C'est possible ? || Có thể được không?
+V: malheureusement | /ma.lœ.ʁøz.mɑ̃/ | adverbe | thật không may | Malheureusement, je ne peux pas. || Thật tiếc, tôi không thể.
+VQ: Le contraire de « permis » : | possible | *interdit | facile | ouvert
+VQ: « Vous pouvez répéter ? » sert à… | dire au revoir | *demander de redire | inviter | commander
+VQ: « Malheureusement » exprime… | la joie | *le regret | la colère | la surprise
+VQ: Je n'entends pas bien, vous pouvez ___ ? | partir | *répéter | entrer | visiter
+VQ: Tu ___ (vouloir) venir au cinéma ? = veux
+D: Je peux entrer ?
+D: Vous pouvez répéter, s'il vous plaît ?
+D: Nous voulons visiter le musée.
+D: Je ne peux pas venir ce soir.
+L: Julien | Tu veux venir au concert samedi ? || Thứ Bảy bạn muốn đi xem hoà nhạc không?
+L: Thao | Je veux bien, mais je ne peux pas. Je travaille samedi. || Mình rất muốn, nhưng không đi được. Thứ Bảy mình phải làm.
+L: Julien | Dommage ! Et dimanche, tu peux ? || Tiếc quá! Còn Chủ Nhật, bạn có thể không?
+L: Thao | Dimanche, oui. On peut aller au cinéma ? || Chủ Nhật thì được. Mình đi xem phim được không?
+L: Julien | D'accord ! Je peux réserver les places. || Được! Mình có thể đặt chỗ.
+L: Thao | Super, merci ! || Tuyệt, cảm ơn!
+LQ: Pourquoi Thao ne peut pas aller au concert ? | elle est malade | *elle travaille samedi | elle n'aime pas la musique | c'est cher
+LQ: Dimanche, ils vont… | au concert | *au cinéma | au restaurant | au musée
+LQ: Qui réserve les places ? | Thao | *Julien | personne | les deux
+RA: je peux, tu peux, il peut, nous pouvons, vous pouvez, ils peuvent.
+RA: je veux, tu veux, il veut, nous voulons, vous voulez, ils veulent.
+RA: Je ne peux pas. Je ne veux pas.
+SH: Tu veux venir au concert ?
+SH: Je veux bien, mais je ne peux pas.
+SH: Vous pouvez répéter, s'il vous plaît ?
+R.title: Les règles du musée
+R: Bienvenue au musée des Beaux-Arts ! || Chào mừng đến Bảo tàng Mỹ thuật!
+R: Vous pouvez prendre des photos, mais sans flash. || Bạn có thể chụp ảnh nhưng không dùng đèn flash.
+R: Il est interdit de toucher les œuvres. || Cấm chạm vào các tác phẩm.
+R: Vous ne pouvez pas manger ni boire dans les salles. || Bạn không được ăn uống trong các phòng trưng bày.
+R: Si vous voulez un guide, vous pouvez demander à l'accueil. || Nếu bạn muốn có hướng dẫn viên, bạn có thể hỏi ở quầy tiếp đón.
+R: Le musée est gratuit le premier dimanche du mois. || Bảo tàng miễn phí vào Chủ Nhật đầu tiên của tháng.
+RQ: On peut prendre des photos… | avec flash | *sans flash | jamais | seulement le dimanche
+RQ: Qu'est-ce qui est interdit ? | prendre des photos | *toucher les œuvres | demander un guide | entrer
+RQ: Le musée est gratuit… | tous les dimanches | *le premier dimanche du mois | le lundi | jamais
+W.prompt: Écris les règles d'un lieu que tu connais (ta classe, ta maison, ton travail) : ce qu'on peut faire, ce qu'on ne peut pas faire et ce que les gens veulent. || Viết nội quy của một nơi bạn biết (lớp học, nhà, chỗ làm): những gì được làm, không được làm và những gì mọi người muốn.
+W.min: 40
+W.must: on peut ; on ne peut pas
+W.check: Sau pouvoir / vouloir dùng động từ nguyên thể
+W.check: Phủ định: on ne peut pas + nguyên thể
+W.check: Chia đúng: ils peuvent, ils veulent
+W.model: Dans ma classe de français, on peut poser des questions. || Trong lớp tiếng Pháp của tôi, được phép đặt câu hỏi.
+W.model: On peut aussi utiliser un dictionnaire. || Cũng được dùng từ điển.
+W.model: Mais on ne peut pas parler vietnamien pendant le cours ! || Nhưng không được nói tiếng Việt trong giờ học!
+W.model: On ne peut pas manger dans la classe. || Không được ăn trong lớp.
+W.model: Les étudiants veulent parler beaucoup, alors le professeur organise des jeux. || Học viên muốn nói nhiều nên thầy giáo tổ chức các trò chơi.
+
+## 5 | Les verbes réguliers en -ir
+G.title: Le présent des verbes comme finir
+G.rule: Beaucoup de verbes en -ir se conjuguent comme finir : on garde fini- et on ajoute -s, -s, -t, -ssons, -ssez, -ssent. || Nhiều động từ -ir chia giống finir: ta giữ fini- và thêm -s, -s, -t, -ssons, -ssez, -ssent.
+G.note: Nhóm 2 (như finir): choisir (chọn), réussir (thành công, đỗ), réfléchir (suy nghĩ), grandir (lớn lên), grossir (béo lên), maigrir (gầy đi), remplir (điền). Dấu hiệu nhận biết: số nhiều có "-iss-" (nous finissons, ils choisissent). Cẩn thận: partir, sortir, dormir KHÔNG chia theo nhóm này (je pars, nous partons).
+G.table: Pronom | Finir | Choisir
+G.row: je | finis | choisis
+G.row: tu | finis | choisis
+G.row: il / elle | finit | choisit
+G.row: nous | finissons | choisissons
+G.row: vous | finissez | choisissez
+G.row: ils / elles | finissent | choisissent
+G.ex: Je finis le travail à dix-huit heures. || Tôi tan làm lúc sáu giờ chiều.
+G.ex: Nous choisissons un restaurant. || Chúng tôi chọn một nhà hàng.
+G.ex: Les enfants grandissent vite ! || Trẻ con lớn nhanh quá!
+G.ex: Tu réfléchis avant de répondre ? || Bạn có suy nghĩ trước khi trả lời không?
+G.q: Nous ___ à dix-sept heures. | finons | *finissons | finisons | finissez
+G.q: Ils ___ un cadeau. | choisisent | choisit | *choisissent | choisissons
+G.q: Quel verbe ne se conjugue pas comme finir ? | choisir | réussir | *partir | grandir
+G.q: Elle ___ son examen. | réussis | *réussit | réussissent | réussir
+G.q: Complétez : Vous ___ (remplir) le formulaire. = remplissez
+V: finir | /fi.niʁ/ | verbe | kết thúc, hoàn thành | Le film finit à minuit. || Phim kết thúc lúc nửa đêm.
+V: choisir | /ʃwa.ziʁ/ | verbe | chọn | Choisissez une couleur. || Hãy chọn một màu.
+V: réussir | /ʁe.y.siʁ/ | verbe | thành công, đỗ | Il réussit toujours ses examens. || Anh ấy luôn thi đỗ.
+V: réfléchir | /ʁe.fle.ʃiʁ/ | verbe | suy nghĩ | Je réfléchis à ta question. || Tôi đang suy nghĩ về câu hỏi của bạn.
+V: grandir | /ɡʁɑ̃.diʁ/ | verbe | lớn lên | Ma fille grandit vite. || Con gái tôi lớn nhanh.
+V: grossir | /ɡʁo.siʁ/ | verbe | béo lên | Il grossit parce qu'il mange trop. || Anh ấy béo lên vì ăn quá nhiều.
+V: maigrir | /me.ɡʁiʁ/ | verbe | gầy đi | Elle veut maigrir. || Cô ấy muốn giảm cân.
+V: remplir | /ʁɑ̃.pliʁ/ | verbe | điền, làm đầy | Remplissez ce formulaire. || Hãy điền vào mẫu đơn này.
+V: le formulaire | /lə fɔʁ.my.lɛʁ/ | nom m. | mẫu đơn | Le formulaire est en ligne. || Mẫu đơn có trên mạng.
+V: obéir | /ɔ.be.iʁ/ | verbe | vâng lời | Les enfants obéissent à leurs parents. || Bọn trẻ vâng lời bố mẹ.
+VQ: Le contraire de « grossir » : | grandir | *maigrir | finir | choisir
+VQ: Le contraire de « commencer » : | réussir | *finir | choisir | remplir
+VQ: Avant une décision importante, on… | grossit | *réfléchit | obéit | remplit
+VQ: À la banque, on remplit un… | *formulaire | menu | ticket | plan
+VQ: Les enfants ___ (grandir) vite. = grandissent
+D: Je finis le travail à six heures.
+D: Nous choisissons un cadeau.
+D: Les enfants grandissent vite.
+D: Remplissez ce formulaire, s'il vous plaît.
+L: Employée | Bonjour, vous voulez ouvrir un compte ? || Xin chào, anh muốn mở tài khoản à?
+L: Long | Oui, s'il vous plaît. || Vâng ạ.
+L: Employée | D'abord, remplissez ce formulaire. || Đầu tiên, anh điền mẫu đơn này.
+L: Long | D'accord. Je choisis quelle carte ? || Được. Tôi chọn loại thẻ nào?
+L: Employée | Réfléchissez bien : la carte bleue est gratuite, la carte or coûte dix euros par mois. || Anh suy nghĩ kỹ nhé: thẻ xanh miễn phí, thẻ vàng giá mười euro mỗi tháng.
+L: Long | Je choisis la carte gratuite ! || Tôi chọn thẻ miễn phí!
+LQ: Long veut… | retirer de l'argent | *ouvrir un compte | changer de banque | payer une facture
+LQ: D'abord, il doit… | choisir une carte | *remplir un formulaire | payer | téléphoner
+LQ: Quelle carte choisit-il ? | la carte or | *la carte gratuite | aucune | les deux
+RA: je finis, tu finis, il finit.
+RA: nous finissons, vous finissez, ils finissent.
+RA: choisir, réussir, réfléchir, grandir, remplir.
+SH: Remplissez ce formulaire.
+SH: Je choisis quelle carte ?
+SH: Réfléchissez bien !
+R.title: Le jour de l'examen
+R: Aujourd'hui, Trang passe son examen de français. || Hôm nay Trang thi tiếng Pháp.
+R: Elle réfléchit beaucoup avant de répondre aux questions. || Cô ấy suy nghĩ nhiều trước khi trả lời các câu hỏi.
+R: Pour la partie écrite, elle choisit le sujet sur la famille. || Ở phần viết, cô ấy chọn đề tài về gia đình.
+R: Elle finit l'examen à midi, un peu fatiguée. || Cô ấy làm xong bài thi lúc mười hai giờ trưa, hơi mệt.
+R: Une semaine plus tard, elle reçoit les résultats. || Một tuần sau, cô ấy nhận kết quả.
+R: Elle réussit avec quatre-vingt-cinq points sur cent ! || Cô ấy đỗ với tám mươi lăm điểm trên một trăm!
+RQ: Trang passe un examen de… | mathématiques | *français | anglais | musique
+RQ: Pour l'écrit, elle choisit le sujet sur… | les voyages | *la famille | le sport | la ville
+RQ: Quel est son résultat ? | soixante-cinq sur cent | *quatre-vingt-cinq sur cent | cent sur cent | elle échoue
+W.prompt: Raconte une journée d'études ou de travail avec au moins cinq verbes en -ir comme finir, choisir, réussir, réfléchir. || Kể về một ngày học tập hoặc làm việc với ít nhất năm động từ -ir như finir, choisir, réussir, réfléchir.
+W.min: 40
+W.must: je finis ; nous
+W.check: Số nhiều có « -iss- » (nous finissons, ils choisissent)
+W.check: Ngôi il / elle kết thúc bằng -t (il finit)
+W.check: Không chia partir, sortir, dormir theo mẫu finir
+W.model: Le matin, je choisis mes vêtements et je pars à l'université. || Buổi sáng, tôi chọn quần áo và đi đến trường đại học.
+W.model: En classe, nous réfléchissons beaucoup. || Trong lớp, chúng tôi suy nghĩ rất nhiều.
+W.model: Le professeur pose des questions et les bons étudiants réussissent tous les exercices. || Thầy đặt câu hỏi và những sinh viên giỏi làm đúng mọi bài tập.
+W.model: À midi, nous choisissons un restaurant près de l'école. || Buổi trưa, chúng tôi chọn một quán ăn gần trường.
+W.model: Je finis les cours à seize heures. || Tôi học xong lúc bốn giờ chiều.

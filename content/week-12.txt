@@ -1,0 +1,387 @@
+@week 12
+@title Révision A1
+@level A1
+
+## 1 | Révision : être, avoir, aller, faire
+G.title: Les quatre verbes essentiels
+G.rule: Être, avoir, aller et faire sont les quatre verbes les plus utilisés en français. Ils sont tous irréguliers et il faut bien les connaître par cœur. || Être, avoir, aller và faire là bốn động từ được dùng nhiều nhất trong tiếng Pháp. Chúng đều bất quy tắc và cần thuộc lòng.
+G.note: Mẹo nhớ ngôi ils: ils sont, ils ont, ils vont, ils font — cả bốn đều kết thúc bằng -ont. Phân biệt cách dùng: être (là, ở — miêu tả), avoir (có — sở hữu, tuổi, cảm giác: faim, soif, mal), aller (đi — di chuyển, hỏi thăm sức khoẻ), faire (làm — hoạt động, thể thao, thời tiết).
+G.table: Pronom | Être | Avoir | Aller | Faire
+G.row: je / j' | suis | ai | vais | fais
+G.row: tu | es | as | vas | fais
+G.row: il / elle | est | a | va | fait
+G.row: nous | sommes | avons | allons | faisons
+G.row: vous | êtes | avez | allez | faites
+G.row: ils / elles | sont | ont | vont | font
+G.ex: Je suis étudiant et j'ai vingt ans. || Tôi là sinh viên và tôi hai mươi tuổi.
+G.ex: Nous allons à la plage parce qu'il fait beau. || Chúng tôi đi biển vì trời đẹp.
+G.ex: Ils ont faim, ils vont au restaurant. || Họ đói, họ đi nhà hàng.
+G.ex: Qu'est-ce que vous faites ce soir ? || Tối nay các bạn làm gì?
+G.q: Ils ___ à Paris. (aller) | vas | allez | *vont | font
+G.q: Nous ___ du sport. (faire) | faites | *faisons | font | fais
+G.q: J'___ froid. | suis | *ai | vais | fais
+G.q: Il ___ beau aujourd'hui. | est | a | va | *fait
+G.q: Vous ___ fatigués ? (être) | es | *êtes | sommes | sont
+G.q: Complétez : Elles ___ (avoir) deux enfants. = ont
+V: essentiel | /e.sɑ̃.sjɛl/ | adjectif | thiết yếu | Ces verbes sont essentiels. || Những động từ này rất thiết yếu.
+V: par cœur | /paʁ kœʁ/ | expression | thuộc lòng | J'apprends les verbes par cœur. || Tôi học thuộc lòng các động từ.
+V: réviser | /ʁe.vi.ze/ | verbe | ôn tập | Je révise pour l'examen. || Tôi ôn bài cho kỳ thi.
+V: la révision | /la ʁe.vi.zjɔ̃/ | nom f. | sự ôn tập | C'est une semaine de révision. || Đây là tuần ôn tập.
+V: utiliser | /y.ti.li.ze/ | verbe | sử dụng | On utilise souvent ce verbe. || Người ta thường dùng động từ này.
+V: apprendre | /a.pʁɑ̃dʁ/ | verbe | học | J'apprends le français depuis trois mois. || Tôi học tiếng Pháp được ba tháng.
+V: oublier | /u.bli.je/ | verbe | quên | N'oublie pas tes devoirs ! || Đừng quên bài tập nhé!
+V: se souvenir | /sə su.və.niʁ/ | verbe | nhớ lại | Je ne me souviens pas. || Tôi không nhớ.
+V: le progrès | /lə pʁɔ.ɡʁɛ/ | nom m. | sự tiến bộ | Tu fais des progrès ! || Bạn tiến bộ đấy!
+V: facile | /fa.sil/ | adjectif | dễ | Ce n'est pas facile ! || Không dễ đâu!
+VQ: Apprendre par cœur, c'est… | oublier | *mémoriser | réviser vite | écrire
+VQ: Le contraire de « se souvenir » : | réviser | *oublier | apprendre | utiliser
+VQ: « Tu fais des progrès » veut dire… | tu as des problèmes | *tu deviens meilleur | tu fais du sport | tu es fatigué
+VQ: Le contraire de « difficile » : | essentiel | *facile | utile | correct
+VQ: Avant un examen, on ___ ses leçons. = révise
+D: Je suis étudiant et j'ai vingt ans.
+D: Nous allons à la plage.
+D: Qu'est-ce que vous faites ce soir ?
+D: Ils ont faim et ils vont au restaurant.
+L: Thu | Tu révises pour le test de samedi ? || Bạn ôn bài cho bài kiểm tra thứ Bảy chưa?
+L: Paul | Oui, mais c'est difficile. J'oublie toujours les verbes irréguliers ! || Có, nhưng khó lắm. Mình luôn quên các động từ bất quy tắc!
+L: Thu | Moi, j'ai une astuce : ils sont, ils ont, ils vont, ils font. || Mình có một mẹo: ils sont, ils ont, ils vont, ils font.
+L: Paul | Ah oui, ils finissent tous par -ont ! || À đúng rồi, tất cả đều kết thúc bằng -ont!
+L: Thu | Exactement. On révise ensemble demain ? || Chính xác. Mai mình ôn bài cùng nhau nhé?
+L: Paul | Bonne idée ! On va à la bibliothèque à dix heures. || Ý hay! Mình đến thư viện lúc mười giờ.
+LQ: Le test est… | vendredi | *samedi | dimanche | lundi
+LQ: Paul oublie… | les nombres | *les verbes irréguliers | les articles | les jours
+LQ: Où vont-ils réviser demain ? | au café | chez Paul | *à la bibliothèque | à l'école
+RA: je suis, j'ai, je vais, je fais.
+RA: nous sommes, nous avons, nous allons, nous faisons.
+RA: ils sont, ils ont, ils vont, ils font.
+SH: Tu révises pour le test ?
+SH: J'oublie toujours les verbes irréguliers !
+SH: On révise ensemble demain ?
+R.title: Le samedi de Kim
+R: Kim est coréenne et elle a vingt-quatre ans. || Kim là người Hàn Quốc và cô ấy hai mươi bốn tuổi.
+R: Elle est à Paris depuis six mois pour apprendre le français. || Cô ấy ở Paris được sáu tháng để học tiếng Pháp.
+R: Le samedi, elle fait toujours la même chose. || Thứ Bảy nào cô ấy cũng làm những việc giống nhau.
+R: Le matin, elle va au marché et elle fait les courses. || Buổi sáng, cô ấy đi chợ và mua đồ.
+R: L'après-midi, s'il fait beau, elle va au parc avec ses amis. || Buổi chiều, nếu trời đẹp, cô ấy đi công viên với bạn bè.
+R: Le soir, elle est souvent fatiguée, mais elle a toujours envie de danser ! || Buổi tối, cô ấy thường mệt, nhưng lúc nào cũng muốn đi nhảy!
+RQ: Kim est… | japonaise | *coréenne | chinoise | vietnamienne
+RQ: Depuis quand est-elle à Paris ? | un an | *six mois | trois mois | deux ans
+RQ: Le soir, Kim a envie… | de dormir | *de danser | de manger | de travailler
+W.prompt: Présente-toi en utilisant être, avoir, aller et faire au moins deux fois chacun. || Tự giới thiệu bản thân, dùng mỗi động từ être, avoir, aller và faire ít nhất hai lần.
+W.min: 50
+W.must: je suis ; j'ai ; je vais ; je fais
+W.check: Mỗi động từ được chia đúng theo chủ ngữ
+W.check: Tuổi dùng avoir, thời tiết dùng faire
+W.check: Có ít nhất một câu với nous hoặc ils
+W.model: Je m'appelle Nam, je suis vietnamien et j'ai vingt-deux ans. || Tôi tên là Nam, tôi là người Việt và tôi hai mươi hai tuổi.
+W.model: Je suis étudiant en informatique à Hanoï. || Tôi là sinh viên tin học ở Hà Nội.
+W.model: J'ai un frère et une sœur. || Tôi có một anh trai và một em gái.
+W.model: Le matin, je vais à l'université à moto. || Buổi sáng tôi đi xe máy đến trường đại học.
+W.model: Le week-end, je fais du football avec mes amis et nous allons au café. || Cuối tuần, tôi đá bóng với bạn bè và chúng tôi đi cà phê.
+W.model: Quand il fait chaud, je fais de la natation. || Khi trời nóng, tôi đi bơi.
+
+## 2 | Révision : les articles
+G.title: Défini, indéfini, partitif
+G.rule: On utilise un, une, des pour une chose non précise, le, la, les pour une chose précise ou en général, et du, de la, de l' pour une quantité non comptable. Après une négation, un, une, des, du, de la deviennent de. || Ta dùng un, une, des cho vật không xác định; le, la, les cho vật xác định hoặc nói chung; du, de la, de l' cho lượng không đếm được. Sau phủ định, un, une, des, du, de la đều thành de.
+G.note: Bảng tóm tắt ba loại mạo từ. Câu hỏi để chọn: (1) Nói chung hoặc vật cụ thể đã biết? → le/la/les. (2) Một vật đếm được, lần đầu nhắc? → un/une/des. (3) Một ít thứ không đếm được? → du/de la/de l'. Sau aimer/adorer/détester → luôn le/la/les. Sau số lượng (beaucoup, un kilo) → de. Sau phủ định (trừ être) → de: Ce n'est pas un livre (với être giữ nguyên).
+G.table: Type | Masc. | Fém. | Pluriel | Négation
+G.row: défini | le | la | les | le, la, les
+G.row: indéfini | un | une | des | de / d'
+G.row: partitif | du | de la | des | de / d'
+G.ex: J'aime le café, alors je bois du café tous les matins. || Tôi thích cà phê nên sáng nào tôi cũng uống cà phê.
+G.ex: Il y a un chat dans le jardin. || Có một con mèo trong vườn.
+G.ex: Je n'ai pas de voiture et je ne mange pas de viande. || Tôi không có ô tô và không ăn thịt.
+G.ex: Ce n'est pas un problème. || Đó không phải là vấn đề.
+G.q: Je déteste ___ bruit. | du | un | *le | de
+G.q: Tu veux ___ eau ? | une | *de l' | l' | des
+G.q: Nous n'avons pas ___ enfants. | des | les | *d' | de les
+G.q: C'est ___ livre de Marie. | un | du | *le | de
+G.q: Il y a beaucoup ___ monde. | du | des | le | *de
+G.q: Complétez : Ce n'est pas ___ chien, c'est un loup ! = un
+V: le loup | /lə lu/ | nom m. | con sói | Le loup a les yeux jaunes. || Con sói có đôi mắt vàng.
+V: le monde | /lə mɔ̃d/ | nom m. | thế giới; mọi người | Il y a du monde au marché. || Ở chợ đông người.
+V: comptable | /kɔ̃.tabl/ | adjectif | đếm được | « Pomme » est un nom comptable. || « Pomme » là danh từ đếm được.
+V: la quantité | /la kɑ̃.ti.te/ | nom f. | số lượng | Quelle quantité voulez-vous ? || Anh muốn số lượng bao nhiêu?
+V: en général | /ɑ̃ ʒe.ne.ʁal/ | expression | nói chung | En général, je bois du thé. || Nói chung tôi uống trà.
+V: précis | /pʁe.si/ | adjectif | cụ thể, chính xác | Donne-moi une date précise. || Cho tôi một ngày cụ thể.
+V: tous les matins | /tu le ma.tɛ̃/ | expression | mỗi sáng | Je cours tous les matins. || Tôi chạy bộ mỗi sáng.
+V: le riz | /lə ʁi/ | nom m. | cơm, gạo | Je mange du riz à midi. || Tôi ăn cơm buổi trưa.
+V: l'huile | /lɥil/ | nom f. | dầu ăn | Ajoute de l'huile. || Thêm dầu ăn vào.
+V: les pâtes | /le pat/ | nom f. pl. | mì ống | Les enfants adorent les pâtes. || Bọn trẻ rất thích mì ống.
+VQ: On ne peut pas compter le riz, c'est un nom… | comptable | *non comptable | pluriel | féminin
+VQ: « Il y a du monde » veut dire… | il y a la planète | *il y a beaucoup de gens | il n'y a personne | il y a un monde
+VQ: L'animal sauvage qui ressemble à un chien : | le chat | *le loup | le cheval | le lapin
+VQ: Pour faire frire, on utilise de l'… | eau | *huile | sel | riz
+VQ: Je ne mange pas ___ pâtes ce soir. = de
+D: J'aime le café, je bois du café.
+D: Il y a un chat dans le jardin.
+D: Je n'ai pas de voiture.
+D: Il y a beaucoup de monde.
+L: Ami | Tu veux du thé ou du café ? || Bạn muốn uống trà hay cà phê?
+L: Mai | Du thé, s'il te plaît. Je n'aime pas le café. || Trà nhé. Mình không thích cà phê.
+L: Ami | Tu veux du sucre ? || Bạn có muốn đường không?
+L: Mai | Non merci, je ne prends pas de sucre. || Không, cảm ơn, mình không dùng đường.
+L: Ami | Et un biscuit ? Ce sont les biscuits de ma grand-mère. || Còn bánh quy? Đây là bánh quy bà mình làm.
+L: Mai | Oh oui, avec plaisir ! || Ồ có, rất sẵn lòng!
+LQ: Mai boit… | du café | *du thé | du jus | de l'eau
+LQ: Mai prend du sucre ? | oui, beaucoup | *non | un peu | on ne sait pas
+LQ: Les biscuits sont de… | la boulangerie | *la grand-mère de l'ami | Mai | la mère de Mai
+RA: le café, un café, du café.
+RA: la soupe, une soupe, de la soupe.
+RA: Je ne bois pas de café.
+SH: Tu veux du thé ou du café ?
+SH: Je ne prends pas de sucre.
+SH: Oh oui, avec plaisir !
+R.title: Le frigo de l'étudiant
+R: Ouvrons le frigo de Thomas, étudiant à Lyon. || Hãy mở tủ lạnh của Thomas, sinh viên ở Lyon.
+R: Il y a une bouteille de lait, du fromage et des yaourts. || Có một chai sữa, phô mai và vài hộp sữa chua.
+R: Il n'y a pas de légumes et il n'y a pas de viande. || Không có rau và không có thịt.
+R: Thomas adore les pâtes, il mange des pâtes presque tous les soirs. || Thomas rất thích mì ống, gần như tối nào anh ấy cũng ăn mì ống.
+R: Sa mère dit qu'il faut manger des fruits. || Mẹ anh ấy bảo cần phải ăn trái cây.
+R: Alors, ce week-end, il achète des pommes ! || Vậy nên cuối tuần này anh ấy mua táo!
+RQ: Dans le frigo, il y a… | des légumes | *du fromage et des yaourts | de la viande | des pommes
+RQ: Thomas mange souvent… | du riz | *des pâtes | de la soupe | de la viande
+RQ: Ce week-end, Thomas achète… | du lait | *des pommes | des pâtes | des légumes
+W.prompt: Ouvre ton frigo ou ton placard : décris ce qu'il y a, ce qu'il n'y a pas, et ce que tu aimes manger. || Mở tủ lạnh hoặc tủ bếp của bạn: miêu tả những gì có, không có, và những gì bạn thích ăn.
+W.min: 45
+W.must: il y a ; il n'y a pas de ; j'aime
+W.check: Lượng không đếm được dùng du / de la / de l'
+W.check: Sau phủ định dùng de / d'
+W.check: Sau aimer / adorer dùng le / la / les
+W.model: Dans mon frigo, il y a du lait, des œufs et de la salade. || Trong tủ lạnh của tôi có sữa, trứng và rau xà lách.
+W.model: Il y a aussi une bouteille d'eau et du fromage. || Còn có một chai nước và phô mai.
+W.model: Il n'y a pas de viande, parce que je suis végétarienne. || Không có thịt vì tôi ăn chay.
+W.model: Il n'y a pas de bière non plus. || Cũng không có bia.
+W.model: J'adore les fruits, surtout les mangues. || Tôi rất thích trái cây, nhất là xoài.
+W.model: Le matin, je mange du pain avec de la confiture. || Buổi sáng tôi ăn bánh mì với mứt.
+
+## 3 | Révision : questions et négation
+G.title: Poser des questions et répondre non
+G.rule: Pour poser une question, on peut monter la voix, utiliser est-ce que ou faire l'inversion. Pour répondre non, on met ne avant le verbe et pas, jamais ou rien après. || Để đặt câu hỏi, ta có thể lên giọng, dùng est-ce que hoặc đảo ngữ. Để trả lời phủ định, ta đặt ne trước động từ và pas, jamais hoặc rien sau.
+G.note: Các dạng phủ định: ne… pas (không), ne… jamais (không bao giờ), ne… plus (không… nữa), ne… rien (không gì cả), ne… personne (không ai). Trả lời "có" cho câu hỏi phủ định dùng "si": Tu n'aimes pas le café ? — Si, j'aime le café ! (Có chứ, tôi thích). Từ để hỏi: qui, que/quoi, où, quand, comment, pourquoi, combien, quel.
+G.table: Négation | Sens | Exemple
+G.row: ne… pas | không | Je ne fume pas.
+G.row: ne… jamais | không bao giờ | Il ne boit jamais d'alcool.
+G.row: ne… plus | không… nữa | Je n'habite plus à Hanoï.
+G.row: ne… rien | không gì cả | Elle ne mange rien.
+G.row: ne… personne | không ai | Je ne connais personne ici.
+G.ex: Tu n'aimes pas le sport ? — Si, j'adore le tennis ! || Bạn không thích thể thao à? — Có chứ, mình rất thích quần vợt!
+G.ex: Je n'habite plus chez mes parents. || Tôi không còn sống với bố mẹ nữa.
+G.ex: Il ne comprend rien. || Anh ấy không hiểu gì cả.
+G.ex: Où est-ce que tu travailles ? || Bạn làm việc ở đâu?
+G.q: Tu ne viens pas ? — ___, je viens ! | Oui | *Si | Non | Pas
+G.q: « Je ne fume plus » veut dire… | je fume beaucoup | *avant je fumais, maintenant non | je ne fume jamais | je fume un peu
+G.q: Il n'y a ___ dans la salle. (aucune personne) | rien | *personne | jamais | plus
+G.q: ___ coûte ce livre ? | Quand | Où | *Combien | Qui
+G.q: Elle ne mange ___. (aucune chose) | personne | *rien | jamais | plus
+G.q: Complétez : Je ne bois ___ de café. (jamais) = jamais
+V: ne… jamais | /nə ʒa.mɛ/ | négation | không bao giờ | Je ne suis jamais en retard. || Tôi không bao giờ đến muộn.
+V: ne… plus | /nə ply/ | négation | không… nữa | Il ne pleut plus. || Trời hết mưa rồi.
+V: ne… rien | /nə ʁjɛ̃/ | négation | không gì cả | Je ne vois rien. || Tôi không thấy gì cả.
+V: ne… personne | /nə pɛʁ.sɔn/ | négation | không ai | Il n'y a personne. || Không có ai cả.
+V: si | /si/ | adverbe | có chứ (trả lời phủ định) | Tu ne viens pas ? Si ! || Bạn không đến à? Có chứ!
+V: connaître | /kɔ.nɛtʁ/ | verbe | quen biết | Je connais bien Paris. || Tôi biết rõ Paris.
+V: comprendre | /kɔ̃.pʁɑ̃dʁ/ | verbe | hiểu | Tu comprends ? || Bạn hiểu không?
+V: entendre | /ɑ̃.tɑ̃dʁ/ | verbe | nghe thấy | Je n'entends rien. || Tôi không nghe thấy gì.
+V: voir | /vwaʁ/ | verbe | nhìn thấy | Tu vois la tour Eiffel ? || Bạn có thấy tháp Eiffel không?
+V: encore | /ɑ̃.kɔʁ/ | adverbe | vẫn còn; nữa | Tu habites encore à Lyon ? || Bạn vẫn còn sống ở Lyon à?
+VQ: « Tu habites encore ici ? » — « Non, je n'habite ___ ici. » | rien | *plus | personne | jamais pas
+VQ: La salle est vide, il n'y a… | rien de personne | *personne | jamais | plus de
+VQ: On voit avec les yeux et on ___ avec les oreilles. | voit | *entend | comprend | connaît
+VQ: Le contraire de « toujours » : | encore | *ne… jamais | ne… plus | si
+VQ: Tu ne parles pas français ? — ___, un peu ! = Si / si
+D: Je ne fume plus.
+D: Il ne comprend rien.
+D: Il n'y a personne.
+D: Tu n'aimes pas le sport ? Si !
+L: Policier | Vous cherchez quelque chose, monsieur ? || Ông đang tìm gì à?
+L: Homme | Oui, je ne trouve plus mon portefeuille ! || Vâng, tôi không tìm thấy ví đâu nữa!
+L: Policier | Vous connaissez quelqu'un dans le quartier ? || Ông có quen ai trong khu phố không?
+L: Homme | Non, je ne connais personne. Je ne suis pas d'ici. || Không, tôi không quen ai. Tôi không phải người ở đây.
+L: Policier | Il n'y a rien dans votre sac ? || Trong túi của ông không có gì sao?
+L: Homme | Si ! Le voilà, au fond du sac ! Merci beaucoup ! || Có chứ! Nó đây, ở đáy túi! Cảm ơn nhiều!
+LQ: L'homme cherche… | sa voiture | *son portefeuille | son chien | ses clés
+LQ: L'homme connaît quelqu'un dans le quartier ? | oui, un ami | *non, personne | sa sœur | on ne sait pas
+LQ: Où est le portefeuille ? | dans la rue | *dans son sac | au commissariat | chez lui
+RA: Je ne fume pas. Je ne fume jamais. Je ne fume plus.
+RA: Je ne vois rien. Je ne vois personne.
+RA: Tu ne viens pas ? Si, je viens !
+SH: Je ne connais personne ici.
+SH: Je ne trouve plus mon portefeuille !
+SH: Si ! Le voilà !
+R.title: Un village très calme
+R: Mon grand-père habite dans un tout petit village de montagne. || Ông tôi sống ở một ngôi làng rất nhỏ trên núi.
+R: Il n'y a plus d'école et il n'y a jamais de touristes. || Không còn trường học nữa và không bao giờ có khách du lịch.
+R: Le soir, il n'y a personne dans les rues. || Buổi tối, không có ai trên đường.
+R: Mon grand-père ne regarde jamais la télévision et il n'a pas d'ordinateur. || Ông tôi không bao giờ xem ti vi và không có máy tính.
+R: Est-ce qu'il s'ennuie ? || Ông có buồn chán không?
+R: Pas du tout ! Il lit, il jardine et il parle avec ses voisins. || Hoàn toàn không! Ông đọc sách, làm vườn và trò chuyện với hàng xóm.
+RQ: Dans le village, il n'y a plus… | de touristes | *d'école | de voisins | de maisons
+RQ: Le grand-père a un ordinateur ? | oui | *non | il en a deux | on ne sait pas
+RQ: Est-ce que le grand-père s'ennuie ? | oui, beaucoup | *non, pas du tout | un peu | il ne sait pas
+W.prompt: Écris une interview de cinq questions et réponses avec un ami. Utilise différentes questions et au moins trois négations différentes. || Viết một bài phỏng vấn năm câu hỏi và trả lời với một người bạn. Dùng các kiểu câu hỏi khác nhau và ít nhất ba dạng phủ định khác nhau.
+W.min: 50
+W.must: est-ce que ; ne ; jamais
+W.check: Câu hỏi có dấu « ? » và đúng cấu trúc
+W.check: Phủ định có đủ hai phần (ne… pas / jamais / plus / rien / personne)
+W.check: Có một câu trả lời với « si »
+W.model: — Est-ce que tu fumes ? || — Bạn có hút thuốc không?
+W.model: — Non, je ne fume plus depuis deux ans. || — Không, mình bỏ thuốc được hai năm rồi.
+W.model: — Où est-ce que tu habites ? || — Bạn sống ở đâu?
+W.model: — J'habite à Da Lat, mais je ne connais personne ici. || — Mình sống ở Đà Lạt, nhưng mình không quen ai ở đây.
+W.model: — Tu n'aimes pas le café ? || — Bạn không thích cà phê à?
+W.model: — Si, mais je ne bois jamais de café le soir. || — Có chứ, nhưng mình không bao giờ uống cà phê buổi tối.
+
+## 4 | Révision : se présenter
+G.title: Se présenter de façon complète
+G.rule: Pour se présenter, on donne son nom, son âge, sa nationalité, sa ville, sa profession, sa famille et ses goûts. On relie les phrases avec et, mais, parce que, aussi. || Để tự giới thiệu, ta nói tên, tuổi, quốc tịch, thành phố, nghề nghiệp, gia đình và sở thích. Ta nối các câu bằng et, mais, parce que, aussi.
+G.note: Một bài giới thiệu tốt có cấu trúc: (1) Chào hỏi. (2) Thông tin cá nhân. (3) Công việc/học tập. (4) Gia đình. (5) Sở thích. (6) Lý do học tiếng Pháp. (7) Lời kết. Dùng từ nối giúp câu văn tự nhiên hơn: d'abord (trước tiên), ensuite (sau đó), aussi (cũng), mais (nhưng), parce que (bởi vì), enfin (cuối cùng).
+G.table: Thème | Phrase modèle
+G.row: identité | Je m'appelle… J'ai… ans.
+G.row: origine | Je suis… Je viens de…
+G.row: lieu | J'habite à… depuis…
+G.row: travail | Je suis… / Je travaille chez… / J'étudie…
+G.row: goûts | J'aime… mais je n'aime pas…
+G.row: projet | J'apprends le français parce que…
+G.ex: Bonjour ! Je m'appelle Hoa et j'ai vingt-six ans. || Xin chào! Tôi tên là Hoa và tôi hai mươi sáu tuổi.
+G.ex: Je suis comptable et je travaille dans une banque. || Tôi là kế toán và làm việc ở một ngân hàng.
+G.ex: J'aime voyager, mais je n'aime pas l'avion. || Tôi thích du lịch nhưng không thích đi máy bay.
+G.ex: J'apprends le français parce que je veux étudier en France. || Tôi học tiếng Pháp vì tôi muốn du học Pháp.
+G.q: Pour donner une raison, on utilise… | mais | *parce que | et | aussi
+G.q: Pour une opposition, on utilise… | *mais | parce que | aussi | ensuite
+G.q: « J'habite à Lyon ___ trois ans. » | pendant de | il y a | *depuis | pour
+G.q: Je ___ comptable. | ai | *suis | fais | vais
+G.q: Complétez : J'apprends le français ___ je veux voyager. = parce que
+V: se présenter | /sə pʁe.zɑ̃.te/ | verbe | tự giới thiệu | Je me présente : je m'appelle Lan. || Tôi xin tự giới thiệu: tôi tên là Lan.
+V: comptable | /kɔ̃.tabl/ | nom m./f. | kế toán | Ma mère est comptable. || Mẹ tôi là kế toán.
+V: le projet | /lə pʁɔ.ʒɛ/ | nom m. | dự định, dự án | Quel est ton projet ? || Dự định của bạn là gì?
+V: d'abord | /da.bɔʁ/ | adverbe | trước tiên | D'abord, je me présente. || Trước tiên, tôi xin tự giới thiệu.
+V: ensuite | /ɑ̃.sɥit/ | adverbe | sau đó | Ensuite, je parle de ma famille. || Sau đó, tôi nói về gia đình.
+V: enfin | /ɑ̃.fɛ̃/ | adverbe | cuối cùng | Enfin, je parle de mes loisirs. || Cuối cùng, tôi nói về sở thích.
+V: aussi | /o.si/ | adverbe | cũng | J'aime aussi la musique. || Tôi cũng thích âm nhạc.
+V: étudier | /e.ty.dje/ | verbe | học | Je veux étudier à Paris. || Tôi muốn học ở Paris.
+V: le rêve | /lə ʁɛv/ | nom m. | ước mơ | Mon rêve est de visiter la France. || Ước mơ của tôi là đến thăm nước Pháp.
+V: la passion | /la pa.sjɔ̃/ | nom f. | đam mê | La cuisine est ma passion. || Nấu ăn là niềm đam mê của tôi.
+VQ: Une personne qui s'occupe des comptes d'une entreprise : | médecin | *comptable | serveur | professeur
+VQ: Pour mettre les idées en ordre : d'abord, ___, enfin. | aussi | mais | *ensuite | parce que
+VQ: « Mon rêve est… » parle de… | une nuit de sommeil | *un grand désir | un problème | un souvenir
+VQ: Une activité qu'on aime énormément est une… | habitude | *passion | profession | réponse
+VQ: Complétez : D'abord… ensuite… ___. = enfin
+D: Je m'appelle Hoa et j'ai vingt-six ans.
+D: Je suis comptable.
+D: J'habite à Hanoï depuis trois ans.
+D: J'apprends le français parce que je veux voyager.
+L: Recruteur | Bonjour, présentez-vous, s'il vous plaît. || Xin chào, anh hãy tự giới thiệu.
+L: Khoa | Bonjour. Je m'appelle Khoa, j'ai vingt-huit ans et je suis vietnamien. || Xin chào. Tôi tên là Khoa, hai mươi tám tuổi và là người Việt.
+L: Recruteur | Qu'est-ce que vous faites dans la vie ? || Anh làm nghề gì?
+L: Khoa | Je suis ingénieur informatique. Je travaille à Hô Chi Minh-Ville depuis cinq ans. || Tôi là kỹ sư tin học. Tôi làm việc ở Thành phố Hồ Chí Minh được năm năm.
+L: Recruteur | Pourquoi voulez-vous travailler en France ? || Tại sao anh muốn làm việc ở Pháp?
+L: Khoa | Parce que j'aime la culture française et je veux découvrir l'Europe. || Vì tôi yêu văn hoá Pháp và muốn khám phá châu Âu.
+LQ: Khoa a… | vingt-cinq ans | *vingt-huit ans | trente ans | vingt-deux ans
+LQ: Khoa est… | professeur | *ingénieur informatique | médecin | comptable
+LQ: Pourquoi veut-il travailler en France ? | pour l'argent | *il aime la culture française | sa famille est en France | il parle bien français
+RA: Je m'appelle Khoa, j'ai vingt-huit ans.
+RA: Je suis ingénieur, je travaille depuis cinq ans.
+RA: J'aime la culture française.
+SH: Présentez-vous, s'il vous plaît.
+SH: Qu'est-ce que vous faites dans la vie ?
+SH: Parce que je veux découvrir l'Europe.
+R.title: Le blog de Sofia
+R: Bonjour à tous, bienvenue sur mon blog ! || Chào mọi người, chào mừng đến blog của tôi!
+R: Je m'appelle Sofia, j'ai trente ans et je suis italienne. || Tôi tên là Sofia, ba mươi tuổi và là người Ý.
+R: J'habite à Bordeaux depuis deux ans avec mon mari et notre fille. || Tôi sống ở Bordeaux được hai năm cùng chồng và con gái.
+R: Je suis cuisinière dans un petit restaurant. || Tôi là đầu bếp trong một nhà hàng nhỏ.
+R: Ma passion, c'est la cuisine du monde : sur ce blog, je partage mes recettes. || Đam mê của tôi là ẩm thực thế giới: trên blog này, tôi chia sẻ công thức nấu ăn.
+R: Ma recette préférée en ce moment ? Le bánh xèo vietnamien ! || Công thức tôi thích nhất lúc này? Món bánh xèo Việt Nam!
+RQ: Sofia est… | française | *italienne | espagnole | vietnamienne
+RQ: Depuis quand habite-t-elle à Bordeaux ? | un an | *deux ans | trente ans | cinq ans
+RQ: Sur son blog, Sofia partage… | ses photos de voyage | *ses recettes | ses livres | sa musique
+W.prompt: Écris ta présentation complète pour un blog ou un réseau social : identité, ville, travail ou études, famille, goûts et pourquoi tu apprends le français. || Viết bài giới thiệu đầy đủ về bản thân cho blog hoặc mạng xã hội: thông tin cá nhân, thành phố, công việc hoặc học tập, gia đình, sở thích và lý do học tiếng Pháp.
+W.min: 60
+W.must: je m'appelle ; depuis ; parce que
+W.check: Có đủ các phần: bản thân, nơi ở, công việc, gia đình, sở thích, lý do
+W.check: Dùng từ nối: d'abord, ensuite, aussi, mais, enfin
+W.check: Đọc lại: chia động từ, mạo từ, hợp giống tính từ
+W.model: Bonjour à tous ! || Chào mọi người!
+W.model: Je m'appelle Linh, j'ai vingt-trois ans et je suis vietnamienne. || Tôi tên là Linh, hai mươi ba tuổi và là người Việt.
+W.model: J'habite à Da Nang depuis un an. || Tôi sống ở Đà Nẵng được một năm.
+W.model: Je suis guide touristique, alors je parle anglais tous les jours. || Tôi là hướng dẫn viên du lịch nên ngày nào tôi cũng nói tiếng Anh.
+W.model: J'ai une petite sœur et un chat très paresseux. || Tôi có một em gái và một con mèo rất lười.
+W.model: J'adore la plage et la photographie, mais je n'aime pas le froid. || Tôi rất thích biển và nhiếp ảnh, nhưng không thích cái lạnh.
+W.model: J'apprends le français parce que beaucoup de touristes français visitent ma ville. || Tôi học tiếng Pháp vì nhiều du khách Pháp đến thăm thành phố của tôi.
+
+## 5 | Préparation au test A1
+G.title: Stratégies pour réussir le test
+G.rule: Pour réussir un test de niveau A1, il faut lire les consignes, identifier les mots-clés et vérifier les accords à la fin. || Để làm tốt bài kiểm tra trình độ A1, cần đọc kỹ yêu cầu, xác định từ khoá và kiểm tra sự hợp giống, số ở cuối bài.
+G.note: Kỳ thi DELF A1 có bốn phần: nghe hiểu (compréhension de l'oral), đọc hiểu (compréhension des écrits), viết (production écrite: điền phiếu, viết tin nhắn ngắn), nói (production orale: tự giới thiệu, hỏi đáp, đóng vai). Mẹo: đọc câu hỏi TRƯỚC khi nghe; gạch chân từ khoá (ai, ở đâu, khi nào, giá bao nhiêu); khi viết, kiểm tra lại chia động từ và giống của tính từ.
+G.table: Épreuve | Conseil
+G.row: compréhension de l'oral | Lire les questions avant d'écouter.
+G.row: compréhension des écrits | Chercher les mots-clés dans le texte.
+G.row: production écrite | Vérifier les verbes et les accords.
+G.row: production orale | Parler lentement et sourire.
+G.ex: Lisez les questions avant d'écouter le document. || Hãy đọc câu hỏi trước khi nghe tài liệu.
+G.ex: Soulignez les mots importants dans le texte. || Hãy gạch chân những từ quan trọng trong bài đọc.
+G.ex: Vérifiez l'accord des adjectifs à la fin. || Hãy kiểm tra sự hợp của tính từ ở cuối bài.
+G.ex: Si vous ne comprenez pas, demandez de répéter. || Nếu không hiểu, hãy xin nhắc lại.
+G.q: Avant d'écouter un document, il faut… | dormir | *lire les questions | écrire la réponse | partir
+G.q: Le DELF A1 a combien d'épreuves ? | deux | trois | *quatre | cinq
+G.q: À l'oral, si on ne comprend pas, on dit… | Au revoir. | *Vous pouvez répéter, s'il vous plaît ? | Je ne sais pas. | Merci.
+G.q: À la fin d'une production écrite, il faut… | partir vite | *vérifier les accords | ajouter des dessins | tout effacer
+G.q: Complétez : Il faut ___ les consignes. (lire) = lire
+V: le test | /lə tɛst/ | nom m. | bài kiểm tra | Le test dure une heure. || Bài kiểm tra kéo dài một tiếng.
+V: l'épreuve | /le.pʁœv/ | nom f. | phần thi | La première épreuve est l'écoute. || Phần thi đầu tiên là nghe.
+V: le mot-clé | /lə mo.kle/ | nom m. | từ khoá | Cherchez les mots-clés. || Hãy tìm từ khoá.
+V: vérifier | /ve.ʁi.fje/ | verbe | kiểm tra | Vérifiez vos réponses. || Hãy kiểm tra lại câu trả lời.
+V: souligner | /su.li.ɲe/ | verbe | gạch chân | Soulignez les verbes. || Hãy gạch chân các động từ.
+V: le niveau | /lə ni.vo/ | nom m. | trình độ | Quel est votre niveau de français ? || Trình độ tiếng Pháp của bạn thế nào?
+V: le diplôme | /lə di.plom/ | nom m. | bằng cấp | Le DELF est un diplôme officiel. || DELF là một bằng cấp chính thức.
+V: lentement | /lɑ̃t.mɑ̃/ | adverbe | chậm rãi | Parlez lentement et clairement. || Hãy nói chậm và rõ ràng.
+V: stressé | /stʁɛ.se/ | adjectif | căng thẳng | Ne sois pas stressé ! || Đừng căng thẳng nhé!
+V: la chance | /la ʃɑ̃s/ | nom f. | may mắn | Bonne chance pour ton examen ! || Chúc bạn thi tốt!
+VQ: Le contraire de « vite » : | fort | *lentement | bien | souvent
+VQ: Un document officiel qui prouve un niveau est un… | test | *diplôme | mot-clé | niveau
+VQ: Avant un examen, on dit à un ami… | Bon appétit ! | *Bonne chance ! | Bonne nuit ! | Bon voyage !
+VQ: A1, A2, B1, B2 sont des… | diplômes de musique | *niveaux de langue | numéros de bus | notes
+VQ: Je relis pour ___ mes réponses. = vérifier
+D: Lisez les questions avant d'écouter.
+D: Soulignez les mots importants.
+D: Vérifiez vos réponses.
+D: Bonne chance pour le test !
+L: Étudiante | Monsieur, j'ai peur du test de samedi. || Thưa thầy, em sợ bài kiểm tra thứ Bảy.
+L: Professeur | Pourquoi ? Tu fais beaucoup de progrès ! || Sao vậy? Em tiến bộ nhiều mà!
+L: Étudiante | À l'oral, je suis toujours stressée. || Ở phần nói, em lúc nào cũng căng thẳng.
+L: Professeur | Respire, parle lentement et souris. L'examinateur est gentil. || Hít thở, nói chậm và mỉm cười. Giám khảo dễ tính mà.
+L: Étudiante | Et si je ne comprends pas une question ? || Nếu em không hiểu câu hỏi thì sao ạ?
+L: Professeur | Demande poliment de répéter. C'est normal ! || Lịch sự xin nhắc lại. Chuyện bình thường mà!
+LQ: Quand est le test ? | vendredi | *samedi | dimanche | lundi
+LQ: L'étudiante a peur de… | l'écrit | *l'oral | la lecture | l'écoute
+LQ: Le professeur conseille de… | parler vite | *parler lentement et sourire | ne rien dire | réviser la nuit
+RA: Lisez les questions avant d'écouter.
+RA: Vérifiez l'accord des adjectifs.
+RA: Parlez lentement et souriez.
+SH: J'ai peur du test.
+SH: Vous pouvez répéter, s'il vous plaît ?
+SH: Bonne chance !
+R.title: Le DELF A1
+R: Le DELF A1 est le premier diplôme officiel de français. || DELF A1 là bằng tiếng Pháp chính thức đầu tiên.
+R: Il est reconnu dans le monde entier et il est valable toute la vie. || Nó được công nhận trên toàn thế giới và có giá trị suốt đời.
+R: L'examen dure environ une heure et demie. || Kỳ thi kéo dài khoảng một tiếng rưỡi.
+R: Il y a quatre épreuves : écouter, lire, écrire et parler. || Có bốn phần thi: nghe, đọc, viết và nói.
+R: Chaque épreuve est notée sur vingt-cinq points. || Mỗi phần thi được chấm trên hai mươi lăm điểm.
+R: Pour réussir, il faut au moins cinquante points sur cent. || Để đỗ, cần ít nhất năm mươi điểm trên một trăm.
+RQ: Le DELF A1 est valable… | un an | cinq ans | *toute la vie | dix ans
+RQ: Chaque épreuve est notée sur… | dix points | vingt points | *vingt-cinq points | cent points
+RQ: Pour réussir, il faut au moins… | vingt-cinq points | *cinquante points | soixante-quinze points | cent points
+W.prompt: Écris un message à un ami qui passe le test A1 la semaine prochaine : donne-lui cinq conseils et encourage-le. || Viết tin nhắn cho một người bạn sắp thi A1 tuần tới: cho bạn ấy năm lời khuyên và động viên.
+W.min: 45
+W.must: il faut ; bonne chance
+W.check: Dùng thức mệnh lệnh hoặc il faut + nguyên thể
+W.check: Có lời động viên ở cuối
+W.check: Kiểm tra chính tả các dấu (é, è, à, ç)
+W.model: Salut Minh ! || Chào Minh!
+W.model: La semaine prochaine, tu passes le test A1. || Tuần sau bạn thi A1.
+W.model: D'abord, révise bien les verbes être, avoir, aller et faire. || Trước tiên, hãy ôn kỹ các động từ être, avoir, aller và faire.
+W.model: Pendant l'écoute, il faut lire les questions avant le document. || Trong phần nghe, cần đọc câu hỏi trước khi nghe.
+W.model: À l'oral, parle lentement et souris. || Ở phần nói, hãy nói chậm và mỉm cười.
+W.model: Ne sois pas stressé, tu fais beaucoup de progrès ! || Đừng căng thẳng, bạn tiến bộ nhiều lắm!
+W.model: Bonne chance ! || Chúc may mắn!

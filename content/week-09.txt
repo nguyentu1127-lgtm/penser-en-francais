@@ -1,0 +1,378 @@
+@week 9
+@title Faire les courses
+@level A1
+
+## 1 | Les magasins
+G.title: Où acheter quoi ?
+G.rule: Pour dire où on achète un produit, on utilise aller à la, au ou chez + le commerçant : je vais à la boulangerie ou je vais chez le boulanger. || Để nói nơi mua một món hàng, ta dùng aller à la, au hoặc chez + người bán: je vais à la boulangerie hoặc je vais chez le boulanger.
+G.note: Hai cách nói tương đương: à + cửa hàng (à la boucherie) hoặc chez + người bán (chez le boucher). Mỗi cửa hàng bán một loại: la boulangerie (bánh mì), la boucherie (thịt), la poissonnerie (cá), la fromagerie (phô mai), la pharmacie (thuốc), la librairie (sách — đừng nhầm với bibliothèque là thư viện!).
+G.table: Magasin | Commerçant | Produit
+G.row: la boulangerie | le boulanger | le pain
+G.row: la boucherie | le boucher | la viande
+G.row: la poissonnerie | le poissonnier | le poisson
+G.row: la pharmacie | le pharmacien | les médicaments
+G.row: la librairie | le libraire | les livres
+G.ex: J'achète le pain à la boulangerie. || Tôi mua bánh mì ở tiệm bánh mì.
+G.ex: Je vais chez le boucher pour acheter du bœuf. || Tôi đến hàng thịt để mua thịt bò.
+G.ex: On trouve des livres à la librairie. || Có thể tìm thấy sách ở hiệu sách.
+G.ex: Le marché est ouvert le mercredi et le samedi. || Chợ mở cửa vào thứ Tư và thứ Bảy.
+G.q: On achète des livres à la… | bibliothèque | *librairie | boulangerie | boucherie
+G.q: Je vais ___ boucher. | à la | au | *chez le | à le
+G.q: On achète du poisson à la… | boucherie | *poissonnerie | pharmacie | librairie
+G.q: Le boulanger vend… | de la viande | *du pain | des médicaments | des fleurs
+G.q: Pour acheter de la viande, je vais à la ___. = boucherie
+V: la boulangerie | /la bu.lɑ̃ʒ.ʁi/ | nom f. | tiệm bánh mì | La boulangerie ouvre à sept heures. || Tiệm bánh mì mở cửa lúc bảy giờ.
+V: la boucherie | /la buʃ.ʁi/ | nom f. | hàng thịt | La boucherie est fermée le lundi. || Hàng thịt đóng cửa vào thứ Hai.
+V: la poissonnerie | /la pwa.sɔn.ʁi/ | nom f. | hàng cá | Le poisson est frais à la poissonnerie. || Cá ở hàng cá rất tươi.
+V: la librairie | /la li.bʁɛ.ʁi/ | nom f. | hiệu sách | J'achète un dictionnaire à la librairie. || Tôi mua một quyển từ điển ở hiệu sách.
+V: le commerçant | /lə kɔ.mɛʁ.sɑ̃/ | nom m. | người bán hàng, tiểu thương | Les commerçants du quartier sont sympas. || Những người bán hàng trong khu phố rất dễ mến.
+V: le produit | /lə pʁɔ.dɥi/ | nom m. | sản phẩm | Ce sont des produits frais. || Đây là những sản phẩm tươi.
+V: frais | /fʁɛ/ | adjectif | tươi | Les légumes sont frais. || Rau tươi.
+V: le boucher | /lə bu.ʃe/ | nom m. | người bán thịt | Le boucher coupe la viande. || Người bán thịt cắt thịt.
+V: vendre | /vɑ̃dʁ/ | verbe | bán | Il vend des fruits au marché. || Anh ấy bán trái cây ở chợ.
+V: le centre commercial | /lə sɑ̃tʁ kɔ.mɛʁ.sjal/ | nom m. | trung tâm thương mại | Le centre commercial est grand. || Trung tâm thương mại rất lớn.
+VQ: Le contraire de « acheter » : | payer | *vendre | trouver | prendre
+VQ: Pour emprunter un livre gratuitement, on va à la… | librairie | *bibliothèque | boulangerie | boucherie
+VQ: Des légumes cueillis ce matin sont… | vieux | *frais | chers | lourds
+VQ: Le boulanger travaille à la… | boucherie | *boulangerie | librairie | pharmacie
+VQ: Un grand bâtiment avec beaucoup de magasins : un centre ___. = commercial
+D: J'achète le pain à la boulangerie.
+D: Je vais chez le boucher.
+D: Les légumes sont très frais.
+D: La librairie est en face de la poste.
+L: Mari | Qu'est-ce qu'on achète pour le dîner ? || Mình mua gì cho bữa tối?
+L: Femme | Du poisson. Tu peux aller à la poissonnerie ? || Cá. Anh đi hàng cá được không?
+L: Mari | D'accord. Et le pain ? || Được. Còn bánh mì?
+L: Femme | Je vais à la boulangerie, c'est à côté de la pharmacie. || Em đi tiệm bánh mì, nó ở cạnh hiệu thuốc.
+L: Mari | Tu peux aussi passer à la librairie ? Je voudrais le journal. || Em ghé hiệu sách được không? Anh muốn mua tờ báo.
+L: Femme | Pas de problème ! || Không vấn đề gì!
+LQ: Pour le dîner, ils mangent… | de la viande | *du poisson | du poulet | des pâtes
+LQ: Où est la boulangerie ? | en face de la poste | *à côté de la pharmacie | loin | au marché
+LQ: Le mari voudrait… | un livre | *le journal | des médicaments | un gâteau
+RA: la boulangerie, la boucherie, la poissonnerie.
+RA: le boulanger, le boucher, le poissonnier.
+RA: la librairie, la pharmacie, le marché.
+SH: Qu'est-ce qu'on achète pour le dîner ?
+SH: Je vais à la boulangerie.
+SH: Tu peux passer à la librairie ?
+R.title: La rue des commerçants
+R: Dans ma rue, il y a beaucoup de petits commerces. || Trên con phố của tôi có rất nhiều cửa hàng nhỏ.
+R: Au numéro douze, il y a une boulangerie très célèbre. || Ở số mười hai có một tiệm bánh mì rất nổi tiếng.
+R: En face, la boucherie de Monsieur Morel vend une viande excellente. || Đối diện, hàng thịt của ông Morel bán thịt rất ngon.
+R: À côté, il y a une petite librairie avec des livres anciens. || Bên cạnh có một hiệu sách nhỏ với những cuốn sách cũ.
+R: Le samedi matin, la rue est pleine de monde. || Sáng thứ Bảy, con phố đông nghịt người.
+R: Je préfère ces petits commerces au supermarché. || Tôi thích những cửa hàng nhỏ này hơn siêu thị.
+RQ: La boulangerie est au numéro… | deux | *douze | vingt | dix
+RQ: La librairie vend… | des journaux | *des livres anciens | des cahiers | des fleurs
+RQ: L'auteur préfère… | le supermarché | *les petits commerces | le centre commercial | Internet
+W.prompt: Explique où tu fais tes courses : quels magasins, ce que tu achètes et pourquoi tu aimes ces magasins. || Giải thích bạn đi mua sắm ở đâu: những cửa hàng nào, bạn mua gì và vì sao bạn thích những cửa hàng đó.
+W.min: 40
+W.must: je vais ; j'achète
+W.check: à la / au + cửa hàng, chez le / la + người bán
+W.check: Dùng mạo từ bộ phận cho thực phẩm (du pain, de la viande)
+W.check: Có ít nhất một lý do với « parce que »
+W.model: Je fais mes courses le samedi. || Tôi đi mua sắm vào thứ Bảy.
+W.model: D'abord, je vais au marché pour acheter des fruits et des légumes. || Đầu tiên, tôi ra chợ mua trái cây và rau.
+W.model: Ensuite, je vais chez le boucher. || Sau đó, tôi đến hàng thịt.
+W.model: J'achète le pain à la boulangerie de mon quartier. || Tôi mua bánh mì ở tiệm bánh trong khu phố.
+W.model: J'aime ces magasins parce que les produits sont frais et les commerçants sont gentils. || Tôi thích những cửa hàng này vì hàng hoá tươi và người bán dễ mến.
+
+## 2 | Les quantités
+G.title: Exprimer une quantité
+G.rule: Après une expression de quantité, on utilise de ou d' sans article : un kilo de pommes, une bouteille d'eau, beaucoup de sucre. || Sau một cụm chỉ số lượng, ta dùng de hoặc d' không có mạo từ: un kilo de pommes, une bouteille d'eau, beaucoup de sucre.
+G.note: Đây là điểm hay sai: không nói "un kilo des pommes" mà nói "un kilo DE pommes". Các cụm thường gặp: un kilo de, un litre de, une bouteille de, un paquet de, une boîte de, un morceau de (một miếng), une tranche de (một lát), une douzaine de (một tá), beaucoup de, un peu de, trop de, assez de. Hỏi: Combien de… ?
+G.table: Quantité | Exemple
+G.row: un kilo de | un kilo de tomates
+G.row: un litre de | un litre de lait
+G.row: une bouteille de | une bouteille d'huile
+G.row: un paquet de | un paquet de riz
+G.row: une tranche de | trois tranches de jambon
+G.row: une douzaine de | une douzaine d'œufs
+G.ex: Je voudrais un kilo de pommes, s'il vous plaît. || Cho tôi một ký táo.
+G.ex: Il faut une bouteille d'huile et un paquet de pâtes. || Cần một chai dầu ăn và một gói mì ống.
+G.ex: Combien de tranches de jambon voulez-vous ? || Anh muốn bao nhiêu lát giăm bông?
+G.ex: Il n'y a pas assez de sucre. || Không đủ đường.
+G.q: un kilo ___ carottes | des | *de | du | les
+G.q: une bouteille ___ eau | de l' | *d' | des | du
+G.q: beaucoup ___ amis | des | *d' | de les | du
+G.q: Douze œufs, c'est… | un kilo | *une douzaine | une tranche | un paquet
+G.q: Complétez : un litre ___ lait. = de
+V: le kilo | /lə ki.lo/ | nom m. | ki-lô-gam | Un kilo de tomates, s'il vous plaît. || Cho tôi một ký cà chua.
+V: le litre | /lə litʁ/ | nom m. | lít | Deux litres de lait. || Hai lít sữa.
+V: la bouteille | /la bu.tɛj/ | nom f. | chai | Une bouteille de vin rouge. || Một chai rượu vang đỏ.
+V: le paquet | /lə pa.kɛ/ | nom m. | gói | Un paquet de biscuits. || Một gói bánh quy.
+V: la tranche | /la tʁɑ̃ʃ/ | nom f. | lát | Quatre tranches de jambon. || Bốn lát giăm bông.
+V: la douzaine | /la du.zɛn/ | nom f. | tá (mười hai) | Une douzaine d'œufs. || Một tá trứng.
+V: le morceau | /lə mɔʁ.so/ | nom m. | miếng | Un morceau de fromage. || Một miếng phô mai.
+V: l'œuf | /lœf/ | nom m. | quả trứng | Les œufs sont dans le frigo. || Trứng ở trong tủ lạnh.
+V: assez de | /a.se də/ | expression | đủ | Tu as assez d'argent ? || Bạn có đủ tiền không?
+V: trop de | /tʁo də/ | expression | quá nhiều | Il y a trop de sel. || Có quá nhiều muối.
+VQ: On achète le lait en… | kilos | *litres | tranches | douzaines
+VQ: On coupe le jambon en… | litres | bouteilles | *tranches | douzaines
+VQ: Le contraire de « trop de » : | beaucoup de | *pas assez de | un kilo de | une douzaine de
+VQ: Le vin est vendu en… | *bouteilles | tranches | kilos | morceaux
+VQ: Douze œufs = une ___ d'œufs. = douzaine
+D: Un kilo de pommes, s'il vous plaît.
+D: Une bouteille d'eau et un paquet de riz.
+D: Je voudrais quatre tranches de jambon.
+D: Il y a trop de sucre.
+L: Marchand | Bonjour madame, qu'est-ce que je vous mets ? || Chào bà, bà lấy gì ạ?
+L: Cliente | Un kilo de tomates et deux kilos de pommes de terre. || Một ký cà chua và hai ký khoai tây.
+L: Marchand | Voilà. Et avec ça ? || Đây ạ. Bà cần gì thêm không?
+L: Cliente | Une douzaine d'œufs, s'il vous plaît. || Một tá trứng.
+L: Marchand | Je n'ai plus d'œufs, désolé. Une salade ? || Tôi hết trứng rồi, xin lỗi bà. Bà lấy một cây xà lách nhé?
+L: Cliente | Oui, une salade. C'est tout, merci. || Vâng, một cây xà lách. Thế thôi, cảm ơn.
+LQ: La cliente achète deux kilos de… | tomates | *pommes de terre | pommes | carottes
+LQ: Pourquoi elle n'a pas d'œufs ? | elle n'aime pas les œufs | *le marchand n'a plus d'œufs | c'est trop cher | elle a déjà des œufs
+LQ: À la place, elle prend… | du fromage | *une salade | des carottes | du lait
+RA: un kilo de, un litre de, une bouteille de.
+RA: un paquet de riz, une tranche de jambon.
+RA: une douzaine d'œufs, beaucoup de sucre.
+SH: Qu'est-ce que je vous mets ?
+SH: Un kilo de tomates, s'il vous plaît.
+SH: C'est tout, merci.
+R.title: La recette des crêpes
+R: Pour faire des crêpes pour quatre personnes, il faut deux cent cinquante grammes de farine. || Để làm bánh crêpe cho bốn người, cần hai trăm năm mươi gam bột mì.
+R: Il faut aussi quatre œufs et un demi-litre de lait. || Cũng cần bốn quả trứng và nửa lít sữa.
+R: Ajoutez une pincée de sel et un peu de sucre. || Thêm một nhúm muối và một chút đường.
+R: Mélangez bien et laissez reposer une heure. || Trộn đều và để nghỉ một giờ.
+R: Faites cuire les crêpes dans une poêle chaude avec un morceau de beurre. || Rán bánh trong chảo nóng với một miếng bơ.
+R: Servez avec du sucre, de la confiture ou du chocolat ! || Ăn kèm với đường, mứt hoặc sô cô la!
+RQ: Combien d'œufs il faut ? | deux | *quatre | six | douze
+RQ: Combien de lait il faut ? | un litre | *un demi-litre | deux litres | un verre
+RQ: La pâte repose… | dix minutes | *une heure | une nuit | pas du tout
+W.prompt: Écris ta liste de courses pour un repas avec des amis. Donne une quantité précise pour chaque produit. || Viết danh sách đi chợ cho một bữa ăn với bạn bè. Ghi số lượng cụ thể cho mỗi món.
+W.min: 30
+W.must: un kilo de ; une bouteille de
+W.check: Sau từ chỉ số lượng dùng de / d' (không dùng des / du)
+W.check: Dùng đúng đơn vị: kilo, litre, bouteille, paquet, tranche…
+W.check: Có câu giới thiệu: Pour le dîner, il faut…
+W.model: Samedi, j'invite cinq amis à dîner. || Thứ Bảy, tôi mời năm người bạn ăn tối.
+W.model: Il faut un kilo de bœuf et deux kilos de légumes. || Cần một ký thịt bò và hai ký rau.
+W.model: J'achète aussi un paquet de riz et une bouteille de sauce de poisson. || Tôi cũng mua một gói gạo và một chai nước mắm.
+W.model: Pour le dessert, il faut un kilo de mangues. || Cho món tráng miệng, cần một ký xoài.
+W.model: Et comme boisson, six bouteilles d'eau et un litre de jus d'orange. || Còn đồ uống, sáu chai nước và một lít nước cam.
+
+## 3 | Combien ça coûte ?
+G.title: Demander et dire le prix
+G.rule: Pour demander le prix, on dit « Combien ça coûte ? » ou « C'est combien ? ». Pour plusieurs objets, on dit « Combien coûtent… ? ». || Để hỏi giá, ta nói « Combien ça coûte ? » hoặc « C'est combien ? ». Với nhiều món, ta nói « Combien coûtent… ? ».
+G.note: Giá tiền: 2,50 € đọc là "deux euros cinquante". Số tiền lớn: cent (100), deux cents (200, có s), deux cent cinquante (250, mất s), mille (1 000, không bao giờ thêm s). Nhận xét giá: C'est cher (đắt), c'est bon marché / pas cher (rẻ), c'est une bonne affaire (món hời). Tổng cộng: Ça fait combien ? — Ça fait vingt euros.
+G.table: Question | Réponse
+G.row: Combien ça coûte ? | Ça coûte dix euros.
+G.row: C'est combien ? | C'est trois euros cinquante.
+G.row: Combien coûtent ces fraises ? | Elles coûtent quatre euros le kilo.
+G.row: Ça fait combien ? | Ça fait vingt-deux euros.
+G.ex: Combien coûte ce pull ? || Cái áo len này giá bao nhiêu?
+G.ex: Les tomates coûtent trois euros le kilo. || Cà chua giá ba euro một ký.
+G.ex: C'est trop cher pour moi. || Cái này quá đắt với tôi.
+G.ex: Ça fait quinze euros quarante. || Tổng cộng mười lăm euro bốn mươi.
+G.q: Combien ___ ces chaussures ? | coûte | *coûtent | coûtes | coûtons
+G.q: 2,50 € se dit… | deux euros et cinquante | *deux euros cinquante | deux cinquante euros | deux virgule euros
+G.q: 300 se dit… | trois cent | *trois cents | trois centaines | trois mille
+G.q: Le contraire de « cher » : | *bon marché | gratuit | combien | riche
+G.q: Écrivez en lettres : 1000 = mille
+V: coûter | /ku.te/ | verbe | có giá | Ça coûte combien ? || Cái này giá bao nhiêu?
+V: cher | /ʃɛʁ/ | adjectif | đắt | Ce restaurant est cher. || Nhà hàng này đắt.
+V: bon marché | /bɔ̃ maʁ.ʃe/ | expression | rẻ | Ces chaussures sont bon marché. || Đôi giày này rẻ.
+V: le prix | /lə pʁi/ | nom m. | giá | Les prix augmentent. || Giá cả tăng lên.
+V: deux cents | /dø sɑ̃/ | nombre | hai trăm | Ça coûte deux cents euros. || Cái này giá hai trăm euro.
+V: mille | /mil/ | nombre | một nghìn | Mille euros, c'est beaucoup ! || Một nghìn euro là nhiều đấy!
+V: une réduction | /yn ʁe.dyk.sjɔ̃/ | nom f. | sự giảm giá | Il y a une réduction de vingt pour cent. || Có giảm giá hai mươi phần trăm.
+V: les soldes | /le sɔld/ | nom m. pl. | đợt giảm giá lớn | Les soldes commencent en janvier. || Đợt giảm giá bắt đầu vào tháng Một.
+V: une bonne affaire | /yn bɔ.n‿a.fɛʁ/ | expression | món hời | Dix euros pour ce sac ? C'est une bonne affaire ! || Mười euro cho cái túi này? Hời quá!
+V: la carte bancaire | /la kaʁt bɑ̃.kɛʁ/ | nom f. | thẻ ngân hàng | Vous acceptez la carte bancaire ? || Ở đây có nhận thẻ ngân hàng không?
+VQ: « Ça coûte cent euros » : c'est… | *cher | bon marché | gratuit | une réduction
+VQ: En janvier et en juillet, en France, il y a les… | prix | *soldes | cartes | marchés
+VQ: Un prix très intéressant, c'est une bonne… | carte | *affaire | réduction de prix | soldes
+VQ: « Combien ça coûte ? » demande… | l'heure | la taille | *le prix | la couleur
+VQ: Le contraire de « bon marché » : ___ = cher
+D: Combien ça coûte ?
+D: Les tomates coûtent trois euros le kilo.
+D: C'est trop cher pour moi.
+D: Ça fait quinze euros cinquante.
+L: Client | Bonjour, combien coûtent ces fraises ? || Xin chào, dâu này giá bao nhiêu?
+L: Vendeuse | Elles coûtent six euros le kilo. || Sáu euro một ký.
+L: Client | C'est un peu cher. Et les cerises ? || Hơi đắt. Còn anh đào?
+L: Vendeuse | Quatre euros le kilo. Elles sont délicieuses ! || Bốn euro một ký. Ngon lắm!
+L: Client | D'accord, un kilo de cerises. Ça fait combien ? || Được, một ký anh đào. Bao nhiêu tiền?
+L: Vendeuse | Quatre euros, s'il vous plaît. || Bốn euro ạ.
+LQ: Les fraises coûtent… | quatre euros le kilo | *six euros le kilo | deux euros | dix euros le kilo
+LQ: Le client achète… | des fraises | *des cerises | des pommes | rien
+LQ: Il paie… | six euros | *quatre euros | dix euros | deux euros
+RA: Combien ça coûte ? C'est combien ?
+RA: deux euros cinquante, dix euros quatre-vingts.
+RA: cent, deux cents, deux cent cinquante, mille.
+SH: Combien coûtent ces fraises ?
+SH: C'est un peu cher.
+SH: Ça fait combien ?
+R.title: Les soldes
+R: En France, les soldes ont lieu deux fois par an, en hiver et en été. || Ở Pháp, đợt giảm giá diễn ra hai lần một năm, vào mùa đông và mùa hè.
+R: Pendant quatre semaines, les magasins proposent des réductions. || Trong bốn tuần, các cửa hàng giảm giá.
+R: Au début, c'est moins vingt ou trente pour cent. || Lúc đầu, giảm hai mươi hoặc ba mươi phần trăm.
+R: À la fin, on peut trouver des réductions de soixante-dix pour cent ! || Lúc cuối, có thể tìm thấy giảm giá đến bảy mươi phần trăm!
+R: Le premier jour, il y a beaucoup de monde dans les magasins. || Ngày đầu tiên, các cửa hàng rất đông người.
+R: C'est le bon moment pour faire de bonnes affaires. || Đó là thời điểm tốt để mua được hàng hời.
+RQ: Il y a des soldes… | une fois par an | *deux fois par an | chaque mois | tous les week-ends
+RQ: Les soldes durent… | une semaine | deux semaines | *quatre semaines | trois mois
+RQ: À la fin des soldes, les réductions vont jusqu'à… | vingt pour cent | trente pour cent | *soixante-dix pour cent | cent pour cent
+W.prompt: Écris un dialogue dans un magasin : tu demandes le prix de deux articles, tu compares et tu achètes. || Viết một đoạn hội thoại trong cửa hàng: bạn hỏi giá hai món, so sánh và mua.
+W.min: 40
+W.must: combien ; coûte
+W.check: Combien coûte (một món) / combien coûtent (nhiều món)
+W.check: Giá viết bằng chữ (deux euros cinquante)
+W.check: Có câu nhận xét giá: c'est cher / pas cher / une bonne affaire
+W.model: — Bonjour, combien coûte ce sac noir ? || — Xin chào, cái túi đen này giá bao nhiêu?
+W.model: — Il coûte quatre-vingt-dix euros. || — Nó giá chín mươi euro.
+W.model: — C'est trop cher. Et ce sac marron ? || — Đắt quá. Còn cái túi nâu này?
+W.model: — Il est en solde : trente-cinq euros. || — Nó đang giảm giá: ba mươi lăm euro.
+W.model: — C'est une bonne affaire ! Je le prends. || — Hời quá! Tôi lấy cái này.
+W.model: — Ça fait trente-cinq euros, s'il vous plaît. || — Tổng cộng ba mươi lăm euro ạ.
+
+## 4 | Les vêtements et les couleurs
+G.title: S'habiller : porter et mettre
+G.rule: Pour parler des vêtements, on utilise porter pour ce qu'on a sur soi et mettre pour l'action de s'habiller. Les couleurs s'accordent comme les adjectifs, sauf marron et orange. || Khi nói về quần áo, ta dùng porter (đang mặc) và mettre (hành động mặc vào). Màu sắc hợp giống, số như tính từ, trừ marron và orange.
+G.note: Il porte une chemise blanche (anh ấy đang mặc áo sơ mi trắng). Je mets mon manteau (tôi mặc áo khoác vào). Màu sắc đứng SAU danh từ: une robe rouge. Màu hợp giống, số: des chaussures noires, une jupe verte. Ngoại lệ không đổi: marron, orange (vì vốn là tên quả/hạt): des chaussures marron. Hỏi cỡ: Quelle taille faites-vous ? (quần áo) / Quelle pointure ? (giày).
+G.table: Couleur | Masculin | Féminin
+G.row: noir | un pull noir | une jupe noire
+G.row: blanc | un pantalon blanc | une chemise blanche
+G.row: vert | un manteau vert | une veste verte
+G.row: rouge | un t-shirt rouge | une robe rouge
+G.row: marron | des souliers marron | des bottes marron
+G.ex: Aujourd'hui, je porte un jean et un t-shirt blanc. || Hôm nay tôi mặc quần bò và áo phông trắng.
+G.ex: Il fait froid, je mets mon manteau. || Trời lạnh, tôi mặc áo khoác.
+G.ex: Elle porte une robe verte et des chaussures noires. || Cô ấy mặc váy xanh lá và giày đen.
+G.ex: Quelle taille faites-vous ? Je fais du M. || Anh mặc cỡ gì? Tôi mặc cỡ M.
+G.q: Elle porte une jupe ___. | vert | *verte | verts | vertes
+G.q: des chaussures ___ | marrons | *marron | marronnes | marronne
+G.q: Il fait froid. Je ___ mon pull. | porte de | *mets | fais | prends à
+G.q: Pour les chaussures, on demande la… | taille | *pointure | couleur | longueur
+G.q: Complétez : une chemise ___ (blanc). = blanche
+V: les vêtements | /le vɛt.mɑ̃/ | nom m. pl. | quần áo | J'achète des vêtements. || Tôi mua quần áo.
+V: la chemise | /la ʃə.miz/ | nom f. | áo sơ mi | Une chemise bleue. || Một chiếc áo sơ mi xanh.
+V: le pantalon | /lə pɑ̃.ta.lɔ̃/ | nom m. | quần dài | Un pantalon noir. || Một chiếc quần dài đen.
+V: la jupe | /la ʒyp/ | nom f. | chân váy | Elle porte une jupe courte. || Cô ấy mặc chân váy ngắn.
+V: le manteau | /lə mɑ̃.to/ | nom m. | áo khoác dài | Mets ton manteau, il fait froid ! || Mặc áo khoác vào, trời lạnh đấy!
+V: le pull | /lə pyl/ | nom m. | áo len | Un pull en laine. || Một chiếc áo len.
+V: les chaussures | /le ʃo.syʁ/ | nom f. pl. | giày | De nouvelles chaussures. || Đôi giày mới.
+V: la taille | /la taj/ | nom f. | cỡ (quần áo) | Vous avez la taille au-dessus ? || Có cỡ lớn hơn không?
+V: la pointure | /la pwɛ̃.tyʁ/ | nom f. | cỡ giày | Je fais du trente-neuf de pointure. || Tôi đi giày cỡ ba mươi chín.
+V: essayer | /e.se.je/ | verbe | thử | Je peux essayer cette robe ? || Tôi có thể thử chiếc váy này không?
+VQ: On porte des chaussures aux… | mains | *pieds | yeux | bras
+VQ: Pour savoir si un vêtement va bien, on l'… | achète | *essaie | lave | vend
+VQ: En hiver, on porte un… | t-shirt | *manteau | maillot de bain | short
+VQ: Le vêtement d'homme pour les jambes : | jupe | robe | *pantalon | chemise
+VQ: Je fais du quarante de ___ (chaussures). = pointure
+D: Je porte un jean et un t-shirt blanc.
+D: Il fait froid, je mets mon manteau.
+D: Elle porte une robe verte.
+D: Je peux essayer ces chaussures ?
+L: Vendeuse | Bonjour, je peux vous aider ? || Xin chào, tôi giúp gì được cho anh?
+L: Duc | Oui, je cherche une chemise blanche pour le travail. || Vâng, tôi tìm một chiếc sơ mi trắng để đi làm.
+L: Vendeuse | Quelle taille faites-vous ? || Anh mặc cỡ gì?
+L: Duc | Je fais du M. Je peux l'essayer ? || Tôi mặc cỡ M. Tôi thử được không?
+L: Vendeuse | Bien sûr, la cabine est au fond. || Tất nhiên, phòng thử ở cuối cửa hàng.
+L: Duc | Elle est un peu petite. Vous avez la taille L ? || Hơi chật. Chị có cỡ L không?
+LQ: Duc cherche une chemise… | noire | *blanche | bleue | rouge
+LQ: Duc fait du… | S | *M | L | XL
+LQ: Quel est le problème ? | la couleur | le prix | *la chemise est un peu petite | la cabine est fermée
+RA: une chemise blanche, un pantalon noir.
+RA: une jupe verte, des chaussures marron.
+RA: Je porte un pull. Je mets mon manteau.
+SH: Je cherche une chemise blanche.
+SH: Quelle taille faites-vous ?
+SH: Je peux l'essayer ?
+R.title: La mode à l'école
+R: Dans beaucoup d'écoles vietnamiennes, les élèves portent un uniforme. || Ở nhiều trường Việt Nam, học sinh mặc đồng phục.
+R: Les garçons portent une chemise blanche et un pantalon bleu foncé. || Nam sinh mặc áo sơ mi trắng và quần xanh đậm.
+R: Le lundi, les filles du lycée mettent souvent l'áo dài blanc. || Thứ Hai, nữ sinh trung học thường mặc áo dài trắng.
+R: En France, il n'y a pas d'uniforme dans la plupart des écoles. || Ở Pháp, phần lớn các trường không có đồng phục.
+R: Les élèves portent des jeans, des pulls et des baskets. || Học sinh mặc quần bò, áo len và giày thể thao.
+R: Et toi, tu préfères l'uniforme ou la liberté ? || Còn bạn, bạn thích đồng phục hay tự do?
+RQ: Les garçons vietnamiens portent… | un t-shirt rouge | *une chemise blanche et un pantalon bleu foncé | un uniforme vert | un jean
+RQ: Les filles mettent l'áo dài… | le vendredi | *le lundi | le samedi | tous les jours
+RQ: En France, la plupart des élèves… | portent un uniforme | *n'ont pas d'uniforme | portent l'áo dài | portent une chemise blanche
+W.prompt: Décris ce que tu portes aujourd'hui et ce que tu mets pour une fête. Donne les couleurs. || Miêu tả hôm nay bạn mặc gì và bạn mặc gì khi đi dự tiệc. Nói cả màu sắc.
+W.min: 40
+W.must: je porte ; je mets
+W.check: Màu sắc đứng sau danh từ và hợp giống, số
+W.check: marron, orange không thay đổi
+W.check: porter (đang mặc) và mettre (mặc vào) dùng đúng chỗ
+W.model: Aujourd'hui, je porte un jean bleu et un t-shirt blanc. || Hôm nay tôi mặc quần bò xanh và áo phông trắng.
+W.model: Je porte aussi des baskets noires. || Tôi cũng đi giày thể thao đen.
+W.model: Pour une fête, je mets une robe rouge. || Khi đi dự tiệc, tôi mặc một chiếc váy đỏ.
+W.model: Avec la robe, je mets des chaussures marron et un petit sac noir. || Với chiếc váy, tôi đi giày nâu và đeo một chiếc túi nhỏ màu đen.
+W.model: Quand il fait froid, je mets mon manteau gris. || Khi trời lạnh, tôi mặc áo khoác xám.
+
+## 5 | Les adjectifs démonstratifs
+G.title: Ce…-ci, ce…-là et quel
+G.rule: Pour choisir entre deux objets, on ajoute -ci pour l'objet proche et -là pour l'objet éloigné. Pour demander un choix, on utilise quel, quelle, quels, quelles. || Để chọn giữa hai món, ta thêm -ci cho vật ở gần và -là cho vật ở xa. Để hỏi lựa chọn, ta dùng quel, quelle, quels, quelles.
+G.note: Ôn lại: ce (giống đực), cet (giống đực + nguyên âm), cette (giống cái), ces (số nhiều). Thêm -ci / -là sau danh từ để phân biệt: ce pull-ci (cái áo len này), ce pull-là (cái áo len kia). Quel hợp giống, số với danh từ: Quel pull ? Quelle robe ? Quels gants ? Quelles chaussures ?
+G.table: | Masculin | Féminin
+G.row: singulier | ce sac-ci / ce sac-là | cette robe-ci / cette robe-là
+G.row: pluriel | ces sacs-ci | ces robes-là
+G.row: question | quel sac ? / quels sacs ? | quelle robe ? / quelles robes ?
+G.ex: Je préfère ce pull-ci, il est plus chaud. || Tôi thích cái áo len này hơn, nó ấm hơn.
+G.ex: Quelle robe préfères-tu ? Cette robe-là. || Bạn thích chiếc váy nào? Chiếc váy kia.
+G.ex: Ces chaussures-ci sont trop petites. || Đôi giày này quá chật.
+G.ex: Quel est le prix de cet anorak ? || Cái áo khoác gió này giá bao nhiêu?
+G.q: ___ chaussures préfères-tu ? | Quel | Quelle | Quels | *Quelles
+G.q: ___ manteau-ci est chaud. | Cet | Cette | *Ce | Ces
+G.q: ___ anorak est bleu. | Ce | *Cet | Cette | Ces
+G.q: Pour un objet éloigné, on dit… | ce pull-ci | *ce pull-là | ce pull-ici | ce pull-loin
+G.q: Complétez : ___ chemise préfères-tu ? = Quelle / quelle
+V: préférer | /pʁe.fe.ʁe/ | verbe | thích hơn | Je préfère cette couleur. || Tôi thích màu này hơn.
+V: choisir | /ʃwa.ziʁ/ | verbe | chọn | Je ne peux pas choisir ! || Tôi không chọn được!
+V: le modèle | /lə mɔ.dɛl/ | nom m. | mẫu, kiểu | J'aime ce modèle. || Tôi thích mẫu này.
+V: la veste | /la vɛst/ | nom f. | áo khoác ngắn | Une veste en cuir. || Một chiếc áo khoác da.
+V: les gants | /le ɡɑ̃/ | nom m. pl. | găng tay | Des gants pour l'hiver. || Găng tay cho mùa đông.
+V: l'écharpe | /le.ʃaʁp/ | nom f. | khăn quàng cổ | Une écharpe en laine. || Một chiếc khăn len.
+V: les baskets | /le bas.kɛt/ | nom f. pl. | giày thể thao | Des baskets blanches. || Đôi giày thể thao trắng.
+V: à la mode | /a la mɔd/ | expression | hợp thời trang | Cette couleur est à la mode. || Màu này đang mốt.
+V: aller bien | /a.le bjɛ̃/ | expression | hợp, vừa (quần áo) | Cette robe te va bien ! || Chiếc váy này hợp với bạn đấy!
+V: le cuir | /lə kɥiʁ/ | nom m. | da (thuộc) | Un sac en cuir. || Một chiếc túi da.
+VQ: On porte des gants aux… | pieds | *mains | oreilles | jambes
+VQ: « Cette robe te va bien » veut dire… | *elle est jolie sur toi | elle est trop petite | elle est chère | elle est sale
+VQ: Une couleur « à la mode » est… | vieille | *tendance en ce moment | chère | sombre
+VQ: En hiver, autour du cou, on met une… | ceinture | *écharpe | casquette | chaussette
+VQ: Je n'arrive pas à ___ entre ces deux robes. = choisir
+D: Je préfère ce pull-ci.
+D: Quelle robe préfères-tu ?
+D: Ces chaussures-là sont jolies.
+D: Cette veste te va bien.
+L: Mai | Regarde ces deux vestes. Quelle veste tu préfères ? || Xem hai cái áo khoác này. Bạn thích cái nào?
+L: Lucie | Cette veste-ci, la bleue. Elle est à la mode. || Cái này, cái màu xanh. Nó đang mốt.
+L: Mai | Moi, je préfère cette veste-là, en cuir. || Mình thích cái kia hơn, cái bằng da.
+L: Lucie | Elle est belle, mais elle coûte combien ? || Đẹp đấy, nhưng nó giá bao nhiêu?
+L: Mai | Deux cents euros… C'est trop cher. || Hai trăm euro… Đắt quá.
+L: Lucie | Alors prends la bleue, elle te va bien ! || Vậy lấy cái xanh đi, nó hợp với bạn đấy!
+LQ: Lucie préfère la veste… | en cuir | *bleue | noire | rouge
+LQ: La veste en cuir coûte… | cent euros | *deux cents euros | cinquante euros | trois cents euros
+LQ: Lucie conseille à Mai de prendre… | la veste en cuir | *la veste bleue | aucune veste | les deux vestes
+RA: ce pull-ci, ce pull-là.
+RA: cette veste-ci, cette veste-là.
+RA: Quel sac ? Quelle robe ? Quels gants ? Quelles chaussures ?
+SH: Quelle veste tu préfères ?
+SH: Je préfère cette veste-là.
+SH: Elle te va bien !
+R.title: Le cadeau d'anniversaire
+R: C'est bientôt l'anniversaire de Thomas et sa sœur cherche un cadeau. || Sắp đến sinh nhật Thomas và em gái anh ấy đang tìm một món quà.
+R: Dans le magasin, elle hésite entre deux écharpes. || Trong cửa hàng, cô ấy phân vân giữa hai chiếc khăn quàng.
+R: Cette écharpe-ci est grise et très douce. || Chiếc khăn này màu xám và rất mềm.
+R: Cette écharpe-là est rouge, plus originale, mais plus chère. || Chiếc khăn kia màu đỏ, độc đáo hơn nhưng đắt hơn.
+R: Thomas porte souvent du noir et du gris. || Thomas thường mặc đồ đen và xám.
+R: Finalement, elle choisit l'écharpe rouge pour changer ! || Cuối cùng, cô ấy chọn chiếc khăn đỏ để thay đổi!
+RQ: La sœur de Thomas cherche… | des gants | *un cadeau | une veste | des chaussures
+RQ: L'écharpe grise est… | chère | *très douce | originale | rouge
+RQ: Quelle écharpe choisit-elle ? | la grise | *la rouge | aucune | les deux
+W.prompt: Tu fais du shopping avec un ami. Écris un dialogue où vous comparez deux vêtements avec ce…-ci, ce…-là et quel. || Bạn đi mua sắm với một người bạn. Viết đoạn hội thoại hai bạn so sánh hai món đồ với ce…-ci, ce…-là và quel.
+W.min: 40
+W.must: quel ; -ci ; -là
+W.check: quel / quelle / quels / quelles hợp với danh từ
+W.check: ce / cet / cette / ces đúng giống, số
+W.check: Có lý do khi chọn (il est plus chaud, elle est moins chère…)
+W.model: — Quelle chemise tu préfères ? || — Bạn thích chiếc sơ mi nào?
+W.model: — Cette chemise-ci, la blanche. || — Chiếc này, chiếc màu trắng.
+W.model: — Moi, je préfère cette chemise-là, elle est plus originale. || — Mình thích chiếc kia hơn, nó độc đáo hơn.
+W.model: — Oui, mais elle coûte soixante euros ! || — Ừ, nhưng nó giá sáu mươi euro!
+W.model: — Et quelles chaussures tu prends ? || — Còn bạn lấy đôi giày nào?
+W.model: — Ces chaussures-ci, elles sont confortables. || — Đôi này, nó thoải mái.
