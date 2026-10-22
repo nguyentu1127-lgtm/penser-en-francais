@@ -1,0 +1,380 @@
+@week 22
+@title Les pronoms COI
+@level A2
+
+## 1 | Lui, leur
+G.title: Remplacer « à + personne »
+G.rule: Le pronom COI remplace un complément introduit par la préposition à et désignant une personne : lui (à lui ou à elle), leur (à eux ou à elles). Il se place devant le verbe. || Đại từ COI thay thế cho bổ ngữ có giới từ à và chỉ người: lui (cho anh ấy hoặc cô ấy), leur (cho họ). Nó đứng trước động từ.
+G.note: Je parle à Marc → Je lui parle. Je téléphone à Lan → Je lui téléphone (lui dùng cho cả nam và nữ!). J'écris à mes parents → Je leur écris. Chú ý: "leur" (đại từ, không bao giờ thêm -s) khác "leur/leurs" (tính từ sở hữu: leurs enfants). Vị trí giống COD: Je ne lui parle pas. Je vais lui parler. Je lui ai parlé.
+G.table: Complément | Pronom | Exemple
+G.row: à Marc | lui | Je lui parle.
+G.row: à Lan | lui | Je lui téléphone.
+G.row: à mes parents | leur | Je leur écris.
+G.row: à mes amies | leur | Je leur réponds.
+G.ex: Tu as parlé au directeur ? — Oui, je lui ai parlé ce matin. || Bạn nói chuyện với giám đốc chưa? — Rồi, tôi đã nói với ông ấy sáng nay.
+G.ex: Ma mère est seule, alors je lui téléphone tous les jours. || Mẹ tôi ở một mình nên ngày nào tôi cũng gọi điện cho mẹ.
+G.ex: Mes grands-parents ? Je leur écris une carte pour le Têt. || Ông bà tôi à? Tôi viết thiệp Tết cho ông bà.
+G.ex: Les clients ont des questions. Tu peux leur répondre ? || Khách hàng có câu hỏi. Bạn trả lời họ được không?
+G.q: Je téléphone à ma sœur → Je ___ téléphone. | la | *lui | leur | le
+G.q: Je parle à mes collègues → Je ___ parle. | les | lui | *leur | leurs
+G.q: Je réponds à Paul → Je ___ réponds. | le | *lui | leur | l'
+G.q: Négation : Je ___ écris ___. (à eux) | ne… leur pas | *ne leur… pas | leur ne… pas | ne… pas leurs
+G.q: Je donne un livre à Marie → Je ___ donne un livre. = lui
+V: parler à | /paʁ.le a/ | verbe | nói với | Je parle à mon voisin. || Tôi nói chuyện với hàng xóm.
+V: téléphoner à | /te.le.fɔ.ne a/ | verbe | gọi điện cho | Je lui téléphone le soir. || Tôi gọi điện cho anh ấy vào buổi tối.
+V: écrire à | /e.kʁiʁ a/ | verbe | viết cho | Je leur écris souvent. || Tôi thường viết thư cho họ.
+V: répondre à | /ʁe.pɔ̃dʁ a/ | verbe | trả lời | Je lui ai répondu. || Tôi đã trả lời cô ấy.
+V: donner à | /dɔ.ne a/ | verbe | đưa cho | Je leur donne des bonbons. || Tôi cho họ kẹo.
+V: le directeur | /lə di.ʁɛk.tœʁ/ | nom m. | giám đốc | Le directeur est en réunion. || Giám đốc đang họp.
+V: la carte | /la kaʁt/ | nom f. | tấm thiệp | J'ai envoyé une carte. || Tôi đã gửi một tấm thiệp.
+V: le client | /lə kli.jɑ̃/ | nom m. | khách hàng | Je leur explique le produit. || Tôi giải thích sản phẩm cho họ.
+V: expliquer | /ɛks.pli.ke/ | verbe | giải thích | Je lui explique la règle. || Tôi giải thích quy tắc cho cô ấy.
+V: seul | /sœl/ | adjectif | một mình | Elle habite seule. || Bà ấy sống một mình.
+VQ: « Je lui parle » : « lui » peut être… | seulement un homme | *un homme ou une femme | plusieurs personnes | un objet
+VQ: « Leur » pronom COI prend un « s » ? | oui, toujours | *non, jamais | seulement au féminin | seulement au passé
+VQ: La personne qui dirige une entreprise : | le client | *le directeur | le voisin | l'élève
+VQ: « Expliquer » quelque chose à quelqu'un, c'est… | le cacher | *l'aider à comprendre | le vendre | l'oublier
+VQ: Je téléphone à mes parents → Je ___ téléphone. = leur
+D: Tu as parlé au directeur ? Je lui ai parlé ce matin.
+D: Je lui téléphone tous les jours.
+D: Je leur écris une carte pour le Têt.
+D: Tu peux leur répondre ?
+L: Collègue | Tu as répondu aux clients japonais ? || Bạn đã trả lời các khách hàng Nhật chưa?
+L: Hải | Pas encore. Je vais leur écrire cet après-midi. || Chưa. Chiều nay mình sẽ viết cho họ.
+L: Collègue | Et à Madame Durand ? Elle a appelé deux fois. || Còn bà Durand? Bà ấy gọi hai lần rồi.
+L: Hải | Oui, je lui ai téléphoné, mais elle n'a pas répondu. || Ừ, mình đã gọi cho bà ấy, nhưng bà ấy không nghe máy.
+L: Collègue | Envoie-lui un message, alors. || Thế thì gửi tin nhắn cho bà ấy đi.
+L: Hải | Bonne idée, je lui envoie un e-mail tout de suite. || Ý hay, mình gửi e-mail cho bà ấy ngay.
+LQ: Quand Hải va écrire aux clients japonais ? | ce matin | *cet après-midi | demain | il leur a déjà écrit
+LQ: Madame Durand a appelé… | une fois | *deux fois | trois fois | jamais
+LQ: Que va faire Hải ? | lui téléphoner encore | *lui envoyer un e-mail | aller la voir | rien
+RA: Je lui parle. Je leur parle.
+RA: Je lui ai téléphoné. Je vais leur écrire.
+RA: Je ne lui réponds pas.
+SH: Je vais leur écrire cet après-midi.
+SH: Je lui ai téléphoné, mais elle n'a pas répondu.
+SH: Je lui envoie un e-mail tout de suite.
+R.title: Loin de ma famille
+R: J'habite en France depuis deux ans et ma famille est au Viêt Nam. || Tôi sống ở Pháp đã hai năm và gia đình tôi ở Việt Nam.
+R: Je téléphone à ma mère tous les dimanches. Je lui raconte ma semaine. || Chủ Nhật nào tôi cũng gọi điện cho mẹ. Tôi kể cho mẹ nghe về tuần của mình.
+R: Mon père n'aime pas le téléphone, alors je lui écris des e-mails. || Bố tôi không thích điện thoại, nên tôi viết e-mail cho bố.
+R: Mes petits frères sont très jeunes : je leur envoie des photos de Paris et des vidéos drôles. || Các em trai tôi còn rất nhỏ: tôi gửi cho chúng ảnh Paris và những video vui nhộn.
+R: Pour le Têt, je leur ai envoyé un colis avec du chocolat français. || Vào dịp Tết, tôi đã gửi cho chúng một bưu kiện có sô-cô-la Pháp.
+R: Ils me manquent beaucoup, mais grâce à Internet, je leur parle presque tous les jours. || Tôi rất nhớ họ, nhưng nhờ Internet, tôi nói chuyện với họ gần như mỗi ngày.
+RQ: Quand téléphone-t-il à sa mère ? | tous les jours | *tous les dimanches | une fois par mois | le samedi
+RQ: Comment communique-t-il avec son père ? | par téléphone | *par e-mail | par lettre | il ne lui parle pas
+RQ: Qu'a-t-il envoyé à ses frères pour le Têt ? | de l'argent | *un colis avec du chocolat | des vêtements | une lettre
+W.prompt: Explique comment tu restes en contact avec ta famille et tes amis : à qui tu téléphones, à qui tu écris, à qui tu envoies des messages. Utilise lui et leur. || Giải thích bạn giữ liên lạc với gia đình và bạn bè như thế nào: bạn gọi điện cho ai, viết cho ai, gửi tin nhắn cho ai. Dùng lui và leur.
+W.min: 45
+W.must: je lui ; je leur
+W.check: lui cho một người (nam hoặc nữ), leur cho nhiều người
+W.check: leur (đại từ) không có -s
+W.check: Đại từ đứng trước động từ
+W.model: Ma grand-mère habite à la campagne. Je lui téléphone le samedi matin. || Bà tôi sống ở quê. Tôi gọi điện cho bà vào sáng thứ Bảy.
+W.model: Elle n'a pas de smartphone, alors je ne lui envoie pas de messages. || Bà không có điện thoại thông minh, nên tôi không gửi tin nhắn cho bà.
+W.model: Mes amis d'université sont partout dans le monde. || Bạn đại học của tôi ở khắp nơi trên thế giới.
+W.model: Je leur écris sur un groupe de discussion presque tous les jours. || Tôi nhắn tin cho họ trong một nhóm chat gần như mỗi ngày.
+W.model: Mon meilleur ami est au Canada. Je lui parle en vidéo une fois par mois. || Bạn thân nhất của tôi ở Canada. Tôi gọi video cho cậu ấy mỗi tháng một lần.
+W.model: Pour les anniversaires, je leur envoie toujours une petite carte. || Vào dịp sinh nhật, tôi luôn gửi cho họ một tấm thiệp nhỏ.
+
+## 2 | Me, te, nous, vous
+G.title: Les pronoms des personnes 1 et 2
+G.rule: Pour les personnes je, tu, nous et vous, les pronoms COD et COI ont la même forme : me (m'), te (t'), nous, vous. Le sens dépend du verbe. || Với các ngôi je, tu, nous và vous, đại từ COD và COI có cùng hình thức: me (m'), te (t'), nous, vous. Nghĩa phụ thuộc vào động từ.
+G.note: Il me regarde (COD: regarder qqn). Il me parle (COI: parler à qqn). Hình thức giống nhau nên dễ hơn! me, te → m', t' trước nguyên âm: Il m'écrit. Je t'explique. Ở mệnh lệnh khẳng định: me → moi, te → toi: Dis-moi ! Réponds-moi ! Nhưng: Ne me dis pas ! Các cụm thường dùng: Ça me plaît (tôi thích), Ça te va bien (hợp với bạn), Tu me manques (tôi nhớ bạn).
+G.table: Personne | Pronom | Exemple
+G.row: je | me / m' | Il me téléphone.
+G.row: tu | te / t' | Je t'écris.
+G.row: nous | nous | Elle nous parle.
+G.row: vous | vous | Je vous explique.
+G.row: impératif | moi / toi | Dis-moi ! Assieds-toi !
+G.ex: Tu me manques beaucoup. || Tôi nhớ bạn nhiều lắm.
+G.ex: Je t'envoie l'adresse par message. || Tôi gửi địa chỉ cho bạn qua tin nhắn.
+G.ex: Le guide nous a expliqué l'histoire du château. || Hướng dẫn viên đã giải thích cho chúng tôi lịch sử lâu đài.
+G.ex: Dis-moi la vérité ! || Nói thật với tôi đi!
+G.q: Paul ___ écrit souvent. (à moi) | me | *m' | moi | mon
+G.q: Impératif : Tu me réponds → ___ ! | Me réponds | *Réponds-moi | Réponds-me | Moi réponds
+G.q: « Tu me manques » veut dire… | je te manque | *je pense à toi, tu n'es pas là | tu es absent de l'école | tu ne me vois pas
+G.q: Il ___ a parlé hier. (à nous) | nos | *nous | leur | vous a
+G.q: Négatif : Ne ___ dis pas ça ! (à moi) = me
+V: manquer | /mɑ̃.ke/ | verbe | thiếu; nhớ (tu me manques) | Tu me manques. || Tôi nhớ bạn.
+V: plaire | /plɛʁ/ | verbe | làm hài lòng | Ce film me plaît. || Tôi thích bộ phim này.
+V: aller | /a.le/ | verbe | hợp (quần áo) | Cette robe te va bien. || Chiếc váy này hợp với bạn.
+V: dire | /diʁ/ | verbe | nói | Dis-moi ! || Nói tôi nghe đi!
+V: la vérité | /la ve.ʁi.te/ | nom f. | sự thật | Il m'a dit la vérité. || Anh ấy đã nói sự thật với tôi.
+V: le guide | /lə ɡid/ | nom m. | hướng dẫn viên | Le guide nous parle en anglais. || Hướng dẫn viên nói với chúng tôi bằng tiếng Anh.
+V: montrer | /mɔ̃.tʁe/ | verbe | chỉ cho xem | Montre-moi tes photos ! || Cho tôi xem ảnh của bạn đi!
+V: prêter | /pʁe.te/ | verbe | cho mượn | Tu peux me prêter ton stylo ? || Bạn cho tôi mượn bút được không?
+V: demander | /də.mɑ̃.de/ | verbe | hỏi, yêu cầu | Je vous demande pardon. || Tôi xin lỗi ông/bà.
+V: promettre | /pʁɔ.mɛtʁ/ | verbe | hứa | Je te promets de venir. || Tôi hứa với bạn sẽ đến.
+VQ: Le contraire de « mensonge » : | secret | *vérité | question | promesse
+VQ: « Ça te va bien » parle de… | la santé | *un vêtement qui est joli sur toi | une direction | l'argent
+VQ: Le contraire de « emprunter » : | demander | *prêter | montrer | promettre
+VQ: « Ce film me plaît » veut dire… | je le déteste | *je l'aime | je l'ai vu | je ne le connais pas
+VQ: Impératif : Tu me montres → ___-moi ! = Montre
+D: Tu me manques beaucoup.
+D: Je t'envoie l'adresse par message.
+D: Le guide nous a expliqué l'histoire du château.
+D: Dis-moi la vérité !
+L: Linh | Allô, maman ? Tu me manques ! || A lô, mẹ ạ? Con nhớ mẹ!
+L: Mère | Toi aussi, ma chérie ! Dis-moi, tout va bien à Lyon ? || Mẹ cũng nhớ con! Kể mẹ nghe, ở Lyon mọi thứ ổn chứ?
+L: Linh | Oui. Mes colocataires sont gentilles : elles m'aident beaucoup. || Ổn ạ. Các bạn cùng nhà rất tốt: họ giúp con nhiều lắm.
+L: Mère | Et tes professeurs ? Ils te parlent lentement ? || Còn thầy cô? Họ có nói chậm với con không?
+L: Linh | Pas toujours ! Mais ils m'expliquent quand je ne comprends pas. || Không phải lúc nào cũng vậy ạ! Nhưng họ giải thích cho con khi con không hiểu.
+L: Mère | Très bien. Envoie-nous des photos, ton père veut voir ta chambre ! || Tốt lắm. Gửi ảnh cho bố mẹ nhé, bố con muốn xem phòng con!
+LQ: Où habite Linh ? | à Paris | *à Lyon | à Hanoï | à Marseille
+LQ: Qui aide beaucoup Linh ? | ses professeurs | *ses colocataires | sa mère | son père
+LQ: Que demande la mère à la fin ? | de l'argent | *des photos | un appel vidéo | un cadeau
+RA: Tu me manques. Il me plaît.
+RA: Je t'écris. Elle nous parle. Je vous explique.
+RA: Dis-moi ! Réponds-moi ! Envoie-nous des photos !
+SH: Tu me manques !
+SH: Ils m'expliquent quand je ne comprends pas.
+SH: Envoie-nous des photos !
+R.title: Un ami précieux
+R: Quand je suis arrivé en France, je ne connaissais personne. || Khi tôi mới đến Pháp, tôi không quen ai cả.
+R: Un jour, mon voisin Jean m'a invité à prendre un café. || Một ngày nọ, anh hàng xóm Jean mời tôi đi uống cà phê.
+R: Il m'a montré le quartier et il m'a expliqué comment marche la sécurité sociale. || Anh ấy dẫn tôi đi xem khu phố và giải thích cho tôi cách hoạt động của bảo hiểm xã hội.
+R: Il m'a même prêté son vélo pendant un mois ! || Anh ấy thậm chí còn cho tôi mượn xe đạp suốt một tháng!
+R: Maintenant, nous sommes de vrais amis. Il me demande souvent de lui apprendre des mots vietnamiens. || Bây giờ chúng tôi là bạn thật sự. Anh ấy thường nhờ tôi dạy anh vài từ tiếng Việt.
+R: Je lui ai promis de lui faire découvrir le Viêt Nam un jour. || Tôi đã hứa với anh sẽ dẫn anh khám phá Việt Nam một ngày nào đó.
+RQ: Qui est Jean ? | son collègue | *son voisin | son professeur | son frère
+RQ: Qu'est-ce que Jean lui a prêté ? | de l'argent | *son vélo | sa voiture | son appartement
+RQ: Que demande Jean souvent ? | de l'aider à cuisiner | *d'apprendre des mots vietnamiens | de lui prêter de l'argent | de voyager
+W.prompt: Parle d'une personne qui t'aide beaucoup (un professeur, un ami, un collègue) : ce qu'elle te dit, te montre, t'explique, te prête. || Nói về một người giúp đỡ bạn nhiều (thầy cô, bạn bè, đồng nghiệp): họ nói gì, chỉ gì, giải thích gì, cho bạn mượn gì.
+W.min: 45
+W.must: il me ; elle m' ; me
+W.check: me → m' trước nguyên âm
+W.check: Đại từ đứng trước động từ (hoặc trợ động từ)
+W.check: Mệnh lệnh khẳng định: moi / toi
+W.model: Ma collègue Hạnh m'aide beaucoup depuis mon premier jour. || Đồng nghiệp Hạnh của tôi giúp tôi rất nhiều từ ngày đầu tiên.
+W.model: Elle m'a montré comment utiliser le logiciel de l'entreprise. || Chị ấy đã chỉ tôi cách dùng phần mềm của công ty.
+W.model: Quand je ne comprends pas, elle m'explique avec patience. || Khi tôi không hiểu, chị ấy kiên nhẫn giải thích cho tôi.
+W.model: Elle me prête souvent ses livres de management. || Chị ấy thường cho tôi mượn sách quản lý.
+W.model: Un jour, elle m'a dit : « Pose-moi toutes tes questions, il n'y a pas de questions bêtes ! » || Một hôm, chị ấy nói với tôi: « Hỏi chị mọi câu hỏi nhé, không có câu hỏi nào ngớ ngẩn cả! »
+W.model: Je lui ai promis de l'aider à mon tour. || Tôi đã hứa sẽ giúp lại chị ấy.
+
+## 3 | Les verbes avec à
+G.title: Verbe + à + quelqu'un
+G.rule: Les verbes de communication et d'échange se construisent souvent avec à + personne : parler à, dire à, demander à, donner à, offrir à, prêter à, envoyer à, téléphoner à, répondre à, sourire à, plaire à, ressembler à. || Các động từ chỉ giao tiếp và trao đổi thường đi với à + người: parler à, dire à, demander à, donner à, offrir à, prêter à, envoyer à, téléphoner à, répondre à, sourire à, plaire à, ressembler à.
+G.note: Mẹo nhớ: động từ "trao cho ai" (donner, offrir, envoyer, prêter, rendre) và "nói với ai" (parler, dire, demander, répondre, téléphoner, écrire) → COI. Cẩn thận: tiếng Việt "gọi cho ai" nhưng tiếng Pháp "appeler qqn" là COD (je l'appelle), còn "téléphoner à qqn" là COI (je lui téléphone). "Aider qqn" cũng là COD: je l'aide. Học động từ cùng cấu trúc của nó!
+G.table: Verbe | Construction | Exemple
+G.row: téléphoner | à qqn (COI) | Je lui téléphone.
+G.row: appeler | qqn (COD) | Je l'appelle.
+G.row: ressembler | à qqn (COI) | Tu lui ressembles.
+G.row: aider | qqn (COD) | Je l'aide.
+G.row: sourire | à qqn (COI) | Le bébé lui sourit.
+G.ex: Tu ressembles beaucoup à ton père. Tu lui ressembles ! || Bạn rất giống bố. Bạn giống ông ấy!
+G.ex: Le bébé sourit à sa grand-mère. Il lui sourit. || Em bé cười với bà. Em cười với bà.
+G.ex: J'ai demandé à mon chef un jour de congé. Je lui ai demandé. || Tôi đã xin sếp một ngày nghỉ. Tôi đã xin ông ấy.
+G.ex: Ce cadeau plaît à mes enfants. Il leur plaît beaucoup. || Món quà này làm các con tôi thích. Chúng rất thích nó.
+G.q: J'appelle ma mère → Je ___ appelle. | lui | *l' | leur | la lui
+G.q: Je téléphone à ma mère → Je ___ téléphone. | la | *lui | l' | leur
+G.q: Il ressemble à ses parents → Il ___ ressemble. | les | *leur | lui | leurs
+G.q: J'aide mes voisins → Je ___ aide. | leur | *les | lui | l'
+G.q: Je souris à l'enfant → Je ___ souris. = lui
+V: ressembler à | /ʁə.sɑ̃.ble a/ | verbe | giống ai | Elle ressemble à sa mère. || Cô ấy giống mẹ.
+V: sourire à | /su.ʁiʁ a/ | verbe | mỉm cười với | Il m'a souri. || Anh ấy đã mỉm cười với tôi.
+V: offrir à | /ɔ.fʁiʁ a/ | verbe | tặng | Je lui offre des fleurs. || Tôi tặng cô ấy hoa.
+V: rendre à | /ʁɑ̃dʁ a/ | verbe | trả lại | Je te rends ton livre. || Tôi trả bạn cuốn sách.
+V: emprunter | /ɑ̃.pʁœ̃.te/ | verbe | mượn | J'ai emprunté un livre à la bibliothèque. || Tôi đã mượn một cuốn sách ở thư viện.
+V: le congé | /lə kɔ̃.ʒe/ | nom m. | ngày nghỉ phép | Je suis en congé demain. || Mai tôi nghỉ phép.
+V: le bébé | /lə be.be/ | nom m. | em bé | Le bébé dort. || Em bé đang ngủ.
+V: le chef | /lə ʃɛf/ | nom m. | sếp | Mon chef est sympa. || Sếp tôi dễ chịu.
+V: obéir à | /ɔ.be.iʁ a/ | verbe | vâng lời | Les enfants obéissent à leurs parents. || Trẻ con vâng lời bố mẹ.
+V: la construction | /la kɔ̃s.tʁyk.sjɔ̃/ | nom f. | cấu trúc | Apprends la construction du verbe. || Hãy học cấu trúc của động từ.
+VQ: Le contraire de « prêter » : | rendre | *emprunter | offrir | donner
+VQ: Après avoir emprunté un livre, on doit le… | offrir | *rendre | jeter | vendre
+VQ: « Tu ressembles à ton père » veut dire… | tu aimes ton père | *tu as le même visage que ton père | tu habites avec ton père | tu parles à ton père
+VQ: Un jour où on ne travaille pas : | un client | *un congé | un chef | une réunion
+VQ: Les enfants doivent ___ à leurs parents. (vâng lời) = obéir
+D: Tu ressembles beaucoup à ton père.
+D: Le bébé sourit à sa grand-mère.
+D: J'ai demandé un jour de congé à mon chef.
+D: Ce cadeau leur plaît beaucoup.
+L: Tante | Oh, c'est ton bébé ? Il est adorable ! || Ôi, em bé của cháu đây à? Đáng yêu quá!
+L: Mai | Oui, il s'appelle Bin. Il a six mois. || Vâng, cháu tên Bin. Được sáu tháng rồi ạ.
+L: Tante | Il ressemble beaucoup à son père ! || Cháu giống bố quá!
+L: Mai | Oui, tout le monde me dit ça. Regarde, il te sourit ! || Vâng, ai cũng nói với cháu thế. Nhìn kìa, bé cười với dì!
+L: Tante | Il est trop mignon. Tiens, je lui ai acheté un petit jouet. || Dễ thương quá. Đây, dì mua cho bé một món đồ chơi nhỏ.
+L: Mai | Merci beaucoup ! Il va l'adorer. || Cảm ơn dì nhiều ạ! Bé sẽ thích lắm.
+LQ: Quel âge a le bébé ? | un an | *six mois | trois mois | deux ans
+LQ: À qui ressemble le bébé ? | à sa mère | *à son père | à sa tante | à son grand-père
+LQ: Qu'a apporté la tante ? | des vêtements | *un petit jouet | des fleurs | un gâteau
+RA: Il ressemble à son père. Il lui ressemble.
+RA: Le bébé me sourit. Il te sourit.
+RA: Je l'appelle. Je lui téléphone.
+SH: Il ressemble beaucoup à son père !
+SH: Regarde, il te sourit !
+SH: Je lui ai acheté un petit jouet.
+R.title: Le livre emprunté
+R: Il y a un an, mon ami Phúc m'a prêté un livre de poésie. || Một năm trước, bạn tôi là Phúc cho tôi mượn một cuốn thơ.
+R: Je l'ai lu, puis je l'ai oublié sur une étagère. || Tôi đã đọc nó, rồi để quên trên kệ sách.
+R: Hier, Phúc m'a téléphoné : « Tu peux me rendre mon livre ? C'est un cadeau de ma mère. » || Hôm qua, Phúc gọi điện cho tôi: « Cậu trả mình cuốn sách được không? Đó là quà của mẹ mình. »
+R: J'ai cherché partout, mais je ne l'ai pas trouvé. || Tôi đã tìm khắp nơi, nhưng không thấy.
+R: Finalement, je l'ai découvert dans la chambre de ma fille : elle l'a pris pour ses devoirs ! || Cuối cùng, tôi phát hiện ra nó trong phòng con gái tôi: con bé đã lấy nó để làm bài tập!
+R: Je l'ai rendu à Phúc avec une boîte de chocolats pour m'excuser. || Tôi trả lại cho Phúc kèm một hộp sô-cô-la để xin lỗi.
+RQ: Qu'est-ce que Phúc a prêté ? | un roman | *un livre de poésie | un dictionnaire | un DVD
+RQ: Où était le livre ? | sur l'étagère | *dans la chambre de sa fille | au bureau | chez Phúc
+RQ: Qu'a-t-il donné à Phúc avec le livre ? | des fleurs | *une boîte de chocolats | un autre livre | une lettre
+W.prompt: Écris des phrases sur ta famille avec des verbes + à : à qui tu ressembles, à qui tu téléphones, à qui tu as offert un cadeau, à qui tu as emprunté quelque chose. Remplace par lui / leur. || Viết các câu về gia đình bạn với động từ + à: bạn giống ai, bạn gọi điện cho ai, bạn đã tặng quà cho ai, bạn đã mượn gì của ai. Thay bằng lui / leur.
+W.min: 50
+W.must: ressemble ; lui ; leur
+W.check: Phân biệt COD (appeler, aider) và COI (téléphoner à, ressembler à)
+W.check: lui / leur đứng trước động từ hoặc trợ động từ
+W.check: Câu đầu có danh từ, câu sau dùng đại từ thay thế
+W.model: Je ressemble beaucoup à ma mère : je lui ressemble surtout quand je souris. || Tôi rất giống mẹ: tôi giống mẹ nhất là khi cười.
+W.model: Mon frère, par contre, ressemble à mon père. || Còn anh trai tôi thì giống bố.
+W.model: Je téléphone à mes parents le dimanche. Je leur raconte ma semaine. || Tôi gọi điện cho bố mẹ vào Chủ Nhật. Tôi kể cho bố mẹ nghe về tuần của mình.
+W.model: Pour son anniversaire, j'ai offert un livre de cuisine à ma sœur. Je lui ai offert aussi un tablier. || Nhân sinh nhật chị gái, tôi tặng chị một cuốn sách nấu ăn. Tôi còn tặng chị một chiếc tạp dề.
+W.model: Le mois dernier, j'ai emprunté de l'argent à mon oncle. || Tháng trước, tôi đã vay tiền của chú.
+W.model: Je vais le lui rendre la semaine prochaine. || Tuần sau tôi sẽ trả lại chú.
+
+## 4 | COD ou COI ?
+G.title: Avec ou sans préposition
+G.rule: Si le verbe est suivi directement d'un complément (sans préposition), on utilise un pronom COD : le, la, les. Si le verbe est suivi de à + personne, on utilise un pronom COI : lui, leur. || Nếu động từ có bổ ngữ đi liền (không có giới từ), ta dùng đại từ COD: le, la, les. Nếu động từ có à + người, ta dùng đại từ COI: lui, leur.
+G.note: Phép thử: Je regarde Marie (không có à) → je la regarde. Je parle à Marie (có à) → je lui parle. Một số động từ có cả hai: donner qqch à qqn: Je donne le livre à Marie → Je le donne (le livre) / Je lui donne (à Marie). Các cặp dễ nhầm: aider qqn (COD) / téléphoner à qqn (COI); écouter qqn (COD) / obéir à qqn (COI); attendre qqn (COD) / répondre à qqn (COI).
+G.table: COD (sans à) | COI (avec à)
+G.row: Je regarde Lan → je la regarde | Je parle à Lan → je lui parle
+G.row: J'aide mes amis → je les aide | Je téléphone à mes amis → je leur téléphone
+G.row: J'écoute le prof → je l'écoute | Je réponds au prof → je lui réponds
+G.row: J'attends Minh → je l'attends | J'écris à Minh → je lui écris
+G.ex: J'invite Sophie et je lui envoie l'adresse. || Tôi mời Sophie và gửi địa chỉ cho cô ấy.
+G.ex: Mes parents ? Je les aime et je leur téléphone souvent. || Bố mẹ tôi à? Tôi yêu họ và thường gọi điện cho họ.
+G.ex: Le professeur ? Je l'écoute et je lui pose des questions. || Thầy giáo à? Tôi nghe thầy và hỏi thầy nhiều câu.
+G.ex: Mon petit frère ? Je l'aide à faire ses devoirs et je lui explique les maths. || Em trai tôi à? Tôi giúp em làm bài tập và giải thích môn toán cho em.
+G.q: J'attends Paul → Je ___ attends. | lui | *l' | leur | le lui
+G.q: Je pose une question au prof → Je ___ pose une question. | le | *lui | l' | la
+G.q: J'écoute mes parents → Je ___ écoute. | leur | *les | lui | l'
+G.q: J'obéis à mes parents → Je ___ obéis. | les | *leur | lui | l'
+G.q: J'invite Marie → Je ___ invite. = l'
+V: le COD | /lə se.o.de/ | nom m. | bổ ngữ trực tiếp | « Marie » est le COD. || « Marie » là bổ ngữ trực tiếp.
+V: le COI | /lə se.o.i/ | nom m. | bổ ngữ gián tiếp | « à Marie » est le COI. || « à Marie » là bổ ngữ gián tiếp.
+V: la préposition | /la pʁe.po.zi.sjɔ̃/ | nom f. | giới từ | « À » est une préposition. || « À » là một giới từ.
+V: poser une question | /po.ze yn kɛs.tjɔ̃/ | expression | đặt câu hỏi | Je lui pose une question. || Tôi hỏi cô ấy một câu.
+V: les maths | /le mat/ | nom f. pl. | môn toán | Les maths sont difficiles. || Môn toán khó.
+V: le prof | /lə pʁɔf/ | nom m. | thầy/cô (thân mật) | Le prof est sympa. || Thầy giáo dễ thương.
+V: direct | /di.ʁɛkt/ | adjectif | trực tiếp | C'est un complément direct. || Đó là một bổ ngữ trực tiếp.
+V: indirect | /ɛ̃.di.ʁɛkt/ | adjectif | gián tiếp | C'est un complément indirect. || Đó là một bổ ngữ gián tiếp.
+V: le piège | /lə pjɛʒ/ | nom m. | cái bẫy | Attention au piège ! || Cẩn thận cái bẫy!
+V: confondre | /kɔ̃.fɔ̃dʁ/ | verbe | nhầm lẫn | Je confonds souvent lui et le. || Tôi hay nhầm lui với le.
+VQ: Le contraire de « direct » : | droit | *indirect | rapide | simple
+VQ: « Confondre » deux choses, c'est… | les comparer | *les mélanger par erreur | les aimer | les oublier
+VQ: Dans « Je parle à Marie », « à » est… | un verbe | *une préposition | un pronom | un article
+VQ: Une difficulté cachée dans un exercice : | un pronom | *un piège | un prof | un complément
+VQ: Le mot familier pour « professeur » : ___ = prof
+D: J'invite Sophie et je lui envoie l'adresse.
+D: Je les aime et je leur téléphone souvent.
+D: Je l'écoute et je lui pose des questions.
+D: Je l'aide et je lui explique les maths.
+L: Élève | Madame, je confonds toujours « le » et « lui » ! || Thưa cô, em luôn nhầm « le » và « lui »!
+L: Professeure | C'est normal. Regarde le verbe : est-ce qu'il y a « à » après ? || Bình thường thôi. Hãy nhìn động từ: có « à » phía sau không?
+L: Élève | Par exemple, « téléphoner à quelqu'un ». || Ví dụ, « téléphoner à quelqu'un ».
+L: Professeure | Il y a « à », donc c'est un COI : je lui téléphone. || Có « à », vậy là COI: je lui téléphone.
+L: Élève | Et « appeler quelqu'un » ? Il n'y a pas « à », donc… je l'appelle ! || Còn « appeler quelqu'un »? Không có « à », vậy… je l'appelle!
+L: Professeure | Parfait ! Tu as compris le piège. || Hoàn hảo! Em đã hiểu cái bẫy rồi.
+LQ: Quel est le problème de l'élève ? | il oublie les verbes | *il confond « le » et « lui » | il ne comprend pas la prof | il parle trop vite
+LQ: Comment savoir si c'est un COI ? | regarder le sujet | *regarder s'il y a « à » après le verbe | compter les mots | regarder le temps
+LQ: « Appeler quelqu'un » donne… | je lui appelle | *je l'appelle | je leur appelle | j'appelle lui
+RA: Je la regarde. Je lui parle.
+RA: Je les aide. Je leur téléphone.
+RA: Je l'appelle. Je lui téléphone.
+SH: Est-ce qu'il y a « à » après ?
+SH: Il y a « à », donc c'est un COI.
+SH: Tu as compris le piège.
+R.title: Une bonne collègue
+R: Ma collègue Valérie est très appréciée au bureau. || Đồng nghiệp Valérie của tôi rất được quý mến ở văn phòng.
+R: Les nouveaux employés ? Elle les accueille et elle leur montre les bureaux. || Nhân viên mới à? Chị ấy đón tiếp họ và dẫn họ đi xem các phòng.
+R: Notre chef ? Elle le respecte, mais elle lui dit toujours franchement son opinion. || Sếp của chúng tôi à? Chị ấy tôn trọng ông, nhưng luôn thẳng thắn nói ý kiến của mình với ông.
+R: Les clients difficiles ? Elle les écoute avec patience et elle leur répond calmement. || Khách hàng khó tính à? Chị ấy kiên nhẫn lắng nghe họ và bình tĩnh trả lời họ.
+R: Moi, quand j'ai un problème, je l'appelle et elle m'aide tout de suite. || Còn tôi, khi có vấn đề, tôi gọi chị ấy và chị giúp tôi ngay.
+R: Pour son départ à la retraite, nous allons lui offrir un voyage à Venise ! || Nhân dịp chị nghỉ hưu, chúng tôi sẽ tặng chị một chuyến du lịch Venice!
+RQ: Que fait Valérie avec les nouveaux employés ? | elle les ignore | *elle les accueille et leur montre les bureaux | elle leur donne du travail | elle les présente au chef
+RQ: Comment répond-elle aux clients difficiles ? | rapidement | *calmement | avec colère | elle ne répond pas
+RQ: Qu'est-ce que les collègues vont lui offrir ? | une montre | *un voyage à Venise | des fleurs | un dîner
+W.prompt: Décris tes relations avec trois personnes (un professeur, un voisin, un collègue…) en mélangeant pronoms COD et COI : je le/la vois, je lui parle, je l'aide, je lui écris… || Miêu tả mối quan hệ của bạn với ba người (thầy cô, hàng xóm, đồng nghiệp…) kết hợp đại từ COD và COI: je le/la vois, je lui parle, je l'aide, je lui écris…
+W.min: 55
+W.must: je l' ; je lui ; je les
+W.check: Kiểm tra từng động từ: có « à » → lui/leur, không có → le/la/les
+W.check: Không nhầm appeler (COD) / téléphoner à (COI)
+W.check: Mỗi người ít nhất một COD và một COI
+W.model: Ma voisine Madame Martin est âgée. Je la vois tous les matins dans l'escalier. || Bà hàng xóm Martin đã lớn tuổi. Sáng nào tôi cũng gặp bà ở cầu thang.
+W.model: Je lui dis bonjour et parfois je l'aide à porter ses courses. || Tôi chào bà và đôi khi giúp bà xách đồ đi chợ về.
+W.model: Mon professeur de français s'appelle Thomas. Je l'écoute attentivement et je lui pose beaucoup de questions. || Thầy dạy tiếng Pháp của tôi tên là Thomas. Tôi chăm chú nghe thầy và hỏi thầy rất nhiều.
+W.model: Mes collègues, je les invite souvent à déjeuner. || Các đồng nghiệp, tôi thường mời họ đi ăn trưa.
+W.model: Je leur prépare parfois des plats vietnamiens. || Thỉnh thoảng tôi nấu món Việt cho họ.
+W.model: Ils les adorent et ils me demandent toujours les recettes ! || Họ rất thích và luôn hỏi tôi công thức!
+
+## 5 | Offrir un cadeau
+G.title: Les deux pronoms ensemble
+G.rule: Avec des verbes comme donner, offrir ou prêter, on peut utiliser deux pronoms. À la 3e personne, l'ordre est : le / la / les + lui / leur. Avec me, te, nous, vous, l'ordre est : me / te / nous / vous + le / la / les. || Với các động từ như donner, offrir hay prêter, ta có thể dùng hai đại từ. Ở ngôi thứ ba, thứ tự là: le / la / les + lui / leur. Với me, te, nous, vous, thứ tự là: me / te / nous / vous + le / la / les.
+G.note: Tu offres le livre à Lan ? → Oui, je le lui offre. Tu me prêtes ta voiture ? → Oui, je te la prête. Mẹo: me/te/nous/vous luôn đứng đầu; lui/leur luôn đứng cuối. Ở A2, chỉ cần hiểu khi nghe/đọc; khi nói, có thể dùng một đại từ cũng được: "Oui, je lui offre le livre." Từ vựng quà tặng: emballer (gói), le papier cadeau (giấy gói quà), Ça me fait plaisir ! (Tôi rất vui!), Il ne fallait pas ! (Bạn không cần phải thế đâu!).
+G.table: Question | Réponse
+G.row: Tu offres ce livre à Lan ? | Oui, je le lui offre.
+G.row: Tu donnes les clés aux voisins ? | Oui, je les leur donne.
+G.row: Tu me prêtes ton vélo ? | Oui, je te le prête.
+G.row: Vous nous envoyez la facture ? | Oui, je vous l'envoie.
+G.ex: Ces fleurs sont pour ma mère : je les lui offre pour la fête des mères. || Những bông hoa này dành cho mẹ: tôi tặng mẹ nhân Ngày của Mẹ.
+G.ex: Ton dictionnaire ? Je te le rends demain. || Cuốn từ điển của bạn à? Mai tôi trả bạn.
+G.ex: Les photos du mariage ? Je vous les envoie ce soir. || Ảnh cưới à? Tối nay tôi gửi cho các bạn.
+G.ex: Oh, merci ! Ça me fait très plaisir ! || Ôi, cảm ơn! Tôi rất vui!
+G.q: Tu me prêtes ton stylo ? — Oui, je ___ prête. | le te | *te le | lui le | le lui
+G.q: Tu donnes la clé à Paul ? — Oui, je ___ donne. | lui la | *la lui | le lui | la leur
+G.q: Quand on reçoit un cadeau, on dit : | C'est cher ! | *Ça me fait plaisir ! | Je n'aime pas. | Combien ?
+G.q: Ordre correct : | Je lui le donne. | *Je le lui donne. | Je donne le lui. | Lui je le donne.
+G.q: Pour emballer un cadeau, on utilise du papier ___. = cadeau
+V: offrir | /ɔ.fʁiʁ/ | verbe | tặng | Je lui ai offert un bouquet. || Tôi đã tặng cô ấy một bó hoa.
+V: le cadeau | /lə ka.do/ | nom m. | món quà | Merci pour le cadeau ! || Cảm ơn vì món quà!
+V: le papier cadeau | /lə pa.pje ka.do/ | nom m. | giấy gói quà | Tu as du papier cadeau ? || Bạn có giấy gói quà không?
+V: faire plaisir | /fɛʁ ple.ziʁ/ | expression | làm vui lòng | Ça me fait plaisir ! || Tôi rất vui!
+V: le bouquet | /lə bu.kɛ/ | nom m. | bó hoa | Un bouquet de roses. || Một bó hoa hồng.
+V: la fête des mères | /la fɛt de mɛʁ/ | expression | Ngày của Mẹ | La fête des mères est en mai. || Ngày của Mẹ vào tháng Năm.
+V: surprendre | /syʁ.pʁɑ̃dʁ/ | verbe | làm ngạc nhiên | Je veux la surprendre. || Tôi muốn làm cô ấy bất ngờ.
+V: l'idée | /li.de/ | nom f. | ý tưởng | C'est une bonne idée de cadeau. || Đó là một ý tưởng quà hay.
+V: le parfum | /lə paʁ.fœ̃/ | nom m. | nước hoa | Je lui offre un parfum. || Tôi tặng cô ấy một lọ nước hoa.
+V: remercier | /ʁə.mɛʁ.sje/ | verbe | cảm ơn | Je te remercie pour tout. || Cảm ơn bạn vì tất cả.
+VQ: Un ensemble de fleurs : | un parfum | *un bouquet | un cadeau | un papier
+VQ: « Il ne fallait pas ! » se dit quand… | on refuse | *on reçoit un cadeau inattendu | on est en colère | on part
+VQ: Dire merci, c'est… | offrir | *remercier | emballer | surprendre
+VQ: « Surprendre » quelqu'un, c'est… | le décevoir | *faire quelque chose d'inattendu pour lui | l'aider | l'attendre
+VQ: Quand on reçoit un cadeau : « Ça me fait ___ ! » = plaisir
+D: Je les lui offre pour la fête des mères.
+D: Ton dictionnaire ? Je te le rends demain.
+D: Les photos ? Je vous les envoie ce soir.
+D: Merci ! Ça me fait très plaisir !
+L: Sophie | Joyeux anniversaire, Hoa ! Tiens, c'est pour toi. || Chúc mừng sinh nhật, Hoa! Đây, cho bạn này.
+L: Hoa | Oh, merci ! Il ne fallait pas ! Je peux l'ouvrir ? || Ôi, cảm ơn! Bạn không cần phải thế đâu! Mình mở được không?
+L: Sophie | Bien sûr ! || Tất nhiên!
+L: Hoa | Un livre de recettes françaises ! J'adore, ça me fait vraiment plaisir. || Một cuốn sách công thức món Pháp! Mình thích lắm, mình thật sự rất vui.
+L: Sophie | Tu m'as dit que tu voulais apprendre à faire des crêpes. || Bạn nói với mình là bạn muốn học làm bánh crêpe mà.
+L: Hoa | C'est vrai ! Je vais te les préparer dimanche ! || Đúng vậy! Chủ Nhật mình sẽ làm cho bạn ăn!
+LQ: Pourquoi Sophie offre un cadeau ? | pour Noël | *pour l'anniversaire de Hoa | pour le Têt | pour dire merci
+LQ: Quel est le cadeau ? | un parfum | *un livre de recettes françaises | des crêpes | un bouquet
+LQ: Que va faire Hoa dimanche ? | inviter Sophie au restaurant | *préparer des crêpes pour Sophie | lire le livre | acheter un cadeau
+RA: Je le lui offre. Je les leur donne.
+RA: Je te le prête. Je vous l'envoie.
+RA: Merci ! Ça me fait très plaisir !
+SH: Tiens, c'est pour toi.
+SH: Il ne fallait pas ! Je peux l'ouvrir ?
+SH: Je vais te les préparer dimanche !
+R.title: Les cadeaux du Têt
+R: Au Viêt Nam, pour le Têt, on offre des cadeaux à sa famille, à ses amis et à ses collègues. || Ở Việt Nam, vào dịp Tết, người ta tặng quà cho gia đình, bạn bè và đồng nghiệp.
+R: Aux enfants, on donne des enveloppes rouges avec de l'argent : on les leur donne le premier jour de l'année. || Với trẻ em, người ta lì xì những phong bao đỏ có tiền: người ta trao cho chúng vào ngày đầu năm.
+R: Aux grands-parents, on offre souvent du thé, des fruits ou des gâteaux traditionnels. || Với ông bà, người ta thường biếu trà, hoa quả hoặc bánh truyền thống.
+R: À ses collègues, on peut offrir une boîte de confiseries. || Với đồng nghiệp, có thể tặng một hộp mứt kẹo.
+R: Il y a aussi des cadeaux à éviter : par exemple, on n'offre pas de ciseaux, parce qu'ils « coupent » la relation ! || Cũng có những món quà nên tránh: ví dụ, không tặng kéo, vì chúng « cắt đứt » mối quan hệ!
+R: L'important, ce n'est pas le prix, mais l'intention. || Điều quan trọng không phải là giá cả, mà là tấm lòng.
+RQ: Qu'est-ce qu'on donne aux enfants ? | des jouets | *des enveloppes rouges avec de l'argent | des bonbons | des livres
+RQ: Qu'offre-t-on souvent aux grands-parents ? | des ciseaux | *du thé, des fruits ou des gâteaux | de l'argent | des fleurs
+RQ: Pourquoi on n'offre pas de ciseaux ? | ils sont dangereux | *ils « coupent » la relation | ils sont chers | ils sont laids
+W.prompt: Raconte le dernier cadeau que tu as offert ou reçu : à qui, pour quelle occasion, comment la personne a réagi. Essaie d'utiliser au moins une fois deux pronoms ensemble. || Kể về món quà gần nhất bạn đã tặng hoặc nhận: cho ai, nhân dịp gì, người đó phản ứng thế nào. Cố gắng dùng ít nhất một lần hai đại từ cùng lúc.
+W.min: 55
+W.must: offert ; lui ; plaisir
+W.check: Đại từ COI đúng (lui / leur)
+W.check: Thứ tự hai đại từ: le/la/les + lui/leur; me/te + le/la/les
+W.check: Có lời cảm ơn hoặc phản ứng của người nhận
+W.model: Le mois dernier, c'était l'anniversaire de mon père. || Tháng trước là sinh nhật bố tôi.
+W.model: Je lui ai offert une montre, parce que sa vieille montre était cassée. || Tôi đã tặng bố một chiếc đồng hồ, vì đồng hồ cũ của bố bị hỏng.
+W.model: Je l'ai achetée dans une petite boutique et la vendeuse me l'a emballée dans un joli papier. || Tôi mua nó ở một cửa hàng nhỏ và cô bán hàng gói nó cho tôi trong một tờ giấy đẹp.
+W.model: Je la lui ai donnée pendant le dîner. || Tôi trao nó cho bố trong bữa tối.
+W.model: Mon père a souri et il m'a dit : « Ça me fait vraiment plaisir, merci ! » || Bố tôi mỉm cười và nói với tôi: « Bố thật sự rất vui, cảm ơn con! »
+W.model: Maintenant, il la porte tous les jours. || Bây giờ, ngày nào bố cũng đeo nó.

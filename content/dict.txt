@@ -1930,3 +1930,34 @@ le tiroir | nom m. | ngăn kéo
 le trait | nom m. | nét (trait d'union: gạch nối)
 l'union | nom f. | sự liên kết
 l'épisode | nom m. | tập (phim)
+@v accueillir | đón tiếp | accueille,accueilles,accueille,accueillons,accueillez,accueillent | accueilli | accueill | accueiller
+@v décevoir | làm thất vọng | déçois,déçois,déçoit,décevons,décevez,déçoivent | déçu | décev | décevr
+@re dépendre | phụ thuộc
+adorable | adjectif | đáng yêu
+@er apprécier | đánh giá cao, quý mến
+calmement | adverbe | một cách bình tĩnh
+chéri | nom | anh/em yêu, con yêu
+la communication | nom f. | giao tiếp
+la confiserie | nom f. | mứt kẹo
+le contact | nom m. | liên lạc
+la difficulté | nom f. | khó khăn
+directement | adverbe | trực tiếp
+@er désigner | chỉ định, chỉ
+franchement | adverbe | thẳng thắn
+@er ignorer | phớt lờ; không biết
+inattendu | adjectif | bất ngờ
+l'intention | nom f. | ý định, tấm lòng
+le mensonge | nom m. | lời nói dối
+@er mélanger | trộn, nhầm lẫn
+l'occasion | nom f. | dịp; cơ hội
+l'opinion | nom f. | ý kiến
+la patience | nom f. | sự kiên nhẫn
+la promesse | nom f. | lời hứa
+qqn | abréviation | ai đó (quelqu'un)
+qqch | abréviation | cái gì đó (quelque chose)
+la relation | nom f. | mối quan hệ
+@er respecter | tôn trọng
+la retraite | nom f. | sự nghỉ hưu
+le secret | nom m. | bí mật
+la sécurité | nom f. | an ninh (sécurité sociale: bảo hiểm xã hội)
+l'échange | nom m. | sự trao đổi
