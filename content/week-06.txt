@@ -1,0 +1,378 @@
+@week 6
+@title Aller et faire
+@level A1
+
+## 1 | Le verbe aller
+G.title: Le verbe aller au présent
+G.rule: Le verbe aller est très irrégulier. On l'utilise pour les déplacements et pour demander des nouvelles : « Comment allez-vous ? ». || Động từ aller rất bất quy tắc. Ta dùng nó để nói về việc di chuyển và để hỏi thăm: « Comment allez-vous ? ».
+G.note: Aller = đi. Chia rất khác thường: je vais, tu vas, il va, nous allons, vous allez, ils vont. Hỏi thăm sức khoẻ: Comment ça va ? / Comment vas-tu ? / Comment allez-vous ? — trả lời: Je vais bien (tôi khoẻ), Je vais mal (tôi không khoẻ). Phương tiện: aller à pied (đi bộ), à vélo (đi xe đạp), en voiture, en bus, en train, en avion.
+G.table: Pronom | Aller
+G.row: je | vais
+G.row: tu | vas
+G.row: il / elle / on | va
+G.row: nous | allons
+G.row: vous | allez
+G.row: ils / elles | vont
+G.ex: Je vais à l'université en bus. || Tôi đi đến trường đại học bằng xe buýt.
+G.ex: Comment vas-tu ? Je vais bien, merci. || Bạn khoẻ không? Mình khoẻ, cảm ơn.
+G.ex: Nous allons à la plage à vélo. || Chúng tôi đạp xe ra biển.
+G.ex: Ils vont à Paris en train. || Họ đi Paris bằng tàu hoả.
+G.q: Nous ___ au cinéma. | allez | vont | *allons | vais
+G.q: Elle ___ à l'école à pied. | vais | vas | *va | vont
+G.q: Comment ___-vous ? | allons | *allez | vont | va
+G.q: On va à Londres ___ avion. | à | *en | au | par
+G.q: Complétez : Mes parents ___ au marché. = vont
+V: aller | /a.le/ | verbe | đi | On va au parc ? || Chúng ta đi công viên nhé?
+V: à pied | /a pje/ | expression | đi bộ | Je vais au travail à pied. || Tôi đi bộ đi làm.
+V: à vélo | /a ve.lo/ | expression | bằng xe đạp | Elle va à l'école à vélo. || Cô ấy đạp xe đến trường.
+V: en voiture | /ɑ̃ vwa.tyʁ/ | expression | bằng ô tô | Nous partons en voiture. || Chúng tôi đi bằng ô tô.
+V: en bus | /ɑ̃ bys/ | expression | bằng xe buýt | Tu vas en ville en bus ? || Bạn vào thành phố bằng xe buýt à?
+V: en train | /ɑ̃ tʁɛ̃/ | expression | bằng tàu hoả | Je voyage souvent en train. || Tôi thường đi tàu hoả.
+V: en avion | /ɑ̃.n‿a.vjɔ̃/ | expression | bằng máy bay | Ils vont au Japon en avion. || Họ sang Nhật bằng máy bay.
+V: la ville | /la vil/ | nom f. | thành phố | Je vais en ville samedi. || Thứ Bảy tôi vào thành phố.
+V: le parc | /lə paʁk/ | nom m. | công viên | Les enfants jouent au parc. || Bọn trẻ chơi ở công viên.
+V: loin | /lwɛ̃/ | adverbe | xa | La gare est loin d'ici. || Nhà ga xa đây.
+VQ: Pour aller au Japon depuis la France, on prend… | le vélo | *l'avion | le bus | ses pieds
+VQ: On utilise ses pieds, on va… | en voiture | *à pied | à vélo | en train
+VQ: Le contraire de « près » : | *loin | ici | en ville | à côté
+VQ: « Comment allez-vous ? » — | Je vais au parc. | *Très bien, merci. | En bus. | J'ai vingt ans.
+VQ: Ils ___ au travail en voiture. = vont
+D: Je vais à l'école à pied.
+D: Comment allez-vous ?
+D: Nous allons en ville en bus.
+D: Ils vont à Paris en train.
+L: Clément | Salut Ngoc ! Comment ça va ? || Chào Ngọc! Khoẻ không?
+L: Ngoc | Ça va bien ! Tu vas où ? || Khoẻ lắm! Bạn đi đâu đấy?
+L: Clément | Je vais à la bibliothèque. Et toi ? || Mình đi thư viện. Còn bạn?
+L: Ngoc | Moi, je vais au marché avec ma sœur. || Mình đi chợ với em gái.
+L: Clément | Vous allez à pied ? || Hai chị em đi bộ à?
+L: Ngoc | Non, nous allons à vélo, c'est plus rapide. || Không, bọn mình đi xe đạp, nhanh hơn.
+LQ: Où va Clément ? | au marché | *à la bibliothèque | au parc | à la gare
+LQ: Avec qui va Ngoc au marché ? | avec sa mère | *avec sa sœur | avec Clément | seule
+LQ: Comment vont-elles au marché ? | à pied | en bus | *à vélo | en voiture
+RA: je vais, tu vas, il va.
+RA: nous allons, vous allez, ils vont.
+RA: à pied, à vélo, en bus, en train, en avion.
+SH: Tu vas où ?
+SH: Je vais à la bibliothèque.
+SH: Nous allons à vélo, c'est plus rapide.
+R.title: Comment vont-ils au travail ?
+R: Dans mon immeuble, chaque voisin a son habitude. || Trong toà nhà của tôi, mỗi người hàng xóm có một thói quen.
+R: Madame Petit va au bureau en métro. || Bà Petit đi làm bằng tàu điện ngầm.
+R: Monsieur Roux va à l'hôpital en voiture, parce que c'est loin. || Ông Roux đi đến bệnh viện bằng ô tô vì nó ở xa.
+R: Les étudiants du troisième étage vont à l'université à vélo. || Các sinh viên ở tầng ba đạp xe đến trường đại học.
+R: Moi, je travaille à côté, alors je vais au travail à pied. || Còn tôi làm việc gần đây nên tôi đi bộ đi làm.
+R: Et le chat ? Il ne va nulle part, il dort ! || Còn con mèo? Nó không đi đâu cả, nó ngủ!
+RQ: Madame Petit va au bureau… | en voiture | *en métro | à pied | à vélo
+RQ: Pourquoi Monsieur Roux prend la voiture ? | il est pressé | *c'est loin | il pleut | il n'aime pas le métro
+RQ: L'auteur va au travail… | en bus | à vélo | *à pied | en métro
+W.prompt: Explique où tu vas pendant la semaine et comment : le travail ou l'école, les courses, le week-end. || Giải thích trong tuần bạn đi những đâu và đi bằng gì: đi làm hoặc đi học, đi mua sắm, cuối tuần.
+W.min: 35
+W.must: je vais ; à pied
+W.check: Chia đúng aller: je vais, nous allons, ils vont
+W.check: « à pied / à vélo » nhưng « en bus / en voiture / en train »
+W.check: Có ít nhất một câu với « nous » hoặc « ils »
+W.model: Du lundi au vendredi, je vais au bureau en bus. || Từ thứ Hai đến thứ Sáu, tôi đi làm bằng xe buýt.
+W.model: Le mercredi soir, je vais au cours de français à pied. || Tối thứ Tư, tôi đi bộ đến lớp tiếng Pháp.
+W.model: Le samedi, ma femme et moi, nous allons au marché à vélo. || Thứ Bảy, vợ tôi và tôi đạp xe đi chợ.
+W.model: Le dimanche, nous allons chez mes parents en voiture. || Chủ Nhật, chúng tôi đi ô tô về nhà bố mẹ tôi.
+W.model: En été, nous allons à Da Nang en avion. || Mùa hè, chúng tôi bay ra Đà Nẵng.
+
+## 2 | Aller à, au, aux
+G.title: Les prépositions de lieu avec aller
+G.rule: Après aller, on utilise à + lieu. À + le devient au, à + les devient aux, mais à la et à l' ne changent pas. || Sau aller, ta dùng à + nơi chốn. À + le thành au, à + les thành aux, còn à la và à l' giữ nguyên.
+G.note: Đây là "mạo từ rút gọn" (article contracté): à + le = au (au cinéma), à + les = aux (aux toilettes). Với giống cái và trước nguyên âm thì không đổi: à la banque, à l'école. Với tên thành phố: à Paris. Khi đến nhà ai đó dùng "chez": je vais chez Marie, chez le médecin.
+G.table: Article | Contraction | Exemple
+G.row: à + le | au | Je vais au cinéma.
+G.row: à + la | à la | Je vais à la banque.
+G.row: à + l' | à l' | Je vais à l'hôpital.
+G.row: à + les | aux | Je vais aux toilettes.
+G.row: personne | chez | Je vais chez le dentiste.
+G.ex: Ce soir, je vais au restaurant. || Tối nay tôi đi nhà hàng.
+G.ex: Elle va à la poste. || Cô ấy đi bưu điện.
+G.ex: Les enfants vont à l'école. || Bọn trẻ đi học.
+G.ex: Nous allons chez nos grands-parents. || Chúng tôi đến nhà ông bà.
+G.q: Je vais ___ supermarché. | à le | *au | à la | aux
+G.q: Tu vas ___ pharmacie ? | au | *à la | à l' | aux
+G.q: Il va ___ aéroport. | au | à la | *à l' | aux
+G.q: J'ai mal aux dents, je vais ___ dentiste. | à le | au | *chez le | à la
+G.q: Complétez : Nous allons ___ États-Unis. = aux
+V: la banque | /la bɑ̃k/ | nom f. | ngân hàng | Je vais à la banque. || Tôi đi ngân hàng.
+V: la poste | /la pɔst/ | nom f. | bưu điện | La poste ferme à dix-huit heures. || Bưu điện đóng cửa lúc sáu giờ chiều.
+V: le supermarché | /lə sy.pɛʁ.maʁ.ʃe/ | nom m. | siêu thị | On va au supermarché ? || Chúng ta đi siêu thị nhé?
+V: la pharmacie | /la faʁ.ma.si/ | nom f. | hiệu thuốc | La pharmacie est à côté. || Hiệu thuốc ở bên cạnh.
+V: l'hôpital | /lo.pi.tal/ | nom m. | bệnh viện | Mon frère travaille à l'hôpital. || Anh tôi làm việc ở bệnh viện.
+V: la bibliothèque | /la bi.bli.jɔ.tɛk/ | nom f. | thư viện | J'étudie à la bibliothèque. || Tôi học ở thư viện.
+V: le musée | /lə my.ze/ | nom m. | bảo tàng | Le musée est fermé le lundi. || Bảo tàng đóng cửa vào thứ Hai.
+V: chez | /ʃe/ | préposition | ở nhà (ai đó) | Je dors chez mon ami. || Tôi ngủ ở nhà bạn.
+V: le dentiste | /lə dɑ̃.tist/ | nom m. | nha sĩ | J'ai rendez-vous chez le dentiste. || Tôi có hẹn với nha sĩ.
+V: les toilettes | /le twa.lɛt/ | nom f. pl. | nhà vệ sinh | Où sont les toilettes ? || Nhà vệ sinh ở đâu?
+VQ: Pour acheter des médicaments, on va… | à la banque | *à la pharmacie | au musée | à la poste
+VQ: Pour envoyer une lettre, on va… | *à la poste | au supermarché | chez le dentiste | à la bibliothèque
+VQ: Pour emprunter des livres, on va… | au musée | *à la bibliothèque | à l'hôpital | aux toilettes
+VQ: On voit des tableaux célèbres… | à la banque | *au musée | à la pharmacie | à la poste
+VQ: Pour retirer de l'argent, on va à la ___. = banque
+D: Je vais au supermarché.
+D: Elle va à la pharmacie.
+D: Nous allons à l'hôpital.
+D: Ils vont chez le dentiste.
+L: Mère | Tu as un programme chargé aujourd'hui ? || Hôm nay con có nhiều việc không?
+L: Fils | Oui ! D'abord, je vais à la banque. || Có ạ! Đầu tiên con đi ngân hàng.
+L: Mère | Et après ? || Rồi sau đó?
+L: Fils | Après, je vais à la poste et au supermarché. || Sau đó con đi bưu điện và siêu thị.
+L: Mère | Tu peux aller aussi à la pharmacie pour moi ? || Con có thể đi hiệu thuốc giúp mẹ không?
+L: Fils | Pas de problème. Et ce soir, je vais chez Lucie. || Không vấn đề gì. Còn tối nay con đến nhà Lucie.
+LQ: Où va le fils en premier ? | à la poste | *à la banque | au supermarché | chez Lucie
+LQ: La mère demande d'aller… | à la banque | *à la pharmacie | au musée | à la poste
+LQ: Ce soir, le fils va… | au cinéma | *chez Lucie | à la pharmacie | au restaurant
+RA: au cinéma, au musée, au supermarché.
+RA: à la banque, à la poste, à l'hôpital.
+RA: aux toilettes, chez le dentiste.
+SH: Où sont les toilettes, s'il vous plaît ?
+SH: D'abord, je vais à la banque.
+SH: Ce soir, je vais chez Lucie.
+R.title: Une journée de touriste à Paris
+R: Aujourd'hui, Minh visite Paris. || Hôm nay Minh tham quan Paris.
+R: Le matin, il va au musée du Louvre. || Buổi sáng, anh ấy đến bảo tàng Louvre.
+R: À midi, il va au restaurant près de la Seine. || Buổi trưa, anh ấy đến nhà hàng gần sông Seine.
+R: L'après-midi, il va à la tour Eiffel et aux Champs-Élysées. || Buổi chiều, anh ấy đến tháp Eiffel và đại lộ Champs-Élysées.
+R: Le soir, il va à l'Opéra pour un concert. || Buổi tối, anh ấy đến nhà hát Opéra xem hoà nhạc.
+R: À minuit, il rentre à l'hôtel, très fatigué mais très heureux. || Nửa đêm, anh ấy về khách sạn, rất mệt nhưng rất vui.
+RQ: Le matin, Minh va… | à la tour Eiffel | *au musée du Louvre | à l'Opéra | à l'hôtel
+RQ: Le soir, Minh écoute… | un film | *un concert | la radio | un guide
+RQ: À minuit, Minh est… | triste | *fatigué mais heureux | au restaurant | à l'Opéra
+W.prompt: Raconte ton programme de demain : où tu vas le matin, l'après-midi et le soir. Utilise au, à la, à l', aux et chez. || Kể kế hoạch ngày mai của bạn: buổi sáng, chiều, tối bạn đi đâu. Dùng au, à la, à l', aux và chez.
+W.min: 35
+W.must: au ; à la ; chez
+W.check: à + le → au, à + les → aux
+W.check: à la, à l' không đổi
+W.check: Đến nhà ai / gặp ai dùng « chez » (chez le médecin)
+W.model: Demain matin, je vais à l'université. || Sáng mai tôi đến trường đại học.
+W.model: À midi, je vais au restaurant avec mes amis. || Buổi trưa tôi đi nhà hàng với bạn bè.
+W.model: L'après-midi, je vais à la bibliothèque. || Buổi chiều tôi đến thư viện.
+W.model: Ensuite, je vais chez le dentiste. || Sau đó tôi đến nha sĩ.
+W.model: Le soir, je vais au cinéma avec ma sœur. || Buổi tối tôi đi xem phim với chị gái.
+
+## 3 | Le verbe faire
+G.title: Le verbe faire au présent
+G.rule: Le verbe faire est irrégulier. Il sert à parler des activités, du sport, des tâches ménagères et de la météo. || Động từ faire là động từ bất quy tắc. Nó dùng để nói về hoạt động, thể thao, việc nhà và thời tiết.
+G.note: Faire = làm. Chú ý "nous faisons" đọc là /nu fə.zɔ̃/ (âm "ai" đọc như "ơ"), "vous faites" (không phải "faisez"), "ils font". Rất nhiều cụm từ: faire du sport, faire la cuisine (nấu ăn), faire les courses (đi chợ, mua sắm), faire le ménage (dọn dẹp), faire la vaisselle (rửa bát). Thời tiết: Il fait beau / chaud / froid.
+G.table: Pronom | Faire
+G.row: je | fais
+G.row: tu | fais
+G.row: il / elle / on | fait
+G.row: nous | faisons
+G.row: vous | faites
+G.row: ils / elles | font
+G.ex: Qu'est-ce que tu fais ce week-end ? || Cuối tuần này bạn làm gì?
+G.ex: Je fais les courses le samedi. || Tôi đi chợ vào thứ Bảy.
+G.ex: Nous faisons la cuisine ensemble. || Chúng tôi cùng nấu ăn.
+G.ex: Vous faites du sport ? || Các bạn có chơi thể thao không?
+G.q: Vous ___ la vaisselle ? | faisez | *faites | font | faisons
+G.q: Ils ___ le ménage. | fait | faites | *font | faisent
+G.q: Aujourd'hui, il ___ beau. | est | a | *fait | va
+G.q: Qu'est-ce que tu ___ ? | fait | *fais | faites | font
+G.q: Complétez : Nous ___ les courses. = faisons
+V: faire | /fɛʁ/ | verbe | làm | Qu'est-ce que vous faites ? || Các bạn đang làm gì?
+V: faire les courses | /fɛʁ le kuʁs/ | expression | đi chợ, mua sắm | Je fais les courses au supermarché. || Tôi đi mua đồ ở siêu thị.
+V: faire la cuisine | /fɛʁ la kɥi.zin/ | expression | nấu ăn | Mon père fait la cuisine. || Bố tôi nấu ăn.
+V: faire le ménage | /fɛʁ lə me.naʒ/ | expression | dọn dẹp nhà | Le samedi, nous faisons le ménage. || Thứ Bảy, chúng tôi dọn dẹp nhà.
+V: faire la vaisselle | /fɛʁ la vɛ.sɛl/ | expression | rửa bát | Qui fait la vaisselle ? || Ai rửa bát?
+V: faire une promenade | /fɛʁ yn pʁɔm.nad/ | expression | đi dạo | On fait une promenade au parc ? || Mình đi dạo công viên nhé?
+V: faire ses devoirs | /fɛʁ se də.vwaʁ/ | expression | làm bài tập về nhà | Les enfants font leurs devoirs. || Bọn trẻ làm bài tập về nhà.
+V: faire la fête | /fɛʁ la fɛt/ | expression | tiệc tùng | Ce soir, on fait la fête ! || Tối nay chúng ta tiệc tùng!
+V: le ménage | /lə me.naʒ/ | nom m. | việc dọn dẹp | Je déteste le ménage. || Tôi ghét dọn dẹp.
+V: les devoirs | /le də.vwaʁ/ | nom m. pl. | bài tập về nhà | J'ai beaucoup de devoirs. || Tôi có nhiều bài tập về nhà.
+VQ: Après le repas, on fait… | les courses | *la vaisselle | ses devoirs | la fête
+VQ: Pour acheter à manger, on fait… | le ménage | *les courses | la vaisselle | une promenade
+VQ: L'élève travaille à la maison, il fait… | la fête | *ses devoirs | la cuisine | le ménage
+VQ: On marche au parc, on fait… | les courses | la vaisselle | *une promenade | le ménage
+VQ: Pour nettoyer la maison, on fait le ___. = ménage
+D: Je fais les courses le samedi.
+D: Nous faisons la cuisine.
+D: Vous faites du sport ?
+D: Ils font leurs devoirs.
+L: Julie | Qu'est-ce que vous faites ce week-end ? || Cuối tuần này các bạn làm gì?
+L: Hai | Samedi matin, nous faisons le ménage et les courses. || Sáng thứ Bảy, bọn mình dọn nhà và đi chợ.
+L: Julie | Et samedi soir ? || Còn tối thứ Bảy?
+L: Hai | Samedi soir, on fait une fête pour l'anniversaire de ma femme ! || Tối thứ Bảy, bọn mình tổ chức tiệc sinh nhật vợ mình!
+L: Julie | Super ! Qui fait la cuisine ? || Tuyệt! Ai nấu ăn vậy?
+L: Hai | Moi ! Je fais des nems. Tu viens ? || Mình! Mình làm nem rán. Bạn đến không?
+LQ: Samedi matin, Hai et sa femme… | font la fête | *font le ménage et les courses | font du sport | dorment
+LQ: Pourquoi y a-t-il une fête ? | c'est Noël | *c'est l'anniversaire de la femme de Hai | c'est le Têt | c'est l'anniversaire de Julie
+LQ: Qu'est-ce que Hai prépare ? | une pizza | *des nems | un gâteau | une soupe
+RA: je fais, tu fais, il fait.
+RA: nous faisons, vous faites, ils font.
+RA: faire les courses, faire la cuisine, faire le ménage.
+SH: Qu'est-ce que vous faites ce week-end ?
+SH: Nous faisons le ménage et les courses.
+SH: Qui fait la cuisine ?
+R.title: Qui fait quoi à la maison ?
+R: Chez les Leroy, tout le monde aide à la maison. || Ở nhà Leroy, mọi người đều giúp việc nhà.
+R: Le père fait la cuisine tous les soirs. || Người bố nấu ăn mỗi tối.
+R: La mère fait les courses le samedi. || Người mẹ đi chợ vào thứ Bảy.
+R: Les enfants font la vaisselle et ils rangent leur chambre. || Bọn trẻ rửa bát và dọn phòng của chúng.
+R: Le dimanche, ils font le ménage ensemble. || Chủ Nhật, họ cùng nhau dọn dẹp nhà cửa.
+R: Après, ils font une promenade en forêt. || Sau đó, họ đi dạo trong rừng.
+RQ: Qui fait la cuisine ? | la mère | *le père | les enfants | personne
+RQ: Les enfants font… | les courses | *la vaisselle | la cuisine | une fête
+RQ: Que fait la famille le dimanche après le ménage ? | du sport | *une promenade en forêt | les courses | la fête
+W.prompt: Explique qui fait quoi chez toi : la cuisine, les courses, le ménage, la vaisselle. || Giải thích ai làm việc gì ở nhà bạn: nấu ăn, đi chợ, dọn dẹp, rửa bát.
+W.min: 35
+W.must: fait ; faisons
+W.check: Chia đúng faire: nous faisons, vous faites, ils font
+W.check: Dùng đúng các cụm: faire la cuisine, faire les courses, faire le ménage
+W.check: Dùng tần suất (souvent, le samedi, tous les jours…)
+W.model: Chez moi, ma mère fait la cuisine tous les jours. || Ở nhà tôi, mẹ tôi nấu ăn hàng ngày.
+W.model: Mon père fait les courses le dimanche matin. || Bố tôi đi chợ vào sáng Chủ Nhật.
+W.model: Ma sœur et moi, nous faisons la vaisselle. || Chị tôi và tôi rửa bát.
+W.model: Le samedi, nous faisons le ménage ensemble. || Thứ Bảy, chúng tôi cùng nhau dọn dẹp.
+W.model: Et mon frère ? Il fait ses devoirs ! || Còn em trai tôi? Nó làm bài tập!
+
+## 4 | Les activités et les loisirs
+G.title: Faire du, de la, des / jouer au, à la
+G.rule: Pour les sports et les activités, on dit faire de + activité, et pour les jeux on dit jouer à + jeu. Pour les instruments de musique, on dit jouer de + instrument. || Với thể thao và hoạt động, ta nói faire de + hoạt động; với trò chơi ta nói jouer à + trò chơi. Với nhạc cụ, ta nói jouer de + nhạc cụ.
+G.note: faire du vélo, faire de la natation, faire de l'escalade, faire des randonnées. jouer au football, jouer aux cartes, jouer à la pétanque. jouer du piano, jouer de la guitare. Nhớ quy tắc rút gọn: de + le = du, de + les = des; à + le = au, à + les = aux. Phủ định: Je ne fais pas de sport.
+G.table: Verbe | Masc. | Fém. | Voyelle | Pluriel
+G.row: faire de | du yoga | de la danse | de l'escalade | des randonnées
+G.row: jouer à | au tennis | à la pétanque | à l'ordinateur | aux cartes
+G.row: jouer de | du piano | de la guitare | de l'harmonica | des percussions
+G.ex: Je fais du yoga le mardi. || Tôi tập yoga vào thứ Ba.
+G.ex: Mon frère joue au football. || Anh tôi chơi bóng đá.
+G.ex: Elle joue du piano depuis dix ans. || Cô ấy chơi piano đã mười năm.
+G.ex: Je ne fais pas de sport, je préfère la lecture. || Tôi không chơi thể thao, tôi thích đọc sách hơn.
+G.q: Il joue ___ tennis. | du | *au | à la | de
+G.q: Je fais ___ natation. | du | au | *de la | à la
+G.q: Elle joue ___ guitare. | à la | *de la | au | du
+G.q: Je ne fais pas ___ sport. | du | *de | le | au
+G.q: Complétez : Nous jouons ___ cartes. = aux
+V: le football | /lə fut.bol/ | nom m. | bóng đá | Tu joues au football ? || Bạn có đá bóng không?
+V: la natation | /la na.ta.sjɔ̃/ | nom f. | bơi lội | Je fais de la natation. || Tôi tập bơi.
+V: le vélo | /lə ve.lo/ | nom m. | xe đạp; đạp xe | Il fait du vélo le dimanche. || Anh ấy đạp xe vào Chủ Nhật.
+V: la randonnée | /la ʁɑ̃.dɔ.ne/ | nom f. | đi bộ đường dài | Nous faisons des randonnées en montagne. || Chúng tôi đi bộ đường dài trên núi.
+V: le piano | /lə pja.no/ | nom m. | đàn piano | Ma fille joue du piano. || Con gái tôi chơi piano.
+V: les cartes | /le kaʁt/ | nom f. pl. | bài (chơi bài) | Mes grands-parents jouent aux cartes. || Ông bà tôi chơi bài.
+V: le jeu vidéo | /lə ʒø vi.de.o/ | nom m. | trò chơi điện tử | Il joue aux jeux vidéo. || Nó chơi trò chơi điện tử.
+V: le loisir | /lə lwa.ziʁ/ | nom m. | sở thích, thú vui | Quels sont tes loisirs ? || Sở thích của bạn là gì?
+V: la danse | /la dɑ̃s/ | nom f. | khiêu vũ | Elle fait de la danse classique. || Cô ấy học múa ba lê.
+V: le yoga | /lə jɔ.ɡa/ | nom m. | yoga | Le yoga, c'est relaxant. || Yoga thật thư giãn.
+VQ: On ___ du piano. | fait | *joue | va | aime de
+VQ: En montagne, on fait des… | cartes | *randonnées | jeux vidéo | pianos
+VQ: Dans la piscine, on fait de la… | danse | *natation | randonnée | guitare
+VQ: « Quels sont tes loisirs ? » — | *J'aime lire et faire du vélo. | Je travaille à la banque. | J'ai vingt ans. | Je vais bien.
+VQ: Il joue ___ football tous les samedis. = au
+D: Je fais du yoga.
+D: Il joue au football.
+D: Elle joue de la guitare.
+D: Nous faisons des randonnées.
+L: Professeur | Quels sont vos loisirs ? || Sở thích của các em là gì?
+L: Yann | Je fais du judo et je joue de la batterie. || Em tập judo và chơi trống.
+L: Professeur | Et toi, Lina ? || Còn em, Lina?
+L: Lina | Moi, je fais de la danse et je joue aux échecs. || Em học nhảy và chơi cờ vua.
+L: Professeur | Et toi, Bao ? Tu fais du sport ? || Còn em, Bảo? Em có chơi thể thao không?
+L: Bao | Non, je ne fais pas de sport. Je joue aux jeux vidéo ! || Không ạ, em không chơi thể thao. Em chơi trò chơi điện tử!
+LQ: Yann joue… | de la guitare | *de la batterie | du piano | aux échecs
+LQ: Lina fait… | du judo | *de la danse | de la natation | du vélo
+LQ: Bao… | fait du judo | *ne fait pas de sport | joue de la guitare | fait de la danse
+RA: faire du vélo, faire de la natation, faire des randonnées.
+RA: jouer au tennis, jouer aux cartes.
+RA: jouer du piano, jouer de la guitare.
+SH: Quels sont tes loisirs ?
+SH: Je fais du yoga et je joue de la guitare.
+SH: Je ne fais pas de sport.
+R.title: Le club des loisirs
+R: Le club des loisirs de notre quartier propose beaucoup d'activités. || Câu lạc bộ giải trí của khu phố chúng tôi có nhiều hoạt động.
+R: Le lundi, on peut faire du yoga ou de la danse. || Thứ Hai, có thể tập yoga hoặc học nhảy.
+R: Le mercredi, les enfants jouent au basket ou font de la peinture. || Thứ Tư, trẻ em chơi bóng rổ hoặc vẽ tranh.
+R: Le jeudi soir, il y a un cours de guitare. || Tối thứ Năm có lớp ghi-ta.
+R: Le samedi, le club organise des randonnées en forêt. || Thứ Bảy, câu lạc bộ tổ chức đi bộ đường dài trong rừng.
+R: L'inscription coûte trente euros par an. || Phí đăng ký là ba mươi euro một năm.
+RQ: Quand est-ce qu'on peut faire du yoga ? | le mercredi | *le lundi | le jeudi | le samedi
+RQ: Le jeudi soir, il y a… | du basket | de la danse | *un cours de guitare | une randonnée
+RQ: L'inscription coûte… | trente euros par mois | *trente euros par an | treize euros | gratuit
+W.prompt: Présente tes loisirs : les sports que tu fais, les jeux et les instruments. Dis ce que tu ne fais pas aussi. || Giới thiệu sở thích của bạn: các môn thể thao, trò chơi và nhạc cụ. Nói cả những gì bạn không làm.
+W.min: 35
+W.must: je fais ; je joue
+W.check: faire du / de la / de l' / des + hoạt động
+W.check: jouer au / à la / aux + trò chơi; jouer du / de la + nhạc cụ
+W.check: Phủ định: je ne fais pas de…
+W.model: J'ai beaucoup de loisirs. || Tôi có nhiều sở thích.
+W.model: Le matin, je fais du vélo dans le parc. || Buổi sáng, tôi đạp xe trong công viên.
+W.model: Le week-end, je joue au badminton avec mes amis. || Cuối tuần, tôi chơi cầu lông với bạn bè.
+W.model: Je joue aussi de la guitare. || Tôi cũng chơi ghi-ta.
+W.model: Mais je ne fais pas de natation, parce que j'ai peur de l'eau ! || Nhưng tôi không bơi vì tôi sợ nước!
+
+## 5 | Les articles définis le, la, les
+G.title: Article défini ou indéfini ?
+G.rule: On utilise un, une, des pour une chose non précise et le, la, les pour une chose précise, connue, ou en général. || Ta dùng un, une, des cho một vật không xác định và le, la, les cho một vật xác định, đã biết, hoặc nói chung.
+G.note: "J'ai un chat" (một con mèo bất kỳ, nhắc lần đầu) → "Le chat s'appelle Minou" (con mèo đó, đã biết). Dùng le/la/les khi nói chung chung và sau động từ sở thích: J'aime les chats. Trước nguyên âm: l'ami, l'école. Mạo từ rút gọn với de: de + le = du (le livre du professeur), de + les = des.
+G.table: | Indéfini | Défini
+G.row: masculin | un livre | le livre
+G.row: féminin | une table | la table
+G.row: voyelle | un ami / une amie | l'ami / l'amie
+G.row: pluriel | des livres | les livres
+G.ex: J'ai un chat. Le chat est noir. || Tôi có một con mèo. Con mèo màu đen.
+G.ex: J'aime les fleurs. || Tôi thích hoa.
+G.ex: C'est la voiture du professeur. || Đó là xe của thầy giáo.
+G.ex: Il y a une pharmacie ici ? La pharmacie est fermée. || Ở đây có hiệu thuốc không? Hiệu thuốc đóng cửa rồi.
+G.q: J'aime ___ musique. | une | *la | des | de
+G.q: Il y a ___ homme devant la porte. | l' | *un | le | les
+G.q: C'est le livre ___ professeur. | de le | *du | des | de la
+G.q: ___ enfants jouent dans le jardin. | Le | La | *Les | Un
+G.q: Complétez : ___ école est fermée le dimanche. = L' / l'
+V: la fleur | /la flœʁ/ | nom f. | bông hoa | Les fleurs sont belles. || Những bông hoa đẹp.
+V: le jardin | /lə ʒaʁ.dɛ̃/ | nom m. | khu vườn | Le jardin est grand. || Khu vườn rộng.
+V: l'homme | /lɔm/ | nom m. | đàn ông | L'homme porte un chapeau. || Người đàn ông đội mũ.
+V: la femme | /la fam/ | nom f. | phụ nữ; vợ | La femme parle au téléphone. || Người phụ nữ đang nói điện thoại.
+V: l'enfant | /lɑ̃.fɑ̃/ | nom m. | đứa trẻ | L'enfant joue avec le chien. || Đứa trẻ chơi với con chó.
+V: fermé | /fɛʁ.me/ | adjectif | đóng cửa | Le magasin est fermé. || Cửa hàng đóng cửa.
+V: ouvert | /u.vɛʁ/ | adjectif | mở cửa | La boulangerie est ouverte. || Tiệm bánh mì mở cửa.
+V: le magasin | /lə ma.ɡa.zɛ̃/ | nom m. | cửa hàng | Le magasin ouvre à neuf heures. || Cửa hàng mở cửa lúc chín giờ.
+V: le chapeau | /lə ʃa.po/ | nom m. | cái mũ | Il porte un chapeau noir. || Ông ấy đội một chiếc mũ đen.
+V: en général | /ɑ̃ ʒe.ne.ʁal/ | expression | nói chung | En général, j'aime les animaux. || Nói chung tôi thích động vật.
+VQ: Le contraire de « fermé » : | *ouvert | grand | général | noir
+VQ: On porte un ___ sur la tête. | jardin | *chapeau | magasin | fleur
+VQ: On achète des choses dans un… | jardin | *magasin | chapeau | fleur
+VQ: Les roses et les tulipes sont des… | jardins | *fleurs | magasins | chapeaux
+VQ: Le contraire de « l'homme » : la ___ = femme
+D: J'ai un chat. Le chat est noir.
+D: J'aime les fleurs.
+D: Le magasin est fermé.
+D: C'est la maison du professeur.
+L: Touriste | Excusez-moi, il y a une boulangerie près d'ici ? || Xin lỗi, gần đây có tiệm bánh mì nào không?
+L: Passant | Oui, il y a une boulangerie dans la rue Pasteur. || Có, có một tiệm bánh mì ở phố Pasteur.
+L: Touriste | La boulangerie est ouverte le dimanche ? || Tiệm bánh mì đó có mở cửa vào Chủ Nhật không?
+L: Passant | Oui, jusqu'à treize heures. Le pain est excellent ! || Có, đến một giờ chiều. Bánh mì ở đó tuyệt lắm!
+L: Touriste | Merci beaucoup ! Et la rue Pasteur, c'est loin ? || Cảm ơn nhiều! Phố Pasteur có xa không?
+L: Passant | Non, c'est la deuxième rue à gauche. || Không, đó là con phố thứ hai bên trái.
+LQ: Le touriste cherche… | une pharmacie | *une boulangerie | un hôtel | un musée
+LQ: Le dimanche, la boulangerie est ouverte jusqu'à… | midi | *treize heures | dix-huit heures | elle est fermée
+LQ: La rue Pasteur est… | loin | *la deuxième rue à gauche | la première rue à droite | en face
+RA: un livre, le livre ; une table, la table.
+RA: un ami, l'ami ; des livres, les livres.
+RA: le livre du professeur, la voiture des voisins.
+SH: Il y a une boulangerie près d'ici ?
+SH: La boulangerie est ouverte le dimanche ?
+SH: C'est la deuxième rue à gauche.
+R.title: La maison de mes rêves
+R: Dans mes rêves, j'ai une grande maison à la campagne. || Trong giấc mơ, tôi có một ngôi nhà lớn ở nông thôn.
+R: La maison est blanche, avec des fenêtres bleues. || Ngôi nhà màu trắng, với những cửa sổ màu xanh.
+R: Il y a un jardin avec des fleurs et des arbres fruitiers. || Có một khu vườn với hoa và cây ăn quả.
+R: Le jardin est immense et les enfants jouent dehors. || Khu vườn rộng mênh mông và bọn trẻ chơi ngoài trời.
+R: J'ai aussi un chien. || Tôi còn có một con chó.
+R: Le chien dort sous l'arbre, près de la porte. || Con chó ngủ dưới gốc cây, gần cửa.
+RQ: Où est la maison ? | en ville | *à la campagne | à la montagne | à la mer
+RQ: Les fenêtres sont… | blanches | *bleues | rouges | vertes
+RQ: Où dort le chien ? | dans la maison | *sous l'arbre | dans le jardin des voisins | sur le lit
+W.prompt: Décris la maison de tes rêves. Utilise un, une, des pour présenter les choses, puis le, la, les pour en parler. || Miêu tả ngôi nhà mơ ước của bạn. Dùng un, une, des để giới thiệu đồ vật, rồi le, la, les để nói tiếp về chúng.
+W.min: 40
+W.must: il y a ; le ; la
+W.check: Nhắc lần đầu dùng un / une / des, lần sau dùng le / la / les
+W.check: Sau aimer / adorer dùng le / la / les
+W.check: de + le → du, de + les → des
+W.model: La maison de mes rêves est au bord de la mer. || Ngôi nhà mơ ước của tôi ở bên bờ biển.
+W.model: Il y a une grande terrasse et un petit jardin. || Có một sân hiên lớn và một khu vườn nhỏ.
+W.model: La terrasse est en face de la plage. || Sân hiên đối diện bãi biển.
+W.model: Dans le jardin, il y a des fleurs rouges. || Trong vườn có những bông hoa đỏ.
+W.model: J'adore les fleurs ! || Tôi rất thích hoa!
+W.model: Le soir, je dîne sur la terrasse avec ma famille. || Buổi tối, tôi ăn tối trên sân hiên cùng gia đình.

@@ -1,0 +1,380 @@
+@week 4
+@title Ma famille
+@level A1
+
+## 1 | Les membres de la famille
+G.title: Parler de sa famille
+G.rule: Pour présenter sa famille, on utilise souvent c'est pour une personne et ce sont pour plusieurs personnes. || Để giới thiệu gia đình, ta thường dùng c'est cho một người và ce sont cho nhiều người.
+G.note: "C'est mon père" (Đây là bố tôi) — "Ce sont mes parents" (Đây là bố mẹ tôi). Khi nói chuyện thân mật, người Pháp hay dùng "c'est" cả cho số nhiều. Chú ý: les parents có hai nghĩa — bố mẹ, hoặc họ hàng nói chung. Thêm "beau-/belle-" cho quan hệ thông gia: le beau-père (bố chồng/vợ; bố dượng), la belle-sœur (chị/em dâu).
+G.table: Masculin | Féminin | Pluriel
+G.row: le père | la mère | les parents
+G.row: le fils | la fille | les enfants
+G.row: le frère | la sœur | les frères et sœurs
+G.row: le grand-père | la grand-mère | les grands-parents
+G.row: l'oncle | la tante | les oncles et tantes
+G.row: le cousin | la cousine | les cousins
+G.ex: C'est mon grand-père, il a soixante-huit ans. || Đây là ông tôi, ông sáu mươi tám tuổi.
+G.ex: Ce sont mes cousins de Lyon. || Đây là các anh chị em họ của tôi ở Lyon.
+G.ex: Ma tante a deux fils et une fille. || Cô tôi có hai con trai và một con gái.
+G.ex: Je suis fils unique. || Tôi là con trai một.
+G.q: La mère de ma mère est ma… | tante | *grand-mère | cousine | sœur
+G.q: Le frère de mon père est mon… | cousin | grand-père | *oncle | neveu
+G.q: ___ mes parents. | C'est | *Ce sont | Il est | Ils est
+G.q: La fille de mon oncle est ma… | tante | sœur | *cousine | nièce
+G.q: Le père de mon père est mon ___. = grand-père
+V: la famille | /la fa.mij/ | nom f. | gia đình | J'ai une grande famille. || Tôi có một gia đình đông người.
+V: les parents | /le pa.ʁɑ̃/ | nom m. pl. | bố mẹ; họ hàng | Mes parents habitent à Huê. || Bố mẹ tôi sống ở Huế.
+V: le fils | /lə fis/ | nom m. | con trai | Leur fils a cinq ans. || Con trai họ năm tuổi.
+V: la fille | /la fij/ | nom f. | con gái; cô gái | C'est la fille de mes voisins. || Đó là con gái hàng xóm của tôi.
+V: l'oncle | /lɔ̃kl/ | nom m. | chú, bác, cậu | Mon oncle est médecin. || Chú tôi là bác sĩ.
+V: la tante | /la tɑ̃t/ | nom f. | cô, dì, bác gái | Ma tante habite au Canada. || Dì tôi sống ở Canada.
+V: le cousin | /lə ku.zɛ̃/ | nom m. | anh/em họ (nam) | Mon cousin a mon âge. || Anh họ tôi bằng tuổi tôi.
+V: les grands-parents | /le ɡʁɑ̃.pa.ʁɑ̃/ | nom m. pl. | ông bà | Mes grands-parents sont à la campagne. || Ông bà tôi ở quê.
+V: marié | /ma.ʁje/ | adjectif | đã kết hôn | Ma sœur est mariée. || Chị tôi đã lập gia đình.
+V: unique | /y.nik/ | adjectif | duy nhất | Elle est fille unique. || Cô ấy là con gái một.
+VQ: Le fils de mes parents, c'est mon… | cousin | oncle | *frère | grand-père
+VQ: Les parents de mes parents sont mes… | cousins | oncles | *grands-parents | enfants
+VQ: Un enfant sans frère ni sœur est… | marié | *unique | grand | petit
+VQ: La sœur de mon père est ma… | cousine | *tante | grand-mère | fille
+VQ: Mon oncle a un fils : c'est mon ___. = cousin
+D: C'est mon frère.
+D: Ce sont mes grands-parents.
+D: Ma tante a deux filles.
+D: Je suis fille unique.
+L: Emma | C'est qui sur la photo ? || Ai trong ảnh vậy?
+L: Tuan | C'est ma famille. Voici mes parents et ma sœur. || Gia đình mình đấy. Đây là bố mẹ và em gái mình.
+L: Emma | Et le monsieur avec les lunettes ? || Còn ông đeo kính kia?
+L: Tuan | C'est mon oncle Bao. Il est très drôle. || Đó là chú Bảo của mình. Chú rất vui tính.
+L: Emma | Et les enfants ? || Còn mấy đứa trẻ?
+L: Tuan | Ce sont mes cousins, les fils de mon oncle. || Đó là các em họ mình, con trai của chú.
+LQ: Sur la photo, il y a les parents de Tuan et… | son frère | *sa sœur | sa tante | sa grand-mère
+LQ: L'oncle de Tuan est… | sérieux | timide | *drôle | jeune
+LQ: Les enfants sont… | les frères de Tuan | *les cousins de Tuan | les fils de Tuan | les amis de Tuan
+RA: le père, la mère, les parents.
+RA: le frère, la sœur, l'oncle, la tante.
+RA: C'est mon cousin. Ce sont mes cousins.
+SH: C'est qui sur la photo ?
+SH: C'est mon oncle.
+SH: Ce sont mes grands-parents.
+R.title: Le repas du Têt
+R: Pour le Têt, toute la famille de Linh se retrouve chez ses grands-parents. || Vào dịp Tết, cả gia đình Linh sum họp ở nhà ông bà.
+R: Il y a ses parents, son frère, ses oncles et ses tantes. || Có bố mẹ, anh trai, các chú bác và cô dì của cô ấy.
+R: Ses cousins viennent aussi de Saïgon. || Các anh chị em họ của cô ấy cũng từ Sài Gòn về.
+R: En tout, ils sont vingt personnes ! || Tổng cộng họ có hai mươi người!
+R: Sa grand-mère prépare des bánh chưng et son grand-père donne des enveloppes rouges aux enfants. || Bà cô ấy làm bánh chưng và ông cô ấy lì xì cho các cháu.
+R: C'est le meilleur moment de l'année. || Đó là khoảnh khắc tuyệt vời nhất trong năm.
+RQ: Où est la famille pour le Têt ? | chez Linh | *chez les grands-parents | à Saïgon | au restaurant
+RQ: Combien de personnes il y a ? | dix | quinze | *vingt | trente
+RQ: Qui donne des enveloppes rouges ? | la grand-mère | les cousins | *le grand-père | les parents
+W.prompt: Présente ta famille : qui sont les membres, leur âge, leur métier et où ils habitent. || Giới thiệu gia đình bạn: gồm những ai, tuổi, nghề nghiệp và nơi họ sống.
+W.min: 40
+W.must: c'est ; ce sont
+W.check: Dùng « c'est » cho một người, « ce sont » cho nhiều người
+W.check: Nói tuổi bằng avoir
+W.check: Nói nghề không có mạo từ (il est médecin)
+W.model: Dans ma famille, nous sommes cinq. || Gia đình tôi có năm người.
+W.model: Ce sont mes parents, Hai et Hoa. || Đây là bố mẹ tôi, Hải và Hoa.
+W.model: Mon père a cinquante ans, il est ingénieur. || Bố tôi năm mươi tuổi, ông là kỹ sư.
+W.model: Ma mère est professeur. || Mẹ tôi là giáo viên.
+W.model: C'est mon frère Nam, il a dix-huit ans. || Đây là em trai tôi, Nam, em ấy mười tám tuổi.
+W.model: Mes grands-parents habitent à la campagne, près de Huê. || Ông bà tôi sống ở quê, gần Huế.
+
+## 2 | Les adjectifs possessifs
+G.title: Mon, ma, mes…
+G.rule: L'adjectif possessif s'accorde avec l'objet possédé, pas avec la personne qui possède. || Tính từ sở hữu hợp với vật được sở hữu, không hợp với người sở hữu.
+G.note: "Son père" và "sa mère" đều có thể là "bố/mẹ của anh ấy" hoặc "của cô ấy" — son/sa phụ thuộc vào giống của DANH TỪ phía sau, không phải người sở hữu. Trước danh từ giống cái bắt đầu bằng nguyên âm, dùng mon/ton/son thay cho ma/ta/sa để dễ đọc: mon amie, son école.
+G.table: | Masc. | Fém. | Pluriel
+G.row: je | mon | ma | mes
+G.row: tu | ton | ta | tes
+G.row: il / elle | son | sa | ses
+G.row: nous | notre | notre | nos
+G.row: vous | votre | votre | vos
+G.row: ils / elles | leur | leur | leurs
+G.ex: Mon frère et ma sœur habitent à Paris. || Anh trai và chị gái tôi sống ở Paris.
+G.ex: Marie aime son père et sa mère. || Marie yêu bố và mẹ của cô ấy.
+G.ex: Mon amie Lan est infirmière. || Bạn gái tôi, Lan, là y tá.
+G.ex: Les enfants jouent avec leurs amis. || Những đứa trẻ chơi với bạn bè của chúng.
+G.q: C'est la voiture de Paul. C'est ___ voiture. | son | *sa | ses | leur
+G.q: ___ école est grande. | Ma | *Mon | Mes | Ta
+G.q: Ce sont les livres de Pierre et Anne. Ce sont ___ livres. | leur | ses | *leurs | nos
+G.q: Vous avez ___ passeport ? | vos | *votre | notre | ton
+G.q: Nous aimons ___ professeur. = notre
+V: le chat | /lə ʃa/ | nom m. | con mèo | Notre chat est noir. || Con mèo của chúng tôi màu đen.
+V: le voisin | /lə vwa.zɛ̃/ | nom m. | hàng xóm | Nos voisins sont très gentils. || Hàng xóm của chúng tôi rất tốt.
+V: le passeport | /lə pas.pɔʁ/ | nom m. | hộ chiếu | Votre passeport, s'il vous plaît. || Xin cho xem hộ chiếu.
+V: l'adresse | /la.dʁɛs/ | nom f. | địa chỉ | Quelle est ton adresse ? || Địa chỉ của bạn là gì?
+V: l'ami | /la.mi/ | nom m. | bạn (nam) | Mon ami Paul est français. || Bạn tôi, Paul, là người Pháp.
+V: l'amie | /la.mi/ | nom f. | bạn (nữ) | Son amie est vietnamienne. || Bạn gái của anh ấy là người Việt.
+V: la photo | /la fɔ.to/ | nom f. | bức ảnh | Regarde ma photo ! || Xem ảnh của tôi này!
+V: le copain | /lə kɔ.pɛ̃/ | nom m. | bạn; bạn trai | Ce sont mes copains d'école. || Đây là bạn cùng trường của tôi.
+V: la maison | /la mɛ.zɔ̃/ | nom f. | ngôi nhà | Leur maison est à la campagne. || Nhà của họ ở nông thôn.
+V: la campagne | /la kɑ̃.paɲ/ | nom f. | nông thôn | J'aime la campagne. || Tôi thích nông thôn.
+VQ: Pour voyager à l'étranger, on a besoin d'un… | *passeport | voisin | copain | chat
+VQ: La personne qui habite à côté de chez moi est mon… | cousin | *voisin | oncle | copain
+VQ: Le contraire de « la ville » : | la maison | *la campagne | l'adresse | la photo
+VQ: « Quelle est ton adresse ? » — | Vingt ans. | *Douze rue de la Paix. | Je suis français. | Très bien.
+VQ: C'est la maison de Lan et de Minh : c'est ___ maison. = leur
+D: Mon frère et ma sœur sont étudiants.
+D: Son amie habite à Lyon.
+D: Nos voisins sont gentils.
+D: Ce sont leurs enfants.
+L: Agent | Bonjour. Votre passeport, s'il vous plaît. || Xin chào. Xin cho xem hộ chiếu.
+L: Mme Tran | Voilà. Et voici les passeports de mes enfants. || Đây ạ. Còn đây là hộ chiếu của các con tôi.
+L: Agent | Merci. Et votre mari ? || Cảm ơn. Còn chồng bà?
+L: Mme Tran | Il a son passeport, il est derrière nous. || Anh ấy có hộ chiếu, anh ấy ở phía sau chúng tôi.
+L: Agent | Très bien. Quelle est votre adresse en France ? || Tốt lắm. Địa chỉ của bà ở Pháp là gì?
+L: Mme Tran | Nous habitons chez notre fille, à Nantes. || Chúng tôi ở nhà con gái chúng tôi, ở Nantes.
+LQ: Où se passe la scène ? | au marché | *à l'aéroport | à l'école | au restaurant
+LQ: Où est le mari ? | à la maison | *derrière sa femme | à Nantes | dans l'avion
+LQ: En France, la famille habite… | à l'hôtel | *chez leur fille | chez des amis | à Paris
+RA: mon père, ma mère, mes parents.
+RA: son frère, sa sœur, ses cousins.
+RA: notre maison, nos enfants, leur voiture.
+SH: Votre passeport, s'il vous plaît.
+SH: C'est mon amie Lan.
+SH: Nous habitons chez notre fille.
+R.title: L'album photo
+R: Voici l'album photo de ma famille. || Đây là album ảnh gia đình tôi.
+R: Sur la première page, c'est le mariage de mes parents. || Ở trang đầu tiên là đám cưới của bố mẹ tôi.
+R: Ma mère porte une robe blanche et mon père a son costume noir. || Mẹ tôi mặc váy trắng và bố tôi mặc bộ vest đen.
+R: Ensuite, il y a mon frère et moi, bébés, avec nos grands-parents. || Tiếp theo là anh tôi và tôi lúc còn bé, cùng với ông bà.
+R: Sur la dernière photo, c'est notre chien Milou dans son jardin. || Ở bức ảnh cuối là con chó Milou của chúng tôi trong khu vườn của nó.
+R: J'adore cet album ! || Tôi rất thích album này!
+RQ: Sur la première page, il y a… | les grands-parents | *le mariage des parents | le chien | les bébés
+RQ: Le père porte… | une robe blanche | *un costume noir | des lunettes | un pull rouge
+RQ: Milou est… | le frère | le grand-père | *le chien | un voisin
+W.prompt: Décris une photo de famille ou d'amis avec les adjectifs possessifs. || Miêu tả một bức ảnh gia đình hoặc bạn bè bằng các tính từ sở hữu.
+W.min: 35
+W.must: mon ; ma ; mes
+W.check: Son / sa / ses chọn theo giống của danh từ phía sau
+W.check: Trước danh từ giống cái bắt đầu bằng nguyên âm dùng mon / ton / son (mon amie)
+W.check: Dùng leur (một vật) / leurs (nhiều vật) cho « của họ »
+W.model: Sur cette photo, c'est mon anniversaire. || Trong bức ảnh này là sinh nhật của tôi.
+W.model: Il y a mes parents, ma sœur et mon amie Lan. || Có bố mẹ tôi, chị tôi và bạn gái tôi, Lan.
+W.model: Ma sœur porte sa robe rouge. || Chị tôi mặc chiếc váy đỏ của chị ấy.
+W.model: Mes parents sont à côté de leur voiture. || Bố mẹ tôi đứng cạnh chiếc ô tô của họ.
+W.model: Notre chat dort sur la table ! || Con mèo của chúng tôi ngủ trên bàn!
+
+## 3 | Décrire une personne
+G.title: Le physique et le caractère
+G.rule: Pour décrire le physique, on utilise être + adjectif ou avoir + les cheveux, les yeux. || Để miêu tả ngoại hình, ta dùng être + tính từ hoặc avoir + tóc, mắt.
+G.note: Il est grand / mince / brun (tính từ đi với être). Il a les cheveux courts, les yeux noirs (avoir + mạo từ xác định + bộ phận cơ thể + tính từ). Chú ý: "il a les yeux bleus" chứ không nói "ses yeux sont bleus" trong miêu tả thông thường. Tính cách: il est gentil, drôle, timide, sérieux…
+G.table: Structure | Exemple
+G.row: être + adjectif | Elle est grande et mince.
+G.row: avoir les cheveux + adj. | Il a les cheveux courts.
+G.row: avoir les yeux + adj. | Elle a les yeux marron.
+G.row: porter + objet | Il porte des lunettes.
+G.ex: Mon frère est grand et brun. || Anh trai tôi cao và tóc nâu sẫm.
+G.ex: Ma mère a les cheveux longs et les yeux noirs. || Mẹ tôi có mái tóc dài và đôi mắt đen.
+G.ex: Mon professeur porte des lunettes. || Giáo viên của tôi đeo kính.
+G.ex: Elle est timide mais très gentille. || Cô ấy nhút nhát nhưng rất tốt bụng.
+G.q: Elle ___ les yeux verts. | est | *a | porte | fait
+G.q: Il ___ mince et sportif. | a | *est | porte | as
+G.q: Il a les cheveux ___. | court | *courts | courte | courtes
+G.q: Il ___ des lunettes. | est | a | *porte | met les
+G.q: Complétez : Elle a les ___ blonds. = cheveux
+V: les cheveux | /le ʃə.vø/ | nom m. pl. | tóc | Elle a les cheveux noirs. || Cô ấy có tóc đen.
+V: les yeux | /le.z‿jø/ | nom m. pl. | đôi mắt | Il a les yeux bleus. || Anh ấy có mắt xanh.
+V: long | /lɔ̃/ | adjectif | dài | Ma sœur a les cheveux longs. || Chị tôi có tóc dài.
+V: court | /kuʁ/ | adjectif | ngắn | Mon père a les cheveux courts. || Bố tôi có tóc ngắn.
+V: mince | /mɛ̃s/ | adjectif | mảnh mai | Elle est grande et mince. || Cô ấy cao và mảnh mai.
+V: brun | /bʁœ̃/ | adjectif | tóc nâu sẫm | Il est brun et elle est blonde. || Anh ấy tóc nâu còn cô ấy tóc vàng.
+V: les lunettes | /le ly.nɛt/ | nom f. pl. | kính mắt | Je porte des lunettes pour lire. || Tôi đeo kính để đọc sách.
+V: timide | /ti.mid/ | adjectif | nhút nhát | Mon cousin est timide. || Em họ tôi nhút nhát.
+V: drôle | /dʁol/ | adjectif | hài hước | Mon oncle est très drôle. || Chú tôi rất hài hước.
+V: sérieux | /se.ʁjø/ | adjectif | nghiêm túc | C'est une étudiante sérieuse. || Đó là một sinh viên chăm chỉ nghiêm túc.
+VQ: Il raconte des blagues, il est… | timide | *drôle | sérieux | mince
+VQ: Le contraire de « long » : | grand | *court | mince | brun
+VQ: Il ne parle pas beaucoup avec les autres, il est… | drôle | *timide | sportif | blond
+VQ: Pour mieux voir, on porte des… | cheveux | yeux | *lunettes | chaussures
+VQ: Féminin de « sérieux » : ___ = sérieuse
+D: Elle a les cheveux longs.
+D: Il est grand et mince.
+D: Mon père porte des lunettes.
+D: Ma sœur est drôle et gentille.
+L: Policier | Vous pouvez décrire votre fils ? || Bà có thể miêu tả con trai mình không?
+L: Mère | Il a sept ans. Il est petit et un peu gros. || Thằng bé bảy tuổi. Nó thấp và hơi mập.
+L: Policier | Il a les cheveux de quelle couleur ? || Tóc của cháu màu gì?
+L: Mère | Il est blond, avec les cheveux courts. Il a les yeux bleus. || Nó tóc vàng, tóc ngắn. Nó có đôi mắt xanh.
+L: Policier | Et ses vêtements ? || Còn quần áo của cháu?
+L: Mère | Il porte un t-shirt rouge et un jean. || Nó mặc áo phông đỏ và quần bò.
+LQ: Le fils a… | cinq ans | *sept ans | dix ans | deux ans
+LQ: Ses cheveux sont… | bruns et longs | *blonds et courts | noirs et courts | roux
+LQ: Il porte… | un pull bleu | *un t-shirt rouge | une veste noire | des lunettes
+RA: Il est grand, mince et brun.
+RA: Elle a les cheveux longs et les yeux noirs.
+RA: Il porte des lunettes.
+SH: Comment est ton frère ?
+SH: Il est grand et il a les cheveux courts.
+SH: Elle est timide mais très gentille.
+R.title: Ma meilleure amie
+R: Ma meilleure amie s'appelle Clara. || Bạn thân nhất của tôi tên là Clara.
+R: Elle a vingt et un ans et elle est étudiante en médecine. || Cô ấy hai mươi mốt tuổi và là sinh viên y khoa.
+R: Elle est petite et mince, elle a les cheveux roux et les yeux verts. || Cô ấy nhỏ nhắn và mảnh mai, có tóc đỏ và mắt xanh lá.
+R: Elle porte toujours des lunettes rondes. || Cô ấy luôn đeo kính gọng tròn.
+R: Elle est très drôle et un peu bavarde. || Cô ấy rất vui tính và hơi lắm lời.
+R: C'est une amie fidèle et généreuse. || Cô ấy là một người bạn chung thuỷ và hào phóng.
+RQ: Clara étudie… | le droit | *la médecine | l'informatique | les langues
+RQ: Clara a les cheveux… | blonds | bruns | *roux | noirs
+RQ: Quel adjectif ne décrit pas Clara ? | drôle | bavarde | *timide | généreuse
+W.prompt: Décris ton meilleur ami ou ta meilleure amie : le physique et le caractère. || Miêu tả người bạn thân nhất của bạn: ngoại hình và tính cách.
+W.min: 40
+W.must: il a ; il est
+W.check: Ngoại hình: être + tính từ, avoir les cheveux / les yeux + tính từ
+W.check: Tính từ hợp giống và số (les cheveux longs, les yeux noirs)
+W.check: Có ít nhất ba tính từ chỉ tính cách
+W.model: Mon meilleur ami s'appelle Khoa. || Bạn thân nhất của tôi tên là Khoa.
+W.model: Il a vingt-trois ans. || Anh ấy hai mươi ba tuổi.
+W.model: Il est grand et mince, il a les cheveux noirs et courts. || Anh ấy cao và gầy, có tóc đen và ngắn.
+W.model: Il a les yeux marron et il porte des lunettes. || Anh ấy có mắt nâu và đeo kính.
+W.model: Il est un peu timide, mais il est drôle et très gentil. || Anh ấy hơi nhút nhát nhưng vui tính và rất tốt bụng.
+W.model: C'est un ami sérieux et fidèle. || Anh ấy là một người bạn nghiêm túc và chung thuỷ.
+
+## 4 | L'accord des adjectifs
+G.title: Accord et place de l'adjectif
+G.rule: En général, l'adjectif se place après le nom, mais quelques adjectifs courts se placent avant : beau, joli, grand, petit, jeune, vieux, bon, mauvais, nouveau. || Thông thường, tính từ đứng sau danh từ, nhưng một số tính từ ngắn đứng trước: beau, joli, grand, petit, jeune, vieux, bon, mauvais, nouveau.
+G.note: Ngược với tiếng Việt? Không hẳn: tiếng Việt cũng để tính từ sau danh từ (một ngôi nhà đẹp), và đa số tính từ tiếng Pháp cũng vậy: une maison moderne, un livre intéressant. Nhưng nhóm tính từ ngắn chỉ vẻ đẹp, tuổi, kích thước, chất lượng (BAGS: Beauty, Age, Goodness, Size) đứng trước: une belle maison, un petit chat. Số nhiều: thêm -s; tính từ -eau → -eaux (beaux, nouveaux); -al → -aux (normaux).
+G.table: Avant le nom | Après le nom
+G.row: une belle robe | une robe rouge
+G.row: un petit chien | un chien noir
+G.row: une jeune femme | une femme intelligente
+G.row: de nouveaux amis | des amis français
+G.ex: J'habite dans une petite maison blanche. || Tôi sống trong một ngôi nhà nhỏ màu trắng.
+G.ex: C'est un bon restaurant italien. || Đó là một nhà hàng Ý ngon.
+G.ex: Elle a une voiture rouge. || Cô ấy có một chiếc ô tô màu đỏ.
+G.ex: Ce sont de beaux livres anciens. || Đó là những cuốn sách cổ đẹp.
+G.q: Quelle phrase est correcte ? | une rouge robe | *une robe rouge | une robe rouges | un robe rouge
+G.q: Quelle phrase est correcte ? | un chien petit | *un petit chien | une petit chien | un petite chien
+G.q: Pluriel de « un beau jardin » : | des beau jardins | *de beaux jardins | des beaus jardins | des belles jardins
+G.q: Une ___ maison. | vieux | *vieille | vieil | vieilles
+G.q: Complétez : des chemises ___ (blanc). = blanches
+V: joli | /ʒɔ.li/ | adjectif | xinh, đẹp | C'est une jolie ville. || Đó là một thành phố xinh đẹp.
+V: vieux | /vjø/ | adjectif | già, cũ | J'ai un vieux vélo. || Tôi có một chiếc xe đạp cũ.
+V: nouveau | /nu.vo/ | adjectif | mới | J'ai un nouveau téléphone. || Tôi có điện thoại mới.
+V: mauvais | /mɔ.vɛ/ | adjectif | dở, tệ | C'est un mauvais film. || Đó là một bộ phim dở.
+V: moderne | /mɔ.dɛʁn/ | adjectif | hiện đại | Ils habitent dans un immeuble moderne. || Họ sống trong một toà nhà hiện đại.
+V: ancien | /ɑ̃.sjɛ̃/ | adjectif | cũ, cổ | J'aime les maisons anciennes. || Tôi thích những ngôi nhà cổ.
+V: rouge | /ʁuʒ/ | adjectif | đỏ | Une rose rouge, c'est romantique. || Một bông hồng đỏ thật lãng mạn.
+V: noir | /nwaʁ/ | adjectif | đen | Il porte un pantalon noir. || Anh ấy mặc quần dài đen.
+V: blanc | /blɑ̃/ | adjectif | trắng | Elle a une robe blanche. || Cô ấy có một chiếc váy trắng.
+V: une robe | /yn ʁɔb/ | nom f. | váy liền | Quelle jolie robe ! || Chiếc váy xinh quá!
+VQ: Le contraire de « nouveau » : | joli | *vieux | moderne | blanc
+VQ: Le contraire de « bon » : | *mauvais | petit | vieux | noir
+VQ: Une maison construite en 1850 est… | moderne | *ancienne | nouvelle | jolie
+VQ: Féminin de « blanc » : | blanc | blanque | blance | *blanche
+VQ: Le contraire de « ancien » : ___ = moderne / nouveau
+D: J'ai un nouveau téléphone.
+D: C'est une jolie robe blanche.
+D: Ils habitent dans une vieille maison.
+D: C'est un bon restaurant italien.
+L: Vendeuse | Bonjour ! Je peux vous aider ? || Xin chào! Tôi giúp gì được cho chị?
+L: Anh | Oui, je cherche une robe pour un mariage. || Vâng, tôi tìm một chiếc váy để dự đám cưới.
+L: Vendeuse | J'ai cette jolie robe bleue, ou cette robe noire, plus élégante. || Tôi có chiếc váy xanh xinh xắn này, hoặc chiếc váy đen thanh lịch hơn này.
+L: Anh | Je préfère la robe bleue. Elle coûte combien ? || Tôi thích chiếc váy xanh hơn. Nó giá bao nhiêu?
+L: Vendeuse | Quarante-neuf euros. C'est un bon prix ! || Bốn mươi chín euro. Giá tốt đấy!
+L: Anh | Parfait, je la prends. || Tuyệt, tôi lấy chiếc này.
+LQ: Anh cherche une robe pour… | le travail | *un mariage | une fête d'anniversaire | l'école
+LQ: Quelle robe préfère Anh ? | la noire | *la bleue | la rouge | la blanche
+LQ: La robe coûte… | dix-neuf euros | *quarante-neuf euros | cinquante-neuf euros | quatre-vingt-dix euros
+RA: une belle robe, une robe rouge.
+RA: un petit chien noir.
+RA: de beaux jardins, de nouveaux amis.
+SH: Je cherche une robe pour un mariage.
+SH: Je préfère la robe bleue.
+SH: C'est un bon prix !
+R.title: Mon quartier
+R: J'habite dans un vieux quartier de Hanoï. || Tôi sống ở một khu phố cổ của Hà Nội.
+R: Les rues sont petites et animées. || Những con phố nhỏ và nhộn nhịp.
+R: Il y a de jolies maisons anciennes et de bons restaurants. || Có những ngôi nhà cổ xinh xắn và những nhà hàng ngon.
+R: À côté de chez moi, il y a un nouveau café moderne. || Bên cạnh nhà tôi có một quán cà phê mới hiện đại.
+R: Le café a des chaises rouges et de grandes fenêtres. || Quán có những chiếc ghế đỏ và cửa sổ lớn.
+R: C'est mon endroit préféré pour étudier. || Đó là nơi tôi thích nhất để học bài.
+RQ: Les rues du quartier sont… | grandes et calmes | *petites et animées | modernes | vides
+RQ: Le nouveau café a… | des chaises noires | *des chaises rouges | un jardin | de petites fenêtres
+RQ: Que fait l'auteur au café ? | il travaille | il mange | *il étudie | il dort
+W.prompt: Décris ton quartier ou ta ville avec au moins six adjectifs, avant et après le nom. || Miêu tả khu phố hoặc thành phố của bạn với ít nhất sáu tính từ, đặt trước và sau danh từ.
+W.min: 40
+W.must: il y a
+W.check: Tính từ ngắn (beau, petit, grand, vieux, bon, nouveau) đứng trước danh từ
+W.check: Tính từ màu sắc, quốc tịch, hình dáng đứng sau danh từ
+W.check: Hợp giống, số: de jolies maisons, des rues animées
+W.model: J'habite dans une grande ville au Viêt Nam. || Tôi sống ở một thành phố lớn ở Việt Nam.
+W.model: Mon quartier est calme et agréable. || Khu phố của tôi yên tĩnh và dễ chịu.
+W.model: Il y a un petit parc vert et un vieux marché. || Có một công viên nhỏ xanh mát và một khu chợ cũ.
+W.model: Il y a aussi de nouveaux immeubles modernes. || Còn có những toà nhà mới hiện đại.
+W.model: J'aime beaucoup le café français près de chez moi. || Tôi rất thích quán cà phê kiểu Pháp gần nhà.
+
+## 5 | Les nombres de 20 à 69
+G.title: Compter de 20 à 69
+G.rule: Après vingt, on forme les nombres avec un tiret : vingt-deux, trente-cinq. Pour 21, 31, 41, 51 et 61, on dit et un : vingt et un, trente et un. || Sau hai mươi, ta tạo số bằng dấu gạch ngang: vingt-deux, trente-cinq. Với 21, 31, 41, 51 và 61, ta nói « et un »: vingt et un, trente et un.
+G.note: Các số tròn chục: vingt (20), trente (30), quarante (40), cinquante (50), soixante (60). 21 = vingt et un (không có gạch ngang trước "et" theo cách viết truyền thống), 22 = vingt-deux. Chữ "t" trong vingt được đọc từ 21 đến 29: vingt-deux /vɛ̃t.dø/, nhưng vingt một mình đọc /vɛ̃/.
+G.table: Dizaine | Exemple | Exemple
+G.row: 20 vingt | 21 vingt et un | 25 vingt-cinq
+G.row: 30 trente | 31 trente et un | 38 trente-huit
+G.row: 40 quarante | 41 quarante et un | 44 quarante-quatre
+G.row: 50 cinquante | 51 cinquante et un | 57 cinquante-sept
+G.row: 60 soixante | 61 soixante et un | 69 soixante-neuf
+G.ex: Mon père a cinquante-deux ans. || Bố tôi năm mươi hai tuổi.
+G.ex: Il y a trente et un jours en janvier. || Tháng Một có ba mươi mốt ngày.
+G.ex: La chambre numéro quarante-six, s'il vous plaît. || Làm ơn cho phòng số bốn mươi sáu.
+G.ex: Ça coûte soixante euros. || Cái này giá sáu mươi euro.
+G.q: 35 se dit… | trente-trois | *trente-cinq | treize-cinq | cinquante-trois
+G.q: 41 se dit… | quarante-un | *quarante et un | quatre et un | quarante-et-onze
+G.q: « soixante-huit » = | 58 | 78 | *68 | 86
+G.q: Vingt plus vingt font… | trente | *quarante | cinquante | soixante
+G.q: Écrivez en lettres : 50 = cinquante
+V: trente | /tʁɑ̃t/ | nombre | ba mươi | Il a trente ans. || Anh ấy ba mươi tuổi.
+V: quarante | /ka.ʁɑ̃t/ | nombre | bốn mươi | Quarante personnes habitent ici. || Bốn mươi người sống ở đây.
+V: cinquante | /sɛ̃.kɑ̃t/ | nombre | năm mươi | Ma mère a cinquante ans. || Mẹ tôi năm mươi tuổi.
+V: soixante | /swa.sɑ̃t/ | nombre | sáu mươi | Une heure, c'est soixante minutes. || Một giờ là sáu mươi phút.
+V: l'euro | /lø.ʁo/ | nom m. | đồng euro | Ça fait vingt euros. || Tổng cộng hai mươi euro.
+V: coûter | /ku.te/ | verbe | có giá | Combien coûte ce livre ? || Quyển sách này giá bao nhiêu?
+V: le prix | /lə pʁi/ | nom m. | giá | Quel est le prix ? || Giá bao nhiêu?
+V: la minute | /la mi.nyt/ | nom f. | phút | J'arrive dans cinq minutes. || Năm phút nữa tôi đến.
+V: plus | /plys/ | adverbe | cộng; hơn | Dix plus dix font vingt. || Mười cộng mười bằng hai mươi.
+V: moins | /mwɛ̃/ | adverbe | trừ; ít hơn | Trente moins dix font vingt. || Ba mươi trừ mười bằng hai mươi.
+VQ: Une heure a ___ minutes. | trente | cinquante | *soixante | quarante
+VQ: Trente moins cinq font… | vingt | *vingt-cinq | trente-cinq | quinze
+VQ: « Combien ça coûte ? » demande… | l'âge | *le prix | l'heure | le nom
+VQ: Quarante-quatre = | 34 | *44 | 54 | 64
+VQ: Écrivez en lettres : 60 = soixante
+D: J'ai vingt-huit ans.
+D: Ça coûte quarante-cinq euros.
+D: Il y a trente et un étudiants.
+D: Mon grand-père a soixante-sept ans.
+L: Cliente | Bonjour, je voudrais ce sac. Il coûte combien ? || Chào anh, tôi muốn mua cái túi này. Nó giá bao nhiêu?
+L: Vendeur | Il coûte cinquante-cinq euros. || Nó giá năm mươi lăm euro.
+L: Cliente | Et le petit sac noir ? || Còn cái túi nhỏ màu đen?
+L: Vendeur | Trente-neuf euros. || Ba mươi chín euro.
+L: Cliente | Je prends le petit sac noir. Voici quarante euros. || Tôi lấy cái túi nhỏ màu đen. Gửi anh bốn mươi euro.
+L: Vendeur | Merci, et voici un euro. Bonne journée ! || Cảm ơn chị, gửi chị một euro tiền thừa. Chúc chị một ngày tốt lành!
+LQ: Le grand sac coûte… | quarante-cinq euros | *cinquante-cinq euros | trente-neuf euros | quinze euros
+LQ: La cliente achète… | le grand sac | *le petit sac noir | les deux sacs | rien
+LQ: Combien le vendeur rend à la cliente ? | rien | *un euro | cinq euros | dix euros
+RA: vingt, trente, quarante, cinquante, soixante.
+RA: vingt et un, trente et un, quarante et un.
+RA: vingt-deux, trente-trois, quarante-quatre, cinquante-cinq, soixante-six.
+SH: Il coûte combien ?
+SH: Il coûte cinquante-cinq euros.
+SH: Mon grand-père a soixante-sept ans.
+R.title: Les chiffres de ma ville
+R: Ma ville est petite : il y a trente-six mille habitants. || Thành phố của tôi nhỏ: có ba mươi sáu nghìn dân.
+R: Il y a vingt-quatre écoles et deux hôpitaux. || Có hai mươi bốn trường học và hai bệnh viện.
+R: Le bus numéro cinquante-trois va au centre-ville. || Xe buýt số năm mươi ba đi đến trung tâm thành phố.
+R: Le ticket coûte un euro soixante. || Vé giá một euro sáu mươi xu.
+R: Le maire a soixante-deux ans. || Ông thị trưởng sáu mươi hai tuổi.
+R: C'est une ville calme et sympathique. || Đó là một thành phố yên bình và dễ mến.
+RQ: Combien d'habitants il y a ? | vingt-six mille | *trente-six mille | soixante mille | six mille
+RQ: Quel bus va au centre-ville ? | le quarante-trois | *le cinquante-trois | le trente-cinq | le soixante-trois
+RQ: Le ticket de bus coûte… | un euro cinquante | *un euro soixante | deux euros | soixante euros
+W.prompt: Écris les âges des membres de ta famille et le prix de cinq objets que tu as. Écris les nombres en lettres. || Viết tuổi của các thành viên trong gia đình và giá năm món đồ bạn có. Viết số bằng chữ.
+W.min: 35
+W.must: ans ; euros
+W.check: 21, 31, 41, 51, 61 viết « et un »
+W.check: Các số khác dùng gạch ngang (vingt-deux, trente-cinq)
+W.check: Nói tuổi bằng avoir, nói giá bằng coûter
+W.model: Mon père a cinquante-trois ans et ma mère a quarante-neuf ans. || Bố tôi năm mươi ba tuổi và mẹ tôi bốn mươi chín tuổi.
+W.model: Ma grand-mère a soixante et un ans. || Bà tôi sáu mươi mốt tuổi.
+W.model: Mon téléphone coûte soixante euros. || Điện thoại của tôi giá sáu mươi euro.
+W.model: Mon sac coûte trente-cinq euros. || Cái túi của tôi giá ba mươi lăm euro.
+W.model: Mes livres de français coûtent vingt-deux euros. || Sách tiếng Pháp của tôi giá hai mươi hai euro.

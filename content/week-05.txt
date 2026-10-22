@@ -1,0 +1,378 @@
+@week 5
+@title Le temps qui passe
+@level A1
+
+## 1 | Quelle heure est-il ?
+G.title: Dire l'heure
+G.rule: Pour demander l'heure, on dit « Quelle heure est-il ? ». Pour répondre, on dit « Il est » + l'heure, avec et quart, et demie ou moins le quart. || Để hỏi giờ, ta nói « Quelle heure est-il ? ». Để trả lời, ta nói « Il est » + giờ, với et quart (mười lăm), et demie (rưỡi) hoặc moins le quart (kém mười lăm).
+G.note: Luôn dùng "Il est" (không dùng "C'est"). Giờ thân mật: Il est trois heures et quart (3:15), trois heures et demie (3:30), quatre heures moins le quart (3:45), quatre heures moins dix (3:50). Giờ chính thức (tàu, xe, TV) dùng hệ 24 giờ: Il est quinze heures trente. Đặc biệt: midi (12 giờ trưa), minuit (12 giờ đêm).
+G.table: Heure | Familier | Officiel
+G.row: 8:00 | huit heures | huit heures
+G.row: 8:15 | huit heures et quart | huit heures quinze
+G.row: 8:30 | huit heures et demie | huit heures trente
+G.row: 8:45 | neuf heures moins le quart | huit heures quarante-cinq
+G.row: 12:00 | midi | douze heures
+G.row: 20:10 | huit heures dix du soir | vingt heures dix
+G.ex: Quelle heure est-il ? Il est dix heures. || Mấy giờ rồi? Mười giờ.
+G.ex: Il est midi et demi. || Bây giờ là mười hai giờ rưỡi trưa.
+G.ex: Le train part à dix-huit heures quinze. || Tàu khởi hành lúc mười tám giờ mười lăm.
+G.ex: J'arrive à neuf heures moins le quart. || Tôi đến lúc chín giờ kém mười lăm.
+G.q: 7:30 = Il est sept heures… | et quart | *et demie | moins le quart | moins trente
+G.q: 10:45 = Il est… | dix heures moins le quart | *onze heures moins le quart | dix heures et quart | onze heures et quart
+G.q: Pour demander l'heure : | Quelle heure as-tu ? | *Quelle heure est-il ? | C'est quelle heure ? | Il a quelle heure ?
+G.q: 12:00 la nuit = | midi | *minuit | douze heures du matin | zéro
+G.q: 15:15 en français officiel : ___ heures quinze = quinze
+V: l'heure | /lœʁ/ | nom f. | giờ | À quelle heure commence le cours ? || Tiết học bắt đầu lúc mấy giờ?
+V: le quart | /lə kaʁ/ | nom m. | một phần tư; mười lăm phút | Il est deux heures et quart. || Bây giờ là hai giờ mười lăm.
+V: demi | /də.mi/ | adjectif | rưỡi, một nửa | Il est une heure et demie. || Bây giờ là một giờ rưỡi.
+V: midi | /mi.di/ | nom m. | mười hai giờ trưa | On mange à midi. || Chúng ta ăn lúc mười hai giờ trưa.
+V: minuit | /mi.nɥi/ | nom m. | nửa đêm | Je dors à minuit. || Tôi ngủ lúc nửa đêm.
+V: partir | /paʁ.tiʁ/ | verbe | khởi hành, rời đi | Le bus part à huit heures. || Xe buýt khởi hành lúc tám giờ.
+V: arriver | /a.ʁi.ve/ | verbe | đến nơi | J'arrive à l'école à sept heures. || Tôi đến trường lúc bảy giờ.
+V: en retard | /ɑ̃ ʁə.taʁ/ | expression | muộn, trễ | Vite, nous sommes en retard ! || Nhanh lên, chúng ta muộn rồi!
+V: à l'heure | /a lœʁ/ | expression | đúng giờ | Le train est à l'heure. || Tàu đến đúng giờ.
+V: une montre | /yn mɔ̃tʁ/ | nom f. | đồng hồ đeo tay | Ma montre ne marche pas. || Đồng hồ của tôi bị hỏng.
+VQ: Le cours commence à 9 h. J'arrive à 9 h 20. Je suis… | à l'heure | *en retard | en avance | midi
+VQ: Pour voir l'heure, je regarde ma… | *montre | robe | clé | photo
+VQ: « Et demie » = | quinze minutes | *trente minutes | quarante-cinq minutes | une heure
+VQ: Le contraire de « arriver » : | *partir | rester | commencer | finir
+VQ: 12:00 le jour, c'est ___. = midi
+D: Quelle heure est-il ?
+D: Il est huit heures et quart.
+D: Le train part à midi.
+D: Nous sommes en retard !
+L: Lucas | Excusez-moi, madame, quelle heure est-il ? || Xin lỗi bà, mấy giờ rồi ạ?
+L: Dame | Il est neuf heures moins dix. || Chín giờ kém mười.
+L: Lucas | Oh non ! Mon cours commence à neuf heures ! || Ôi không! Tiết học của cháu bắt đầu lúc chín giờ!
+L: Dame | Ce n'est pas loin, vous avez le temps. || Không xa đâu, cháu vẫn kịp.
+L: Lucas | Le bus passe à quelle heure ? || Xe buýt đến lúc mấy giờ ạ?
+L: Dame | À neuf heures moins cinq. Dépêchez-vous ! || Lúc chín giờ kém năm. Nhanh lên cháu!
+LQ: Quelle heure est-il ? | 9:10 | *8:50 | 9:50 | 8:10
+LQ: Le cours de Lucas commence à… | huit heures | *neuf heures | dix heures | midi
+LQ: Le bus passe à… | *8:55 | 9:05 | 8:45 | 9:15
+RA: Il est une heure. Il est deux heures et quart.
+RA: Il est trois heures et demie.
+RA: Il est cinq heures moins le quart.
+SH: Quelle heure est-il ?
+SH: Il est neuf heures moins dix.
+SH: Dépêchez-vous, nous sommes en retard !
+R.title: Le message de Paul
+R: Salut Anh ! || Chào Anh!
+R: Ce soir, le film commence à vingt heures trente au cinéma Lumière. || Tối nay, phim bắt đầu lúc tám rưỡi tối ở rạp Lumière.
+R: Je finis le travail à dix-neuf heures. || Mình tan làm lúc bảy giờ tối.
+R: On se retrouve devant le cinéma à huit heures et quart ? || Mình gặp nhau trước rạp lúc tám giờ mười lăm nhé?
+R: Ne sois pas en retard, comme d'habitude ! || Đừng đến muộn như mọi khi nhé!
+R: À ce soir, Paul. || Hẹn tối nay, Paul.
+RQ: Le film commence à… | 20:00 | *20:30 | 19:00 | 20:15
+RQ: Paul finit le travail à… | *19:00 | 20:00 | 18:30 | 20:15
+RQ: Ils ont rendez-vous à… | 19:00 | *20:15 | 20:30 | 21:00
+W.prompt: Écris un message à un ami pour fixer un rendez-vous : le lieu, l'heure du rendez-vous et l'heure de l'activité. || Viết tin nhắn cho một người bạn để hẹn gặp: địa điểm, giờ hẹn và giờ của hoạt động.
+W.min: 30
+W.must: heures ; à
+W.check: Dùng « à + giờ » để nói thời điểm (à huit heures)
+W.check: Viết đúng et quart / et demie / moins le quart
+W.check: Có lời chào đầu thư và lời kết (Salut ! … À bientôt !)
+W.model: Salut Minh ! || Chào Minh!
+W.model: Samedi, il y a un concert au parc. || Thứ Bảy có buổi hoà nhạc ở công viên.
+W.model: Le concert commence à dix-neuf heures. || Buổi hoà nhạc bắt đầu lúc bảy giờ tối.
+W.model: On se retrouve devant l'entrée à six heures et demie ? || Mình gặp nhau trước cổng lúc sáu rưỡi nhé?
+W.model: Ne sois pas en retard ! || Đừng đến muộn nhé!
+W.model: À samedi, Lan. || Hẹn thứ Bảy, Lan.
+
+## 2 | Les moments de la journée
+G.title: Le matin, l'après-midi, le soir
+G.rule: Pour parler des moments de la journée, on utilise le matin, l'après-midi, le soir et la nuit. On dit « ce matin » pour aujourd'hui et « le matin » pour une habitude. || Để nói về các buổi trong ngày, ta dùng le matin, l'après-midi, le soir và la nuit. Ta nói « ce matin » cho sáng hôm nay và « le matin » cho thói quen.
+G.note: Ce matin (sáng nay), cet après-midi (chiều nay — "cet" vì từ bắt đầu bằng nguyên âm), ce soir (tối nay), cette nuit (đêm nay). Lời chào: Bonjour (cả ngày), Bonsoir (từ khoảng 18 giờ), Bonne nuit (trước khi đi ngủ). Dùng "du matin / de l'après-midi / du soir" sau giờ: sept heures du matin, huit heures du soir.
+G.table: Moment | Habitude | Aujourd'hui
+G.row: matin | le matin | ce matin
+G.row: après-midi | l'après-midi | cet après-midi
+G.row: soir | le soir | ce soir
+G.row: nuit | la nuit | cette nuit
+G.ex: Le matin, je bois un café. || Buổi sáng tôi uống một tách cà phê.
+G.ex: Cet après-midi, j'ai une réunion. || Chiều nay tôi có cuộc họp.
+G.ex: Ce soir, nous dînons au restaurant. || Tối nay chúng tôi ăn tối ở nhà hàng.
+G.ex: Il travaille la nuit, il est infirmier. || Anh ấy làm đêm, anh ấy là y tá.
+G.q: ___ après-midi, je vais à la piscine. (aujourd'hui) | Ce | *Cet | Cette | Le
+G.q: Il est vingt-deux heures. On dit… | Bonjour | *Bonsoir | Bon matin | Salut midi
+G.q: ___ matin, je me lève tôt. (habitude) | Ce | *Le | Cet | La
+G.q: Avant de dormir, on dit… | Bonsoir | Bonjour | *Bonne nuit | Bonne journée
+G.q: Complétez : ___ nuit, il fait froid. (aujourd'hui) = Cette
+V: le matin | /lə ma.tɛ̃/ | nom m. | buổi sáng | Je me lève à six heures du matin. || Tôi thức dậy lúc sáu giờ sáng.
+V: l'après-midi | /la.pʁɛ.mi.di/ | nom m. | buổi chiều | L'après-midi, je travaille. || Buổi chiều tôi làm việc.
+V: le soir | /lə swaʁ/ | nom m. | buổi tối | Le soir, je regarde la télé. || Buổi tối tôi xem ti vi.
+V: la nuit | /la nɥi/ | nom f. | ban đêm | Bonne nuit ! || Chúc ngủ ngon!
+V: la journée | /la ʒuʁ.ne/ | nom f. | cả ngày | Bonne journée ! || Chúc một ngày tốt lành!
+V: tôt | /to/ | adverbe | sớm | Je me lève tôt. || Tôi dậy sớm.
+V: tard | /taʁ/ | adverbe | muộn | Il rentre tard le soir. || Anh ấy về muộn vào buổi tối.
+V: dormir | /dɔʁ.miʁ/ | verbe | ngủ | Je dors huit heures par nuit. || Tôi ngủ tám tiếng mỗi đêm.
+V: le petit-déjeuner | /lə pə.ti.de.ʒœ.ne/ | nom m. | bữa sáng | Le petit-déjeuner est à sept heures. || Bữa sáng lúc bảy giờ.
+V: le dîner | /lə di.ne/ | nom m. | bữa tối | Le dîner est prêt ! || Bữa tối xong rồi!
+VQ: On prend le petit-déjeuner… | le soir | *le matin | la nuit | l'après-midi
+VQ: Le contraire de « tôt » : | souvent | *tard | ce soir | demain
+VQ: Le repas du soir, c'est le… | petit-déjeuner | déjeuner | *dîner | goûter
+VQ: La nuit, on… | travaille au bureau | *dort | prend le petit-déjeuner | va à l'école
+VQ: Bonne ___ ! (avant de dormir) = nuit
+D: Le matin, je bois un café.
+D: Cet après-midi, j'ai une réunion.
+D: Ce soir, nous dînons ensemble.
+D: Bonne nuit !
+L: Anne | Tu es libre ce soir ? || Tối nay bạn rảnh không?
+L: Long | Non, ce soir, je travaille tard. || Không, tối nay mình làm muộn.
+L: Anne | Et demain matin ? || Còn sáng mai thì sao?
+L: Long | Le matin, j'ai cours. Mais l'après-midi, je suis libre. || Buổi sáng mình có tiết học. Nhưng buổi chiều mình rảnh.
+L: Anne | Parfait ! On prend un café demain après-midi ? || Tuyệt! Chiều mai mình đi cà phê nhé?
+L: Long | D'accord, à quinze heures. Bonne soirée ! || Được, lúc ba giờ chiều. Chúc buổi tối vui vẻ!
+LQ: Ce soir, Long… | est libre | *travaille tard | a cours | dort
+LQ: Demain matin, Long… | travaille | *a cours | prend un café | est libre
+LQ: Ils ont rendez-vous… | ce soir | demain matin | *demain à quinze heures | samedi
+RA: le matin, l'après-midi, le soir, la nuit.
+RA: ce matin, cet après-midi, ce soir, cette nuit.
+RA: Bonjour, bonsoir, bonne nuit.
+SH: Tu es libre ce soir ?
+SH: Le matin, j'ai cours.
+SH: Bonne soirée !
+R.title: La journée d'une boulangère
+R: Madame Durand est boulangère. || Bà Durand là thợ làm bánh mì.
+R: Elle commence sa journée très tôt, à quatre heures du matin. || Bà ấy bắt đầu ngày làm việc rất sớm, lúc bốn giờ sáng.
+R: Elle prépare le pain et les croissants. || Bà ấy làm bánh mì và bánh sừng bò.
+R: La boulangerie ouvre à sept heures. || Tiệm bánh mở cửa lúc bảy giờ.
+R: L'après-midi, elle dort deux heures. || Buổi chiều bà ấy ngủ hai tiếng.
+R: Le soir, elle dîne tôt avec sa famille et elle se couche à vingt et une heures. || Buổi tối bà ấy ăn tối sớm với gia đình và đi ngủ lúc chín giờ tối.
+RQ: Madame Durand commence sa journée à… | sept heures | *quatre heures | six heures | minuit
+RQ: La boulangerie ouvre à… | quatre heures | *sept heures | huit heures | neuf heures
+RQ: Que fait-elle l'après-midi ? | elle travaille | *elle dort | elle dîne | elle prépare le pain
+W.prompt: Décris ta journée typique : le matin, l'après-midi, le soir. Donne les heures. || Miêu tả một ngày điển hình của bạn: buổi sáng, buổi chiều, buổi tối. Ghi rõ giờ.
+W.min: 40
+W.must: le matin ; le soir
+W.check: Dùng le matin / l'après-midi / le soir cho thói quen
+W.check: Giờ có « du matin / du soir » hoặc hệ 24 giờ
+W.check: Mỗi câu có chủ ngữ và động từ chia đúng
+W.model: Le matin, je me lève à six heures et demie. || Buổi sáng, tôi thức dậy lúc sáu rưỡi.
+W.model: Je prends le petit-déjeuner et je pars au travail à sept heures et quart. || Tôi ăn sáng và đi làm lúc bảy giờ mười lăm.
+W.model: L'après-midi, je travaille au bureau jusqu'à dix-sept heures. || Buổi chiều, tôi làm việc ở văn phòng đến năm giờ chiều.
+W.model: Le soir, je dîne avec ma famille. || Buổi tối, tôi ăn tối với gia đình.
+W.model: Je lis un peu et je dors à onze heures. || Tôi đọc sách một chút và đi ngủ lúc mười một giờ.
+
+## 3 | Les mois et les saisons
+G.title: Les mois et les saisons
+G.rule: Avec les mois, on utilise en : en mai, en décembre. Avec les saisons, on dit en été, en automne, en hiver, mais au printemps. || Với tháng, ta dùng en: en mai, en décembre. Với mùa, ta nói en été, en automne, en hiver, nhưng au printemps.
+G.note: Tên tháng và mùa viết thường. "Au printemps" là ngoại lệ vì printemps bắt đầu bằng phụ âm. Có thể nói "au mois de mai" = "en mai". Thời tiết: Il fait chaud / froid / beau / mauvais; Il pleut (trời mưa); Il neige (trời có tuyết).
+G.table: Saison | Préposition | Mois (en France)
+G.row: le printemps | au printemps | mars, avril, mai
+G.row: l'été | en été | juin, juillet, août
+G.row: l'automne | en automne | septembre, octobre, novembre
+G.row: l'hiver | en hiver | décembre, janvier, février
+G.ex: En France, il fait chaud en été. || Ở Pháp, mùa hè trời nóng.
+G.ex: Au printemps, les fleurs sont belles. || Vào mùa xuân, hoa rất đẹp.
+G.ex: Mon anniversaire est en octobre. || Sinh nhật tôi vào tháng Mười.
+G.ex: En hiver, il neige à la montagne. || Mùa đông, trên núi có tuyết.
+G.q: ___ printemps | en | *au | à | le
+G.q: ___ juillet | au | *en | à | le
+G.q: Le mois après juin : | mai | *juillet | août | septembre
+G.q: En hiver, il fait… | chaud | *froid | beau et chaud | trente degrés
+G.q: Le dernier mois de l'année : ___ = décembre
+V: le printemps | /lə pʁɛ̃.tɑ̃/ | nom m. | mùa xuân | J'aime le printemps. || Tôi thích mùa xuân.
+V: l'été | /le.te/ | nom m. | mùa hè | En été, je vais à la plage. || Mùa hè tôi đi biển.
+V: l'automne | /lo.tɔn/ | nom m. | mùa thu | En automne, les feuilles tombent. || Mùa thu lá rụng.
+V: l'hiver | /li.vɛʁ/ | nom m. | mùa đông | L'hiver est froid à Hanoï. || Mùa đông ở Hà Nội lạnh.
+V: le mois | /lə mwa/ | nom m. | tháng | Il y a douze mois dans l'année. || Một năm có mười hai tháng.
+V: la saison | /la sɛ.zɔ̃/ | nom f. | mùa | Quelle est ta saison préférée ? || Mùa bạn thích nhất là mùa nào?
+V: il fait beau | /il fɛ bo/ | expression | trời đẹp | Aujourd'hui, il fait beau. || Hôm nay trời đẹp.
+V: il pleut | /il plø/ | expression | trời mưa | Il pleut, prends ton parapluie ! || Trời mưa, cầm theo ô đi!
+V: il neige | /il nɛʒ/ | expression | trời có tuyết | Il neige à Noël. || Giáng sinh trời có tuyết.
+V: la plage | /la plaʒ/ | nom f. | bãi biển | On va à la plage en été. || Mùa hè chúng ta đi biển.
+VQ: Il y a de la neige. Il… | pleut | *neige | fait chaud | fait beau
+VQ: En France, les vacances d'été sont en… | décembre | *juillet et août | mars | octobre
+VQ: Il y a ___ mois dans l'année. | dix | onze | *douze | treize
+VQ: Les feuilles tombent en… | été | printemps | *automne | hiver
+VQ: Quand il pleut, on prend un ___. = parapluie
+D: Mon anniversaire est en mars.
+D: Au printemps, il fait beau.
+D: En hiver, il neige.
+D: Il pleut souvent en automne.
+L: Karim | Quelle est ta saison préférée ? || Mùa yêu thích của bạn là mùa nào?
+L: Mai | J'adore l'automne. Les couleurs sont magnifiques. || Mình rất thích mùa thu. Màu sắc tuyệt đẹp.
+L: Karim | Moi, je préfère l'été. Je vais à la plage en juillet. || Mình thì thích mùa hè hơn. Mình đi biển vào tháng Bảy.
+L: Mai | Au Viêt Nam, il fait très chaud en été ! || Ở Việt Nam, mùa hè rất nóng!
+L: Karim | Et en hiver ? || Còn mùa đông?
+L: Mai | À Hanoï, il fait un peu froid, mais il ne neige pas. || Ở Hà Nội trời hơi lạnh, nhưng không có tuyết.
+LQ: Mai préfère… | l'été | *l'automne | l'hiver | le printemps
+LQ: Karim va à la plage en… | juin | *juillet | août | septembre
+LQ: En hiver à Hanoï… | il neige | il fait très chaud | *il fait un peu froid | il pleut tous les jours
+RA: janvier, février, mars, avril, mai, juin.
+RA: juillet, août, septembre, octobre, novembre, décembre.
+RA: au printemps, en été, en automne, en hiver.
+SH: Quelle est ta saison préférée ?
+SH: J'adore l'automne.
+SH: En hiver, il fait froid.
+R.title: Les saisons au Québec
+R: Au Québec, les quatre saisons sont très différentes. || Ở Québec, bốn mùa rất khác nhau.
+R: En hiver, il fait très froid et il neige beaucoup, de décembre à mars. || Mùa đông rất lạnh và tuyết rơi nhiều, từ tháng Mười Hai đến tháng Ba.
+R: Au printemps, la neige fond et les arbres sont verts. || Mùa xuân, tuyết tan và cây cối xanh tươi.
+R: En été, il fait chaud et les gens adorent les festivals. || Mùa hè trời nóng và mọi người rất thích các lễ hội.
+R: En automne, en octobre, les forêts sont rouges et orange. || Mùa thu, vào tháng Mười, rừng chuyển màu đỏ và cam.
+R: C'est la saison préférée des touristes. || Đó là mùa khách du lịch yêu thích nhất.
+RQ: En hiver au Québec… | il fait chaud | *il neige beaucoup | il pleut | il fait beau
+RQ: Les forêts sont rouges en… | juillet | *octobre | décembre | avril
+RQ: Les touristes préfèrent… | l'hiver | l'été | *l'automne | le printemps
+W.prompt: Présente les saisons dans ton pays ou ta ville : le temps, les mois et ce que tu fais. || Giới thiệu các mùa ở đất nước hoặc thành phố của bạn: thời tiết, các tháng và việc bạn làm.
+W.min: 40
+W.must: en été ; en hiver ; il fait
+W.check: Dùng « au printemps », « en été / en automne / en hiver »
+W.check: Tên tháng và mùa viết thường
+W.check: Thời tiết dùng « il fait », « il pleut », « il neige »
+W.model: À Hanoï, il y a quatre saisons. || Ở Hà Nội có bốn mùa.
+W.model: Au printemps, en mars et en avril, il fait doux et il pleut un peu. || Mùa xuân, vào tháng Ba và tháng Tư, trời ấm áp và mưa phùn.
+W.model: En été, il fait très chaud et je vais à la plage. || Mùa hè trời rất nóng và tôi đi biển.
+W.model: En automne, il fait beau : c'est ma saison préférée. || Mùa thu trời đẹp: đó là mùa tôi thích nhất.
+W.model: En hiver, il fait froid, mais il ne neige pas. || Mùa đông trời lạnh nhưng không có tuyết.
+
+## 4 | La date
+G.title: Dire la date
+G.rule: Pour dire la date, on utilise le + nombre + mois : le douze mars. Pour le premier jour du mois, on dit le premier. || Để nói ngày tháng, ta dùng le + số + tháng: le douze mars. Với ngày đầu tháng, ta nói le premier.
+G.note: Hỏi ngày: "Quelle est la date aujourd'hui ?" hoặc "On est le combien ?". Trả lời: "On est le 5 mai" / "Nous sommes le 5 mai" / "C'est le 5 mai". Ngày 1 dùng số thứ tự: le premier juin (không nói "le un juin"). Năm: en 2026 = en deux mille vingt-six. Thứ tự trong tiếng Pháp: thứ – ngày – tháng – năm (lundi 5 mai 2026), giống tiếng Việt.
+G.table: Question | Réponse
+G.row: Quelle est la date ? | C'est le 14 juillet.
+G.row: On est le combien ? | On est le 3 mars.
+G.row: Quel jour sommes-nous ? | Nous sommes mardi.
+G.row: C'est quand, ton anniversaire ? | C'est le 1er mai.
+G.ex: Aujourd'hui, nous sommes le vingt octobre. || Hôm nay là ngày hai mươi tháng Mười.
+G.ex: Mon anniversaire, c'est le premier avril. || Sinh nhật tôi là ngày mùng một tháng Tư.
+G.ex: La fête nationale française est le quatorze juillet. || Quốc khánh Pháp là ngày mười bốn tháng Bảy.
+G.ex: Je suis né en deux mille trois. || Tôi sinh năm hai nghìn không trăm linh ba.
+G.q: 1/5 se dit… | le un mai | *le premier mai | le premier de mai | un mai
+G.q: « On est le combien ? » demande… | l'heure | *la date | le prix | l'âge
+G.q: La fête nationale française : | le 2 septembre | *le 14 juillet | le 1er mai | le 25 décembre
+G.q: Je suis né ___ 2004. | à | le | *en | au
+G.q: Écrivez : 1/1 = le ___ janvier = premier
+V: la date | /la dat/ | nom f. | ngày tháng | Quelle est la date aujourd'hui ? || Hôm nay là ngày bao nhiêu?
+V: l'anniversaire | /la.ni.vɛʁ.sɛʁ/ | nom m. | sinh nhật | Joyeux anniversaire ! || Chúc mừng sinh nhật!
+V: premier | /pʁə.mje/ | adjectif | thứ nhất, đầu tiên | C'est le premier jour du mois. || Đó là ngày đầu tiên của tháng.
+V: né | /ne/ | participe | được sinh ra | Elle est née le six juin. || Cô ấy sinh ngày sáu tháng Sáu.
+V: l'année | /la.ne/ | nom f. | năm | Bonne année ! || Chúc mừng năm mới!
+V: la fête | /la fɛt/ | nom f. | ngày lễ; bữa tiệc | C'est une fête importante. || Đó là một ngày lễ quan trọng.
+V: aujourd'hui | /o.ʒuʁ.dɥi/ | adverbe | hôm nay | Aujourd'hui, c'est lundi. || Hôm nay là thứ Hai.
+V: demain | /də.mɛ̃/ | adverbe | ngày mai | Demain, nous sommes le premier mai. || Ngày mai là mùng một tháng Năm.
+V: hier | /jɛʁ/ | adverbe | hôm qua | Hier, c'était dimanche. || Hôm qua là Chủ Nhật.
+V: le calendrier | /lə ka.lɑ̃.dʁi.je/ | nom m. | lịch | Regarde le calendrier ! || Xem lịch đi!
+VQ: Le jour avant aujourd'hui, c'est… | demain | *hier | ce soir | la semaine
+VQ: Pour voir les dates, on regarde le… | montre | *calendrier | passeport | tableau
+VQ: Le 1er janvier, on dit… | Joyeux anniversaire ! | *Bonne année ! | Bonne nuit ! | Bon appétit !
+VQ: Le jour après aujourd'hui, c'est… | hier | *demain | ce matin | l'année
+VQ: Joyeux ___ ! (le jour de ta naissance) = anniversaire
+D: Nous sommes le vingt mai.
+D: Mon anniversaire est le premier juin.
+D: Elle est née en deux mille.
+D: Demain, c'est le quatorze juillet.
+L: Thao | On est le combien aujourd'hui ? || Hôm nay là ngày bao nhiêu nhỉ?
+L: Pierre | On est le vingt-huit février. Pourquoi ? || Hôm nay là hai mươi tám tháng Hai. Sao vậy?
+L: Thao | Demain, c'est l'anniversaire de ma mère ! || Ngày mai là sinh nhật mẹ mình!
+L: Pierre | Demain ? Mais cette année, il n'y a pas de vingt-neuf février ! || Ngày mai à? Nhưng năm nay không có ngày hai mươi chín tháng Hai!
+L: Thao | Ah oui… Alors on fête son anniversaire le premier mars ! || À đúng rồi… Vậy thì tổ chức sinh nhật mẹ vào mùng một tháng Ba!
+L: Pierre | Bonne idée ! || Ý hay đấy!
+LQ: Quelle est la date aujourd'hui ? | le 29 février | *le 28 février | le 1er mars | le 2 mars
+LQ: La mère de Thao est née… | le 28 février | *le 29 février | le 1er mars | le 1er février
+LQ: Cette année, ils fêtent l'anniversaire… | le 28 février | *le 1er mars | le 2 mars | ils ne le fêtent pas
+RA: le premier janvier, le deux février, le trois mars.
+RA: le quatorze juillet, le vingt-cinq décembre.
+RA: en deux mille vingt-six.
+SH: On est le combien aujourd'hui ?
+SH: On est le vingt-huit février.
+SH: C'est quand, ton anniversaire ?
+R.title: Les fêtes en France
+R: En France, il y a beaucoup de jours fériés. || Ở Pháp có nhiều ngày nghỉ lễ.
+R: Le premier janvier, c'est le jour de l'An. || Ngày mùng một tháng Một là ngày đầu năm mới.
+R: Le premier mai, c'est la fête du Travail. || Ngày mùng một tháng Năm là ngày Quốc tế Lao động.
+R: Le quatorze juillet, c'est la fête nationale avec un grand défilé à Paris. || Ngày mười bốn tháng Bảy là Quốc khánh với cuộc diễu hành lớn ở Paris.
+R: Le vingt-cinq décembre, c'est Noël. || Ngày hai mươi lăm tháng Mười Hai là lễ Giáng sinh.
+R: Ces jours-là, la plupart des gens ne travaillent pas. || Những ngày đó, phần lớn mọi người không đi làm.
+RQ: La fête du Travail est… | le 14 juillet | *le 1er mai | le 25 décembre | le 1er janvier
+RQ: Où est le grand défilé ? | à Lyon | *à Paris | à Marseille | à Nice
+RQ: Le 25 décembre, c'est… | le jour de l'An | la fête nationale | *Noël | la fête du Travail
+W.prompt: Écris les dates importantes pour toi : ton anniversaire, les anniversaires de ta famille et deux fêtes de ton pays. || Viết những ngày quan trọng với bạn: sinh nhật bạn, sinh nhật người thân và hai ngày lễ của đất nước bạn.
+W.min: 40
+W.must: le premier ; anniversaire
+W.check: Ngày tháng theo mẫu « le + số + tháng »
+W.check: Ngày mùng 1 viết « le premier »
+W.check: Năm dùng « en » (en deux mille cinq)
+W.model: Mon anniversaire, c'est le premier juin. || Sinh nhật tôi là ngày mùng một tháng Sáu.
+W.model: Je suis né en deux mille cinq. || Tôi sinh năm hai nghìn không trăm linh năm.
+W.model: L'anniversaire de ma mère est le dix-huit septembre. || Sinh nhật mẹ tôi là ngày mười tám tháng Chín.
+W.model: Au Viêt Nam, la fête nationale est le deux septembre. || Ở Việt Nam, Quốc khánh là ngày hai tháng Chín.
+W.model: Le Têt est en janvier ou en février. || Tết rơi vào tháng Một hoặc tháng Hai.
+W.model: C'est la fête la plus importante de l'année. || Đó là ngày lễ quan trọng nhất trong năm.
+
+## 5 | Les nombres de 70 à 100
+G.title: Compter de 70 à 100
+G.rule: En France, on compte soixante-dix pour 70, quatre-vingts pour 80 et quatre-vingt-dix pour 90. Après, on ajoute les nombres de un à dix-neuf. || Ở Pháp, ta đếm soixante-dix cho 70, quatre-vingts cho 80 và quatre-vingt-dix cho 90. Sau đó ta cộng thêm các số từ một đến mười chín.
+G.note: 70 = 60 + 10 (soixante-dix), 71 = soixante et onze, 72 = soixante-douze. 80 = 4 × 20 (quatre-vingts — có "s"), nhưng 81 = quatre-vingt-un (mất "s", không có "et"). 90 = quatre-vingt-dix, 99 = quatre-vingt-dix-neuf. 100 = cent. Ở Bỉ và Thuỵ Sĩ, người ta nói septante (70), nonante (90), và ở Thuỵ Sĩ có huitante (80).
+G.table: Nombre | Français | Calcul
+G.row: 70 | soixante-dix | 60 + 10
+G.row: 71 | soixante et onze | 60 + 11
+G.row: 80 | quatre-vingts | 4 × 20
+G.row: 81 | quatre-vingt-un | 4 × 20 + 1
+G.row: 90 | quatre-vingt-dix | 4 × 20 + 10
+G.row: 100 | cent | 100
+G.ex: Mon grand-père a quatre-vingt-deux ans. || Ông tôi tám mươi hai tuổi.
+G.ex: Le livre coûte soixante-quinze euros. || Quyển sách giá bảy mươi lăm euro.
+G.ex: J'habite au quatre-vingt-dix-neuf, rue Victor Hugo. || Tôi sống ở số chín mươi chín, phố Victor Hugo.
+G.ex: Il y a cent étudiants dans l'amphithéâtre. || Có một trăm sinh viên trong giảng đường.
+G.q: 75 se dit… | septante-cinq | *soixante-quinze | soixante-dix-cinq | quatre-vingt-cinq
+G.q: 80 se dit… | huitante | quatre-vingt | *quatre-vingts | octante
+G.q: 91 se dit… | quatre-vingt-un | *quatre-vingt-onze | quatre-vingt et onze | nonante et un
+G.q: « soixante et onze » = | 61 | *71 | 81 | 11
+G.q: Écrivez en lettres : 100 = cent
+V: soixante-dix | /swa.sɑ̃t.dis/ | nombre | bảy mươi | Elle a soixante-dix ans. || Bà ấy bảy mươi tuổi.
+V: quatre-vingts | /ka.tʁə.vɛ̃/ | nombre | tám mươi | Il y a quatre-vingts pages. || Có tám mươi trang.
+V: quatre-vingt-dix | /ka.tʁə.vɛ̃.dis/ | nombre | chín mươi | Quatre-vingt-dix minutes, c'est long ! || Chín mươi phút lâu đấy!
+V: cent | /sɑ̃/ | nombre | một trăm | J'ai cent euros. || Tôi có một trăm euro.
+V: l'adresse | /la.dʁɛs/ | nom f. | địa chỉ | Mon adresse est au soixante-dix-huit, rue de la Paix. || Địa chỉ của tôi là số bảy mươi tám, phố Hoà Bình.
+V: la rue | /la ʁy/ | nom f. | đường phố | Cette rue est très longue. || Con phố này rất dài.
+V: le numéro de téléphone | /lə ny.me.ʁo də te.le.fɔn/ | nom m. | số điện thoại | Tu as mon numéro de téléphone ? || Bạn có số điện thoại của tôi không?
+V: la page | /la paʒ/ | nom f. | trang | Ouvrez le livre à la page quatre-vingt-dix. || Mở sách ra trang chín mươi.
+V: environ | /ɑ̃.vi.ʁɔ̃/ | adverbe | khoảng | Il y a environ cent personnes. || Có khoảng một trăm người.
+V: compter | /kɔ̃.te/ | verbe | đếm | Je compte jusqu'à cent. || Tôi đếm đến một trăm.
+VQ: Ouvrez le livre à la… | rue | *page | adresse | minute
+VQ: « Environ cent » veut dire… | exactement cent | *à peu près cent | plus de mille | zéro
+VQ: Quatre-vingts plus vingt font… | quatre-vingt-dix | *cent | soixante-dix | cent vingt
+VQ: En Belgique, 70 se dit… | soixante-dix | *septante | huitante | quatre-vingts
+VQ: Écrivez en lettres : 90 = quatre-vingt-dix
+D: J'ai soixante-dix euros.
+D: Mon grand-père a quatre-vingt-cinq ans.
+D: Ouvrez le livre à la page quatre-vingt-dix-sept.
+D: Il y a cent personnes.
+L: Employée | Bonjour, c'est pour une inscription ? || Xin chào, chị đến đăng ký phải không?
+L: Hà | Oui. Je m'appelle Hà, H, A avec un accent grave. || Vâng. Tôi tên là Hà, H, A có dấu huyền.
+L: Employée | Votre adresse, s'il vous plaît ? || Xin cho biết địa chỉ của chị?
+L: Hà | Quatre-vingt-douze, avenue de la République, à Lyon. || Số chín mươi hai, đại lộ Cộng Hoà, ở Lyon.
+L: Employée | Et votre numéro de téléphone ? || Còn số điện thoại của chị?
+L: Hà | C'est le zéro six, soixante-dix-sept, quatre-vingt-un, quatorze, quatre-vingt-dix-neuf. || Đó là số 06 77 81 14 99.
+LQ: Hà habite au numéro… | 82 | *92 | 72 | 62
+LQ: Hà habite à… | Paris | *Lyon | Lille | Nice
+LQ: Le numéro de téléphone commence par… | 05 | *06 | 07 | 01
+RA: soixante-dix, soixante et onze, soixante-douze.
+RA: quatre-vingts, quatre-vingt-un, quatre-vingt-deux.
+RA: quatre-vingt-dix, quatre-vingt-onze, cent.
+SH: Votre adresse, s'il vous plaît ?
+SH: Quatre-vingt-douze, avenue de la République.
+SH: C'est le zéro six, soixante-dix-sept, quatre-vingt-un.
+R.title: Au marché aux puces
+R: Le dimanche, Léon va au marché aux puces. || Chủ Nhật, Léon đi chợ đồ cũ.
+R: Il cherche des vieux disques. || Anh ấy tìm đĩa than cũ.
+R: Un vendeur propose une guitare à quatre-vingt-quinze euros. || Một người bán chào một cây đàn ghi-ta giá chín mươi lăm euro.
+R: C'est trop cher pour Léon : il a seulement soixante-dix euros. || Quá đắt với Léon: anh ấy chỉ có bảy mươi euro.
+R: Finalement, il achète une vieille radio pour soixante-cinq euros. || Cuối cùng, anh ấy mua một chiếc radio cũ với giá sáu mươi lăm euro.
+R: Il est très content ! || Anh ấy rất vui!
+RQ: La guitare coûte… | soixante-quinze euros | *quatre-vingt-quinze euros | soixante-dix euros | cent euros
+RQ: Combien d'argent a Léon ? | soixante-cinq euros | *soixante-dix euros | quatre-vingt-quinze euros | cent euros
+RQ: Qu'est-ce que Léon achète ? | une guitare | des disques | *une radio | rien
+W.prompt: Écris ta fiche d'information : adresse avec un numéro au-dessus de soixante-dix, numéro de téléphone et âges de personnes de plus de soixante-dix ans dans ta famille ou ton quartier. || Viết phiếu thông tin: địa chỉ có số nhà trên bảy mươi, số điện thoại và tuổi của những người trên bảy mươi tuổi trong gia đình hoặc khu phố của bạn.
+W.min: 30
+W.must: quatre-vingt
+W.check: 80 viết « quatre-vingts » (có s), nhưng 81–99 không có s
+W.check: 71 viết « soixante et onze »
+W.check: Số điện thoại đọc theo cặp hai chữ số
+W.model: J'habite au quatre-vingt-sept, rue Hang Bac, à Hanoï. || Tôi sống ở số tám mươi bảy, phố Hàng Bạc, Hà Nội.
+W.model: Mon numéro de téléphone, c'est le zéro neuf, soixante-dix-huit, quatre-vingt-un, vingt-deux, quatre-vingt-quinze. || Số điện thoại của tôi là 09 78 81 22 95.
+W.model: Ma grand-mère a quatre-vingt-quatre ans. || Bà tôi tám mươi tư tuổi.
+W.model: Notre voisin a soixante et onze ans. || Hàng xóm của chúng tôi bảy mươi mốt tuổi.

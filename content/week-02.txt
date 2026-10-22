@@ -1,0 +1,381 @@
+@week 2
+@title Qui es-tu ?
+@level A1
+
+## 1 | Le verbe avoir
+G.title: Le verbe avoir au présent
+G.rule: Le verbe avoir est irrégulier. On l'utilise pour la possession, l'âge et beaucoup d'expressions comme avoir faim ou avoir froid. || Động từ avoir là động từ bất quy tắc. Ta dùng nó để nói sở hữu, tuổi và nhiều thành ngữ như avoir faim (đói) hay avoir froid (lạnh).
+G.note: Avoir = có. Với "je" phải lược âm: j'ai (không viết "je ai"). Nhiều cảm giác trong tiếng Pháp dùng avoir chứ không dùng être: j'ai faim (tôi đói), j'ai soif (tôi khát), j'ai chaud (tôi nóng), j'ai froid (tôi lạnh), j'ai peur (tôi sợ).
+G.table: Pronom | Avoir
+G.row: j' | ai
+G.row: tu | as
+G.row: il / elle / on | a
+G.row: nous | avons
+G.row: vous | avez
+G.row: ils / elles | ont
+G.ex: J'ai un chien et un chat. || Tôi có một con chó và một con mèo.
+G.ex: Tu as faim ? || Bạn đói không?
+G.ex: Nous avons un cours de français. || Chúng tôi có một tiết học tiếng Pháp.
+G.ex: Ils ont froid. || Họ bị lạnh.
+G.q: Nous ___ deux enfants. | ont | *avons | avez | as
+G.q: Elle ___ vingt-deux ans. | est | *a | as | ai
+G.q: Il fait trente degrés. J'ai… | froid | faim | *chaud | peur
+G.q: Vous ___ un stylo ? | *avez | avons | as | ont
+G.q: Complétez : Mes parents ___ une voiture. = ont
+V: avoir faim | /a.vwaʁ fɛ̃/ | expression | đói | J'ai faim, on mange ? || Mình đói rồi, mình ăn nhé?
+V: avoir soif | /a.vwaʁ swaf/ | expression | khát | Tu as soif ? Voilà de l'eau. || Bạn khát không? Nước đây.
+V: avoir chaud | /a.vwaʁ ʃo/ | expression | thấy nóng | En été, nous avons chaud. || Mùa hè chúng tôi thấy nóng.
+V: avoir froid | /a.vwaʁ fʁwa/ | expression | thấy lạnh | Elle a froid, elle porte un pull. || Cô ấy lạnh nên mặc áo len.
+V: avoir peur | /a.vwaʁ pœʁ/ | expression | sợ | L'enfant a peur du chien. || Đứa trẻ sợ con chó.
+V: un chien | /œ̃ ʃjɛ̃/ | nom m. | con chó | Mon chien s'appelle Rex. || Con chó của tôi tên là Rex.
+V: un chat | /œ̃ ʃa/ | nom m. | con mèo | Le chat dort. || Con mèo đang ngủ.
+V: un stylo | /œ̃ sti.lo/ | nom m. | cái bút | Tu as un stylo, s'il te plaît ? || Bạn có bút không, làm ơn cho mình mượn?
+V: une voiture | /yn vwa.tyʁ/ | nom f. | xe ô tô | Mon père a une voiture rouge. || Bố tôi có một chiếc xe ô tô màu đỏ.
+V: un cours | /œ̃ kuʁ/ | nom m. | tiết học, khoá học | J'ai un cours à dix heures. || Tôi có tiết học lúc mười giờ.
+VQ: Tu veux boire de l'eau. Tu… | as faim | *as soif | as peur | as chaud
+VQ: Rex fait « ouaf ouaf ». C'est un… | chat | *chien | stylo | cours
+VQ: Il neige. Nous… | avons chaud | *avons froid | avons soif | sommes froid
+VQ: Pour écrire, on a besoin d'un… | chien | cours | *stylo | voiture
+VQ: Il est midi et je n'ai pas mangé : j'ai ___. = faim
+D: J'ai un chat.
+D: Nous avons faim.
+D: Vous avez un stylo ?
+D: Ils ont une voiture.
+L: Hugo | Salut Mai ! Tu as un animal ? || Chào Mai! Bạn có nuôi con vật nào không?
+L: Mai | Oui, j'ai un chat. Il s'appelle Minou. || Có, mình có một con mèo. Nó tên là Minou.
+L: Hugo | Moi, j'ai un chien. Il a deux ans. || Mình thì có một con chó. Nó hai tuổi.
+L: Mai | Super ! Tu as une photo ? || Tuyệt! Bạn có ảnh không?
+L: Hugo | Oui, regarde. || Có, xem này.
+L: Mai | Oh, il est mignon ! || Ôi, nó dễ thương quá!
+LQ: Quel animal a Mai ? | un chien | *un chat | un oiseau | aucun animal
+LQ: Le chien d'Hugo a… | un an | *deux ans | trois ans | dix ans
+LQ: Mai trouve le chien… | grand | méchant | *mignon | triste
+RA: J'ai, tu as, il a, nous avons, vous avez, ils ont.
+RA: J'ai faim et j'ai soif.
+RA: Nous avons un chien et deux chats.
+SH: Tu as faim ?
+SH: Oui, j'ai très faim !
+SH: Vous avez un stylo, s'il vous plaît ?
+R.title: Le sac de Nadia
+R: Nadia a dix-neuf ans. || Nadia mười chín tuổi.
+R: Elle est étudiante à Lille. || Cô ấy là sinh viên ở Lille.
+R: Dans son sac, elle a un livre, deux stylos et un téléphone. || Trong túi, cô ấy có một quyển sách, hai cây bút và một chiếc điện thoại.
+R: Elle a aussi une pomme, parce qu'elle a souvent faim. || Cô ấy còn có một quả táo vì cô ấy hay đói.
+R: Aujourd'hui, il fait froid. || Hôm nay trời lạnh.
+R: Nadia a froid, mais elle n'a pas de pull ! || Nadia thấy lạnh nhưng cô ấy không có áo len!
+RQ: Quel âge a Nadia ? | dix-sept ans | *dix-neuf ans | vingt ans | neuf ans
+RQ: Combien de stylos a Nadia ? | un | *deux | trois | zéro
+RQ: Pourquoi Nadia a une pomme ? | elle a soif | *elle a souvent faim | elle a froid | elle a peur
+W.prompt: Décris ce que tu as : ton sac, tes animaux, ta famille. Utilise le verbe avoir au moins quatre fois. || Miêu tả những gì bạn có: túi của bạn, vật nuôi, gia đình. Dùng động từ avoir ít nhất bốn lần.
+W.min: 25
+W.must: j'ai
+W.check: Viết « j'ai », không viết « je ai »
+W.check: Có ít nhất một thành ngữ với avoir (faim, soif, chaud, froid, peur)
+W.check: Dùng đúng un (giống đực) / une (giống cái)
+W.model: J'ai vingt ans et j'habite à Hanoï. || Tôi hai mươi tuổi và sống ở Hà Nội.
+W.model: Dans mon sac, j'ai un livre, un stylo et un téléphone. || Trong túi, tôi có một quyển sách, một cây bút và một chiếc điện thoại.
+W.model: J'ai un chat, il s'appelle Mimi. || Tôi có một con mèo tên Mimi.
+W.model: Ma sœur a un chien. || Chị tôi có một con chó.
+W.model: Le soir, nous avons souvent faim ! || Buổi tối chúng tôi thường hay đói!
+
+## 2 | Les articles un, une, des
+G.title: Les articles indéfinis
+G.rule: En français, chaque nom a un genre : masculin ou féminin. On utilise un devant un nom masculin, une devant un nom féminin et des devant un nom pluriel. || Trong tiếng Pháp, mỗi danh từ có một giống: đực hoặc cái. Ta dùng un trước danh từ giống đực, une trước danh từ giống cái và des trước danh từ số nhiều.
+G.note: Giống của danh từ phải học thuộc cùng với từ: un livre (giống đực), une table (giống cái). Số nhiều thường thêm -s nhưng không đọc: un livre → des livres. "Des" nối âm với nguyên âm: des‿amis [de.z‿a.mi]. Trong câu phủ định, un/une/des → de: J'ai un chat → Je n'ai pas de chat.
+G.table: | Masculin | Féminin
+G.row: singulier | un livre | une table
+G.row: pluriel | des livres | des tables
+G.row: négation | pas de livre | pas de table
+G.ex: C'est un livre. || Đây là một quyển sách.
+G.ex: C'est une table. || Đây là một cái bàn.
+G.ex: Ce sont des amis. || Đây là những người bạn.
+G.ex: Je n'ai pas de voiture. || Tôi không có ô tô.
+G.q: ___ maison | un | *une | des | de
+G.q: ___ ordinateurs | un | une | *des | le
+G.q: J'ai un frère. Négation : je n'ai pas ___ frère. | un | une | *de | des
+G.q: Quel mot est féminin ? | livre | stylo | *chaise | téléphone
+G.q: Complétez : Il y a ___ chaises dans la classe. = des
+V: un livre | /œ̃ livʁ/ | nom m. | quyển sách | J'ai un livre de français. || Tôi có một quyển sách tiếng Pháp.
+V: une table | /yn tabl/ | nom f. | cái bàn | La table est grande. || Cái bàn to.
+V: une chaise | /yn ʃɛz/ | nom f. | cái ghế | Il y a une chaise libre. || Có một cái ghế trống.
+V: un cahier | /œ̃ ka.je/ | nom m. | quyển vở | Elle écrit dans un cahier. || Cô ấy viết vào một quyển vở.
+V: un sac | /œ̃ sak/ | nom m. | cái túi, cặp | Mon sac est lourd. || Cặp của tôi nặng.
+V: une clé | /yn kle/ | nom f. | chìa khoá | Tu as une clé ? || Bạn có chìa khoá không?
+V: un ordinateur | /œ̃.n‿ɔʁ.di.na.tœʁ/ | nom m. | máy tính | J'ai un ordinateur portable. || Tôi có một máy tính xách tay.
+V: une fenêtre | /yn fə.nɛtʁ/ | nom f. | cửa sổ | La fenêtre est ouverte. || Cửa sổ đang mở.
+V: une porte | /yn pɔʁt/ | nom f. | cửa ra vào | Fermez la porte, s'il vous plaît. || Làm ơn đóng cửa lại.
+V: un tableau | /œ̃ ta.blo/ | nom m. | cái bảng; bức tranh | Le professeur écrit au tableau. || Giáo viên viết lên bảng.
+VQ: On s'assoit sur une… | table | *chaise | fenêtre | clé
+VQ: Pour ouvrir la porte, il faut une… | *clé | chaise | tableau | fenêtre
+VQ: Quel mot est masculin ? | fenêtre | porte | *cahier | table
+VQ: Le professeur écrit au… | cahier | *tableau | sac | clé
+VQ: Pluriel de « un sac » : ___ sacs = des
+D: C'est un sac.
+D: Il y a une chaise et une table.
+D: J'ai des livres.
+D: Je n'ai pas d'ordinateur.
+L: Mère | Tu as tout pour l'école ? || Con có đủ đồ đi học chưa?
+L: Tom | Oui, j'ai un sac, des cahiers et des stylos. || Có ạ, con có cặp, vở và bút.
+L: Mère | Et ton livre de français ? || Còn sách tiếng Pháp của con?
+L: Tom | Oh non, je n'ai pas de livre ! || Ôi không, con không có sách!
+L: Mère | Il est sur la table, regarde. || Nó ở trên bàn kìa, nhìn đi.
+L: Tom | Ah oui ! Merci maman ! || À đúng rồi! Cảm ơn mẹ!
+LQ: Où va Tom ? | au café | *à l'école | au cinéma | à la gare
+LQ: Qu'est-ce que Tom n'a pas au début ? | de sac | de stylo | *de livre de français | de cahier
+LQ: Où est le livre ? | dans le sac | *sur la table | sous la chaise | à l'école
+RA: un livre, une table, des livres, des tables.
+RA: Il y a des chaises et une fenêtre.
+RA: Je n'ai pas de stylo.
+SH: C'est un livre ?
+SH: Non, c'est un cahier.
+SH: Il y a des étudiants dans la classe.
+R.title: Ma salle de classe
+R: Ma salle de classe est petite mais agréable. || Phòng học của tôi nhỏ nhưng dễ chịu.
+R: Il y a un tableau, une grande fenêtre et une porte bleue. || Có một cái bảng, một cửa sổ lớn và một cửa ra vào màu xanh.
+R: Il y a aussi douze tables et douze chaises. || Còn có mười hai cái bàn và mười hai cái ghế.
+R: Sur le bureau du professeur, il y a un ordinateur et des livres. || Trên bàn giáo viên có một máy tính và vài quyển sách.
+R: Il n'y a pas de télévision. || Không có ti vi.
+R: J'aime beaucoup cette classe. || Tôi rất thích lớp học này.
+RQ: Combien de chaises il y a ? | dix | *douze | deux | vingt
+RQ: La porte est… | rouge | *bleue | blanche | verte
+RQ: Qu'est-ce qu'il n'y a pas ? | d'ordinateur | de tableau | *de télévision | de fenêtre
+W.prompt: Décris ta chambre ou ta salle de classe avec il y a, un, une, des et une phrase négative. || Miêu tả phòng ngủ hoặc phòng học của bạn với il y a, un, une, des và một câu phủ định.
+W.min: 25
+W.must: il y a ; pas de
+W.check: Mỗi danh từ có đúng un / une / des
+W.check: Câu phủ định dùng « pas de », không dùng « pas un »
+W.check: Danh từ số nhiều có thêm -s
+W.model: Ma chambre est petite. || Phòng ngủ của tôi nhỏ.
+W.model: Il y a un lit, une table et une chaise. || Có một cái giường, một cái bàn và một cái ghế.
+W.model: Sur la table, il y a des livres et un ordinateur. || Trên bàn có vài quyển sách và một máy tính.
+W.model: Il y a aussi une fenêtre. || Còn có một cửa sổ.
+W.model: Il n'y a pas de télévision. || Không có ti vi.
+
+## 3 | Le masculin et le féminin
+G.title: Le féminin des adjectifs
+G.rule: L'adjectif s'accorde avec le nom : on ajoute souvent un e au féminin et un s au pluriel. || Tính từ phải hợp với danh từ: thường thêm e cho giống cái và s cho số nhiều.
+G.note: Quy tắc chung: grand → grande, petit → petite (chữ t cuối được đọc ở giống cái). Tính từ đã kết thúc bằng -e thì giữ nguyên: jeune → jeune. Một số đuôi đặc biệt: -eux → -euse (heureux → heureuse), -if → -ive (sportif → sportive), -en → -enne (italien → italienne), -er → -ère (cher → chère). Bất quy tắc: beau → belle, vieux → vieille, nouveau → nouvelle.
+G.table: Masculin | Féminin | Règle
+G.row: grand | grande | + e
+G.row: jeune | jeune | déjà -e
+G.row: heureux | heureuse | -eux → -euse
+G.row: sportif | sportive | -if → -ive
+G.row: italien | italienne | -en → -enne
+G.row: beau | belle | irrégulier
+G.ex: Paul est grand, Marie est grande. || Paul cao, Marie cũng cao.
+G.ex: Mon frère est sportif et ma sœur est sportive. || Anh trai tôi thích thể thao và chị gái tôi cũng vậy.
+G.ex: C'est une belle maison. || Đó là một ngôi nhà đẹp.
+G.ex: Ils sont heureux et elles sont heureuses. || Họ (nam) hạnh phúc và họ (nữ) cũng hạnh phúc.
+G.q: Marie est ___. | petit | *petite | petits | petites
+G.q: Féminin de « heureux » : | heureuxe | *heureuse | heureuze | heureusse
+G.q: C'est une ___ voiture. | beau | *belle | bel | beaux
+G.q: Mes amies sont ___. | gentil | gentille | gentils | *gentilles
+G.q: Féminin de « sportif » : ___ = sportive
+V: grand | /ɡʁɑ̃/ | adjectif | to, cao | Mon père est grand. || Bố tôi cao.
+V: petit | /pə.ti/ | adjectif | nhỏ, thấp | Ma sœur est petite. || Em gái tôi thấp.
+V: jeune | /ʒœn/ | adjectif | trẻ | Le professeur est jeune. || Giáo viên còn trẻ.
+V: beau | /bo/ | adjectif | đẹp (giống đực) | Il est beau. || Anh ấy đẹp trai.
+V: belle | /bɛl/ | adjectif | đẹp (giống cái) | Elle est belle. || Cô ấy đẹp.
+V: heureux | /œ.ʁø/ | adjectif | hạnh phúc | Je suis heureux ici. || Tôi hạnh phúc ở đây.
+V: sportif | /spɔʁ.tif/ | adjectif | thích thể thao, khoẻ khoắn | Elle est très sportive. || Cô ấy rất thích thể thao.
+V: gentil | /ʒɑ̃.ti/ | adjectif | tốt bụng, dễ thương | Ta mère est gentille. || Mẹ bạn tốt bụng.
+V: intelligent | /ɛ̃.te.li.ʒɑ̃/ | adjectif | thông minh | C'est une fille intelligente. || Đó là một cô gái thông minh.
+V: sympa | /sɛ̃.pa/ | adjectif | dễ mến | Tes amis sont sympas. || Bạn bè của bạn dễ mến.
+VQ: Le contraire de « grand » : | jeune | *petit | beau | gentil
+VQ: Il aime le football et le tennis. Il est… | *sportif | sportive | heureuse | belle
+VQ: Féminin de « beau » : | beaue | *belle | bel | beauté
+VQ: Une personne qui aide les autres est… | grande | *gentille | petite | jeune
+VQ: Féminin de « intelligent » : ___ = intelligente
+D: Mon frère est grand.
+D: Ma mère est petite et sportive.
+D: C'est une belle maison.
+D: Elles sont heureuses.
+L: Lucie | Tu as une photo de ta famille ? || Bạn có ảnh gia đình không?
+L: Bao | Oui. Voici mon frère, il est grand et sportif. || Có. Đây là anh trai mình, anh ấy cao và thích thể thao.
+L: Lucie | Et la fille, c'est ta sœur ? || Còn cô gái này là em gái bạn à?
+L: Bao | Oui, elle est petite mais très intelligente. || Ừ, em ấy nhỏ nhắn nhưng rất thông minh.
+L: Lucie | Elle est belle ! Et tes parents ? || Em ấy xinh quá! Còn bố mẹ bạn?
+L: Bao | Ils sont jeunes et très gentils. || Họ còn trẻ và rất tốt bụng.
+LQ: Le frère de Bao est… | petit et jeune | *grand et sportif | beau et gentil | intelligent
+LQ: La sœur de Bao est… | grande | *intelligente | sportive | vieille
+LQ: Les parents de Bao sont… | vieux | *jeunes et gentils | grands | sportifs
+RA: grand, grande ; petit, petite.
+RA: heureux, heureuse ; sportif, sportive.
+RA: beau, belle ; gentil, gentille.
+SH: Il est grand et sportif.
+SH: Elle est petite et intelligente.
+SH: Ils sont jeunes et gentils.
+R.title: Deux jumeaux différents
+R: Léo et Léa sont jumeaux. || Léo và Léa là cặp sinh đôi.
+R: Ils ont quinze ans, mais ils sont très différents. || Họ mười lăm tuổi nhưng rất khác nhau.
+R: Léo est grand, sportif et un peu timide. || Léo cao, thích thể thao và hơi nhút nhát.
+R: Léa est petite, drôle et pas sportive du tout. || Léa nhỏ nhắn, vui tính và hoàn toàn không thích thể thao.
+R: Mais ils sont tous les deux gentils et intelligents. || Nhưng cả hai đều tốt bụng và thông minh.
+R: Leurs parents sont très heureux. || Bố mẹ họ rất hạnh phúc.
+RQ: Léo et Léa ont… | dix ans | *quinze ans | vingt ans | cinq ans
+RQ: Qui est timide ? | *Léo | Léa | les parents | personne
+RQ: Léa est… | grande et sportive | *petite et drôle | timide | triste
+W.prompt: Décris deux personnes de ta famille : un homme et une femme. Utilise au moins quatre adjectifs pour chacun. || Miêu tả hai người trong gia đình bạn: một nam và một nữ. Dùng ít nhất bốn tính từ cho mỗi người.
+W.min: 30
+W.must: il est ; elle est
+W.check: Tính từ đi với « elle » có dạng giống cái (grande, sportive…)
+W.check: Dùng đúng beau / belle, gentil / gentille
+W.check: Có dùng « et » và « mais » để nối ý
+W.model: Mon père s'appelle Nam. || Bố tôi tên là Nam.
+W.model: Il est grand, sportif et très gentil. || Ông ấy cao, thích thể thao và rất tốt bụng.
+W.model: Il n'est pas jeune, mais il est beau ! || Ông ấy không còn trẻ nhưng vẫn đẹp trai!
+W.model: Ma sœur s'appelle Hoa. || Em gái tôi tên là Hoa.
+W.model: Elle est petite, belle et intelligente. || Em ấy nhỏ nhắn, xinh và thông minh.
+W.model: Elle est aussi très drôle. || Em ấy cũng rất vui tính.
+
+## 4 | Les nationalités
+G.title: Pays et nationalités
+G.rule: Pour dire d'où on vient, on dit « je suis » + nationalité, ou « je viens de » + pays. La nationalité s'accorde au féminin. || Để nói mình đến từ đâu, ta nói « je suis » + quốc tịch, hoặc « je viens de » + tên nước. Tính từ quốc tịch thay đổi theo giống cái.
+G.note: Tính từ quốc tịch viết thường (il est français), nhưng danh từ chỉ người viết hoa (un Français). Nước giống cái dùng "en" hoặc "de": en France, je viens de France. Nước giống đực dùng "au" hoặc "du": au Viêt Nam, je viens du Viêt Nam. Nước số nhiều dùng "aux / des": aux États-Unis.
+G.table: Pays | Masculin | Féminin
+G.row: la France | français | française
+G.row: le Viêt Nam | vietnamien | vietnamienne
+G.row: la Chine | chinois | chinoise
+G.row: le Japon | japonais | japonaise
+G.row: l'Italie | italien | italienne
+G.row: la Belgique | belge | belge
+G.ex: Je suis vietnamien, je viens du Viêt Nam. || Tôi là người Việt, tôi đến từ Việt Nam.
+G.ex: Elle est française, elle habite en France. || Cô ấy là người Pháp, cô ấy sống ở Pháp.
+G.ex: Kenji est japonais, il vient du Japon. || Kenji là người Nhật, anh ấy đến từ Nhật Bản.
+G.ex: Maria est italienne. || Maria là người Ý.
+G.q: Yuki vient du Japon. Elle est… | japonais | *japonaise | chinoise | japonaisse
+G.q: J'habite ___ France. | au | *en | à | de
+G.q: Il vient ___ Viêt Nam. | de | en | *du | au
+G.q: Féminin de « italien » : | italiene | *italienne | italliene | italienn
+G.q: Paolo est italien. Sa femme est ___. = italienne
+V: un pays | /œ̃ pe.i/ | nom m. | đất nước | Le Viêt Nam est un beau pays. || Việt Nam là một đất nước đẹp.
+V: la nationalité | /la na.sjɔ.na.li.te/ | nom f. | quốc tịch | Quelle est ta nationalité ? || Quốc tịch của bạn là gì?
+V: venir de | /və.niʁ də/ | verbe | đến từ | Je viens de Hanoï. || Tôi đến từ Hà Nội.
+V: habiter | /a.bi.te/ | verbe | sống, cư trú | J'habite à Paris. || Tôi sống ở Paris.
+V: chinois | /ʃi.nwa/ | adjectif | thuộc Trung Quốc | Mon voisin est chinois. || Hàng xóm của tôi là người Trung Quốc.
+V: japonais | /ʒa.pɔ.nɛ/ | adjectif | thuộc Nhật Bản | Elle parle japonais. || Cô ấy nói tiếng Nhật.
+V: anglais | /ɑ̃.ɡlɛ/ | adjectif | thuộc Anh | Il est anglais, il vient de Londres. || Anh ấy là người Anh, đến từ London.
+V: américain | /a.me.ʁi.kɛ̃/ | adjectif | thuộc Mỹ | Ma prof est américaine. || Cô giáo tôi là người Mỹ.
+V: allemand | /al.mɑ̃/ | adjectif | thuộc Đức | Les voitures allemandes sont chères. || Ô tô Đức đắt.
+V: espagnol | /ɛs.pa.ɲɔl/ | adjectif | thuộc Tây Ban Nha | Carlos est espagnol. || Carlos là người Tây Ban Nha.
+VQ: Une personne de Berlin est… | anglaise | *allemande | espagnole | chinoise
+VQ: Une personne de Madrid est… | italienne | *espagnole | américaine | belge
+VQ: « Quelle est ta nationalité ? » — | J'ai vingt ans. | *Je suis vietnamienne. | J'habite à Paris. | Je m'appelle Lan.
+VQ: New York est une ville… | anglaise | *américaine | allemande | japonaise
+VQ: Féminin de « chinois » : ___ = chinoise
+D: Je suis vietnamienne.
+D: Il vient du Japon.
+D: Nous habitons en France.
+D: Elle est espagnole.
+L: Professeur | Bonjour à tous ! Présentez-vous, s'il vous plaît. || Chào cả lớp! Các bạn hãy tự giới thiệu nhé.
+L: Kenji | Je m'appelle Kenji. Je suis japonais, je viens de Tokyo. || Tôi tên là Kenji. Tôi là người Nhật, đến từ Tokyo.
+L: Maria | Moi, c'est Maria. Je suis espagnole, de Madrid. || Tôi là Maria. Tôi là người Tây Ban Nha, đến từ Madrid.
+L: Lan | Je m'appelle Lan. Je suis vietnamienne, je viens de Hô Chi Minh-Ville. || Tôi tên là Lan. Tôi là người Việt, đến từ Thành phố Hồ Chí Minh.
+L: Professeur | Très bien. Et vous habitez où maintenant ? || Rất tốt. Còn bây giờ các bạn sống ở đâu?
+L: Lan | Nous habitons tous à Lyon. || Tất cả chúng tôi đều sống ở Lyon.
+LQ: Kenji vient de… | Madrid | *Tokyo | Lyon | Hanoï
+LQ: Maria est… | italienne | *espagnole | japonaise | française
+LQ: Où habitent les étudiants maintenant ? | à Paris | *à Lyon | à Tokyo | à Madrid
+RA: la France, français, française.
+RA: le Japon, japonais, japonaise.
+RA: le Viêt Nam, vietnamien, vietnamienne.
+SH: Quelle est ta nationalité ?
+SH: Je suis vietnamien, je viens du Viêt Nam.
+SH: J'habite en France maintenant.
+R.title: Une famille internationale
+R: Thomas est français et sa femme, Ana, est brésilienne. || Thomas là người Pháp và vợ anh ấy, Ana, là người Brazil.
+R: Ils habitent à Bruxelles, en Belgique. || Họ sống ở Brussels, nước Bỉ.
+R: Leurs enfants parlent trois langues : français, portugais et anglais. || Các con họ nói ba thứ tiếng: tiếng Pháp, tiếng Bồ Đào Nha và tiếng Anh.
+R: Le grand-père de Thomas est italien. || Ông của Thomas là người Ý.
+R: Il vient de Naples et il cuisine très bien. || Ông ấy đến từ Naples và nấu ăn rất ngon.
+R: C'est une famille vraiment internationale ! || Đó thật là một gia đình đa quốc tịch!
+RQ: Ana est… | française | *brésilienne | italienne | belge
+RQ: Où habite la famille ? | en France | au Brésil | *en Belgique | en Italie
+RQ: Combien de langues parlent les enfants ? | deux | *trois | quatre | une
+W.prompt: Présente trois personnes de nationalités différentes : leur nom, leur nationalité, leur pays et leur ville. || Giới thiệu ba người thuộc các quốc tịch khác nhau: tên, quốc tịch, đất nước và thành phố của họ.
+W.min: 30
+W.must: vient ; habite
+W.check: Tính từ quốc tịch viết thường và hợp giống (française, vietnamienne…)
+W.check: Dùng đúng en (nước giống cái) / au (nước giống đực)
+W.check: Dùng đúng de / du khi nói « đến từ »
+W.model: Voici Kenji. || Đây là Kenji.
+W.model: Il est japonais et il vient de Tokyo. || Anh ấy là người Nhật và đến từ Tokyo.
+W.model: Voici Claire, elle est française. || Đây là Claire, cô ấy là người Pháp.
+W.model: Elle habite à Lyon, en France. || Cô ấy sống ở Lyon, nước Pháp.
+W.model: Et voici Minh. || Còn đây là Minh.
+W.model: Il est vietnamien et il habite à Huê, au Viêt Nam. || Anh ấy là người Việt và sống ở Huế, Việt Nam.
+
+## 5 | Poser une question simple
+G.title: Trois façons de poser une question
+G.rule: Pour poser une question fermée, on peut monter l'intonation, utiliser est-ce que, ou inverser le sujet et le verbe. || Để đặt câu hỏi có/không, ta có thể lên giọng ở cuối câu, dùng est-ce que, hoặc đảo chủ ngữ và động từ.
+G.note: Ba cách, từ thân mật đến trang trọng: (1) Lên giọng: Tu es français ? (2) Est-ce que: Est-ce que tu es français ? (3) Đảo ngữ, nối bằng gạch ngang: Es-tu français ? Khi đảo với il/elle và động từ kết thúc bằng nguyên âm, thêm -t-: A-t-il un chien ? Từ để hỏi: où (ở đâu), quand (khi nào), comment (thế nào), qui (ai), quel/quelle (nào), combien (bao nhiêu).
+G.table: Registre | Exemple
+G.row: familier | Tu parles anglais ?
+G.row: courant | Est-ce que tu parles anglais ?
+G.row: soutenu | Parles-tu anglais ?
+G.row: avec -t- | Parle-t-il anglais ?
+G.ex: Tu habites à Paris ? || Bạn sống ở Paris à?
+G.ex: Est-ce que vous avez des enfants ? || Ông bà có con không?
+G.ex: Parlez-vous français ? || Ông có nói tiếng Pháp không?
+G.ex: Où est-ce que tu habites ? || Bạn sống ở đâu?
+G.q: Quelle question est correcte ? | Est-ce tu es étudiant ? | *Est-ce que tu es étudiant ? | Es tu étudiant ? | Que tu es étudiant ?
+G.q: Inversion de « il a un chien » : | Il a-t-il un chien ? | *A-t-il un chien ? | A il un chien ? | Est-il a un chien ?
+G.q: ___ tu habites ? — À Lyon. | Quand | Qui | *Où | Combien
+G.q: ___ tu t'appelles ? — Lan. | *Comment | Où | Quand | Quel
+G.q: Complétez : ___ -ce que tu aimes le café ? = Est / est
+V: est-ce que | /ɛs.kə/ | locution | (mở đầu câu hỏi có/không) | Est-ce que tu as faim ? || Bạn có đói không?
+V: où | /u/ | adverbe | ở đâu | Où est la gare ? || Nhà ga ở đâu?
+V: quand | /kɑ̃/ | adverbe | khi nào | Quand est-ce que tu pars ? || Khi nào bạn đi?
+V: qui | /ki/ | pronom | ai | Qui est-ce ? || Đó là ai?
+V: comment | /kɔ.mɑ̃/ | adverbe | như thế nào | Comment allez-vous ? || Ông khoẻ không?
+V: pourquoi | /puʁ.kwa/ | adverbe | tại sao | Pourquoi tu apprends le français ? || Tại sao bạn học tiếng Pháp?
+V: parce que | /paʁs.kə/ | conjonction | bởi vì | Parce que j'aime la France. || Bởi vì tôi yêu nước Pháp.
+V: parler | /paʁ.le/ | verbe | nói | Vous parlez vietnamien ? || Ông có nói tiếng Việt không?
+V: une question | /yn kɛs.tjɔ̃/ | nom f. | câu hỏi | J'ai une question. || Tôi có một câu hỏi.
+V: une réponse | /yn ʁe.pɔ̃s/ | nom f. | câu trả lời | Quelle est la réponse ? || Câu trả lời là gì?
+VQ: « Pourquoi ? » — | *Parce que je suis fatigué. | À Paris. | Demain. | Paul.
+VQ: « Qui est-ce ? » — | À huit heures. | *C'est mon frère. | Très bien. | En France.
+VQ: « Quand est-ce que tu pars ? » — | *Lundi. | Ma sœur. | Au cinéma. | En train.
+VQ: « Comment ça va ? » — | Je suis à Paris. | *Très bien, merci. | Je suis Marc. | Parce que.
+VQ: ___ est-ce que tu apprends le français ? — Parce que j'aime la France. = Pourquoi
+D: Est-ce que tu parles anglais ?
+D: Où est-ce que vous habitez ?
+D: Parlez-vous français ?
+D: Pourquoi tu apprends le français ?
+L: Journaliste | Bonjour ! Est-ce que je peux vous poser des questions ? || Xin chào! Tôi có thể hỏi chị vài câu được không?
+L: Lan | Oui, bien sûr. || Vâng, tất nhiên.
+L: Journaliste | Vous êtes d'où ? || Chị từ đâu đến?
+L: Lan | Je viens du Viêt Nam. || Tôi đến từ Việt Nam.
+L: Journaliste | Pourquoi est-ce que vous apprenez le français ? || Tại sao chị học tiếng Pháp?
+L: Lan | Parce que je veux étudier à Paris. || Bởi vì tôi muốn du học ở Paris.
+LQ: Qui pose les questions ? | Lan | *un journaliste | un professeur | un ami
+LQ: D'où vient Lan ? | de France | de Chine | *du Viêt Nam | du Japon
+LQ: Pourquoi Lan apprend le français ? | pour son travail | *pour étudier à Paris | pour voyager | pour sa famille
+RA: Tu parles français ?
+RA: Est-ce que tu parles français ?
+RA: Parles-tu français ?
+SH: Où est-ce que tu habites ?
+SH: Pourquoi est-ce que tu apprends le français ?
+SH: Parce que j'aime la France.
+R.title: Le questionnaire du club
+R: Bienvenue au club de français ! || Chào mừng đến với câu lạc bộ tiếng Pháp!
+R: Répondez aux questions, s'il vous plaît. || Xin vui lòng trả lời các câu hỏi.
+R: Comment vous appelez-vous ? || Bạn tên là gì?
+R: Quel âge avez-vous ? || Bạn bao nhiêu tuổi?
+R: Où est-ce que vous habitez ? || Bạn sống ở đâu?
+R: Est-ce que vous parlez d'autres langues ? || Bạn có nói ngôn ngữ nào khác không?
+R: Pourquoi apprenez-vous le français ? || Tại sao bạn học tiếng Pháp?
+RQ: Ce texte est… | une lettre | *un questionnaire | une histoire | une publicité
+RQ: Combien de questions il y a ? | trois | quatre | *cinq | six
+RQ: Quelle question utilise l'inversion ? | Où est-ce que vous habitez ? | *Quel âge avez-vous ? | Est-ce que vous parlez d'autres langues ? | aucune
+W.prompt: Écris cinq questions pour mieux connaître un nouvel ami. Utilise est-ce que, l'inversion et des mots interrogatifs différents. || Viết năm câu hỏi để làm quen với một người bạn mới. Dùng est-ce que, đảo ngữ và các từ để hỏi khác nhau.
+W.min: 25
+W.must: est-ce que
+W.check: Mỗi câu hỏi kết thúc bằng « ? »
+W.check: Có ít nhất một câu đảo ngữ có gạch ngang (Parles-tu… ?)
+W.check: Dùng ít nhất ba từ để hỏi khác nhau (où, quand, pourquoi…)
+W.model: Comment est-ce que tu t'appelles ? || Bạn tên là gì?
+W.model: Quel âge as-tu ? || Bạn bao nhiêu tuổi?
+W.model: Où est-ce que tu habites ? || Bạn sống ở đâu?
+W.model: Parles-tu anglais ? || Bạn có nói tiếng Anh không?
+W.model: Pourquoi est-ce que tu apprends le français ? || Tại sao bạn học tiếng Pháp?

@@ -1,5 +1,5 @@
 // Network-first for the app & lessons (always fresh online, works offline from cache).
-const CACHE = 'pef-v1';
+const CACHE = 'pef-v2';
 const SHELL = [
   '/', '/index.html', '/styles.css', '/app.js', '/manifest.json',
   '/data/curriculum.json', '/data/dict.json', '/data/weeks/week-01.json',

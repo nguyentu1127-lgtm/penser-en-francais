@@ -1,0 +1,380 @@
+@week 7
+@title Chez moi
+@level A1
+
+## 1 | Les pièces de la maison
+G.title: Nommer les pièces
+G.rule: Pour dire où on fait une activité à la maison, on utilise dans + la pièce : je dors dans la chambre, je cuisine dans la cuisine. || Để nói làm việc gì ở đâu trong nhà, ta dùng dans + tên phòng: je dors dans la chambre, je cuisine dans la cuisine.
+G.note: Pièce = phòng nói chung (un appartement de trois pièces = căn hộ ba phòng). Les toilettes luôn ở số nhiều. Tầng: au rez-de-chaussée (tầng trệt, tầng 1 ở Việt Nam), au premier étage (tầng 1 kiểu Pháp = tầng 2 ở Việt Nam). Chú ý sự khác biệt này khi tìm nhà!
+G.table: Pièce | Activité
+G.row: la cuisine | faire la cuisine, manger
+G.row: le salon | regarder la télé, recevoir des amis
+G.row: la chambre | dormir, se reposer
+G.row: la salle de bains | se laver, se doucher
+G.row: le bureau | travailler, étudier
+G.ex: Je dors dans la chambre. || Tôi ngủ trong phòng ngủ.
+G.ex: Nous mangeons dans la cuisine. || Chúng tôi ăn trong bếp.
+G.ex: La salle de bains est au premier étage. || Phòng tắm ở tầng một (tầng hai kiểu Việt Nam).
+G.ex: C'est un appartement de quatre pièces. || Đó là một căn hộ bốn phòng.
+G.q: On dort dans… | la cuisine | *la chambre | le salon | la salle de bains
+G.q: On prend une douche dans… | la chambre | le bureau | *la salle de bains | le salon
+G.q: Le rez-de-chaussée, c'est… | *le niveau de la rue | le premier étage | le toit | la cave
+G.q: Les toilettes sont… | singulier | *toujours au pluriel | féminin singulier | masculin
+G.q: On reçoit des amis et on regarde la télé dans le ___. = salon
+V: la pièce | /la pjɛs/ | nom f. | phòng (nói chung) | L'appartement a trois pièces. || Căn hộ có ba phòng.
+V: le salon | /lə sa.lɔ̃/ | nom m. | phòng khách | Le salon est grand et clair. || Phòng khách rộng và sáng.
+V: la cuisine | /la kɥi.zin/ | nom f. | nhà bếp | La cuisine est petite. || Nhà bếp nhỏ.
+V: la chambre | /la ʃɑ̃bʁ/ | nom f. | phòng ngủ | Il y a deux chambres. || Có hai phòng ngủ.
+V: la salle de bains | /la sal də bɛ̃/ | nom f. | phòng tắm | La salle de bains a une baignoire. || Phòng tắm có bồn tắm.
+V: le bureau | /lə by.ʁo/ | nom m. | phòng làm việc; bàn làm việc | Je travaille dans mon bureau. || Tôi làm việc trong phòng làm việc.
+V: l'étage | /le.taʒ/ | nom m. | tầng | J'habite au troisième étage. || Tôi sống ở tầng ba.
+V: le rez-de-chaussée | /lə ʁe.d‿ʃo.se/ | nom m. | tầng trệt | La cuisine est au rez-de-chaussée. || Nhà bếp ở tầng trệt.
+V: l'appartement | /la.paʁ.tə.mɑ̃/ | nom m. | căn hộ | Mon appartement est moderne. || Căn hộ của tôi hiện đại.
+V: clair | /klɛʁ/ | adjectif | sáng sủa | Ma chambre est très claire. || Phòng ngủ của tôi rất sáng.
+VQ: On fait la cuisine dans la… | chambre | *cuisine | salle de bains | salon
+VQ: Un appartement de trois ___ a trois pièces principales. | étages | *pièces | salons | maisons
+VQ: Le contraire de « sombre » : | petit | *clair | grand | moderne
+VQ: On travaille sur l'ordinateur dans le… | *bureau | salon de beauté | rez-de-chaussée | salle de bains
+VQ: J'habite au troisième ___. = étage
+D: Je dors dans la chambre.
+D: La cuisine est au rez-de-chaussée.
+D: C'est un appartement de trois pièces.
+D: Le salon est grand et clair.
+L: Agent | Voici le salon. Il est grand, avec deux fenêtres. || Đây là phòng khách. Nó rộng, có hai cửa sổ.
+L: Hoa | Très joli ! Et la cuisine ? || Đẹp quá! Còn nhà bếp?
+L: Agent | La cuisine est à droite. Elle est équipée. || Nhà bếp ở bên phải. Có đầy đủ thiết bị.
+L: Hoa | Il y a combien de chambres ? || Có mấy phòng ngủ?
+L: Agent | Deux chambres et une salle de bains, au premier étage. || Hai phòng ngủ và một phòng tắm, ở tầng một.
+L: Hoa | Parfait pour ma famille ! || Hoàn hảo cho gia đình tôi!
+LQ: Le salon a… | une fenêtre | *deux fenêtres | trois fenêtres | pas de fenêtre
+LQ: La cuisine est… | à gauche | *à droite | au premier étage | petite
+LQ: Combien de chambres il y a ? | une | *deux | trois | quatre
+RA: le salon, la cuisine, la chambre.
+RA: la salle de bains, le bureau, les toilettes.
+RA: au rez-de-chaussée, au premier étage.
+SH: Il y a combien de chambres ?
+SH: La cuisine est à droite.
+SH: C'est parfait pour ma famille !
+R.title: L'appartement de Julien
+R: Julien habite dans un appartement de trois pièces à Toulouse. || Julien sống trong một căn hộ ba phòng ở Toulouse.
+R: L'appartement est au deuxième étage d'un vieil immeuble. || Căn hộ ở tầng hai của một toà nhà cũ.
+R: Il y a un salon, une chambre et un petit bureau. || Có một phòng khách, một phòng ngủ và một phòng làm việc nhỏ.
+R: La cuisine est ouverte sur le salon. || Nhà bếp mở thông với phòng khách.
+R: La salle de bains est petite, mais elle est moderne. || Phòng tắm nhỏ nhưng hiện đại.
+R: Julien aime beaucoup son appartement parce qu'il est clair et calme. || Julien rất thích căn hộ của mình vì nó sáng sủa và yên tĩnh.
+RQ: L'appartement de Julien a… | deux pièces | *trois pièces | quatre pièces | cinq pièces
+RQ: L'appartement est au… | rez-de-chaussée | premier étage | *deuxième étage | troisième étage
+RQ: Pourquoi Julien aime son appartement ? | il est grand | *il est clair et calme | il est moderne | il est près du travail
+W.prompt: Présente ton logement : combien de pièces, à quel étage, et ce que tu fais dans chaque pièce. || Giới thiệu nơi ở của bạn: có bao nhiêu phòng, ở tầng mấy, và bạn làm gì trong mỗi phòng.
+W.min: 40
+W.must: dans la ; étage
+W.check: Dùng « dans + phòng » để nói làm gì ở đâu
+W.check: Nhớ: tầng trệt = rez-de-chaussée, premier étage = tầng 2 kiểu Việt Nam
+W.check: Dùng đúng giống: le salon, la cuisine, la chambre
+W.model: J'habite dans une maison de quatre pièces. || Tôi sống trong một ngôi nhà bốn phòng.
+W.model: Au rez-de-chaussée, il y a le salon et la cuisine. || Ở tầng trệt có phòng khách và nhà bếp.
+W.model: Nous mangeons dans la cuisine et nous regardons la télé dans le salon. || Chúng tôi ăn trong bếp và xem ti vi trong phòng khách.
+W.model: Au premier étage, il y a trois chambres et une salle de bains. || Ở tầng một có ba phòng ngủ và một phòng tắm.
+W.model: Ma chambre est petite, mais elle est très claire. || Phòng của tôi nhỏ nhưng rất sáng.
+
+## 2 | Il y a
+G.title: L'expression il y a
+G.rule: L'expression il y a sert à dire qu'une chose existe dans un lieu. Elle ne change pas au pluriel. || Cụm il y a dùng để nói một vật tồn tại ở một nơi. Nó không thay đổi ở số nhiều.
+G.note: "Il y a" = có (tồn tại), dùng cho cả số ít và số nhiều: Il y a un lit / Il y a deux lits. Phủ định: Il n'y a pas de… (un/une/des → de). Câu hỏi: Est-ce qu'il y a… ? / Il y a… ? / Y a-t-il… ? Đừng nhầm với "avoir" (sở hữu): J'ai un lit (tôi có giường) ≠ Il y a un lit (có một cái giường ở đó).
+G.table: Forme | Exemple
+G.row: affirmative | Il y a une table dans la cuisine.
+G.row: négative | Il n'y a pas de table.
+G.row: question | Est-ce qu'il y a un ascenseur ?
+G.row: question soutenue | Y a-t-il un parking ?
+G.ex: Il y a un grand lit dans la chambre. || Trong phòng ngủ có một cái giường lớn.
+G.ex: Il y a trois chaises autour de la table. || Có ba cái ghế quanh bàn.
+G.ex: Il n'y a pas d'ascenseur dans l'immeuble. || Trong toà nhà không có thang máy.
+G.ex: Est-ce qu'il y a une boulangerie dans le quartier ? || Trong khu phố có tiệm bánh mì không?
+G.q: Il y ___ deux lits. | ont | sont | *a | est
+G.q: Il n'y a pas ___ garage. | un | le | *de | du
+G.q: Quelle question est correcte ? | Il y a-t-il un parking ? | *Y a-t-il un parking ? | Y il a un parking ? | Est-ce il y a un parking ?
+G.q: « Il y a » exprime… | la possession | *l'existence | l'âge | le temps
+G.q: Négation de « Il y a un ascenseur. » = Il n'y a pas d'ascenseur.
+V: le lit | /lə li/ | nom m. | giường | Le lit est confortable. || Cái giường êm ái.
+V: l'ascenseur | /la.sɑ̃.sœʁ/ | nom m. | thang máy | L'ascenseur est en panne. || Thang máy bị hỏng.
+V: l'escalier | /lɛs.ka.lje/ | nom m. | cầu thang | Je prends l'escalier. || Tôi đi cầu thang bộ.
+V: le parking | /lə paʁ.kiŋ/ | nom m. | bãi đỗ xe | Il y a un parking sous l'immeuble. || Có một bãi đỗ xe dưới toà nhà.
+V: le balcon | /lə bal.kɔ̃/ | nom m. | ban công | Il y a des fleurs sur le balcon. || Có hoa trên ban công.
+V: l'immeuble | /li.mœbl/ | nom m. | toà nhà | L'immeuble a six étages. || Toà nhà có sáu tầng.
+V: le quartier | /lə kaʁ.tje/ | nom m. | khu phố | Mon quartier est animé. || Khu phố của tôi nhộn nhịp.
+V: confortable | /kɔ̃.fɔʁ.tabl/ | adjectif | thoải mái, êm ái | Le canapé est confortable. || Ghế sofa êm ái.
+V: en panne | /ɑ̃ pan/ | expression | bị hỏng | La voiture est en panne. || Xe ô tô bị hỏng.
+V: autour de | /o.tuʁ də/ | préposition | xung quanh | Il y a un jardin autour de la maison. || Có một khu vườn xung quanh ngôi nhà.
+VQ: Pour monter au sixième étage sans fatigue, on prend… | l'escalier | *l'ascenseur | le balcon | le parking
+VQ: On gare la voiture dans le… | balcon | *parking | quartier | lit
+VQ: L'ascenseur ne marche pas, il est… | confortable | *en panne | autour | ouvert
+VQ: Un bâtiment avec beaucoup d'appartements est un… | quartier | *immeuble | balcon | escalier
+VQ: Il n'y a pas d'ascenseur, je prends l'___. = escalier
+D: Il y a un lit dans la chambre.
+D: Il n'y a pas d'ascenseur.
+D: Est-ce qu'il y a un parking ?
+D: Il y a des fleurs sur le balcon.
+L: Étudiant | Bonjour, je téléphone pour le studio. Il y a un balcon ? || Xin chào, tôi gọi về căn studio. Có ban công không ạ?
+L: Propriétaire | Oui, il y a un petit balcon. || Có, có một ban công nhỏ.
+L: Étudiant | Et il y a un ascenseur ? || Còn thang máy thì sao?
+L: Propriétaire | Non, il n'y a pas d'ascenseur, mais c'est au deuxième étage seulement. || Không, không có thang máy, nhưng chỉ ở tầng hai thôi.
+L: Étudiant | Est-ce qu'il y a des commerces dans le quartier ? || Trong khu phố có cửa hàng không ạ?
+L: Propriétaire | Oui, il y a un supermarché et une boulangerie dans la rue. || Có, có một siêu thị và một tiệm bánh mì ngay trên phố.
+LQ: Le studio a… | un grand balcon | *un petit balcon | pas de balcon | un jardin
+LQ: Est-ce qu'il y a un ascenseur ? | oui | *non | on ne sait pas | il est en panne
+LQ: Dans la rue, il y a… | une pharmacie | *un supermarché et une boulangerie | un parking | une école
+RA: Il y a un lit. Il y a deux lits.
+RA: Il n'y a pas d'ascenseur.
+RA: Est-ce qu'il y a un parking ?
+SH: Il y a un balcon ?
+SH: Non, il n'y a pas d'ascenseur.
+SH: Il y a un supermarché dans la rue.
+R.title: Petite annonce
+R: À louer : studio meublé de vingt-cinq mètres carrés, à Nantes. || Cho thuê: căn studio có đồ nội thất rộng hai mươi lăm mét vuông, ở Nantes.
+R: Il y a une pièce principale, une kitchenette et une salle d'eau. || Có một phòng chính, một bếp nhỏ và một phòng tắm nhỏ.
+R: Il y a aussi un petit balcon avec une belle vue. || Còn có một ban công nhỏ với tầm nhìn đẹp.
+R: Il n'y a pas d'ascenseur, le studio est au quatrième étage. || Không có thang máy, căn studio ở tầng bốn.
+R: Le loyer est de cinq cent cinquante euros par mois. || Tiền thuê là năm trăm năm mươi euro mỗi tháng.
+R: Idéal pour un étudiant ! || Lý tưởng cho sinh viên!
+RQ: Le studio fait… | quinze mètres carrés | *vingt-cinq mètres carrés | trente-cinq mètres carrés | cinquante mètres carrés
+RQ: Quel est le problème du studio ? | il n'y a pas de cuisine | *il n'y a pas d'ascenseur | il est cher | il n'y a pas de balcon
+RQ: Le loyer est de… | cinq cents euros | *cinq cent cinquante euros | cinquante-cinq euros | mille euros
+W.prompt: Écris une petite annonce pour louer ton logement : ce qu'il y a et ce qu'il n'y a pas. || Viết một mẩu tin rao cho thuê nhà của bạn: có gì và không có gì.
+W.min: 35
+W.must: il y a ; il n'y a pas
+W.check: « Il y a » không đổi ở số nhiều
+W.check: Phủ định: il n'y a pas de / d'
+W.check: Có giá thuê và vị trí
+W.model: À louer : appartement de deux pièces à Hanoï, dans le quartier de Ba Dinh. || Cho thuê: căn hộ hai phòng ở Hà Nội, quận Ba Đình.
+W.model: Il y a un salon, une chambre, une cuisine et une salle de bains. || Có một phòng khách, một phòng ngủ, một bếp và một phòng tắm.
+W.model: Il y a aussi un grand balcon. || Còn có một ban công lớn.
+W.model: Il n'y a pas de parking, mais il y a un arrêt de bus devant l'immeuble. || Không có chỗ đỗ ô tô, nhưng có một trạm xe buýt trước toà nhà.
+W.model: Le loyer est de huit millions de dongs par mois. || Tiền thuê là tám triệu đồng mỗi tháng.
+
+## 3 | Les prépositions de lieu
+G.title: Où est… ? Les prépositions de lieu
+G.rule: Pour situer un objet, on utilise des prépositions : sur, sous, dans, devant, derrière, entre, à côté de, en face de, près de, loin de. || Để chỉ vị trí đồ vật, ta dùng giới từ: sur (trên), sous (dưới), dans (trong), devant (trước), derrière (sau), entre (giữa), à côté de (bên cạnh), en face de (đối diện), près de (gần), loin de (xa).
+G.note: Các giới từ có "de" sẽ rút gọn: à côté de + le = à côté du (à côté du lit), près de + les = près des. Entre A et B (giữa A và B). Hỏi vị trí: Où est… ? / Où sont… ? Dùng être để nói vị trí: Le chat est sous la table.
+G.table: Préposition | Exemple
+G.row: sur | Le livre est sur la table.
+G.row: sous | Le chat est sous le lit.
+G.row: dans | Les vêtements sont dans l'armoire.
+G.row: devant / derrière | La voiture est devant la maison.
+G.row: entre | La lampe est entre le lit et la fenêtre.
+G.row: à côté de | Le bureau est à côté du lit.
+G.row: en face de | La banque est en face de la poste.
+G.ex: Mes clés sont sur la table. || Chìa khoá của tôi ở trên bàn.
+G.ex: Le chat dort sous le lit. || Con mèo ngủ dưới gầm giường.
+G.ex: La lampe est à côté du canapé. || Cái đèn ở bên cạnh ghế sofa.
+G.ex: La pharmacie est en face de la boulangerie. || Hiệu thuốc ở đối diện tiệm bánh mì.
+G.q: Le chat est ___ la table (en bas). | sur | *sous | dans | devant
+G.q: La lampe est à côté ___ lit. | de le | *du | de la | des
+G.q: Le contraire de « devant » : | sous | *derrière | entre | sur
+G.q: Le pull est ___ l'armoire. | sur | entre | *dans | en face
+G.q: Le contraire de « sur » : ___ = sous
+V: sur | /syʁ/ | préposition | trên | Le téléphone est sur le bureau. || Điện thoại ở trên bàn làm việc.
+V: sous | /su/ | préposition | dưới | Les chaussures sont sous le lit. || Đôi giày ở dưới gầm giường.
+V: devant | /də.vɑ̃/ | préposition | trước | Le bus est devant l'école. || Xe buýt ở trước trường.
+V: derrière | /dɛ.ʁjɛʁ/ | préposition | sau | Le jardin est derrière la maison. || Khu vườn ở sau nhà.
+V: entre | /ɑ̃tʁ/ | préposition | giữa | La banque est entre la poste et le café. || Ngân hàng ở giữa bưu điện và quán cà phê.
+V: à côté de | /a ko.te də/ | préposition | bên cạnh | J'habite à côté de la gare. || Tôi sống bên cạnh nhà ga.
+V: en face de | /ɑ̃ fas də/ | préposition | đối diện | Le parc est en face de l'école. || Công viên ở đối diện trường học.
+V: près de | /pʁɛ də/ | préposition | gần | Mon bureau est près de chez moi. || Văn phòng tôi gần nhà.
+V: l'armoire | /laʁ.mwaʁ/ | nom f. | tủ quần áo | L'armoire est dans la chambre. || Tủ quần áo ở trong phòng ngủ.
+V: la lampe | /la lɑ̃p/ | nom f. | cái đèn | Allume la lampe, s'il te plaît. || Bật đèn lên giúp mình.
+VQ: Le contraire de « près de » : | à côté de | *loin de | en face de | devant
+VQ: On range les vêtements dans l'… | *armoire | lampe | escalier | ascenseur
+VQ: A, B, C : B est ___ A et C. | devant | sous | *entre | sur
+VQ: Le contraire de « derrière » : | sous | sur | *devant | dans
+VQ: Pour lire le soir, on allume la ___. = lampe
+D: Mes clés sont sur la table.
+D: Le chat dort sous le lit.
+D: La banque est en face de la poste.
+D: J'habite à côté de la gare.
+L: Fils | Maman, où sont mes clés ? || Mẹ ơi, chìa khoá của con đâu?
+L: Mère | Elles ne sont pas sur la table ? || Không phải ở trên bàn à?
+L: Fils | Non, pas sur la table. Et pas dans mon sac. || Không, không có trên bàn. Cũng không có trong cặp.
+L: Mère | Regarde sous le canapé ou derrière les coussins. || Con xem dưới ghế sofa hoặc sau mấy cái gối tựa.
+L: Fils | Ah, les voilà ! Entre les coussins ! || À, đây rồi! Ở giữa mấy cái gối!
+L: Mère | Tu perds toujours tes clés ! || Con lúc nào cũng làm mất chìa khoá!
+LQ: Le fils cherche… | son téléphone | *ses clés | son sac | ses chaussures
+LQ: Les clés ne sont pas… | entre les coussins | *sur la table | dans le salon | près du canapé
+LQ: Où sont les clés finalement ? | sous le canapé | dans le sac | *entre les coussins | derrière la porte
+RA: sur, sous, dans, devant, derrière.
+RA: entre, à côté de, en face de.
+RA: près de, loin de.
+SH: Où sont mes clés ?
+SH: Regarde sous le canapé.
+SH: Ah, les voilà, entre les coussins !
+R.title: Ma chambre en désordre
+R: Ma chambre est petite et toujours en désordre. || Phòng tôi nhỏ và luôn bừa bộn.
+R: Le lit est contre le mur, sous la fenêtre. || Giường kê sát tường, dưới cửa sổ.
+R: À côté du lit, il y a un bureau avec mon ordinateur. || Bên cạnh giường có một bàn làm việc với máy tính của tôi.
+R: Mes livres sont sur le bureau, sur le lit et même par terre ! || Sách của tôi ở trên bàn, trên giường và thậm chí cả dưới sàn!
+R: Mes vêtements sont sur la chaise, pas dans l'armoire. || Quần áo của tôi ở trên ghế, không ở trong tủ.
+R: Ma mère dit que je dois ranger ma chambre ce week-end. || Mẹ tôi bảo tôi phải dọn phòng cuối tuần này.
+RQ: Où est le lit ? | en face de la porte | *sous la fenêtre | à côté de l'armoire | au milieu de la chambre
+RQ: L'ordinateur est… | sur le lit | *sur le bureau | par terre | dans l'armoire
+RQ: Où sont les vêtements ? | dans l'armoire | *sur la chaise | sous le lit | par terre
+W.prompt: Décris ta chambre : où sont les meubles et les objets. Utilise au moins six prépositions différentes. || Miêu tả phòng ngủ của bạn: đồ đạc và đồ vật ở đâu. Dùng ít nhất sáu giới từ khác nhau.
+W.min: 40
+W.must: sur ; sous ; à côté de
+W.check: de + le → du, de + les → des (à côté du lit)
+W.check: Dùng « être » để nói vị trí (la lampe est…)
+W.check: Dùng « il y a » để giới thiệu đồ vật
+W.model: Ma chambre est assez grande. || Phòng của tôi khá rộng.
+W.model: Le lit est en face de la porte. || Giường ở đối diện cửa ra vào.
+W.model: À côté du lit, il y a une petite table avec une lampe. || Bên cạnh giường có một cái bàn nhỏ với một cái đèn.
+W.model: Mon bureau est devant la fenêtre. || Bàn làm việc của tôi ở trước cửa sổ.
+W.model: L'armoire est entre le bureau et la porte. || Tủ quần áo ở giữa bàn làm việc và cửa.
+W.model: Sous le lit, il y a mes chaussures ! || Dưới gầm giường là giày của tôi!
+
+## 4 | Les meubles et les objets
+G.title: Ce, cet, cette, ces
+G.rule: Pour montrer un objet, on utilise l'adjectif démonstratif : ce devant un nom masculin, cet devant un nom masculin qui commence par une voyelle, cette devant un nom féminin et ces au pluriel. || Để chỉ một đồ vật, ta dùng tính từ chỉ định: ce trước danh từ giống đực, cet trước danh từ giống đực bắt đầu bằng nguyên âm, cette trước danh từ giống cái và ces ở số nhiều.
+G.note: ce canapé (cái sofa này), cet ordinateur (cái máy tính này — cet vì "o" là nguyên âm), cette table (cái bàn này), ces chaises (những cái ghế này). Có thể thêm -ci (này, gần) hoặc -là (kia, xa) để phân biệt: ce fauteuil-ci / ce fauteuil-là.
+G.table: | Masculin | Féminin
+G.row: singulier | ce canapé / cet objet | cette lampe
+G.row: pluriel | ces canapés | ces lampes
+G.ex: Ce canapé est très confortable. || Cái ghế sofa này rất êm.
+G.ex: Cet ordinateur est nouveau. || Cái máy tính này mới.
+G.ex: Cette table est en bois. || Cái bàn này bằng gỗ.
+G.ex: Combien coûtent ces chaises ? || Những cái ghế này giá bao nhiêu?
+G.q: ___ armoire est grande. | Ce | Cet | *Cette | Ces
+G.q: ___ fauteuil est confortable. | *Ce | Cet | Cette | Ces
+G.q: ___ objet est cher. | Ce | *Cet | Cette | Ces
+G.q: ___ coussins sont jolis. | Ce | Cet | Cette | *Ces
+G.q: Complétez : ___ miroir est ancien. = Ce / ce
+V: le meuble | /lə mœbl/ | nom m. | đồ nội thất | J'achète des meubles pour mon appartement. || Tôi mua đồ nội thất cho căn hộ.
+V: le canapé | /lə ka.na.pe/ | nom m. | ghế sofa | Le canapé est dans le salon. || Ghế sofa ở trong phòng khách.
+V: le fauteuil | /lə fo.tœj/ | nom m. | ghế bành | Mon grand-père lit dans son fauteuil. || Ông tôi đọc sách trên chiếc ghế bành.
+V: l'étagère | /le.ta.ʒɛʁ/ | nom f. | giá, kệ | Les livres sont sur l'étagère. || Sách ở trên kệ.
+V: le miroir | /lə mi.ʁwaʁ/ | nom m. | gương | Il y a un miroir dans la salle de bains. || Có một chiếc gương trong phòng tắm.
+V: le tapis | /lə ta.pi/ | nom m. | tấm thảm | Le tapis est rouge. || Tấm thảm màu đỏ.
+V: le coussin | /lə ku.sɛ̃/ | nom m. | gối tựa | Il y a trois coussins sur le canapé. || Có ba cái gối tựa trên ghế sofa.
+V: le réfrigérateur | /lə ʁe.fʁi.ʒe.ʁa.tœʁ/ | nom m. | tủ lạnh | Le lait est dans le réfrigérateur. || Sữa ở trong tủ lạnh.
+V: le bois | /lə bwa/ | nom m. | gỗ | Une table en bois. || Một cái bàn gỗ.
+V: lourd | /luʁ/ | adjectif | nặng | Cette armoire est très lourde. || Cái tủ này rất nặng.
+VQ: On met le lait et le fromage dans le… | four | *réfrigérateur | tapis | miroir
+VQ: Pour se regarder, on utilise un… | tapis | coussin | *miroir | fauteuil
+VQ: On met les livres sur une… | *étagère | tapis | fauteuil | coussin
+VQ: Le contraire de « léger » : | grand | *lourd | petit | confortable
+VQ: Le canapé, la table, le lit sont des ___. = meubles
+D: Ce canapé est confortable.
+D: Cet ordinateur est nouveau.
+D: Cette table est en bois.
+D: Ces chaises sont lourdes.
+L: Vendeur | Bonjour ! Vous cherchez des meubles ? || Xin chào! Anh chị tìm đồ nội thất à?
+L: Client | Oui. Combien coûte ce canapé gris ? || Vâng. Cái sofa màu xám này giá bao nhiêu?
+L: Vendeur | Ce canapé coûte quatre cents euros. Il est très confortable. || Cái sofa này giá bốn trăm euro. Nó rất êm.
+L: Client | C'est un peu cher. Et cette petite table en bois ? || Hơi đắt. Còn cái bàn gỗ nhỏ này?
+L: Vendeur | Cette table est en solde : soixante euros. || Cái bàn này đang giảm giá: sáu mươi euro.
+L: Client | Parfait, je prends cette table et ces deux coussins. || Tuyệt, tôi lấy cái bàn này và hai cái gối tựa này.
+LQ: Le canapé est… | noir | *gris | rouge | bleu
+LQ: Pourquoi le client n'achète pas le canapé ? | il n'est pas confortable | *c'est un peu cher | il est trop grand | il est vieux
+LQ: Le client achète… | le canapé | *la table et deux coussins | un fauteuil | rien
+RA: ce canapé, cet ordinateur, cette table, ces chaises.
+RA: un canapé, un fauteuil, une étagère, un miroir.
+RA: Cette table est en bois.
+SH: Combien coûte ce canapé ?
+SH: C'est un peu cher.
+SH: Je prends cette table.
+R.title: Un nouvel appartement à meubler
+R: Lan et Tuan ont un nouvel appartement, mais il est vide ! || Lan và Tuấn có một căn hộ mới, nhưng nó trống trơn!
+R: Samedi, ils vont dans un grand magasin de meubles. || Thứ Bảy, họ đến một cửa hàng nội thất lớn.
+R: Pour le salon, ils achètent un canapé bleu et un tapis. || Cho phòng khách, họ mua một chiếc sofa xanh và một tấm thảm.
+R: Pour la chambre, ils choisissent un lit et une armoire blanche. || Cho phòng ngủ, họ chọn một cái giường và một tủ quần áo trắng.
+R: Tuan adore cette lampe verte, mais Lan déteste cette couleur. || Tuấn rất thích cái đèn xanh lá này, nhưng Lan ghét màu này.
+R: Finalement, ils n'achètent pas la lampe ! || Cuối cùng, họ không mua cái đèn!
+RQ: Quand vont-ils au magasin ? | vendredi | *samedi | dimanche | lundi
+RQ: Pour la chambre, ils achètent… | un canapé et un tapis | *un lit et une armoire | une lampe | un fauteuil
+RQ: Pourquoi ils n'achètent pas la lampe ? | elle est chère | *Lan déteste la couleur | elle est lourde | elle est cassée
+W.prompt: Tu es dans un magasin de meubles. Écris un petit dialogue avec un vendeur et utilise ce, cet, cette, ces. || Bạn đang ở một cửa hàng nội thất. Viết một đoạn hội thoại ngắn với người bán hàng và dùng ce, cet, cette, ces.
+W.min: 35
+W.must: ce ; cette ; ces
+W.check: cet trước danh từ giống đực bắt đầu bằng nguyên âm (cet ordinateur)
+W.check: cette cho giống cái, ces cho số nhiều
+W.check: Hỏi giá: Combien coûte… ? / Combien coûtent… ?
+W.model: — Bonjour, combien coûte ce fauteuil ? || — Xin chào, cái ghế bành này giá bao nhiêu?
+W.model: — Ce fauteuil coûte deux cents euros. || — Cái ghế bành này giá hai trăm euro.
+W.model: — Et cette étagère en bois ? || — Còn cái kệ gỗ này?
+W.model: — Cette étagère coûte quatre-vingts euros. || — Cái kệ này giá tám mươi euro.
+W.model: — Et ces coussins ? || — Còn mấy cái gối tựa này?
+W.model: — Ces coussins sont en solde : dix euros. || — Mấy cái gối này đang giảm giá: mười euro.
+W.model: — Je prends cette étagère et ces coussins, merci ! || — Tôi lấy cái kệ này và mấy cái gối này, cảm ơn!
+
+## 5 | Décrire son logement
+G.title: Décrire et comparer simplement
+G.rule: Pour décrire un logement, on donne la taille, l'étage, la lumière, le prix et les avantages, avec être, avoir et il y a. || Để miêu tả một nơi ở, ta nói về diện tích, tầng, ánh sáng, giá và ưu điểm, với être, avoir và il y a.
+G.note: Diện tích: L'appartement fait 50 m² (cinquante mètres carrés). Ánh sáng: lumineux (nhiều ánh sáng), sombre (tối). Vị trí: bien situé (ở vị trí tốt), près des transports. Giá: le loyer (tiền thuê), les charges (phí dịch vụ). Ưu điểm/nhược điểm: L'avantage, c'est… / Le problème, c'est…
+G.table: Thème | Expression
+G.row: taille | Il fait quarante mètres carrés.
+G.row: lumière | Il est lumineux / sombre.
+G.row: situation | Il est bien situé, près du métro.
+G.row: prix | Le loyer est de sept cents euros.
+G.row: avis | L'avantage, c'est le calme.
+G.ex: Mon appartement fait cinquante mètres carrés. || Căn hộ của tôi rộng năm mươi mét vuông.
+G.ex: Il est très lumineux, il y a trois grandes fenêtres. || Nó rất nhiều ánh sáng, có ba cửa sổ lớn.
+G.ex: L'avantage, c'est qu'il est près du métro. || Ưu điểm là nó gần tàu điện ngầm.
+G.ex: Le problème, c'est le bruit de la rue. || Vấn đề là tiếng ồn ngoài đường.
+G.q: L'appartement ___ quarante mètres carrés. | est | a | *fait | va
+G.q: Un appartement avec beaucoup de lumière est… | sombre | *lumineux | bruyant | loin
+G.q: L'argent payé chaque mois pour un logement : | le prix | *le loyer | la taille | l'étage
+G.q: « Bien situé » veut dire… | grand | *à un bon endroit | pas cher | moderne
+G.q: Le contraire de « lumineux » : ___ = sombre
+V: le logement | /lə lɔʒ.mɑ̃/ | nom m. | nơi ở, nhà ở | Je cherche un logement à Paris. || Tôi tìm nhà ở Paris.
+V: le loyer | /lə lwa.je/ | nom m. | tiền thuê nhà | Le loyer est cher dans ce quartier. || Tiền thuê nhà ở khu này đắt.
+V: lumineux | /ly.mi.nø/ | adjectif | nhiều ánh sáng | Le salon est lumineux. || Phòng khách nhiều ánh sáng.
+V: sombre | /sɔ̃bʁ/ | adjectif | tối | La cuisine est un peu sombre. || Nhà bếp hơi tối.
+V: bruyant | /bʁɥi.jɑ̃/ | adjectif | ồn ào | La rue est bruyante. || Con phố ồn ào.
+V: calme | /kalm/ | adjectif | yên tĩnh | Le quartier est calme. || Khu phố yên tĩnh.
+V: le mètre carré | /lə mɛtʁ ka.ʁe/ | nom m. | mét vuông | Le studio fait vingt mètres carrés. || Căn studio rộng hai mươi mét vuông.
+V: l'avantage | /la.vɑ̃.taʒ/ | nom m. | ưu điểm | L'avantage, c'est le prix. || Ưu điểm là giá cả.
+V: le problème | /lə pʁɔ.blɛm/ | nom m. | vấn đề | Le problème, c'est l'ascenseur. || Vấn đề là thang máy.
+V: louer | /lwe/ | verbe | thuê; cho thuê | Je loue un appartement. || Tôi thuê một căn hộ.
+VQ: Le contraire de « calme » : | lumineux | *bruyant | grand | situé
+VQ: Pour habiter dans l'appartement de quelqu'un, on le… | achète | *loue | vend | construit
+VQ: Une pièce sans fenêtre est souvent… | lumineuse | *sombre | bruyante | confortable
+VQ: « Le studio fait 20 m² » parle de… | prix | *la taille | l'étage | la lumière
+VQ: Le contraire de « avantage » : un ___ / un inconvénient = problème / inconvénient
+D: Mon appartement fait cinquante mètres carrés.
+D: Le salon est très lumineux.
+D: Le loyer est de six cents euros.
+D: Le problème, c'est le bruit.
+L: Amie | Alors, ton nouvel appartement, il est comment ? || Thế căn hộ mới của bạn thế nào?
+L: Phuong | Il est super ! Il fait quarante-cinq mètres carrés. || Tuyệt lắm! Nó rộng bốn mươi lăm mét vuông.
+L: Amie | Il est lumineux ? || Nó có nhiều ánh sáng không?
+L: Phuong | Oui, très lumineux. Et il est bien situé, près du métro. || Có, rất nhiều ánh sáng. Và nó ở vị trí tốt, gần tàu điện ngầm.
+L: Amie | Et le loyer ? || Còn tiền thuê?
+L: Phuong | Sept cents euros. Le problème, c'est le bruit le soir : il y a un bar en bas ! || Bảy trăm euro. Vấn đề là tiếng ồn buổi tối: có một quán bar ở dưới!
+LQ: L'appartement fait… | trente-cinq mètres carrés | *quarante-cinq mètres carrés | cinquante-cinq mètres carrés | quinze mètres carrés
+LQ: L'appartement est près… | de la gare | *du métro | du parc | de l'école
+LQ: Quel est le problème ? | le loyer | la lumière | *le bruit du bar | l'ascenseur
+RA: Il fait quarante-cinq mètres carrés.
+RA: Il est lumineux et bien situé.
+RA: Le problème, c'est le bruit.
+SH: Ton appartement, il est comment ?
+SH: Il est très lumineux.
+SH: L'avantage, c'est qu'il est près du métro.
+R.title: Deux logements, deux styles
+R: Antoine habite dans un grand appartement en centre-ville. || Antoine sống trong một căn hộ lớn ở trung tâm thành phố.
+R: Il fait quatre-vingts mètres carrés et il est très moderne. || Nó rộng tám mươi mét vuông và rất hiện đại.
+R: L'avantage, c'est qu'il est près de tout, mais le loyer est très cher. || Ưu điểm là nó gần mọi thứ, nhưng tiền thuê rất đắt.
+R: Sa sœur Margot habite dans une petite maison à la campagne. || Chị gái anh ấy, Margot, sống trong một ngôi nhà nhỏ ở nông thôn.
+R: La maison est vieille et un peu sombre, mais elle a un grand jardin. || Ngôi nhà cũ và hơi tối, nhưng có một khu vườn lớn.
+R: Margot adore le calme, Antoine préfère l'animation de la ville. || Margot thích sự yên tĩnh, Antoine thích sự nhộn nhịp của thành phố.
+RQ: L'appartement d'Antoine fait… | quarante mètres carrés | *quatre-vingts mètres carrés | cent mètres carrés | soixante mètres carrés
+RQ: Quel est le problème de l'appartement d'Antoine ? | il est sombre | *le loyer est cher | il est loin | il est vieux
+RQ: Qu'est-ce que Margot a ? | un appartement moderne | *un grand jardin | un balcon | un parking
+W.prompt: Décris ton logement idéal ou ton logement actuel : taille, étage, lumière, situation, prix, un avantage et un problème. || Miêu tả nơi ở lý tưởng hoặc hiện tại của bạn: diện tích, tầng, ánh sáng, vị trí, giá, một ưu điểm và một vấn đề.
+W.min: 45
+W.must: mètres carrés ; l'avantage ; le problème
+W.check: Diện tích dùng « faire » (il fait 50 m²)
+W.check: Tính từ hợp giống với nơi ở (un appartement lumineux, une maison lumineuse)
+W.check: Có « L'avantage, c'est… » và « Le problème, c'est… »
+W.model: J'habite dans un appartement au cinquième étage. || Tôi sống trong một căn hộ ở tầng năm.
+W.model: Il fait soixante mètres carrés. || Nó rộng sáu mươi mét vuông.
+W.model: Il y a deux chambres, un salon et une petite cuisine. || Có hai phòng ngủ, một phòng khách và một bếp nhỏ.
+W.model: Il est très lumineux et bien situé, près d'un grand parc. || Nó rất nhiều ánh sáng và ở vị trí tốt, gần một công viên lớn.
+W.model: L'avantage, c'est le calme. || Ưu điểm là sự yên tĩnh.
+W.model: Le problème, c'est qu'il n'y a pas d'ascenseur ! || Vấn đề là không có thang máy!

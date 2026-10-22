@@ -1,0 +1,1370 @@
+# Từ điển bỏ túi — mỗi dòng: từ | loại từ | nghĩa. Động từ: xem tools/build_dict.py
+# ===== Từ chức năng (đặt trước để được ưu tiên) =====
+je | pronom | tôi
+j' | pronom | tôi (trước nguyên âm)
+tu | pronom | bạn, cậu (thân mật)
+il | pronom | anh ấy, nó (giống đực)
+elle | pronom | cô ấy, nó (giống cái)
+on | pronom | người ta; chúng ta (khẩu ngữ)
+nous | pronom | chúng tôi, chúng ta
+vous | pronom | các bạn; ngài (lịch sự)
+ils | pronom | họ (giống đực / hỗn hợp)
+elles | pronom | họ (giống cái)
+moi | pronom tonique | tôi (nhấn mạnh)
+toi | pronom tonique | bạn (nhấn mạnh)
+lui | pronom | anh ấy; cho anh/cô ấy
+eux | pronom tonique | họ (nhấn mạnh)
+me | pronom | tôi (tân ngữ / phản thân)
+m' | pronom | tôi (tân ngữ / phản thân)
+te | pronom | bạn (tân ngữ / phản thân)
+t' | pronom | bạn (tân ngữ / phản thân)
+se | pronom | tự mình (phản thân)
+s' | pronom | tự mình (phản thân); nếu (si trước il)
+leur | pronom / adjectif | cho họ; của họ
+y | pronom | ở đó; vào việc đó
+en | préposition / pronom | ở, trong, bằng; (đại từ) một ít, về việc đó
+le | article / pronom | (mạo từ xác định giống đực); nó (tân ngữ)
+la | article / pronom | (mạo từ xác định giống cái); nó (tân ngữ)
+l' | article / pronom | (le/la trước nguyên âm)
+les | article / pronom | (mạo từ xác định số nhiều); chúng (tân ngữ)
+un | article / nombre | một (giống đực)
+une | article / nombre | một (giống cái)
+des | article | những, vài (số nhiều); của các (de + les)
+du | article | một ít (giống đực); của (de + le)
+de | préposition | của; từ
+d' | préposition | của; từ (trước nguyên âm)
+à | préposition | ở, tới, vào lúc
+au | préposition | ở, tới (à + le)
+aux | préposition | ở, tới (à + les)
+dans | préposition | trong
+sur | préposition | trên
+sous | préposition | dưới
+avec | préposition | với
+sans | préposition | không có
+pour | préposition | để, cho
+par | préposition | bởi, qua
+chez | préposition | ở nhà (ai đó)
+entre | préposition | giữa
+devant | préposition | trước (vị trí)
+derrière | préposition | sau (vị trí)
+avant | préposition | trước (thời gian)
+après | préposition | sau (thời gian)
+pendant | préposition | trong suốt
+depuis | préposition | từ (khi), đã … được
+vers | préposition | về phía; khoảng (giờ)
+contre | préposition | chống lại; dựa vào
+près | adverbe | gần
+loin | adverbe | xa
+à côté | locution | bên cạnh
+en face | locution | đối diện
+et | conjonction | và
+ou | conjonction | hoặc
+mais | conjonction | nhưng
+donc | conjonction | vì vậy
+car | conjonction | bởi vì
+parce que | conjonction | bởi vì
+quand | conjonction | khi; khi nào
+si | conjonction | nếu; (trả lời) có chứ
+comme | conjonction | như; vì
+que | pronom / conjonction | mà, rằng; gì
+qu' | pronom / conjonction | mà, rằng (trước nguyên âm)
+qui | pronom | ai; người mà
+quoi | pronom | gì, cái gì
+où | adverbe | ở đâu; nơi mà
+comment | adverbe | như thế nào
+pourquoi | adverbe | tại sao
+combien | adverbe | bao nhiêu
+quel | adjectif interrogatif | nào, gì (giống đực)
+quelle | adjectif interrogatif | nào, gì (giống cái)
+quels | adjectif interrogatif | nào, gì (số nhiều)
+quelles | adjectif interrogatif | nào, gì (giống cái số nhiều)
+est-ce que | locution | (đặt đầu câu hỏi có/không)
+qu'est-ce que | locution | cái gì (câu hỏi)
+ne | adverbe | không (phủ định, đi với pas)
+n' | adverbe | không (trước nguyên âm)
+pas | adverbe | không
+plus | adverbe | hơn; (ne … plus) không … nữa
+jamais | adverbe | không bao giờ
+rien | pronom | không gì cả
+personne | pronom / nom f. | không ai; người
+oui | adverbe | vâng, có
+non | adverbe | không
+si | adverbe | có chứ (trả lời câu hỏi phủ định)
+très | adverbe | rất
+trop | adverbe | quá
+assez | adverbe | khá; đủ
+beaucoup | adverbe | nhiều
+peu | adverbe | ít
+un peu | locution | một chút
+bien | adverbe | tốt, khỏe, giỏi
+mal | adverbe | tệ, đau
+mieux | adverbe | tốt hơn
+aussi | adverbe | cũng
+encore | adverbe | nữa, vẫn
+déjà | adverbe | đã, rồi
+toujours | adverbe | luôn luôn; vẫn
+souvent | adverbe | thường xuyên
+parfois | adverbe | thỉnh thoảng
+quelquefois | adverbe | đôi khi
+rarement | adverbe | hiếm khi
+ici | adverbe | ở đây
+là | adverbe | ở đó
+là-bas | adverbe | đằng kia
+maintenant | adverbe | bây giờ
+aujourd'hui | adverbe | hôm nay
+demain | adverbe | ngày mai
+hier | adverbe | hôm qua
+tôt | adverbe | sớm
+tard | adverbe | muộn
+vite | adverbe | nhanh
+ensuite | adverbe | sau đó
+puis | adverbe | rồi, sau đó
+enfin | adverbe | cuối cùng
+d'abord | adverbe | trước tiên
+alors | adverbe | vậy thì, lúc đó
+peut-être | adverbe | có lẽ
+ensemble | adverbe | cùng nhau
+seulement | adverbe | chỉ
+surtout | adverbe | nhất là
+vraiment | adverbe | thật sự
+tout | adjectif / pronom | tất cả
+tous | adjectif / pronom | tất cả (số nhiều)
+toute | adjectif | toàn bộ (giống cái)
+toutes | adjectif | tất cả (giống cái số nhiều)
+ce | déterminant / pronom | này, đó
+c' | pronom | đó, đây (trước nguyên âm)
+cet | déterminant | này (giống đực trước nguyên âm)
+cette | déterminant | này (giống cái)
+ces | déterminant | những … này
+ça | pronom | cái đó, điều đó
+cela | pronom | điều đó
+ceci | pronom | điều này
+voici | adverbe | đây là
+voilà | adverbe | đó là; đây rồi
+mon | adjectif possessif | của tôi (giống đực)
+ma | adjectif possessif | của tôi (giống cái)
+mes | adjectif possessif | của tôi (số nhiều)
+ton | adjectif possessif | của bạn (giống đực)
+ta | adjectif possessif | của bạn (giống cái)
+tes | adjectif possessif | của bạn (số nhiều)
+son | adjectif possessif | của anh/cô ấy (giống đực)
+sa | adjectif possessif | của anh/cô ấy (giống cái)
+ses | adjectif possessif | của anh/cô ấy (số nhiều)
+notre | adjectif possessif | của chúng tôi
+nos | adjectif possessif | của chúng tôi (số nhiều)
+votre | adjectif possessif | của ngài / các bạn
+vos | adjectif possessif | của ngài / các bạn (số nhiều)
+leurs | adjectif possessif | của họ (số nhiều)
+quelque | adjectif | vài, một số
+quelques | adjectif | vài, một số
+quelqu'un | pronom | ai đó
+quelque chose | pronom | cái gì đó
+chaque | adjectif | mỗi
+autre | adjectif | khác
+même | adjectif / adverbe | cùng, giống; thậm chí
+il y a | expression | có (tồn tại); cách đây
+il faut | expression | cần phải
+s'il vous plaît | expression | làm ơn (lịch sự)
+s'il te plaît | expression | làm ơn (thân mật)
+d'accord | expression | đồng ý
+bonjour | interjection | xin chào (ban ngày)
+bonsoir | interjection | chào buổi tối
+salut | interjection | chào (thân mật)
+au revoir | interjection | tạm biệt
+merci | interjection | cảm ơn
+pardon | interjection | xin lỗi, xin phép
+excusez-moi | expression | xin lỗi (lịch sự)
+bravo | interjection | hoan hô, giỏi lắm
+madame | nom f. | bà, quý bà
+monsieur | nom m. | ông, ngài
+mademoiselle | nom f. | cô (chưa chồng)
+# ===== Số =====
+zéro | nombre | không (0)
+deux | nombre | hai
+trois | nombre | ba
+quatre | nombre | bốn
+cinq | nombre | năm
+six | nombre | sáu
+sept | nombre | bảy
+huit | nombre | tám
+neuf | nombre / adjectif | chín; mới (giống đực)
+dix | nombre | mười
+onze | nombre | mười một
+douze | nombre | mười hai
+treize | nombre | mười ba
+quatorze | nombre | mười bốn
+quinze | nombre | mười lăm
+seize | nombre | mười sáu
+dix-sept | nombre | mười bảy
+dix-huit | nombre | mười tám
+dix-neuf | nombre | mười chín
+vingt | nombre | hai mươi
+trente | nombre | ba mươi
+quarante | nombre | bốn mươi
+cinquante | nombre | năm mươi
+soixante | nombre | sáu mươi
+soixante-dix | nombre | bảy mươi
+quatre-vingts | nombre | tám mươi
+quatre-vingt-dix | nombre | chín mươi
+cent | nombre | một trăm
+mille | nombre | một nghìn
+million | nom m. | triệu
+premier | adjectif | thứ nhất (giống đực)
+première | adjectif | thứ nhất (giống cái)
+deuxième | adjectif | thứ hai
+troisième | adjectif | thứ ba
+dernier | adjectif | cuối cùng; vừa qua
+moitié | nom f. | một nửa
+demi | adjectif | rưỡi
+# ===== Động từ bất quy tắc =====
+@v être | thì, là, ở | suis,es,est,sommes,êtes,sont | été | ét | ser
+@v avoir | có | ai,as,a,avons,avez,ont | eu | av | aur
+@v aller | đi | vais,vas,va,allons,allez,vont | allé | all | ir
+@v faire | làm | fais,fais,fait,faisons,faites,font | fait | fais | fer
+@v s'appeler | tên là | appelle,appelles,appelle,appelons,appelez,appellent | appelé | appel | appeller
+@v pouvoir | có thể | peux,peux,peut,pouvons,pouvez,peuvent | pu | pouv | pourr
+@v vouloir | muốn | veux,veux,veut,voulons,voulez,veulent | voulu | voul | voudr
+@v devoir | phải | dois,dois,doit,devons,devez,doivent | dû | dev | devr
+@v savoir | biết (kiến thức, kỹ năng) | sais,sais,sait,savons,savez,savent | su | sav | saur
+@v venir | đến | viens,viens,vient,venons,venez,viennent | venu | ven | viendr
+@v revenir | quay lại | reviens,reviens,revient,revenons,revenez,reviennent | revenu | reven | reviendr
+@v devenir | trở thành | deviens,deviens,devient,devenons,devenez,deviennent | devenu | deven | deviendr
+@v se souvenir | nhớ lại | souviens,souviens,souvient,souvenons,souvenez,souviennent | souvenu | souven | souviendr
+@v tenir | cầm, giữ | tiens,tiens,tient,tenons,tenez,tiennent | tenu | ten | tiendr
+@v prendre | lấy, cầm; đi (xe); ăn uống | prends,prends,prend,prenons,prenez,prennent | pris | pren | prendr
+@v apprendre | học | apprends,apprends,apprend,apprenons,apprenez,apprennent | appris | appren | apprendr
+@v comprendre | hiểu | comprends,comprends,comprend,comprenons,comprenez,comprennent | compris | compren | comprendr
+@v mettre | đặt, để; mặc | mets,mets,met,mettons,mettez,mettent | mis | mett | mettr
+@v permettre | cho phép | permets,permets,permet,permettons,permettez,permettent | permis | permett | permettr
+@v promettre | hứa | promets,promets,promet,promettons,promettez,promettent | promis | promett | promettr
+@v voir | nhìn, thấy | vois,vois,voit,voyons,voyez,voient | vu | voy | verr
+@v dire | nói | dis,dis,dit,disons,dites,disent | dit | dis | dir
+@v lire | đọc | lis,lis,lit,lisons,lisez,lisent | lu | lis | lir
+@v écrire | viết | écris,écris,écrit,écrivons,écrivez,écrivent | écrit | écriv | écrir
+@v décrire | miêu tả | décris,décris,décrit,décrivons,décrivez,décrivent | décrit | décriv | décrir
+@v boire | uống | bois,bois,boit,buvons,buvez,boivent | bu | buv | boir
+@v partir | rời đi, khởi hành | pars,pars,part,partons,partez,partent | parti | part | partir
+@v sortir | đi ra ngoài | sors,sors,sort,sortons,sortez,sortent | sorti | sort | sortir
+@v dormir | ngủ | dors,dors,dort,dormons,dormez,dorment | dormi | dorm | dormir
+@v sentir | cảm thấy; ngửi | sens,sens,sent,sentons,sentez,sentent | senti | sent | sentir
+@v servir | phục vụ | sers,sers,sert,servons,servez,servent | servi | serv | servir
+@v connaître | biết (người, nơi) | connais,connais,connaît,connaissons,connaissez,connaissent | connu | connaiss | connaîtr
+@v reconnaître | nhận ra | reconnais,reconnais,reconnaît,reconnaissons,reconnaissez,reconnaissent | reconnu | reconnaiss | reconnaîtr
+@v croire | tin | crois,crois,croit,croyons,croyez,croient | cru | croy | croir
+@v vivre | sống | vis,vis,vit,vivons,vivez,vivent | vécu | viv | vivr
+@v recevoir | nhận | reçois,reçois,reçoit,recevons,recevez,reçoivent | reçu | recev | recevr
+@v ouvrir | mở | ouvre,ouvres,ouvre,ouvrons,ouvrez,ouvrent | ouvert | ouvr | ouvrir
+@v offrir | tặng | offre,offres,offre,offrons,offrez,offrent | offert | offr | offrir
+@v découvrir | khám phá | découvre,découvres,découvre,découvrons,découvrez,découvrent | découvert | découvr | découvrir
+@v courir | chạy | cours,cours,court,courons,courez,courent | couru | cour | courr
+@v mourir | chết | meurs,meurs,meurt,mourons,mourez,meurent | mort | mour | mourr
+@v naître | sinh ra | nais,nais,naît,naissons,naissez,naissent | né | naiss | naîtr
+@v falloir | cần phải (il faut) | faut | fallu | fall | faudr
+@v pleuvoir | mưa (il pleut) | pleut | plu | pleuv | pleuvr
+@v conduire | lái xe | conduis,conduis,conduit,conduisons,conduisez,conduisent | conduit | conduis | conduir
+@v traduire | dịch | traduis,traduis,traduit,traduisons,traduisez,traduisent | traduit | traduis | traduir
+@v construire | xây dựng | construis,construis,construit,construisons,construisez,construisent | construit | construis | construir
+@v suivre | đi theo; theo học | suis,suis,suit,suivons,suivez,suivent | suivi | suiv | suivr
+@v plaire | làm vừa lòng (ça me plaît) | plais,plais,plaît,plaisons,plaisez,plaisent | plu | plais | plair
+@v rire | cười | ris,ris,rit,rions,riez,rient | ri | ri | rir
+@v sourire | mỉm cười | souris,souris,sourit,sourions,souriez,sourient | souri | souri | sourir
+@v éteindre | tắt | éteins,éteins,éteint,éteignons,éteignez,éteignent | éteint | éteign | éteindr
+@v peindre | sơn, vẽ | peins,peins,peint,peignons,peignez,peignent | peint | peign | peindr
+@v craindre | sợ | crains,crains,craint,craignons,craignez,craignent | craint | craign | craindr
+@v s'asseoir | ngồi xuống | assieds,assieds,assied,asseyons,asseyez,asseyent | assis | assey | assiér
+@v acheter | mua | achète,achètes,achète,achetons,achetez,achètent | acheté | achet | achèter
+@v appeler | gọi | appelle,appelles,appelle,appelons,appelez,appellent | appelé | appel | appeller
+@v jeter | ném, vứt | jette,jettes,jette,jetons,jetez,jettent | jeté | jet | jetter
+@v préférer | thích hơn | préfère,préfères,préfère,préférons,préférez,préfèrent | préféré | préfér | préférer
+@v espérer | hy vọng | espère,espères,espère,espérons,espérez,espèrent | espéré | espér | espérer
+@v répéter | lặp lại | répète,répètes,répète,répétons,répétez,répètent | répété | répét | répéter
+@v célébrer | kỷ niệm | célèbre,célèbres,célèbre,célébrons,célébrez,célèbrent | célébré | célébr | célébrer
+@v s'inquiéter | lo lắng | inquiète,inquiètes,inquiète,inquiétons,inquiétez,inquiètent | inquiété | inquiét | inquiéter
+@v se lever | thức dậy, đứng dậy | lève,lèves,lève,levons,levez,lèvent | levé | lev | lèver
+@v se promener | đi dạo | promène,promènes,promène,promenons,promenez,promènent | promené | promen | promèner
+@v amener | dẫn theo | amène,amènes,amène,amenons,amenez,amènent | amené | amen | amèner
+@v envoyer | gửi | envoie,envoies,envoie,envoyons,envoyez,envoient | envoyé | envoy | enverr
+@v nettoyer | lau dọn | nettoie,nettoies,nettoie,nettoyons,nettoyez,nettoient | nettoyé | nettoy | nettoier
+@v s'ennuyer | buồn chán | ennuie,ennuies,ennuie,ennuyons,ennuyez,ennuient | ennuyé | ennuy | ennuier
+@v payer | trả tiền | paie,paies,paie,payons,payez,paient | payé | pay | paier
+@v essayer | thử | essaie,essaies,essaie,essayons,essayez,essaient | essayé | essay | essaier
+# ===== Động từ -ir (như finir) =====
+@ir finir | hoàn thành, kết thúc
+@ir choisir | chọn
+@ir réussir | thành công, đỗ
+@ir réfléchir | suy nghĩ
+@ir grandir | lớn lên
+@ir grossir | béo lên
+@ir maigrir | gầy đi
+@ir rougir | đỏ mặt
+@ir remplir | điền, làm đầy
+@ir obéir | vâng lời
+@ir applaudir | vỗ tay
+@ir guérir | khỏi bệnh
+@ir agir | hành động
+@ir atterrir | hạ cánh
+# ===== Động từ -re (như vendre) =====
+@re attendre | chờ đợi
+@re entendre | nghe thấy
+@re répondre | trả lời
+@re vendre | bán
+@re descendre | đi xuống
+@re perdre | đánh mất
+@re rendre | trả lại
+@re prétendre | cho rằng
+@re défendre | bảo vệ; cấm
+@re tondre | cắt (cỏ, tóc)
+# ===== Động từ -er có quy tắc =====
+@er parler | nói
+@er aimer | thích, yêu
+@er adorer | rất thích
+@er détester | ghét
+@er habiter | sống, cư trú
+@er travailler | làm việc
+@er étudier | học (ở trường)
+@er regarder | xem, nhìn
+@er écouter | nghe
+@er chanter | hát
+@er danser | nhảy múa
+@er jouer | chơi
+@er marcher | đi bộ
+@er manger | ăn
+@er cuisiner | nấu ăn
+@er téléphoner | gọi điện thoại
+@er demander | hỏi, yêu cầu
+@er donner | đưa, cho
+@er chercher | tìm
+@er trouver | tìm thấy; thấy rằng
+@er penser | nghĩ
+@er porter | mang, mặc
+@er rester | ở lại
+@er entrer | đi vào
+@er arriver | đến nơi
+@er tomber | ngã, rơi
+@er monter | đi lên
+@er rentrer | về nhà
+@er retourner | quay lại
+@er passer | đi qua; trải qua
+@er visiter | tham quan
+@er voyager | du lịch
+@er nager | bơi
+@er oublier | quên
+@er fermer | đóng
+@er gagner | thắng; kiếm (tiền)
+@er garder | giữ
+@er laisser | để lại
+@er montrer | chỉ, cho xem
+@er préparer | chuẩn bị
+@er réserver | đặt trước
+@er commander | gọi món, đặt hàng
+@er coûter | có giá
+@er compter | đếm
+@er épeler | đánh vần
+@er présenter | giới thiệu
+@er saluer | chào
+@er raconter | kể
+@er rencontrer | gặp gỡ
+@er quitter | rời khỏi
+@er continuer | tiếp tục
+@er tourner | rẽ, quay
+@er traverser | băng qua
+@er utiliser | sử dụng
+@er inviter | mời
+@er accepter | chấp nhận
+@er refuser | từ chối
+@er remercier | cảm ơn
+@er excuser | tha lỗi
+@er pleurer | khóc
+@er rêver | mơ
+@er dessiner | vẽ
+@er louer | thuê
+@er prêter | cho mượn
+@er emprunter | mượn
+@er expliquer | giải thích
+@er discuter | thảo luận
+@er décider | quyết định
+@er aider | giúp đỡ
+@er arrêter | dừng
+@er changer | thay đổi
+@er déménager | chuyển nhà
+@er partager | chia sẻ
+@er ranger | sắp xếp, dọn
+@er voler | bay; ăn trộm
+@er toucher | chạm
+@er couper | cắt
+@er laver | rửa
+@er réveiller | đánh thức
+@er coucher | đặt nằm; (se coucher) đi ngủ
+@er doucher | (se doucher) tắm vòi sen
+@er brosser | chải
+@er maquiller | trang điểm
+@er habiller | mặc quần áo cho
+@er reposer | (se reposer) nghỉ ngơi
+@er dépêcher | (se dépêcher) vội vàng
+@er amuser | làm vui; (s'amuser) vui chơi
+@er intéresser | làm quan tâm
+@er occuper | chiếm; (s'occuper de) chăm lo
+@er marier | (se marier) kết hôn
+@er disputer | (se disputer) cãi nhau
+@er signer | ký
+@er imprimer | in
+@er cliquer | nhấp chuột
+@er réparer | sửa chữa
+@er pousser | đẩy
+@er tirer | kéo
+@er allumer | bật, thắp
+@er garer | đỗ xe
+@er neiger | có tuyết (il neige)
+@er briller | chiếu sáng
+@er durer | kéo dài
+@er sembler | dường như
+@er crier | la hét
+@er fêter | ăn mừng
+@er décorer | trang trí
+@er goûter | nếm thử
+@er ajouter | thêm vào
+@er mélanger | trộn
+@er verser | rót, đổ
+@er apporter | mang đến
+@er emporter | mang đi
+@er livrer | giao hàng
+@er chauffer | làm nóng
+@er consulter | khám, tham khảo
+@er soigner | chăm sóc, chữa trị
+@er tousser | ho
+@er respirer | thở
+@er fumer | hút thuốc
+@er enseigner | dạy
+@er étonner | làm ngạc nhiên
+@er inquiéter | làm lo lắng
+@er énerver | làm bực mình
+@er proposer | đề nghị
+@er conseiller | khuyên
+@er recommander | giới thiệu, khuyên
+@er annuler | huỷ
+@er confirmer | xác nhận
+@er composter | dập vé
+@er rater | lỡ (tàu, xe)
+@er manquer | thiếu; nhớ (ai đó)
+@er embrasser | hôn, ôm
+@er féliciter | chúc mừng
+@er souhaiter | chúc, mong
+@er organiser | tổ chức
+@er participer | tham gia
+@er postuler | ứng tuyển
+@er embaucher | tuyển dụng
+@er gérer | quản lý
+@er informer | thông báo
+@er contacter | liên lạc
+@er noter | ghi chú
+@er corriger | sửa
+@er deviner | đoán
+@er imaginer | tưởng tượng
+@er sauter | nhảy
+@er skier | trượt tuyết
+@er bronzer | tắm nắng
+@er camper | cắm trại
+@er photographier | chụp ảnh
+@er visiter | tham quan
+@er exister | tồn tại
+@er bouger | di chuyển
+@er dîner | ăn tối
+@er déjeuner | ăn trưa
+@er commencer | bắt đầu
+@er avancer | tiến lên
+@er placer | đặt
+@er lancer | ném, phát động
+@er tchatter | nhắn tin, chat
+@er poster | đăng (bài)
+@er partager | chia sẻ
+@er comparer | so sánh
+@er préciser | nói rõ
+@er rappeler | gọi lại; nhắc
+# ===== Danh từ: con người, gia đình =====
+la famille | nom f. | gia đình
+le père | nom m. | bố
+la mère | nom f. | mẹ
+les parents | nom m. pl. | bố mẹ
+le frère | nom m. | anh/em trai
+la sœur | nom f. | chị/em gái
+le fils | nom m. | con trai
+la fille | nom f. | con gái; cô gái
+l'enfant | nom m./f. | đứa trẻ, con
+le bébé | nom m. | em bé
+le mari | nom m. | chồng
+la femme | nom f. | phụ nữ; vợ
+l'homme | nom m. | đàn ông; con người
+le grand-père | nom m. | ông
+la grand-mère | nom f. | bà
+les grands-parents | nom m. pl. | ông bà
+l'oncle | nom m. | chú, bác, cậu
+la tante | nom f. | cô, dì, bác gái
+le cousin | nom m. | anh/em họ (nam)
+la cousine | nom f. | chị/em họ (nữ)
+le neveu | nom m. | cháu trai
+la nièce | nom f. | cháu gái
+l'ami | nom m. | bạn (nam)
+l'amie | nom f. | bạn (nữ)
+le copain | nom m. | bạn; bạn trai
+la copine | nom f. | bạn; bạn gái
+le voisin | nom m. | hàng xóm
+les gens | nom m. pl. | mọi người
+le garçon | nom m. | cậu bé; bồi bàn
+le monde | nom m. | thế giới; mọi người
+le nom | nom m. | họ; tên
+le prénom | nom m. | tên riêng
+l'âge | nom m. | tuổi
+l'an | nom m. | năm (tuổi)
+l'année | nom f. | năm
+# ===== Nghề nghiệp =====
+le métier | nom m. | nghề
+le travail | nom m. | công việc
+le professeur | nom m. | giáo viên
+l'étudiant | nom m. | sinh viên
+l'élève | nom m./f. | học sinh
+le médecin | nom m. | bác sĩ
+l'infirmier | nom m. | y tá
+le dentiste | nom m. | nha sĩ
+l'ingénieur | nom m. | kỹ sư
+l'avocat | nom m. | luật sư
+le vendeur | nom m. | người bán hàng
+le serveur | nom m. | bồi bàn
+le cuisinier | nom m. | đầu bếp
+le policier | nom m. | cảnh sát
+le chauffeur | nom m. | tài xế
+le boulanger | nom m. | thợ làm bánh mì
+le journaliste | nom m. | nhà báo
+l'employé | nom m. | nhân viên
+le directeur | nom m. | giám đốc
+le chef | nom m. | sếp; bếp trưởng
+l'informaticien | nom m. | chuyên viên tin học
+l'artiste | nom m./f. | nghệ sĩ
+le musicien | nom m. | nhạc sĩ
+l'acteur | nom m. | diễn viên
+l'agriculteur | nom m. | nông dân
+le pharmacien | nom m. | dược sĩ
+le facteur | nom m. | người đưa thư
+le guide | nom m. | hướng dẫn viên
+l'entreprise | nom f. | doanh nghiệp
+le bureau | nom m. | văn phòng; bàn làm việc
+le salaire | nom m. | lương
+le CV | nom m. | sơ yếu lý lịch
+l'entretien | nom m. | buổi phỏng vấn
+le stage | nom m. | thực tập
+le collègue | nom m. | đồng nghiệp
+la réunion | nom f. | cuộc họp
+# ===== Nhà ở, đồ vật =====
+la maison | nom f. | ngôi nhà
+l'appartement | nom m. | căn hộ
+l'immeuble | nom m. | toà nhà
+l'étage | nom m. | tầng
+la chambre | nom f. | phòng ngủ
+la cuisine | nom f. | nhà bếp; món ăn
+le salon | nom m. | phòng khách
+la salle de bains | nom f. | phòng tắm
+les toilettes | nom f. pl. | nhà vệ sinh
+le jardin | nom m. | khu vườn
+la porte | nom f. | cửa ra vào
+la fenêtre | nom f. | cửa sổ
+le mur | nom m. | bức tường
+l'escalier | nom m. | cầu thang
+l'ascenseur | nom m. | thang máy
+la clé | nom f. | chìa khoá
+le lit | nom m. | giường
+la table | nom f. | cái bàn
+la chaise | nom f. | cái ghế
+le canapé | nom m. | ghế sofa
+l'armoire | nom f. | tủ quần áo
+le placard | nom m. | tủ tường
+la lampe | nom f. | đèn
+le frigo | nom m. | tủ lạnh
+le four | nom m. | lò nướng
+la télé | nom f. | ti vi
+l'ordinateur | nom m. | máy tính
+le téléphone | nom m. | điện thoại
+le portable | nom m. | điện thoại di động
+la tablette | nom f. | máy tính bảng
+le livre | nom m. | quyển sách
+le cahier | nom m. | quyển vở
+le stylo | nom m. | bút
+le crayon | nom m. | bút chì
+le sac | nom m. | túi, cặp
+la valise | nom f. | va li
+le billet | nom m. | vé; tờ tiền
+le ticket | nom m. | vé (tàu điện, xe buýt)
+la carte | nom f. | thẻ; bản đồ; thực đơn
+le passeport | nom m. | hộ chiếu
+la photo | nom f. | bức ảnh
+le cadeau | nom m. | món quà
+la lettre | nom f. | lá thư; chữ cái
+le mot | nom m. | từ
+la phrase | nom f. | câu
+le message | nom m. | tin nhắn
+le mail | nom m. | thư điện tử
+le courriel | nom m. | thư điện tử
+le loyer | nom m. | tiền thuê nhà
+# ===== Thành phố, giao thông =====
+la ville | nom f. | thành phố
+le village | nom m. | làng
+la campagne | nom f. | nông thôn
+le pays | nom m. | đất nước
+la rue | nom f. | đường phố
+l'avenue | nom f. | đại lộ
+la place | nom f. | quảng trường; chỗ
+le quartier | nom m. | khu phố
+le centre-ville | nom m. | trung tâm thành phố
+le pont | nom m. | cây cầu
+le parc | nom m. | công viên
+la banque | nom f. | ngân hàng
+la poste | nom f. | bưu điện
+la gare | nom f. | nhà ga
+l'aéroport | nom m. | sân bay
+l'hôpital | nom m. | bệnh viện
+la pharmacie | nom f. | hiệu thuốc
+l'école | nom f. | trường học
+l'université | nom f. | trường đại học
+la bibliothèque | nom f. | thư viện
+le musée | nom m. | bảo tàng
+le cinéma | nom m. | rạp chiếu phim
+le théâtre | nom m. | nhà hát
+l'église | nom f. | nhà thờ
+le marché | nom m. | chợ
+le supermarché | nom m. | siêu thị
+le magasin | nom m. | cửa hàng
+la boulangerie | nom f. | tiệm bánh mì
+la boucherie | nom f. | hàng thịt
+l'épicerie | nom f. | cửa hàng tạp hoá
+le restaurant | nom m. | nhà hàng
+le café | nom m. | cà phê; quán cà phê
+l'hôtel | nom m. | khách sạn
+la piscine | nom f. | bể bơi
+le stade | nom m. | sân vận động
+la mairie | nom f. | toà thị chính
+le commissariat | nom m. | đồn cảnh sát
+le carrefour | nom m. | ngã tư
+le feu | nom m. | đèn giao thông; lửa
+le trottoir | nom m. | vỉa hè
+le métro | nom m. | tàu điện ngầm
+le bus | nom m. | xe buýt
+le train | nom m. | tàu hoả
+l'avion | nom m. | máy bay
+la voiture | nom f. | xe ô tô
+le vélo | nom m. | xe đạp
+la moto | nom f. | xe máy
+le taxi | nom m. | taxi
+le bateau | nom m. | tàu thuyền
+la station | nom f. | ga (tàu điện), trạm
+l'arrêt | nom m. | điểm dừng
+le quai | nom m. | sân ga
+la ligne | nom f. | tuyến
+la direction | nom f. | hướng
+le plan | nom m. | bản đồ (thành phố)
+la droite | nom f. | bên phải
+la gauche | nom f. | bên trái
+tout droit | adverbe | thẳng
+le nord | nom m. | phía bắc
+le sud | nom m. | phía nam
+l'est | nom m. | phía đông
+l'ouest | nom m. | phía tây
+# ===== Thời gian =====
+le temps | nom m. | thời gian; thời tiết
+l'heure | nom f. | giờ
+la minute | nom f. | phút
+la seconde | nom f. | giây
+le jour | nom m. | ngày
+la journée | nom f. | cả ngày
+la semaine | nom f. | tuần
+le mois | nom m. | tháng
+le week-end | nom m. | cuối tuần
+le matin | nom m. | buổi sáng
+le midi | nom m. | buổi trưa
+l'après-midi | nom m. | buổi chiều
+le soir | nom m. | buổi tối
+la soirée | nom f. | buổi tối; buổi tiệc tối
+la nuit | nom f. | ban đêm
+minuit | nom m. | nửa đêm
+la date | nom f. | ngày tháng
+l'anniversaire | nom m. | sinh nhật
+les vacances | nom f. pl. | kỳ nghỉ
+la fête | nom f. | bữa tiệc; ngày lễ
+lundi | nom m. | thứ Hai
+mardi | nom m. | thứ Ba
+mercredi | nom m. | thứ Tư
+jeudi | nom m. | thứ Năm
+vendredi | nom m. | thứ Sáu
+samedi | nom m. | thứ Bảy
+dimanche | nom m. | Chủ Nhật
+janvier | nom m. | tháng Một
+février | nom m. | tháng Hai
+mars | nom m. | tháng Ba
+avril | nom m. | tháng Tư
+mai | nom m. | tháng Năm
+juin | nom m. | tháng Sáu
+juillet | nom m. | tháng Bảy
+août | nom m. | tháng Tám
+septembre | nom m. | tháng Chín
+octobre | nom m. | tháng Mười
+novembre | nom m. | tháng Mười Một
+décembre | nom m. | tháng Mười Hai
+le printemps | nom m. | mùa xuân
+l'été | nom m. | mùa hè
+l'automne | nom m. | mùa thu
+l'hiver | nom m. | mùa đông
+la saison | nom f. | mùa
+# ===== Thời tiết, thiên nhiên =====
+le soleil | nom m. | mặt trời
+la pluie | nom f. | mưa
+la neige | nom f. | tuyết
+le vent | nom m. | gió
+le nuage | nom m. | đám mây
+l'orage | nom m. | giông bão
+la température | nom f. | nhiệt độ
+le degré | nom m. | độ
+la mer | nom f. | biển
+la plage | nom f. | bãi biển
+la montagne | nom f. | núi
+la forêt | nom f. | rừng
+la rivière | nom f. | con sông
+le lac | nom m. | hồ
+l'arbre | nom m. | cây
+la fleur | nom f. | bông hoa
+l'animal | nom m. | động vật
+le chien | nom m. | con chó
+le chat | nom m. | con mèo
+l'oiseau | nom m. | con chim
+le poisson | nom m. | con cá; món cá
+le cheval | nom m. | con ngựa
+# ===== Ăn uống =====
+le repas | nom m. | bữa ăn
+le petit-déjeuner | nom m. | bữa sáng
+le déjeuner | nom m. | bữa trưa
+le dîner | nom m. | bữa tối
+le menu | nom m. | thực đơn, suất ăn
+l'entrée | nom f. | món khai vị; lối vào
+le plat | nom m. | món chính; đĩa
+le dessert | nom m. | món tráng miệng
+l'addition | nom f. | hoá đơn (nhà hàng)
+le pourboire | nom m. | tiền boa
+le pain | nom m. | bánh mì
+la baguette | nom f. | bánh mì dài
+le croissant | nom m. | bánh sừng bò
+le beurre | nom m. | bơ
+la confiture | nom f. | mứt
+le fromage | nom m. | phô mai
+l'œuf | nom m. | quả trứng
+le lait | nom m. | sữa
+le yaourt | nom m. | sữa chua
+la viande | nom f. | thịt
+le poulet | nom m. | thịt gà
+le bœuf | nom m. | thịt bò
+le porc | nom m. | thịt lợn
+le jambon | nom m. | giăm bông
+le riz | nom m. | cơm, gạo
+les pâtes | nom f. pl. | mì ống
+la soupe | nom f. | súp
+la salade | nom f. | sa lát; rau xà lách
+le légume | nom m. | rau củ
+la tomate | nom f. | cà chua
+la pomme de terre | nom f. | khoai tây
+les frites | nom f. pl. | khoai tây chiên
+la carotte | nom f. | cà rốt
+l'oignon | nom m. | hành tây
+le fruit | nom m. | trái cây
+la pomme | nom f. | quả táo
+la banane | nom f. | quả chuối
+l'orange | nom f. | quả cam
+la fraise | nom f. | quả dâu tây
+le citron | nom m. | quả chanh
+le gâteau | nom m. | bánh ngọt
+le chocolat | nom m. | sô cô la
+le sucre | nom m. | đường
+le sel | nom m. | muối
+le poivre | nom m. | hạt tiêu
+l'huile | nom f. | dầu ăn
+l'eau | nom f. | nước
+le thé | nom m. | trà
+le jus | nom m. | nước ép
+le vin | nom m. | rượu vang
+la bière | nom f. | bia
+la boisson | nom f. | đồ uống
+la bouteille | nom f. | chai
+le verre | nom m. | cái cốc; ly
+la tasse | nom f. | tách
+l'assiette | nom f. | đĩa
+le couteau | nom m. | con dao
+la fourchette | nom f. | cái nĩa
+la cuillère | nom f. | cái thìa
+le kilo | nom m. | ki-lô-gam
+le gramme | nom m. | gam
+le litre | nom m. | lít
+le morceau | nom m. | miếng
+la tranche | nom f. | lát
+le paquet | nom m. | gói
+la boîte | nom f. | hộp
+# ===== Mua sắm, quần áo =====
+le prix | nom m. | giá; giải thưởng
+l'argent | nom m. | tiền; bạc
+l'euro | nom m. | đồng euro
+le centime | nom m. | xu
+la carte bancaire | nom f. | thẻ ngân hàng
+les soldes | nom m. pl. | đợt giảm giá
+la taille | nom f. | cỡ; chiều cao
+la pointure | nom f. | cỡ giày
+les vêtements | nom m. pl. | quần áo
+la chemise | nom f. | áo sơ mi
+le t-shirt | nom m. | áo phông
+le pantalon | nom m. | quần dài
+le jean | nom m. | quần bò
+la jupe | nom f. | chân váy
+la robe | nom f. | váy liền
+la veste | nom f. | áo khoác ngắn
+le manteau | nom m. | áo khoác dài
+le pull | nom m. | áo len
+les chaussures | nom f. pl. | giày
+les chaussettes | nom f. pl. | tất
+le chapeau | nom m. | mũ
+l'écharpe | nom f. | khăn quàng
+les lunettes | nom f. pl. | kính
+la couleur | nom f. | màu sắc
+# ===== Cơ thể, sức khoẻ =====
+le corps | nom m. | cơ thể
+la tête | nom f. | đầu
+les cheveux | nom m. pl. | tóc
+le visage | nom m. | khuôn mặt
+l'œil | nom m. | mắt
+les yeux | nom m. pl. | đôi mắt
+le nez | nom m. | mũi
+la bouche | nom f. | miệng
+la dent | nom f. | răng
+l'oreille | nom f. | tai
+le cou | nom m. | cổ
+la gorge | nom f. | cổ họng
+l'épaule | nom f. | vai
+le bras | nom m. | cánh tay
+la main | nom f. | bàn tay
+le doigt | nom m. | ngón tay
+le dos | nom m. | lưng
+le ventre | nom m. | bụng
+la jambe | nom f. | chân
+le genou | nom m. | đầu gối
+le pied | nom m. | bàn chân
+le cœur | nom m. | trái tim
+la santé | nom f. | sức khoẻ
+la maladie | nom f. | bệnh
+la fièvre | nom f. | sốt
+le rhume | nom m. | cảm lạnh
+la grippe | nom f. | cúm
+le médicament | nom m. | thuốc
+l'ordonnance | nom f. | đơn thuốc
+le rendez-vous | nom m. | cuộc hẹn
+# ===== Học tập, giải trí =====
+la langue | nom f. | ngôn ngữ; cái lưỡi
+le français | nom m. | tiếng Pháp
+l'anglais | nom m. | tiếng Anh
+le vietnamien | nom m. | tiếng Việt
+la classe | nom f. | lớp học
+le cours | nom m. | khoá học, tiết học
+la leçon | nom f. | bài học
+l'exercice | nom m. | bài tập
+l'examen | nom m. | kỳ thi
+la question | nom f. | câu hỏi
+la réponse | nom f. | câu trả lời
+le tableau | nom m. | bảng; bức tranh
+la page | nom f. | trang
+le dictionnaire | nom m. | từ điển
+le loisir | nom m. | sở thích, giải trí
+le sport | nom m. | thể thao
+le football | nom m. | bóng đá
+le tennis | nom m. | quần vợt
+la natation | nom f. | bơi lội
+la musique | nom f. | âm nhạc
+la chanson | nom f. | bài hát
+le film | nom m. | bộ phim
+la série | nom f. | phim bộ
+le jeu | nom m. | trò chơi
+la lecture | nom f. | việc đọc
+la peinture | nom f. | hội hoạ
+la promenade | nom f. | cuộc đi dạo
+le voyage | nom m. | chuyến du lịch
+le concert | nom m. | buổi hoà nhạc
+l'exposition | nom f. | triển lãm
+le journal | nom m. | tờ báo
+les réseaux sociaux | nom m. pl. | mạng xã hội
+l'internet | nom m. | mạng internet
+l'histoire | nom f. | lịch sử; câu chuyện
+l'idée | nom f. | ý tưởng
+l'avis | nom m. | ý kiến
+le problème | nom m. | vấn đề
+la chose | nom f. | đồ vật, điều
+la fois | nom f. | lần
+la vie | nom f. | cuộc sống
+l'amour | nom m. | tình yêu
+la joie | nom f. | niềm vui
+la peur | nom f. | nỗi sợ
+la colère | nom f. | cơn giận
+la surprise | nom f. | sự ngạc nhiên
+l'envie | nom f. | mong muốn
+# ===== Quốc gia, quốc tịch =====
+la France | nom f. | nước Pháp
+le Viêt Nam | nom m. | Việt Nam
+Paris | nom propre | Paris
+Hanoï | nom propre | Hà Nội
+français | adjectif | thuộc Pháp, người Pháp
+vietnamien | adjectif | thuộc Việt Nam, người Việt
+anglais | adjectif | thuộc Anh, người Anh
+américain | adjectif | thuộc Mỹ
+chinois | adjectif | thuộc Trung Quốc
+japonais | adjectif | thuộc Nhật Bản
+coréen | adjectif | thuộc Hàn Quốc
+allemand | adjectif | thuộc Đức
+espagnol | adjectif | thuộc Tây Ban Nha
+italien | adjectif | thuộc Ý
+canadien | adjectif | thuộc Canada
+belge | adjectif | thuộc Bỉ
+suisse | adjectif | thuộc Thuỵ Sĩ
+# ===== Tính từ =====
+grand | adjectif | lớn, cao
+petit | adjectif | nhỏ, thấp
+gros | adjectif | to, béo
+mince | adjectif | mảnh mai
+beau | adjectif | đẹp (giống đực)
+belle | adjectif | đẹp (giống cái)
+bel | adjectif | đẹp (giống đực trước nguyên âm)
+joli | adjectif | xinh
+laid | adjectif | xấu
+jeune | adjectif | trẻ
+vieux | adjectif | già, cũ (giống đực)
+vieille | adjectif | già, cũ (giống cái)
+nouveau | adjectif | mới (giống đực)
+nouvelle | adjectif | mới (giống cái)
+bon | adjectif | ngon, tốt
+bonne | adjectif | ngon, tốt (giống cái)
+mauvais | adjectif | dở, xấu
+meilleur | adjectif | tốt hơn, tốt nhất
+chaud | adjectif | nóng
+froid | adjectif | lạnh
+long | adjectif | dài
+longue | adjectif | dài (giống cái)
+court | adjectif | ngắn
+cher | adjectif | đắt; thân mến
+chère | adjectif | đắt; thân mến (giống cái)
+facile | adjectif | dễ
+difficile | adjectif | khó
+content | adjectif | vui, hài lòng
+heureux | adjectif | hạnh phúc
+triste | adjectif | buồn
+fatigué | adjectif | mệt
+malade | adjectif | ốm
+gentil | adjectif | tốt bụng, dễ thương
+gentille | adjectif | tốt bụng (giống cái)
+sympa | adjectif | dễ mến
+sympathique | adjectif | dễ mến
+intelligent | adjectif | thông minh
+drôle | adjectif | hài hước
+sérieux | adjectif | nghiêm túc
+timide | adjectif | nhút nhát
+calme | adjectif | yên tĩnh, điềm tĩnh
+bruyant | adjectif | ồn ào
+propre | adjectif | sạch; riêng
+sale | adjectif | bẩn
+libre | adjectif | rảnh; tự do
+occupé | adjectif | bận
+ouvert | adjectif | mở cửa
+fermé | adjectif | đóng cửa
+plein | adjectif | đầy
+vide | adjectif | trống
+rapide | adjectif | nhanh
+lent | adjectif | chậm
+prêt | adjectif | sẵn sàng
+important | adjectif | quan trọng
+intéressant | adjectif | thú vị
+ennuyeux | adjectif | buồn tẻ
+super | adjectif | tuyệt
+génial | adjectif | tuyệt vời
+magnifique | adjectif | tráng lệ
+célèbre | adjectif | nổi tiếng
+riche | adjectif | giàu
+pauvre | adjectif | nghèo
+fort | adjectif | khoẻ; mạnh
+faible | adjectif | yếu
+blanc | adjectif | trắng
+blanche | adjectif | trắng (giống cái)
+noir | adjectif | đen
+rouge | adjectif | đỏ
+bleu | adjectif | xanh dương
+vert | adjectif | xanh lá
+jaune | adjectif | vàng
+gris | adjectif | xám
+rose | adjectif / nom f. | hồng; hoa hồng
+marron | adjectif | nâu
+violet | adjectif | tím
+orange | adjectif | màu cam
+brun | adjectif | nâu (tóc)
+blond | adjectif | vàng hoe (tóc)
+roux | adjectif | đỏ hoe (tóc)
+seul | adjectif | một mình; duy nhất
+prochain | adjectif | tới, sau
+dernière | adjectif | cuối cùng (giống cái)
+différent | adjectif | khác
+même | adjectif | giống, cùng
+possible | adjectif | có thể
+pressé | adjectif | vội
+désolé | adjectif | xin lỗi, lấy làm tiếc
+enchanté | adjectif | rất vui được gặp
+surpris | adjectif | ngạc nhiên
+inquiet | adjectif | lo lắng
+fâché | adjectif | giận
+amoureux | adjectif | đang yêu
+fier | adjectif | tự hào
+nerveux | adjectif | căng thẳng
+déçu | adjectif | thất vọng
+# ===== Thuật ngữ ngữ pháp & lời hướng dẫn bài tập =====
+l'accent | nom m. | dấu (thanh); giọng (vùng miền)
+aigu | adjectif | sắc (dấu é); nhọn
+grave | adjectif | huyền (dấu è); nghiêm trọng
+circonflexe | adjectif | dấu mũ (â ê î ô û)
+la cédille | nom f. | dấu móc dưới (ç)
+le tréma | nom m. | dấu hai chấm (ë ï)
+la voyelle | nom f. | nguyên âm
+la consonne | nom f. | phụ âm
+le son | nom m. | âm thanh
+nasal | adjectif | (thuộc) âm mũi
+nasale | adjectif | (thuộc) âm mũi (giống cái)
+muet | adjectif | câm (không đọc)
+la liaison | nom f. | nối âm
+l'élision | nom f. | lược âm (je → j')
+la prononciation | nom f. | cách phát âm
+le pronom | nom m. | đại từ
+le verbe | nom m. | động từ
+l'adjectif | nom m. | tính từ
+l'adverbe | nom m. | trạng từ
+l'article | nom m. | mạo từ; bài báo
+le sujet | nom m. | chủ ngữ; chủ đề
+masculin | adjectif | giống đực
+féminin | adjectif | giống cái
+singulier | adjectif | số ít
+pluriel | adjectif | số nhiều
+irrégulier | adjectif | bất quy tắc
+régulier | adjectif | có quy tắc, đều đặn
+la règle | nom f. | quy tắc
+l'exemple | nom m. | ví dụ
+la conjugaison | nom f. | cách chia động từ
+le présent | nom m. | thì hiện tại
+le passé | nom m. | quá khứ
+le futur | nom m. | tương lai
+la négation | nom f. | phủ định
+la réplique | nom f. | lượt lời (hội thoại)
+le dialogue | nom m. | đoạn hội thoại
+la consigne | nom f. | đề bài, yêu cầu
+la formule | nom f. | công thức, câu nói cố định
+le texte | nom m. | văn bản
+le titre | nom m. | tiêu đề
+le choix | nom m. | lựa chọn
+la description | nom f. | sự miêu tả
+la nationalité | nom f. | quốc tịch
+la profession | nom f. | nghề nghiệp
+le lieu | nom m. | nơi chốn
+l'endroit | nom m. | nơi, chỗ
+la quantité | nom f. | số lượng
+le moment | nom m. | khoảnh khắc, lúc
+la réception | nom f. | quầy lễ tân
+l'attention | nom f. | sự chú ý; (Attention !) Cẩn thận!
+le besoin | nom m. | nhu cầu; (avoir besoin de) cần
+l'air | nom m. | không khí
+la cave | nom f. | hầm, hầm rượu
+le mot de passe | nom m. | mật khẩu
+@er compléter | điền vào, hoàn thành
+@er conjuguer | chia (động từ)
+@er souligner | gạch chân
+@er associer | ghép, nối
+@er transformer | biến đổi
+@er désirer | mong muốn (Vous désirez ? = Ông/bà cần gì?)
+@er prononcer | phát âm
+@er enseigner | dạy
+@v contenir | chứa | contiens,contiens,contient,contenons,contenez,contiennent | contenu | conten | contiendr
+@v revoir | gặp lại; (au revoir) tạm biệt | revois,revois,revoit,revoyons,revoyez,revoient | revu | revoy | reverr
+bientôt | adverbe | sắp, sớm
+jusqu' | préposition | đến, cho đến (trước nguyên âm)
+jusque | préposition | đến, cho đến
+quelqu' | pronom | (quelqu'un) ai đó
+ah | interjection | à, ồ
+oh | interjection | ôi, ồ
+euh | interjection | ờ, ừm (ngập ngừng)
+aucun | adjectif / pronom | không một … nào
+moins | adverbe | ít hơn; kém (giờ)
+parfait | adjectif | hoàn hảo; (Parfait !) Tốt lắm!
+poli | adjectif | lịch sự
+poliment | adverbe | một cách lịch sự
+familier | adjectif | thân mật, suồng sã
+formellement | adverbe | một cách trang trọng
+formel | adjectif | trang trọng
+amicalement | adverbe | một cách thân mật; (cuối thư) thân ái
+absent | adjectif | vắng mặt
+présent | adjectif | có mặt
+fin | adjectif / nom f. | mảnh, mỏng; (la fin) sự kết thúc
+naïf | adjectif | ngây thơ
+@er poser | đặt; (poser une question) đặt câu hỏi
+@er accorder | làm cho hợp (giống, số)
+@er inverser | đảo ngược
+@v asseoir | ngồi | assois,assois,assoit,assoyons,assoyez,assoient | assis | assoy | assoir
+agréable | adjectif | dễ chịu
+la beauté | nom f. | vẻ đẹp
+brésilien | adjectif | thuộc Brazil
+portugais | adjectif | thuộc Bồ Đào Nha
+international | adjectif | quốc tế
+chacun | pronom | mỗi người
+le club | nom m. | câu lạc bộ
+le contraire | nom m. | điều ngược lại
+correct | adjectif | đúng
+courant | adjectif | thông dụng; trôi chảy
+soutenu | adjectif | trang trọng (văn phong)
+le début | nom m. | sự bắt đầu
+l'expression | nom f. | cách diễn đạt, thành ngữ
+la faim | nom f. | cơn đói (avoir faim: đói)
+la soif | nom f. | cơn khát (avoir soif: khát)
+le genre | nom m. | giống (ngữ pháp); loại
+interrogatif | adjectif | nghi vấn (để hỏi)
+l'intonation | nom f. | ngữ điệu
+l'inversion | nom f. | sự đảo ngữ
+les jumeaux | nom m. pl. | cặp sinh đôi
+lourd | adjectif | nặng
+maman | nom f. | mẹ (thân mật)
+papa | nom m. | bố (thân mật)
+mignon | adjectif | dễ thương
+méchant | adjectif | dữ, ác
+nouvel | adjectif | mới (giống đực trước nguyên âm)
+négatif | adjectif | phủ định; tiêu cực
+positif | adjectif | khẳng định; tích cực
+ouaf | interjection | gâu gâu (tiếng chó sủa)
+la possession | nom f. | sự sở hữu
+le prof | nom m. | thầy/cô giáo (khẩu ngữ)
+la publicité | nom f. | quảng cáo
+le questionnaire | nom m. | bảng câu hỏi
+la salle | nom f. | phòng (lớn)
+la salle de classe | nom f. | phòng học
+sûr | adjectif | chắc chắn; (bien sûr) tất nhiên
+bien sûr | expression | tất nhiên
+la télévision | nom f. | ti vi, truyền hình
+l'accord | nom m. | sự đồng ý; sự hợp (giống, số)
+l'alcool | nom m. | rượu, cồn
+le badminton | nom m. | cầu lông
+la cafétéria | nom f. | căng tin
+chargé | adjectif | bận rộn; nặng
+classique | adjectif | cổ điển
+le client | nom m. | khách hàng
+la cliente | nom f. | khách hàng (nữ)
+le droit | nom m. | luật; quyền
+délicieux | adjectif | ngon tuyệt
+@er déplacer | di chuyển (se déplacer: đi lại)
+@v enlever | lấy đi, bỏ đi | enlève,enlèves,enlève,enlevons,enlevez,enlèvent | enlevé | enlev | enlèver
+l'emploi du temps | nom m. | thời gian biểu
+l'emploi | nom m. | việc làm; cách dùng
+les espèces | nom f. pl. | tiền mặt
+la forme | nom f. | hình thức, dạng
+le goût | nom m. | vị; sở thích
+l'habitude | nom f. | thói quen
+l'importance | nom f. | tầm quan trọng
+l'infinitif | nom m. | dạng nguyên thể (động từ)
+l'informatique | nom f. | tin học
+la majuscule | nom f. | chữ hoa
+la mangue | nom f. | quả xoài
+le match | nom m. | trận đấu
+la passion | nom f. | đam mê
+la plupart | nom f. | phần lớn
+la poutine | nom f. | món poutine (khoai tây chiên phô mai, Canada)
+le profil | nom m. | hồ sơ cá nhân
+précis | adjectif | chính xác, cụ thể
+la radio | nom f. | đài phát thanh
+la raison | nom f. | lý do
+le retard | nom m. | sự chậm trễ (en retard: muộn)
+le site | nom m. | trang web
+le steak | nom m. | bít tết
+sucré | adjectif | ngọt
+la terminaison | nom f. | đuôi (từ)
+la vidéo | nom f. | video
+le jeu vidéo | nom m. | trò chơi điện tử
+l'économie | nom f. | kinh tế
+adj. | abréviation | tính từ (viết tắt)
+l'album | nom m. | album
+animé | adjectif | nhộn nhịp, sôi động
+l'auteur | nom m. | tác giả
+bavard | adjectif | lắm lời
+la blague | nom f. | chuyện đùa
+le caractère | nom m. | tính cách
+le costume | nom m. | bộ com-lê
+le côté | nom m. | bên, phía (à côté de: bên cạnh)
+l'enveloppe | nom f. | phong bì
+fidèle | adjectif | chung thuỷ, trung thành
+général | adjectif | chung (en général: nói chung)
+généreux | adjectif | hào phóng
+l'habitant | nom m. | người dân
+le maire | nom m. | thị trưởng
+le mariage | nom m. | đám cưới; hôn nhân
+le membre | nom m. | thành viên
+le nombre | nom m. | số
+l'objet | nom m. | đồ vật
+le physique | nom m. | ngoại hình
+plusieurs | adjectif | nhiều, vài
+possessif | adjectif | sở hữu
+@v posséder | sở hữu | possède,possèdes,possède,possédons,possédez,possèdent | possédé | posséd | posséder
+@er retrouver | tìm lại; (se retrouver) gặp lại nhau, sum họp
+romantique | adjectif | lãng mạn
+rond | adjectif | tròn
+la scène | nom f. | cảnh; sân khấu
+le tiret | nom m. | dấu gạch ngang
+vieil | adjectif | già, cũ (giống đực trước nguyên âm)
+élégant | adjectif | thanh lịch
+l'étranger | nom m. | nước ngoài; người lạ (à l'étranger: ở nước ngoài)
+l'activité | nom f. | hoạt động
+l'amphithéâtre | nom m. | giảng đường
+l'appétit | nom m. | sự ngon miệng (Bon appétit ! Chúc ngon miệng!)
+le disque | nom m. | đĩa nhạc
+le défilé | nom m. | cuộc diễu hành
+exactement | adverbe | chính xác
+le festival | nom m. | lễ hội
+la feuille | nom f. | chiếc lá; tờ giấy
+la fiche | nom f. | phiếu
+@er fixer | ấn định, hẹn
+@re fondre | tan chảy
+férié | adjectif | (jour férié) ngày nghỉ lễ
+la guitare | nom f. | đàn ghi-ta
+huitante | nombre | tám mươi (Thuỵ Sĩ)
+septante | nombre | bảy mươi (Bỉ, Thuỵ Sĩ)
+nonante | nombre | chín mươi (Bỉ, Thuỵ Sĩ)
+octante | nombre | tám mươi (cách nói cũ)
+l'information | nom f. | thông tin
+l'inscription | nom f. | sự đăng ký
+la naissance | nom f. | sự ra đời
+national | adjectif | quốc gia
+officiel | adjectif | chính thức
+le parapluie | nom m. | cái ô
+le marché aux puces | nom m. | chợ đồ cũ
+la puce | nom f. | con bọ chét (marché aux puces: chợ đồ cũ)
+le touriste | nom m. | khách du lịch
+typique | adjectif | điển hình
+doux | adjectif | dịu, ấm áp; mềm
+finalement | adverbe | cuối cùng
+abord | adverbe | (d'abord) trước tiên
+face | nom f. | mặt (en face: đối diện)
+la tour | nom f. | toà tháp
+le tour | nom m. | vòng; lượt; chuyến đi
+le basket | nom m. | bóng rổ
+la batterie | nom f. | bộ trống; pin
+dehors | adverbe | bên ngoài
+le déplacement | nom m. | sự di chuyển
+l'escalade | nom f. | leo núi, leo tường
+excellent | adjectif | tuyệt hảo
+fruitier | adjectif | (arbre fruitier) cây ăn quả
+gratuit | adjectif | miễn phí
+l'harmonica | nom m. | kèn harmonica
+immense | adjectif | rộng mênh mông
+l'instrument | nom m. | nhạc cụ; dụng cụ
+le judo | nom m. | võ judo
+ménager | adjectif | (tâches ménagères) việc nhà
+la tâche | nom f. | nhiệm vụ, công việc
+la météo | nom f. | dự báo thời tiết
+le nem | nom m. | nem rán
+nulle part | adverbe | không ở đâu cả
+les percussions | nom f. pl. | bộ gõ
+la pizza | nom f. | bánh pizza
+le programme | nom m. | chương trình; kế hoạch
+la pétanque | nom f. | trò chơi bi sắt
+relaxant | adjectif | thư giãn
+@er retirer | rút (tiền), lấy ra
+la tulipe | nom f. | hoa tulip
+la vaisselle | nom f. | bát đĩa (faire la vaisselle: rửa bát)
+les échecs | nom m. pl. | cờ vua
+le rêve | nom m. | giấc mơ
+la terrasse | nom f. | sân hiên
+le bord | nom m. | bờ, mép (au bord de la mer: bên bờ biển)
+actuel | adjectif | hiện tại
+affirmatif | adjectif | khẳng định
+l'animation | nom f. | sự nhộn nhịp; hoạt náo
+l'annonce | nom f. | thông báo; tin rao
+autour | adverbe | xung quanh (autour de)
+la baignoire | nom f. | bồn tắm
+le bain | nom m. | việc tắm (salle de bains: phòng tắm)
+le bar | nom m. | quán bar
+bas | adjectif / adverbe | thấp; (en bas) ở dưới
+le bâtiment | nom m. | toà nhà, công trình
+carré | adjectif | vuông (mètre carré: mét vuông)
+@er casser | làm vỡ
+le commerce | nom m. | cửa hàng; thương mại
+démonstratif | adjectif | chỉ định
+le désordre | nom m. | sự bừa bộn
+l'existence | nom f. | sự tồn tại
+@er exprimer | diễn đạt
+la fatigue | nom f. | sự mệt mỏi
+le garage | nom m. | ga-ra
+idéal | adjectif | lý tưởng
+l'inconvénient | nom m. | nhược điểm
+la kitchenette | nom f. | bếp nhỏ
+la lumière | nom f. | ánh sáng
+léger | adjectif | nhẹ
+@er meubler | trang bị đồ nội thất (meublé: có sẵn đồ)
+le milieu | nom m. | giữa (au milieu de)
+le mètre | nom m. | mét
+le niveau | nom m. | mức, tầng, trình độ
+la panne | nom f. | sự hỏng hóc (en panne: bị hỏng)
+principal | adjectif | chính
+la préposition | nom f. | giới từ
+quatrième | adjectif | thứ tư
+cinquième | adjectif | thứ năm
+sixième | adjectif | thứ sáu
+la situation | nom f. | vị trí; tình huống
+@er situer | định vị (être situé: nằm ở)
+le solde | nom m. | (en solde) đang giảm giá
+le studio | nom m. | căn hộ một phòng
+la terre | nom f. | đất (par terre: dưới sàn)
+le toit | nom m. | mái nhà
+@er équiper | trang bị
+le dong | nom m. | đồng (tiền Việt Nam)
+acide | adjectif | chua
+le bacon | nom m. | thịt xông khói
+le bouillon | nom m. | nước dùng
+@er brûler | đốt cháy, làm cháy
+la carafe | nom f. | bình (nước)
+les chips | nom f. pl. | khoai tây chiên lát mỏng
+le chè | nom m. | chè (món ngọt Việt Nam)
+le chèque | nom m. | séc
+le coin | nom m. | góc (du coin: đầu phố, gần nhà)
+la crème | nom f. | kem (sữa); (café crème) cà phê sữa
+la cuisson | nom f. | độ chín; việc nấu
+@v cuire | nấu chín | cuis,cuis,cuit,cuisons,cuisez,cuisent | cuit | cuis | cuir
+les céréales | nom f. pl. | ngũ cốc
+facultatif | adjectif | không bắt buộc
+frais | adjectif | tươi; mát
+fraîche | adjectif | tươi; mát (giống cái)
+le haricot | nom m. | hạt đậu
+l'herbe | nom f. | cỏ; (les herbes) rau thơm
+l'ingrédient | nom m. | nguyên liệu
+@v interdire | cấm | interdis,interdis,interdit,interdisons,interdisez,interdisent | interdit | interdis | interdir
+l'intérieur | nom m. | bên trong
+liquide | adjectif | lỏng; (argent liquide) tiền mặt
+le miel | nom m. | mật ong
+moyennement | adverbe | vừa phải
+la nouille | nom f. | sợi mì
+obligatoire | adjectif | bắt buộc
+l'omelette | nom f. | trứng tráng
+l'ordre | nom m. | thứ tự; mệnh lệnh
+partitif | adjectif | (mạo từ) bộ phận
+le piment | nom m. | ớt
+le point | nom m. | điểm; dấu chấm (à point: chín vừa)
+presque | adverbe | gần như
+@ir rôtir | quay, nướng
+saignant | adjectif | tái (thịt)
+sec | adjectif | khô
+le service | nom m. | sự phục vụ
+le soja | nom m. | đậu nành
+la spécialité | nom f. | đặc sản, món đặc biệt
+thaï | adjectif | thuộc Thái Lan
+la vache | nom f. | con bò cái
+la vanille | nom f. | vani
+l'épice | nom f. | gia vị
+le pâté | nom m. | pa-tê
+le plat du jour | nom m. | món ăn của ngày
+la tartine | nom f. | lát bánh mì phết bơ/mứt
+la mousse | nom f. | bánh mousse; bọt
+le pain au chocolat | nom m. | bánh mì nhân sô cô la
+le jus d'orange | nom m. | nước cam
+la pièce | nom f. | phòng; đồng xu; vở kịch

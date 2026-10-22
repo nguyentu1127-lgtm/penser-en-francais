@@ -1,0 +1,383 @@
+@week 3
+@title Ma vie de tous les jours
+@level A1
+
+## 1 | Les verbes en -er (1)
+G.title: Le présent des verbes en -er
+G.rule: La plupart des verbes français finissent par -er. Au présent, on enlève -er et on ajoute les terminaisons -e, -es, -e, -ons, -ez, -ent. || Phần lớn động từ tiếng Pháp kết thúc bằng -er. Ở thì hiện tại, ta bỏ -er và thêm đuôi -e, -es, -e, -ons, -ez, -ent.
+G.note: Ví dụ parler (nói): bỏ -er còn "parl-", rồi thêm đuôi. Bốn đuôi -e, -es, -e, -ent đọc GIỐNG NHAU (không đọc chữ cuối): je parle, tu parles, il parle, ils parlent đều đọc /paʁl/. Chỉ -ons và -ez được đọc. Với động từ bắt đầu bằng nguyên âm hoặc h câm, "je" thành "j'": j'habite, j'aime.
+G.table: Pronom | Parler | Habiter
+G.row: je / j' | parle | habite
+G.row: tu | parles | habites
+G.row: il / elle / on | parle | habite
+G.row: nous | parlons | habitons
+G.row: vous | parlez | habitez
+G.row: ils / elles | parlent | habitent
+G.ex: Je parle vietnamien et français. || Tôi nói tiếng Việt và tiếng Pháp.
+G.ex: Tu travailles à Paris ? || Bạn làm việc ở Paris à?
+G.ex: Nous habitons à Hanoï. || Chúng tôi sống ở Hà Nội.
+G.ex: Ils regardent un film. || Họ xem một bộ phim.
+G.q: Nous ___ français. | parle | parles | *parlons | parlez
+G.q: Elles ___ à Lyon. | travaille | travailles | travaillez | *travaillent
+G.q: Quelle forme est correcte ? | je habite | *j'habite | je habites | j'habites
+G.q: Tu ___ la télévision ? | regarde | *regardes | regardent | regardez
+G.q: Complétez : Vous ___ (écouter) la radio ? = écoutez
+V: parler | /paʁ.le/ | verbe | nói | Je parle un peu français. || Tôi nói được một chút tiếng Pháp.
+V: travailler | /tʁa.va.je/ | verbe | làm việc | Ma mère travaille à l'hôpital. || Mẹ tôi làm việc ở bệnh viện.
+V: étudier | /e.ty.dje/ | verbe | học (ở trường) | J'étudie l'économie. || Tôi học kinh tế.
+V: regarder | /ʁə.ɡaʁ.de/ | verbe | xem, nhìn | Nous regardons un film. || Chúng tôi xem một bộ phim.
+V: écouter | /e.ku.te/ | verbe | nghe | Elle écoute de la musique. || Cô ấy nghe nhạc.
+V: chanter | /ʃɑ̃.te/ | verbe | hát | Tu chantes bien ! || Bạn hát hay quá!
+V: danser | /dɑ̃.se/ | verbe | nhảy múa | Ils dansent le samedi soir. || Họ đi nhảy vào tối thứ Bảy.
+V: téléphoner | /te.le.fɔ.ne/ | verbe | gọi điện | Je téléphone à ma mère. || Tôi gọi điện cho mẹ.
+V: la musique | /la my.zik/ | nom f. | âm nhạc | J'écoute de la musique française. || Tôi nghe nhạc Pháp.
+V: un film | /œ̃ film/ | nom m. | bộ phim | C'est un bon film. || Đó là một bộ phim hay.
+VQ: On ___ avec la bouche. | regarde | *parle | écoute | danse
+VQ: On écoute… | un film | *de la musique | une table | un stylo
+VQ: Il ___ à sa sœur au téléphone. | danse | *téléphone | étudie | regarde
+VQ: Quel verbe va avec un film ? | chanter | *regarder | téléphoner | travailler
+VQ: Complétez : Ils ___ (chanter) une chanson. = chantent
+D: Je parle français.
+D: Nous travaillons le lundi.
+D: Elle écoute de la musique.
+D: Vous étudiez à l'université ?
+L: Sophie | Tu travailles ou tu étudies ? || Bạn đi làm hay đi học?
+L: Duc | J'étudie l'informatique à l'université. Et toi ? || Mình học tin học ở trường đại học. Còn bạn?
+L: Sophie | Moi, je travaille dans une banque. || Mình làm việc ở một ngân hàng.
+L: Duc | Tu parles anglais au travail ? || Bạn có nói tiếng Anh ở chỗ làm không?
+L: Sophie | Oui, nous parlons anglais et français. || Có, chúng mình nói tiếng Anh và tiếng Pháp.
+L: Duc | C'est intéressant ! || Thú vị đấy!
+LQ: Duc étudie… | la musique | *l'informatique | l'anglais | l'économie
+LQ: Où travaille Sophie ? | dans un café | *dans une banque | à l'université | à l'hôpital
+LQ: Au travail, Sophie parle… | seulement français | *anglais et français | vietnamien | chinois
+RA: je parle, tu parles, il parle, ils parlent.
+RA: nous parlons, vous parlez.
+RA: J'habite, j'écoute, j'étudie.
+SH: Tu travailles ou tu étudies ?
+SH: J'étudie à l'université.
+SH: Nous parlons anglais et français.
+R.title: Une journée chez les Martin
+R: La famille Martin habite à Bordeaux. || Gia đình Martin sống ở Bordeaux.
+R: Monsieur Martin travaille dans un bureau. || Ông Martin làm việc trong một văn phòng.
+R: Madame Martin est professeur, elle enseigne l'anglais. || Bà Martin là giáo viên, bà dạy tiếng Anh.
+R: Leur fille, Chloé, étudie le droit. || Con gái họ, Chloé, học luật.
+R: Le soir, ils dînent ensemble et ils regardent la télévision. || Buổi tối, họ ăn tối cùng nhau và xem ti vi.
+R: Chloé écoute de la musique dans sa chambre. || Chloé nghe nhạc trong phòng.
+RQ: Où habite la famille Martin ? | à Paris | *à Bordeaux | à Lyon | à Lille
+RQ: Que fait Madame Martin ? | elle étudie le droit | *elle enseigne l'anglais | elle travaille dans une banque | elle chante
+RQ: Le soir, Chloé… | regarde un film | *écoute de la musique | téléphone | danse
+W.prompt: Décris ce que font trois personnes de ta famille ou trois amis. Utilise au moins cinq verbes en -er différents. || Miêu tả việc ba người trong gia đình hoặc ba người bạn làm. Dùng ít nhất năm động từ -er khác nhau.
+W.min: 30
+W.must: travaille ; habite
+W.check: Đuôi động từ khớp với chủ ngữ (je -e, tu -es, nous -ons, vous -ez, ils -ent)
+W.check: Viết « j'habite », « j'étudie » (lược âm trước nguyên âm)
+W.check: Đọc to: các đuôi -e, -es, -ent không phát âm
+W.model: Mon père travaille dans une banque. || Bố tôi làm việc ở một ngân hàng.
+W.model: Ma mère est infirmière, elle travaille à l'hôpital. || Mẹ tôi là y tá, bà làm việc ở bệnh viện.
+W.model: Mon frère étudie la musique. || Anh trai tôi học âm nhạc.
+W.model: Il chante et il danse très bien. || Anh ấy hát và nhảy rất giỏi.
+W.model: Nous habitons à Da Nang. || Chúng tôi sống ở Đà Nẵng.
+W.model: Le soir, nous regardons un film ensemble. || Buổi tối, chúng tôi cùng xem phim.
+
+## 2 | Les verbes en -er (2)
+G.title: Verbes en -er : particularités
+G.rule: Certains verbes en -er changent un peu à l'écrit : manger prend un e avec nous, commencer prend une cédille, et acheter ou préférer changent leur accent. || Một số động từ -er thay đổi chút ít khi viết: manger thêm e với nous, commencer có dấu móc dưới, còn acheter hay préférer thay đổi dấu.
+G.note: Lý do là để giữ cách đọc: "g" trước "o" đọc là /g/, nên phải viết "mangeons" để giữ âm /ʒ/; "c" trước "o" đọc là /k/, nên viết "commençons" để giữ âm /s/. Acheter: j'achète, nous achetons. Préférer: je préfère, nous préférons — dấu è xuất hiện ở các ngôi có đuôi không đọc.
+G.table: Pronom | Manger | Commencer | Acheter
+G.row: je / j' | mange | commence | achète
+G.row: tu | manges | commences | achètes
+G.row: il / elle | mange | commence | achète
+G.row: nous | mangeons | commençons | achetons
+G.row: vous | mangez | commencez | achetez
+G.row: ils / elles | mangent | commencent | achètent
+G.ex: Nous mangeons à midi. || Chúng tôi ăn lúc mười hai giờ trưa.
+G.ex: Le cours commence à neuf heures. || Tiết học bắt đầu lúc chín giờ.
+G.ex: Nous commençons le travail. || Chúng tôi bắt đầu công việc.
+G.ex: J'achète du pain et je préfère le café au thé. || Tôi mua bánh mì và tôi thích cà phê hơn trà.
+G.q: Nous ___ au restaurant. | mangons | *mangeons | mangez | mangent
+G.q: Nous ___ à huit heures. | commencons | *commençons | commenceons | commençez
+G.q: J'___ une baguette. | achete | *achète | achéte | achètes
+G.q: Tu ___ le thé ou le café ? | préferes | *préfères | préférés | préfère
+G.q: Complétez : Nous ___ (voyager) en train. = voyageons
+V: manger | /mɑ̃.ʒe/ | verbe | ăn | Nous mangeons du riz. || Chúng tôi ăn cơm.
+V: commencer | /kɔ.mɑ̃.se/ | verbe | bắt đầu | Le film commence à vingt heures. || Bộ phim bắt đầu lúc tám giờ tối.
+V: acheter | /aʃ.te/ | verbe | mua | J'achète des fruits au marché. || Tôi mua trái cây ở chợ.
+V: préférer | /pʁe.fe.ʁe/ | verbe | thích hơn | Je préfère le thé. || Tôi thích trà hơn.
+V: voyager | /vwa.ja.ʒe/ | verbe | du lịch | Nous voyageons en été. || Chúng tôi đi du lịch vào mùa hè.
+V: nager | /na.ʒe/ | verbe | bơi | Elle nage très bien. || Cô ấy bơi rất giỏi.
+V: payer | /pe.je/ | verbe | trả tiền | Je paie avec ma carte. || Tôi trả bằng thẻ.
+V: le marché | /lə maʁ.ʃe/ | nom m. | chợ | Le marché est ouvert le dimanche. || Chợ mở cửa vào Chủ Nhật.
+V: le thé | /lə te/ | nom m. | trà | Un thé vert, s'il vous plaît. || Cho tôi một trà xanh.
+V: le riz | /lə ʁi/ | nom m. | cơm, gạo | Au Viêt Nam, on mange du riz. || Ở Việt Nam, người ta ăn cơm.
+VQ: On achète des fruits au… | cinéma | *marché | bureau | lit
+VQ: On ___ dans la piscine. | mange | *nage | paie | commence
+VQ: « Je préfère le thé » veut dire… | je n'aime pas le thé | *j'aime le thé plus que le reste | je bois du thé | je vends du thé
+VQ: Au restaurant, à la fin, on… | commence | nage | *paie | voyage
+VQ: Complétez : Nous ___ (nager) le samedi. = nageons
+D: Nous mangeons à midi.
+D: Le cours commence à neuf heures.
+D: J'achète du pain.
+D: Elle préfère le thé.
+L: Vendeur | Bonjour madame, vous désirez ? || Chào bà, bà cần gì ạ?
+L: Cliente | J'achète des mangues, s'il vous plaît. || Tôi mua xoài, làm ơn.
+L: Vendeur | Vous préférez les mangues du Viêt Nam ou du Mexique ? || Bà thích xoài Việt Nam hay xoài Mexico?
+L: Cliente | Je préfère les mangues du Viêt Nam. Elles sont délicieuses. || Tôi thích xoài Việt Nam hơn. Chúng rất ngon.
+L: Vendeur | Voilà. Vous payez par carte ? || Của bà đây. Bà trả bằng thẻ à?
+L: Cliente | Non, je paie en espèces. || Không, tôi trả tiền mặt.
+LQ: Où est la cliente ? | au restaurant | *au marché | à la banque | à la gare
+LQ: Qu'est-ce qu'elle achète ? | des pommes | *des mangues | du riz | du thé
+LQ: Comment elle paie ? | par carte | *en espèces | elle ne paie pas | par téléphone
+RA: je mange, nous mangeons.
+RA: je commence, nous commençons.
+RA: j'achète, nous achetons ; je préfère, nous préférons.
+SH: Nous mangeons au restaurant.
+SH: Je préfère le café.
+SH: Vous payez par carte ?
+R.title: Les habitudes de Hoa
+R: Hoa est étudiante à Montréal. || Hoa là sinh viên ở Montréal.
+R: Le matin, elle commence les cours à huit heures. || Buổi sáng, cô ấy bắt đầu học lúc tám giờ.
+R: À midi, elle mange à la cafétéria avec ses amis. || Buổi trưa, cô ấy ăn ở căng tin với bạn bè.
+R: Elle préfère la cuisine vietnamienne, mais elle aime aussi la poutine. || Cô ấy thích món Việt hơn, nhưng cũng thích món poutine.
+R: Le samedi, elle achète des légumes au marché. || Thứ Bảy, cô ấy mua rau ở chợ.
+R: Le dimanche, elle nage à la piscine. || Chủ Nhật, cô ấy bơi ở bể bơi.
+RQ: Hoa étudie… | à Paris | *à Montréal | à Hanoï | à Lyon
+RQ: À midi, Hoa mange… | chez elle | *à la cafétéria | au restaurant | au marché
+RQ: Que fait Hoa le dimanche ? | elle achète des légumes | *elle nage | elle travaille | elle voyage
+W.prompt: Raconte tes habitudes de la semaine avec manger, commencer, acheter, préférer et nager ou voyager. || Kể về thói quen trong tuần của bạn với manger, commencer, acheter, préférer và nager hoặc voyager.
+W.min: 30
+W.must: nous ; préfère
+W.check: Viết đúng « nous mangeons », « nous commençons »
+W.check: Viết đúng dấu: j'achète, je préfère
+W.check: Có ít nhất một câu với « nous »
+W.model: Le matin, je commence le travail à huit heures. || Buổi sáng, tôi bắt đầu làm việc lúc tám giờ.
+W.model: À midi, nous mangeons au bureau. || Buổi trưa, chúng tôi ăn ở văn phòng.
+W.model: Je préfère le riz, mais mes collègues préfèrent le pain. || Tôi thích cơm hơn, nhưng đồng nghiệp tôi thích bánh mì hơn.
+W.model: Le samedi, j'achète des fruits au marché. || Thứ Bảy, tôi mua trái cây ở chợ.
+W.model: Le dimanche, nous nageons à la piscine. || Chủ Nhật, chúng tôi đi bơi ở bể bơi.
+
+## 3 | La négation ne... pas
+G.title: La phrase négative
+G.rule: Pour faire une phrase négative, on met ne avant le verbe et pas après le verbe. Devant une voyelle, ne devient n'. || Để tạo câu phủ định, ta đặt ne trước động từ và pas sau động từ. Trước nguyên âm, ne thành n'.
+G.note: Cấu trúc: chủ ngữ + ne + động từ + pas. Je parle → Je ne parle pas. J'aime → Je n'aime pas. Khi nói chuyện thân mật, người Pháp thường bỏ "ne": J'sais pas, C'est pas grave — nhưng khi viết luôn phải có đủ "ne … pas". Nhớ: un/une/des → de sau pas: J'ai un chien → Je n'ai pas de chien.
+G.table: Affirmatif | Négatif
+G.row: Je parle anglais. | Je ne parle pas anglais.
+G.row: Il aime le sport. | Il n'aime pas le sport.
+G.row: Nous sommes français. | Nous ne sommes pas français.
+G.row: J'ai une voiture. | Je n'ai pas de voiture.
+G.ex: Je ne parle pas chinois. || Tôi không nói tiếng Trung.
+G.ex: Elle n'habite pas à Paris. || Cô ấy không sống ở Paris.
+G.ex: Nous ne sommes pas fatigués. || Chúng tôi không mệt.
+G.ex: Tu n'as pas de frère ? || Bạn không có anh em trai à?
+G.q: Négation de « je travaille » : | je pas travaille | *je ne travaille pas | je ne pas travaille | je travaille ne pas
+G.q: Il ___ aime pas le café. | ne | *n' | pas | n'a
+G.q: J'ai un chat. → Je n'ai pas ___ chat. | un | une | *de | le
+G.q: Quelle phrase est correcte ? | Elle ne est pas là. | *Elle n'est pas là. | Elle n'est là pas. | Elle est ne pas là.
+G.q: Mettez à la forme négative : Nous parlons. = Nous ne parlons pas.
+V: ne… pas | /nə pa/ | négation | không | Je ne comprends pas. || Tôi không hiểu.
+V: comprendre | /kɔ̃.pʁɑ̃dʁ/ | verbe | hiểu | Vous comprenez ? || Ông hiểu không?
+V: fatigué | /fa.ti.ɡe/ | adjectif | mệt | Je suis fatigué ce soir. || Tối nay tôi mệt.
+V: malade | /ma.lad/ | adjectif | ốm | Il est malade, il ne travaille pas. || Anh ấy ốm nên không đi làm.
+V: fumer | /fy.me/ | verbe | hút thuốc | Je ne fume pas. || Tôi không hút thuốc.
+V: la viande | /la vjɑ̃d/ | nom f. | thịt | Elle ne mange pas de viande. || Cô ấy không ăn thịt.
+V: végétarien | /ve.ʒe.ta.ʁjɛ̃/ | adjectif | ăn chay | Mon ami est végétarien. || Bạn tôi ăn chay.
+V: grave | /ɡʁav/ | adjectif | nghiêm trọng | Ce n'est pas grave. || Không sao đâu.
+V: vrai | /vʁɛ/ | adjectif | đúng, thật | C'est vrai ? || Thật à?
+V: faux | /fo/ | adjectif | sai | Non, c'est faux. || Không, sai rồi.
+VQ: Une personne qui ne mange pas de viande est… | malade | *végétarienne | fatiguée | grave
+VQ: « Ce n'est pas grave » veut dire… | *ça n'a pas d'importance | c'est très sérieux | c'est faux | c'est vrai
+VQ: Le contraire de « vrai » : | grave | *faux | malade | fatigué
+VQ: Il a de la fièvre, il est… | végétarien | *malade | vrai | sportif
+VQ: Complétez : Je ne ___ pas, je ne parle pas chinois. = comprends
+D: Je ne parle pas chinois.
+D: Elle n'habite pas ici.
+D: Nous ne mangeons pas de viande.
+D: Ce n'est pas grave.
+L: Serveur | Vous prenez le steak ? || Ông bà dùng món bít tết chứ?
+L: Julie | Non merci, je ne mange pas de viande. Je suis végétarienne. || Không, cảm ơn, tôi không ăn thịt. Tôi ăn chay.
+L: Serveur | Ah, pardon. Et monsieur ? || À, xin lỗi. Còn ông?
+L: Marc | Moi, je n'ai pas très faim. Une salade, s'il vous plaît. || Tôi không đói lắm. Cho tôi một đĩa sa lát.
+L: Serveur | Et comme boisson ? Du vin ? || Còn đồ uống? Rượu vang nhé?
+L: Marc | Non, nous ne buvons pas d'alcool. De l'eau, merci. || Không, chúng tôi không uống rượu. Nước lọc, cảm ơn.
+LQ: Pourquoi Julie ne prend pas le steak ? | elle est malade | *elle est végétarienne | elle n'a pas faim | c'est cher
+LQ: Marc prend… | un steak | *une salade | du vin | rien
+LQ: Comme boisson, ils prennent… | du vin | de la bière | *de l'eau | du café
+RA: Je ne parle pas. Je n'aime pas.
+RA: Je n'ai pas de voiture.
+RA: Ce n'est pas grave.
+SH: Je ne comprends pas.
+SH: Il n'habite pas ici.
+SH: Non merci, je ne mange pas de viande.
+R.title: Le profil de Malik
+R: Malik a vingt-cinq ans et il habite à Marseille. || Malik hai mươi lăm tuổi và sống ở Marseille.
+R: Il est grand mais il n'est pas sportif. || Anh ấy cao nhưng không thích thể thao.
+R: Il ne fume pas et il ne mange pas de viande. || Anh ấy không hút thuốc và không ăn thịt.
+R: Il n'a pas de voiture, il prend le bus. || Anh ấy không có ô tô, anh ấy đi xe buýt.
+R: Il aime la musique, mais il ne chante pas bien ! || Anh ấy thích âm nhạc nhưng hát không hay!
+R: Il cherche des amis pour aller au cinéma. || Anh ấy tìm bạn để đi xem phim.
+RQ: Malik habite… | à Paris | *à Marseille | à Lyon | à Nice
+RQ: Comment Malik se déplace ? | en voiture | *en bus | à vélo | à pied
+RQ: Quelle phrase est vraie ? | Malik est sportif. | Malik fume. | *Malik ne mange pas de viande. | Malik chante bien.
+W.prompt: Écris ton profil pour un site d'amis : cinq choses que tu fais et cinq choses que tu ne fais pas. || Viết hồ sơ của bạn trên một trang kết bạn: năm việc bạn làm và năm việc bạn không làm.
+W.min: 35
+W.must: ne ; pas
+W.check: Mỗi câu phủ định có đủ « ne … pas »
+W.check: Trước nguyên âm viết « n' » (je n'aime pas)
+W.check: Sau « pas » dùng « de / d' » thay cho un, une, des
+W.model: Je m'appelle Lan et j'ai vingt-deux ans. || Tôi tên là Lan và tôi hai mươi hai tuổi.
+W.model: J'étudie le français et j'aime la musique. || Tôi học tiếng Pháp và tôi thích âm nhạc.
+W.model: Je ne fume pas et je ne mange pas de viande. || Tôi không hút thuốc và không ăn thịt.
+W.model: Je n'ai pas de voiture, mais j'ai un vélo. || Tôi không có ô tô nhưng có xe đạp.
+W.model: Je ne regarde pas la télévision. || Tôi không xem ti vi.
+W.model: Je cherche des amis pour parler français ! || Tôi tìm bạn để nói tiếng Pháp!
+
+## 4 | Les jours de la semaine
+G.title: Les jours et les habitudes
+G.rule: Les jours de la semaine s'écrivent sans majuscule. On dit « lundi » pour un jour précis et « le lundi » pour une habitude. || Tên các ngày trong tuần viết thường. Ta nói « lundi » cho một ngày cụ thể và « le lundi » cho một thói quen.
+G.note: "Lundi, je vais au cinéma" = thứ Hai này (một lần). "Le lundi, je vais à la piscine" = cứ mỗi thứ Hai (thói quen). Tuần của Pháp bắt đầu từ thứ Hai. Các từ chỉ tần suất: toujours (luôn luôn), souvent (thường), parfois (thỉnh thoảng), ne… jamais (không bao giờ).
+G.table: Jour | Tiếng Việt
+G.row: lundi | thứ Hai
+G.row: mardi | thứ Ba
+G.row: mercredi | thứ Tư
+G.row: jeudi | thứ Năm
+G.row: vendredi | thứ Sáu
+G.row: samedi | thứ Bảy
+G.row: dimanche | Chủ Nhật
+G.ex: Lundi, j'ai un examen. || Thứ Hai này tôi có bài thi.
+G.ex: Le samedi, je joue au football. || Thứ Bảy nào tôi cũng đá bóng.
+G.ex: Je travaille du lundi au vendredi. || Tôi làm việc từ thứ Hai đến thứ Sáu.
+G.ex: Le dimanche, nous ne travaillons jamais. || Chủ Nhật, chúng tôi không bao giờ làm việc.
+G.q: Le jour après mardi : | lundi | *mercredi | jeudi | samedi
+G.q: Le week-end, c'est… | lundi et mardi | *samedi et dimanche | vendredi et samedi | jeudi et vendredi
+G.q: « Le jeudi, je nage » veut dire… | ce jeudi seulement | *chaque jeudi | jamais le jeudi | jeudi dernier
+G.q: Quelle phrase est correcte ? | Je travaille le Lundi. | *Je travaille le lundi. | Je travaille au lundi. | Je travaille en lundi.
+G.q: Le jour avant samedi : ___ = vendredi
+V: la semaine | /la sə.mɛn/ | nom f. | tuần | Il y a sept jours dans une semaine. || Một tuần có bảy ngày.
+V: le week-end | /lə wi.kɛnd/ | nom m. | cuối tuần | Bon week-end ! || Cuối tuần vui vẻ!
+V: toujours | /tu.ʒuʁ/ | adverbe | luôn luôn | Il est toujours en retard. || Anh ấy luôn đến muộn.
+V: souvent | /su.vɑ̃/ | adverbe | thường xuyên | Je vais souvent au cinéma. || Tôi thường đi xem phim.
+V: parfois | /paʁ.fwa/ | adverbe | thỉnh thoảng | Parfois, je cuisine. || Thỉnh thoảng tôi nấu ăn.
+V: ne… jamais | /nə ʒa.mɛ/ | négation | không bao giờ | Je ne bois jamais de café. || Tôi không bao giờ uống cà phê.
+V: jouer | /ʒwe/ | verbe | chơi | Le mercredi, les enfants jouent au parc. || Thứ Tư, trẻ con chơi ở công viên.
+V: un examen | /œ̃.n‿ɛɡ.za.mɛ̃/ | nom m. | kỳ thi | J'ai un examen vendredi. || Thứ Sáu tôi có bài thi.
+V: libre | /libʁ/ | adjectif | rảnh; tự do | Tu es libre dimanche ? || Chủ Nhật bạn rảnh không?
+V: occupé | /ɔ.ky.pe/ | adjectif | bận | Désolé, je suis occupé mardi. || Xin lỗi, thứ Ba tôi bận.
+VQ: « Tu es libre samedi ? » — | *Non, je suis occupé. | Oui, je suis fatigué. | J'ai vingt ans. | Le samedi.
+VQ: Le contraire de « toujours » : | souvent | parfois | *ne… jamais | encore
+VQ: Une semaine a ___ jours. | cinq | six | *sept | huit
+VQ: « Parfois » veut dire… | tous les jours | *de temps en temps | jamais | maintenant
+VQ: Samedi et dimanche, c'est le ___. = week-end
+D: Lundi, j'ai un examen.
+D: Le samedi, je joue au tennis.
+D: Tu es libre dimanche ?
+D: Je ne travaille jamais le dimanche.
+L: Inès | Tu es libre samedi ? On va au cinéma ? || Thứ Bảy bạn rảnh không? Đi xem phim nhé?
+L: Quang | Samedi, je travaille le matin. Mais l'après-midi, je suis libre. || Thứ Bảy mình làm buổi sáng. Nhưng buổi chiều thì rảnh.
+L: Inès | Super ! Le film commence à seize heures. || Tuyệt! Phim bắt đầu lúc bốn giờ chiều.
+L: Quang | Parfait. Et dimanche, tu fais quoi ? || Hoàn hảo. Còn Chủ Nhật bạn làm gì?
+L: Inès | Le dimanche, je déjeune toujours chez mes parents. || Chủ Nhật nào mình cũng ăn trưa ở nhà bố mẹ.
+L: Quang | D'accord. Alors à samedi ! || Được rồi. Vậy hẹn thứ Bảy nhé!
+LQ: Samedi matin, Quang… | est libre | *travaille | va au cinéma | déjeune chez ses parents
+LQ: Le film commence à… | quatorze heures | *seize heures | dix-huit heures | vingt heures
+LQ: Le dimanche, Inès… | travaille | va au cinéma | *déjeune chez ses parents | joue au tennis
+RA: lundi, mardi, mercredi, jeudi.
+RA: vendredi, samedi, dimanche.
+RA: toujours, souvent, parfois, jamais.
+SH: Tu es libre samedi ?
+SH: Désolé, je suis occupé.
+SH: Le dimanche, je ne travaille jamais.
+R.title: L'emploi du temps de Thu
+R: Thu est étudiante et elle a une semaine très chargée. || Thu là sinh viên và cô ấy có một tuần rất bận rộn.
+R: Le lundi et le mercredi, elle a cours toute la journée. || Thứ Hai và thứ Tư, cô ấy học cả ngày.
+R: Le mardi et le jeudi, elle travaille dans un café. || Thứ Ba và thứ Năm, cô ấy làm việc ở một quán cà phê.
+R: Le vendredi soir, elle va souvent au cinéma avec ses amis. || Tối thứ Sáu, cô ấy thường đi xem phim với bạn bè.
+R: Le samedi, elle joue au badminton. || Thứ Bảy, cô ấy chơi cầu lông.
+R: Le dimanche, elle ne fait jamais rien : elle se repose ! || Chủ Nhật, cô ấy không bao giờ làm gì cả: cô ấy nghỉ ngơi!
+RQ: Quand est-ce que Thu travaille ? | lundi et mercredi | *mardi et jeudi | le week-end | vendredi
+RQ: Le vendredi soir, Thu… | joue au badminton | *va au cinéma | travaille | se repose
+RQ: Que fait Thu le dimanche ? | elle a cours | elle travaille | *elle se repose | elle joue au badminton
+W.prompt: Écris ton emploi du temps de la semaine. Utilise les jours, le + jour pour les habitudes, et toujours, souvent, parfois ou ne… jamais. || Viết thời gian biểu trong tuần của bạn. Dùng tên các ngày, le + ngày cho thói quen, và toujours, souvent, parfois hoặc ne… jamais.
+W.min: 35
+W.must: le lundi ; souvent
+W.check: Tên các ngày viết thường (lundi, không viết Lundi)
+W.check: Dùng « le + ngày » cho thói quen
+W.check: « ne … jamais » đặt quanh động từ
+W.model: Le lundi et le mardi, je travaille au bureau. || Thứ Hai và thứ Ba, tôi làm việc ở văn phòng.
+W.model: Le mercredi soir, j'ai un cours de français. || Tối thứ Tư, tôi có lớp tiếng Pháp.
+W.model: Le jeudi, je joue souvent au tennis. || Thứ Năm, tôi thường chơi quần vợt.
+W.model: Le vendredi, je dîne parfois au restaurant. || Thứ Sáu, thỉnh thoảng tôi ăn tối ở nhà hàng.
+W.model: Le samedi, je fais le marché. || Thứ Bảy, tôi đi chợ.
+W.model: Le dimanche, je ne travaille jamais ! || Chủ Nhật, tôi không bao giờ làm việc!
+
+## 5 | J'aime, je n'aime pas
+G.title: Exprimer ses goûts
+G.rule: Pour parler de ses goûts, on utilise aimer, adorer, détester ou préférer suivis d'un nom avec le, la, les, ou d'un verbe à l'infinitif. || Để nói về sở thích, ta dùng aimer, adorer, détester hoặc préférer, theo sau là danh từ có le, la, les, hoặc một động từ nguyên thể.
+G.note: Sau động từ chỉ sở thích, danh từ dùng mạo từ xác định le/la/les (không dùng un/une/du): J'aime le café, je déteste les films d'horreur. Nếu là hành động, dùng động từ nguyên thể: J'aime danser. Mức độ: adorer (rất thích) > aimer beaucoup > aimer bien (khá thích) > ne pas aimer > détester (ghét).
+G.table: Verbe | + nom | + infinitif
+G.row: adorer | J'adore la musique. | J'adore chanter.
+G.row: aimer | J'aime le sport. | J'aime nager.
+G.row: préférer | Je préfère le thé. | Je préfère lire.
+G.row: détester | Je déteste les chats. | Je déteste cuisiner.
+G.ex: J'adore le chocolat ! || Tôi cực thích sô cô la!
+G.ex: Elle aime bien voyager. || Cô ấy khá thích đi du lịch.
+G.ex: Nous n'aimons pas le froid. || Chúng tôi không thích cái lạnh.
+G.ex: Il déteste se lever tôt. || Anh ấy ghét dậy sớm.
+G.q: J'aime ___ musique classique. | un | une | *la | de
+G.q: Elle adore ___. | danse | dansent | *danser | dansé
+G.q: Le plus fort : | aimer bien | aimer | *adorer | préférer
+G.q: Je n'aime pas ___ café. | de | du | *le | un
+G.q: Le contraire de « adorer » : ___ = détester
+V: aimer | /e.me/ | verbe | thích, yêu | J'aime le cinéma. || Tôi thích xem phim.
+V: adorer | /a.dɔ.ʁe/ | verbe | rất thích | Elle adore les animaux. || Cô ấy cực thích động vật.
+V: détester | /de.tɛs.te/ | verbe | ghét | Je déteste le bruit. || Tôi ghét tiếng ồn.
+V: le sport | /lə spɔʁ/ | nom m. | thể thao | Tu aimes le sport ? || Bạn thích thể thao không?
+V: le cinéma | /lə si.ne.ma/ | nom m. | rạp chiếu phim; điện ảnh | On va au cinéma ce soir ? || Tối nay đi xem phim nhé?
+V: la lecture | /la lɛk.tyʁ/ | nom f. | việc đọc sách | La lecture, c'est ma passion. || Đọc sách là niềm đam mê của tôi.
+V: cuisiner | /kɥi.zi.ne/ | verbe | nấu ăn | Mon père adore cuisiner. || Bố tôi rất thích nấu ăn.
+V: lire | /liʁ/ | verbe | đọc | J'aime lire le soir. || Tôi thích đọc sách buổi tối.
+V: le chocolat | /lə ʃɔ.kɔ.la/ | nom m. | sô cô la | Les enfants adorent le chocolat. || Trẻ con cực thích sô cô la.
+V: le bruit | /lə bʁɥi/ | nom m. | tiếng ồn | Il y a trop de bruit ici. || Ở đây ồn quá.
+VQ: Une personne qui aime lire aime… | le sport | *la lecture | le bruit | cuisiner
+VQ: Il ___ le bruit : il préfère le calme. | adore | aime | *déteste | préfère
+VQ: On va voir un film au… | *cinéma | marché | bureau | sport
+VQ: Mon père prépare le dîner, il aime… | lire | *cuisiner | nager | danser
+VQ: J'adore le ___ : c'est sucré et marron. = chocolat
+D: J'adore le chocolat.
+D: Elle n'aime pas le sport.
+D: Nous aimons bien voyager.
+D: Ils détestent le bruit.
+L: Animateur | Alors, qu'est-ce que vous aimez faire le week-end ? || Vậy, cuối tuần các bạn thích làm gì?
+L: Chloé | Moi, j'adore lire et aller au cinéma. || Tôi thì rất thích đọc sách và đi xem phim.
+L: Animateur | Et vous, Minh ? || Còn anh, Minh?
+L: Minh | J'aime bien le sport, surtout le football. || Tôi khá thích thể thao, nhất là bóng đá.
+L: Animateur | Vous aimez cuisiner ? || Anh có thích nấu ăn không?
+L: Minh | Non, je déteste cuisiner ! Je préfère manger au restaurant. || Không, tôi ghét nấu ăn! Tôi thích ăn ở nhà hàng hơn.
+LQ: Qu'est-ce que Chloé adore ? | le football | *lire et le cinéma | cuisiner | le restaurant
+LQ: Minh aime surtout… | le tennis | *le football | la natation | la lecture
+LQ: Minh déteste… | le sport | lire | *cuisiner | le restaurant
+RA: J'adore, j'aime, je n'aime pas, je déteste.
+RA: J'aime le sport, j'aime nager.
+RA: Je préfère le thé au café.
+SH: Qu'est-ce que tu aimes faire ?
+SH: J'adore lire et aller au cinéma.
+SH: Je déteste cuisiner !
+R.title: Les goûts de la famille Nguyen
+R: Dans ma famille, nous avons des goûts très différents. || Trong gia đình tôi, chúng tôi có sở thích rất khác nhau.
+R: Mon père adore le football, il regarde tous les matchs. || Bố tôi cực thích bóng đá, ông xem mọi trận đấu.
+R: Ma mère préfère la lecture et la musique classique. || Mẹ tôi thích đọc sách và nhạc cổ điển hơn.
+R: Mon petit frère aime jouer aux jeux vidéo, mais il déteste lire. || Em trai tôi thích chơi trò chơi điện tử nhưng ghét đọc sách.
+R: Moi, j'aime bien tout : le sport, les livres et les films ! || Còn tôi khá thích mọi thứ: thể thao, sách và phim!
+R: Mais nous aimons tous la cuisine de ma grand-mère. || Nhưng tất cả chúng tôi đều thích món ăn của bà tôi.
+RQ: Le père adore… | la lecture | *le football | les jeux vidéo | la musique
+RQ: Qui déteste lire ? | la mère | *le petit frère | le père | la grand-mère
+RQ: Qu'est-ce que tout le monde aime ? | le football | les films | *la cuisine de la grand-mère | la musique classique
+W.prompt: Parle de tes goûts : ce que tu adores, aimes, n'aimes pas et détestes. Donne une raison avec parce que. || Nói về sở thích của bạn: điều bạn rất thích, thích, không thích và ghét. Đưa ra lý do với parce que.
+W.min: 35
+W.must: j'adore ; je déteste ; parce que
+W.check: Sau aimer / adorer / détester, danh từ đi với le, la, les
+W.check: Sau aimer, động từ ở dạng nguyên thể (j'aime nager)
+W.check: Có ít nhất một câu phủ định « je n'aime pas »
+W.model: J'adore la musique, surtout la musique pop. || Tôi rất thích âm nhạc, nhất là nhạc pop.
+W.model: J'aime bien nager parce que c'est bon pour la santé. || Tôi khá thích bơi vì nó tốt cho sức khoẻ.
+W.model: Je n'aime pas le froid. || Tôi không thích cái lạnh.
+W.model: Je préfère l'été. || Tôi thích mùa hè hơn.
+W.model: Je déteste le bruit parce que j'aime le calme. || Tôi ghét tiếng ồn vì tôi thích sự yên tĩnh.

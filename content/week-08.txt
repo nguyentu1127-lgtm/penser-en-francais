@@ -1,0 +1,382 @@
+@week 8
+@title Au café, au restaurant
+@level A1
+
+## 1 | Je voudrais...
+G.title: Demander poliment : je voudrais
+G.rule: Pour demander quelque chose poliment, on dit « je voudrais » au lieu de « je veux ». C'est la forme polie du verbe vouloir. || Để xin cái gì một cách lịch sự, ta nói « je voudrais » thay vì « je veux ». Đó là dạng lịch sự của động từ vouloir.
+G.note: "Je veux" nghe khá cộc, giống "tôi muốn" ra lệnh. "Je voudrais" (tôi muốn… / cho tôi…) lịch sự hơn nhiều, dùng ở cửa hàng, quán cà phê, nhà hàng. Các cách khác: "Pour moi, un café, s'il vous plaît" hoặc "Je vais prendre un thé". Người phục vụ hỏi: "Vous désirez ?", "Qu'est-ce que je vous sers ?".
+G.table: Pronom | Vouloir (présent) | Forme polie
+G.row: je | veux | voudrais
+G.row: tu | veux | voudrais
+G.row: il / elle | veut | voudrait
+G.row: nous | voulons | voudrions
+G.row: vous | voulez | voudriez
+G.row: ils / elles | veulent | voudraient
+G.ex: Je voudrais un café, s'il vous plaît. || Cho tôi một tách cà phê.
+G.ex: Nous voudrions une table pour deux. || Chúng tôi muốn một bàn cho hai người.
+G.ex: Vous voulez un dessert ? || Anh chị có muốn dùng tráng miệng không?
+G.ex: Pour moi, un jus d'orange. || Phần tôi, một ly nước cam.
+G.q: La forme la plus polie : | Je veux un café. | Donne un café. | *Je voudrais un café. | Un café !
+G.q: Nous ___ une table pour quatre. | voudrais | *voudrions | voudriez | voulons de
+G.q: Le serveur demande : | Je voudrais ? | *Vous désirez ? | Tu veux quoi ? | Qui êtes-vous ?
+G.q: Elle ___ un thé. (poli) | voudrais | *voudrait | voudraient | veulent
+G.q: Complétez : Je ___ un croissant, s'il vous plaît. (poli) = voudrais
+V: vouloir | /vu.lwaʁ/ | verbe | muốn | Tu veux venir ? || Bạn muốn đến không?
+V: je voudrais | /ʒə vu.dʁɛ/ | expression | tôi muốn (lịch sự) | Je voudrais un thé. || Cho tôi một tách trà.
+V: le serveur | /lə sɛʁ.vœʁ/ | nom m. | bồi bàn (nam) | Le serveur est très gentil. || Anh phục vụ rất dễ thương.
+V: la serveuse | /la sɛʁ.vøz/ | nom f. | bồi bàn (nữ) | La serveuse apporte le menu. || Chị phục vụ mang thực đơn tới.
+V: un croissant | /œ̃ kʁwa.sɑ̃/ | nom m. | bánh sừng bò | Un croissant et un café, s'il vous plaît. || Cho tôi một bánh sừng bò và một cà phê.
+V: un jus d'orange | /œ̃ ʒy dɔ.ʁɑ̃ʒ/ | nom m. | nước cam | Je voudrais un jus d'orange. || Cho tôi một ly nước cam.
+V: l'eau | /lo/ | nom f. | nước | Une bouteille d'eau, s'il vous plaît. || Cho tôi một chai nước.
+V: le thé | /lə te/ | nom m. | trà | Un thé au citron ? || Một tách trà chanh nhé?
+V: le chocolat chaud | /lə ʃɔ.kɔ.la ʃo/ | nom m. | sô cô la nóng | Les enfants prennent un chocolat chaud. || Bọn trẻ gọi sô cô la nóng.
+V: la terrasse | /la tɛ.ʁas/ | nom f. | ghế ngoài trời (quán) | On s'assoit en terrasse ? || Chúng ta ngồi ngoài trời nhé?
+VQ: Le matin en France, on mange souvent un… | steak | *croissant | soupe | riz
+VQ: La personne qui sert au restaurant est le… | client | *serveur | cuisinier de la maison | voisin
+VQ: Les enfants aiment boire du… | vin | *chocolat chaud | café noir | bière
+VQ: Une boisson faite avec des oranges : | thé | eau | *jus d'orange | café
+VQ: Je ___ un café. (forme polie) = voudrais
+D: Je voudrais un café, s'il vous plaît.
+D: Nous voudrions une table pour deux.
+D: Un jus d'orange pour moi.
+D: Vous désirez ?
+L: Serveur | Bonjour, qu'est-ce que je vous sers ? || Xin chào, tôi phục vụ gì cho anh chị?
+L: Camille | Je voudrais un café crème et un croissant. || Cho tôi một cà phê sữa và một bánh sừng bò.
+L: Serveur | Et pour monsieur ? || Còn anh?
+L: Huy | Pour moi, un thé vert, s'il vous plaît. || Phần tôi, một trà xanh.
+L: Serveur | Vous voulez manger quelque chose ? || Anh có muốn ăn gì không?
+L: Huy | Non merci, je n'ai pas faim. || Không, cảm ơn, tôi không đói.
+LQ: Camille prend… | un thé et un croissant | *un café crème et un croissant | un chocolat chaud | un jus d'orange
+LQ: Huy boit… | un café | *un thé vert | de l'eau | un jus
+LQ: Pourquoi Huy ne mange pas ? | c'est cher | *il n'a pas faim | il est malade | il n'aime pas les croissants
+RA: Je voudrais un café, s'il vous plaît.
+RA: Nous voudrions une table pour deux.
+RA: Pour moi, un thé vert.
+SH: Qu'est-ce que je vous sers ?
+SH: Je voudrais un café crème.
+SH: Non merci, je n'ai pas faim.
+R.title: Le café du coin
+R: Tous les matins, Monsieur Bernard va au café du coin. || Sáng nào ông Bernard cũng đến quán cà phê đầu phố.
+R: Il s'assoit toujours à la même table, en terrasse. || Ông ấy luôn ngồi ở cùng một bàn, ngoài hiên.
+R: Le serveur connaît ses habitudes. || Người phục vụ biết thói quen của ông.
+R: Il apporte un café noir et un croissant sans demander. || Anh ấy mang ra một cà phê đen và một bánh sừng bò mà không cần hỏi.
+R: Monsieur Bernard lit le journal pendant une heure. || Ông Bernard đọc báo trong một tiếng.
+R: Pour lui, c'est le meilleur moment de la journée. || Với ông, đó là khoảnh khắc tuyệt nhất trong ngày.
+RQ: Où s'assoit Monsieur Bernard ? | à l'intérieur | *en terrasse | au bar | chez lui
+RQ: Qu'est-ce qu'il boit ? | un thé | un café crème | *un café noir | un jus d'orange
+RQ: Que fait-il au café ? | il travaille | il téléphone | *il lit le journal | il dort
+W.prompt: Tu es dans un café avec un ami. Écris le dialogue avec le serveur : chacun commande une boisson et quelque chose à manger. || Bạn đang ở quán cà phê với một người bạn. Viết đoạn hội thoại với người phục vụ: mỗi người gọi một đồ uống và một món ăn.
+W.min: 35
+W.must: je voudrais ; s'il vous plaît
+W.check: Dùng « je voudrais » thay vì « je veux »
+W.check: Có « s'il vous plaît » và « merci »
+W.check: Câu hỏi của người phục vụ có dấu « ? »
+W.model: — Bonjour, vous désirez ? || — Xin chào, anh chị dùng gì ạ?
+W.model: — Je voudrais un café au lait et un pain au chocolat, s'il vous plaît. || — Cho tôi một cà phê sữa và một bánh mì sô cô la.
+W.model: — Et pour madame ? || — Còn chị?
+W.model: — Pour moi, un jus d'orange et une tartine. || — Phần tôi, một ly nước cam và một lát bánh mì phết bơ.
+W.model: — Très bien, merci. || — Vâng, cảm ơn.
+
+## 2 | Les articles partitifs
+G.title: Du, de la, de l', des
+G.rule: Pour une quantité qu'on ne compte pas, on utilise l'article partitif : du, de la, de l' ou des. Après une négation, il devient de. || Với một lượng không đếm được, ta dùng mạo từ bộ phận: du, de la, de l' hoặc des. Sau phủ định, nó trở thành de.
+G.note: Mạo từ bộ phận chỉ "một ít, một phần" của thứ không đếm: Je bois du café (một ít cà phê), Je mange de la soupe. So sánh: J'aime le café (thích cà phê nói chung — le) ≠ Je bois du café (uống một ít — du). Phủ định: Je ne bois pas de café. Với số lượng cụ thể: un kilo de, une bouteille de, beaucoup de (không có mạo từ).
+G.table: | Partitif | Négation
+G.row: masculin | du pain | pas de pain
+G.row: féminin | de la viande | pas de viande
+G.row: voyelle | de l'eau | pas d'eau
+G.row: pluriel | des frites | pas de frites
+G.ex: Le matin, je mange du pain avec de la confiture. || Buổi sáng tôi ăn bánh mì với mứt.
+G.ex: Tu veux de l'eau ? || Bạn muốn uống nước không?
+G.ex: Je ne mange pas de viande. || Tôi không ăn thịt.
+G.ex: Il y a beaucoup de sel dans la soupe. || Trong súp có nhiều muối.
+G.q: Je bois ___ lait. | de la | *du | des | de l'
+G.q: Elle mange ___ salade. | du | *de la | des | le
+G.q: Je ne bois pas ___ café. | du | le | *de | un
+G.q: J'aime ___ chocolat. (en général) | du | *le | de | un
+G.q: Complétez : Tu veux ___ eau ? = de l'
+V: le pain | /lə pɛ̃/ | nom m. | bánh mì | Je mange du pain. || Tôi ăn bánh mì.
+V: la confiture | /la kɔ̃.fi.tyʁ/ | nom f. | mứt | J'adore la confiture de fraises. || Tôi rất thích mứt dâu.
+V: le beurre | /lə bœʁ/ | nom m. | bơ | Du pain avec du beurre. || Bánh mì với bơ.
+V: le fromage | /lə fʁɔ.maʒ/ | nom m. | phô mai | La France a beaucoup de fromages. || Nước Pháp có rất nhiều loại phô mai.
+V: le lait | /lə lɛ/ | nom m. | sữa | Les enfants boivent du lait. || Bọn trẻ uống sữa.
+V: le sucre | /lə sykʁ/ | nom m. | đường | Un café sans sucre. || Một cà phê không đường.
+V: le sel | /lə sɛl/ | nom m. | muối | Il n'y a pas de sel. || Không có muối.
+V: la soupe | /la sup/ | nom f. | súp | Une soupe chaude en hiver. || Một bát súp nóng vào mùa đông.
+V: les frites | /le fʁit/ | nom f. pl. | khoai tây chiên | Un steak avec des frites. || Một miếng bít tết với khoai tây chiên.
+V: beaucoup de | /bo.ku də/ | expression | nhiều | Il y a beaucoup de monde. || Có rất đông người.
+VQ: Le contraire de « sucré » : | doux | *salé | chaud | froid
+VQ: La vache donne du… | beurre en bouteille | *lait | sel | sucre
+VQ: On met ___ sur le pain le matin. | du sel | *de la confiture | de la soupe | des frites
+VQ: « Je ne mange pas de fromage » : le partitif devient… | du | *de | le | un
+VQ: Je mets du ___ dans mon café pour qu'il soit sucré. = sucre
+D: Je mange du pain avec du beurre.
+D: Tu veux de l'eau ?
+D: Il ne boit pas de lait.
+D: Il y a beaucoup de sel.
+L: Mère | Qu'est-ce que tu veux pour le petit-déjeuner ? || Con muốn ăn gì cho bữa sáng?
+L: Fille | Je voudrais du pain avec du beurre et de la confiture. || Con muốn bánh mì với bơ và mứt.
+L: Mère | Il n'y a pas de confiture. Tu veux du miel ? || Hết mứt rồi. Con muốn mật ong không?
+L: Fille | D'accord. Et du lait, s'il te plaît. || Được ạ. Và sữa nữa mẹ nhé.
+L: Mère | Avec du chocolat ? || Có cho sô cô la không?
+L: Fille | Oui, un peu de chocolat. Merci maman ! || Có ạ, một chút sô cô la. Cảm ơn mẹ!
+LQ: Qu'est-ce qu'il n'y a pas ? | de pain | de beurre | *de confiture | de lait
+LQ: La fille prend… | de la confiture | *du miel | du fromage | du sucre
+LQ: La fille boit… | du thé | *du lait au chocolat | de l'eau | du café
+RA: du pain, de la confiture, de l'eau, des frites.
+RA: Je ne mange pas de viande.
+RA: beaucoup de sel, un peu de sucre.
+SH: Tu veux de l'eau ?
+SH: Il n'y a pas de confiture.
+SH: Un peu de chocolat, s'il te plaît.
+R.title: Le petit-déjeuner dans le monde
+R: Le petit-déjeuner est différent dans chaque pays. || Bữa sáng ở mỗi nước một khác.
+R: En France, on mange souvent du pain avec du beurre et de la confiture. || Ở Pháp, người ta thường ăn bánh mì với bơ và mứt.
+R: On boit du café ou du thé. || Người ta uống cà phê hoặc trà.
+R: Au Viêt Nam, on mange de la soupe, par exemple du phở ! || Ở Việt Nam, người ta ăn món nước, ví dụ như phở!
+R: En Angleterre, on prend des œufs, du bacon et des haricots. || Ở Anh, người ta ăn trứng, thịt xông khói và đậu.
+R: Et toi, qu'est-ce que tu manges le matin ? || Còn bạn, buổi sáng bạn ăn gì?
+RQ: En France, on boit… | de la soupe | *du café ou du thé | du jus de mangue | du lait de soja
+RQ: Au Viêt Nam, on mange… | du pain avec de la confiture | *de la soupe | des œufs et du bacon | des céréales
+RQ: Où mange-t-on des haricots le matin ? | en France | au Viêt Nam | *en Angleterre | au Japon
+W.prompt: Décris ce que tu manges et bois pour le petit-déjeuner, le déjeuner et le dîner. Dis aussi ce que tu ne manges pas. || Miêu tả những gì bạn ăn và uống vào bữa sáng, trưa và tối. Nói cả những gì bạn không ăn.
+W.min: 40
+W.must: du ; de la ; pas de
+W.check: Dùng du / de la / de l' / des cho lượng không xác định
+W.check: Sau phủ định dùng de / d'
+W.check: Sau aimer / adorer / détester dùng le / la / les
+W.model: Le matin, je mange du pain et je bois du café. || Buổi sáng tôi ăn bánh mì và uống cà phê.
+W.model: À midi, je mange du riz avec de la viande et des légumes. || Buổi trưa tôi ăn cơm với thịt và rau.
+W.model: Le soir, je prends souvent de la soupe. || Buổi tối tôi thường ăn súp.
+W.model: Je bois de l'eau ou du thé. || Tôi uống nước hoặc trà.
+W.model: Je ne mange pas de fromage, parce que je n'aime pas le goût. || Tôi không ăn phô mai vì tôi không thích vị của nó.
+
+## 3 | Commander un repas
+G.title: Au restaurant : commander
+G.rule: Au restaurant, on commande avec je vais prendre ou je voudrais. Un repas français a souvent une entrée, un plat et un dessert. || Ở nhà hàng, ta gọi món với je vais prendre hoặc je voudrais. Một bữa ăn kiểu Pháp thường có món khai vị, món chính và món tráng miệng.
+G.note: Các bước: Đặt bàn (Une table pour deux, s'il vous plaît), xem thực đơn (la carte), gọi món (Je vais prendre…), chọn độ chín của thịt (saignant: tái, à point: vừa, bien cuit: chín kỹ). "Le menu" ở Pháp thường là suất ăn trọn gói có giá cố định (entrée + plat + dessert), còn "la carte" là thực đơn gọi lẻ.
+G.table: Étape | Phrase
+G.row: arriver | Une table pour deux, s'il vous plaît.
+G.row: demander | La carte, s'il vous plaît.
+G.row: commander | Je vais prendre le menu à vingt euros.
+G.row: la cuisson | Saignant, à point ou bien cuit ?
+G.row: finir | L'addition, s'il vous plaît.
+G.ex: En entrée, je vais prendre une salade. || Món khai vị, tôi sẽ gọi một đĩa sa lát.
+G.ex: Comme plat, je voudrais le poulet rôti. || Món chính, tôi muốn gà quay.
+G.ex: Et comme dessert, une tarte aux pommes. || Còn tráng miệng, một bánh tart táo.
+G.ex: Le steak, à point, s'il vous plaît. || Bít tết chín vừa, làm ơn.
+G.q: L'ordre d'un repas français : | plat, entrée, dessert | *entrée, plat, dessert | dessert, plat, entrée | entrée, dessert, plat
+G.q: Pour voir les plats, on demande… | l'addition | *la carte | le serveur | la cuisson
+G.q: Un steak très peu cuit est… | bien cuit | à point | *saignant | brûlé
+G.q: « Je vais ___ le poisson. » | manger de | *prendre | vouloir | commander à
+G.q: Avant le plat, on mange l'___. = entrée
+V: la carte | /la kaʁt/ | nom f. | thực đơn | Je peux voir la carte ? || Cho tôi xem thực đơn được không?
+V: le menu | /lə mə.ny/ | nom m. | suất ăn trọn gói | Le menu du jour coûte quinze euros. || Suất ăn hôm nay giá mười lăm euro.
+V: l'entrée | /lɑ̃.tʁe/ | nom f. | món khai vị | En entrée, il y a une soupe. || Món khai vị có súp.
+V: le plat | /lə pla/ | nom m. | món chính; món ăn | Le plat du jour est le poisson. || Món của ngày hôm nay là cá.
+V: le dessert | /lə de.sɛʁ/ | nom m. | món tráng miệng | Qu'est-ce que vous avez comme dessert ? || Nhà hàng có món tráng miệng gì?
+V: commander | /kɔ.mɑ̃.de/ | verbe | gọi món | Vous avez choisi ? Je peux commander ? || Anh chị chọn xong chưa? Tôi gọi món được không?
+V: le poulet | /lə pu.lɛ/ | nom m. | thịt gà | Un poulet rôti avec des légumes. || Gà quay với rau.
+V: le poisson | /lə pwa.sɔ̃/ | nom m. | cá | Je préfère le poisson. || Tôi thích cá hơn.
+V: la tarte | /la taʁt/ | nom f. | bánh tart | Une tarte aux pommes, s'il vous plaît. || Cho tôi một bánh tart táo.
+V: à point | /a pwɛ̃/ | expression | chín vừa (thịt) | Je voudrais mon steak à point. || Tôi muốn bít tết chín vừa.
+VQ: Une tarte aux pommes, c'est… | une entrée | un plat | *un dessert | une boisson
+VQ: « Le plat du jour » est… | *le plat proposé aujourd'hui | le meilleur plat | le plat le plus cher | le dessert
+VQ: Je ne mange pas de viande, je prends… | le poulet | le steak | *le poisson | le jambon
+VQ: Le steak « à point » est… | cru | *cuit moyennement | très cuit | froid
+VQ: Pour choisir les plats, je lis la ___. = carte
+D: Une table pour deux, s'il vous plaît.
+D: En entrée, je vais prendre une salade.
+D: Comme plat, je voudrais le poisson.
+D: Le steak à point, s'il vous plaît.
+L: Serveuse | Vous avez choisi ? || Anh chị chọn món chưa?
+L: Paul | Oui. En entrée, une soupe à l'oignon, s'il vous plaît. || Rồi. Món khai vị, cho tôi súp hành.
+L: Serveuse | Et comme plat ? || Còn món chính?
+L: Paul | Je vais prendre le steak-frites. || Tôi sẽ gọi bít tết với khoai tây chiên.
+L: Serveuse | Quelle cuisson ? || Anh muốn chín thế nào?
+L: Paul | Bien cuit, s'il vous plaît. Et une carafe d'eau. || Chín kỹ nhé. Và một bình nước lọc.
+LQ: En entrée, Paul prend… | une salade | *une soupe à l'oignon | du fromage | rien
+LQ: Comme plat, il commande… | du poisson | *un steak-frites | du poulet | une omelette
+LQ: Il veut son steak… | saignant | à point | *bien cuit | cru
+RA: une entrée, un plat, un dessert.
+RA: saignant, à point, bien cuit.
+RA: Je vais prendre le menu du jour.
+SH: Vous avez choisi ?
+SH: Je vais prendre le steak-frites.
+SH: Bien cuit, s'il vous plaît.
+R.title: Le menu du jour
+R: Au restaurant Chez Marie, le menu du jour coûte dix-huit euros. || Ở nhà hàng Chez Marie, suất ăn của ngày giá mười tám euro.
+R: En entrée, vous avez le choix entre une salade de tomates et une soupe de légumes. || Món khai vị, bạn có thể chọn sa lát cà chua hoặc súp rau.
+R: Comme plat, il y a du poulet rôti avec des pommes de terre ou du poisson avec du riz. || Món chính có gà quay với khoai tây hoặc cá với cơm.
+R: Pour le dessert, la spécialité de la maison est la tarte aux fraises. || Về tráng miệng, món đặc biệt của nhà hàng là bánh tart dâu.
+R: Le café n'est pas compris dans le menu. || Cà phê không bao gồm trong suất ăn.
+R: Le restaurant est fermé le lundi. || Nhà hàng đóng cửa vào thứ Hai.
+RQ: Le menu coûte… | quinze euros | *dix-huit euros | vingt euros | douze euros
+RQ: Avec le poisson, on mange… | des frites | des pommes de terre | *du riz | des légumes
+RQ: Qu'est-ce qui n'est pas compris ? | le dessert | l'entrée | *le café | le pain
+W.prompt: Écris un dialogue au restaurant : arriver, commander une entrée, un plat, un dessert et une boisson. || Viết một đoạn hội thoại ở nhà hàng: đến nơi, gọi món khai vị, món chính, tráng miệng và đồ uống.
+W.min: 45
+W.must: je vais prendre ; comme plat ; dessert
+W.check: Thứ tự: entrée → plat → dessert
+W.check: Dùng « je vais prendre » hoặc « je voudrais »
+W.check: Câu hỏi của người phục vụ: Vous avez choisi ? Et comme… ?
+W.model: — Bonsoir, une table pour deux, s'il vous plaît. || — Chào anh, cho chúng tôi một bàn hai người.
+W.model: — Bien sûr, suivez-moi. || — Vâng, mời đi theo tôi.
+W.model: — Vous avez choisi ? || — Anh chị chọn món chưa?
+W.model: — Oui, en entrée, je vais prendre la salade de tomates. || — Rồi, món khai vị, tôi gọi sa lát cà chua.
+W.model: — Et comme plat ? || — Còn món chính?
+W.model: — Comme plat, le poisson avec du riz. || — Món chính, cá với cơm.
+W.model: — Et comme dessert, une mousse au chocolat. || — Còn tráng miệng, một bánh mousse sô cô la.
+
+## 4 | Les boissons et les plats
+G.title: Parler de la nourriture
+G.rule: Pour décrire un plat, on utilise des adjectifs comme délicieux, sucré, salé, épicé, chaud ou froid, et l'expression « c'est » + adjectif. || Để miêu tả món ăn, ta dùng các tính từ như délicieux (ngon), sucré (ngọt), salé (mặn), épicé (cay), chaud (nóng), froid (lạnh), và cụm « c'est » + tính từ.
+G.note: "C'est bon !" (ngon), "C'est délicieux !" (ngon tuyệt), "C'est trop salé" (mặn quá). Sau "c'est", tính từ luôn ở dạng giống đực: La soupe ? C'est bon ! (không nói "c'est bonne"). Nhưng khi chủ ngữ là danh từ: La soupe est bonne. Món ăn với nguyên liệu: une tarte aux pommes, un sandwich au jambon, une glace à la vanille (à + le/la/les).
+G.table: Goût | Exemple
+G.row: sucré | Le gâteau est sucré.
+G.row: salé | Les chips sont salées.
+G.row: épicé | La cuisine thaïe est épicée.
+G.row: amer | Le café noir est amer.
+G.row: acide | Le citron est acide.
+G.ex: Ce phở est délicieux ! || Bát phở này ngon tuyệt!
+G.ex: La soupe est trop salée. || Súp mặn quá.
+G.ex: J'aime la cuisine épicée. || Tôi thích đồ ăn cay.
+G.ex: Je voudrais un sandwich au fromage. || Cho tôi một bánh mì kẹp phô mai.
+G.q: Le citron est… | sucré | *acide | salé | épicé
+G.q: La soupe ? C'est ___ ! | bonne | *bon | bons | bonnes
+G.q: Une glace ___ vanille. | au | *à la | aux | de le
+G.q: Le chocolat est… | salé | amer seulement | *sucré | acide
+G.q: Complétez : un sandwich ___ jambon. = au
+V: délicieux | /de.li.sjø/ | adjectif | ngon tuyệt | Ce gâteau est délicieux. || Cái bánh này ngon tuyệt.
+V: salé | /sa.le/ | adjectif | mặn | Les frites sont salées. || Khoai tây chiên mặn.
+V: épicé | /e.pi.se/ | adjectif | cay | Ce plat est très épicé. || Món này rất cay.
+V: amer | /a.mɛʁ/ | adjectif | đắng | Le café noir est amer. || Cà phê đen đắng.
+V: le gâteau | /lə ɡa.to/ | nom m. | bánh ngọt | Un gâteau au chocolat. || Một cái bánh sô cô la.
+V: la glace | /la ɡlas/ | nom f. | kem | Une glace à la fraise, s'il vous plaît. || Cho tôi một cây kem dâu.
+V: le sandwich | /lə sɑ̃d.wiʃ/ | nom m. | bánh mì kẹp | Un sandwich au poulet. || Một bánh mì kẹp gà.
+V: les légumes | /le le.ɡym/ | nom m. pl. | rau củ | Il faut manger des légumes. || Phải ăn rau.
+V: le jus | /lə ʒy/ | nom m. | nước ép | Un jus de pomme. || Một ly nước táo.
+V: la bière | /la bjɛʁ/ | nom f. | bia | Une bière bien fraîche. || Một ly bia thật mát.
+VQ: Le piment rend un plat… | sucré | *épicé | amer | acide
+VQ: Un dessert froid de l'été : | une soupe | *une glace | un steak | une bière
+VQ: Il y a trop de sel, c'est trop… | sucré | épicé | *salé | amer
+VQ: Les carottes et les tomates sont des… | fruits secs | *légumes | gâteaux | boissons
+VQ: Le café noir sans sucre est ___. = amer
+D: Ce phở est délicieux.
+D: La soupe est trop salée.
+D: Je voudrais une glace à la vanille.
+D: Ce plat est très épicé.
+L: Léa | Tu aimes la cuisine vietnamienne ? || Bạn có thích đồ ăn Việt Nam không?
+L: Tom | J'adore ! Surtout les nems et le bún chả. || Mình rất thích! Nhất là nem rán và bún chả.
+L: Léa | Ce n'est pas trop épicé pour toi ? || Có cay quá với bạn không?
+L: Tom | Non, j'aime les plats épicés. Et toi ? || Không, mình thích đồ cay. Còn bạn?
+L: Léa | Moi, je préfère les plats sucrés. Le chè, c'est délicieux ! || Mình thích đồ ngọt hơn. Chè ngon tuyệt!
+L: Tom | On va au restaurant vietnamien ce soir ? || Tối nay mình đi nhà hàng Việt nhé?
+LQ: Tom adore… | la pizza | *les nems et le bún chả | le chè | les desserts
+LQ: Tom aime les plats… | sucrés | *épicés | salés | froids
+LQ: Léa préfère… | les plats épicés | *les plats sucrés | la soupe | la viande
+RA: sucré, salé, épicé, amer, acide.
+RA: C'est délicieux ! C'est trop salé.
+RA: une glace à la vanille, un sandwich au jambon.
+SH: Tu aimes la cuisine vietnamienne ?
+SH: J'adore les plats épicés.
+SH: Le chè, c'est délicieux !
+R.title: Le phở, un plat célèbre
+R: Le phở est le plat vietnamien le plus célèbre dans le monde. || Phở là món ăn Việt Nam nổi tiếng nhất trên thế giới.
+R: C'est une soupe avec des nouilles de riz et de la viande de bœuf ou de poulet. || Đó là món nước với bánh phở và thịt bò hoặc thịt gà.
+R: Le bouillon cuit pendant des heures avec des épices. || Nước dùng được ninh hàng giờ với gia vị.
+R: On ajoute des herbes fraîches, du citron et un peu de piment. || Người ta thêm rau thơm tươi, chanh và một chút ớt.
+R: Au Viêt Nam, on mange souvent le phở au petit-déjeuner. || Ở Việt Nam, người ta thường ăn phở vào bữa sáng.
+R: À Paris, il y a beaucoup de restaurants de phở ! || Ở Paris có rất nhiều quán phở!
+RQ: Le phở est… | un dessert | *une soupe | une boisson | un sandwich
+RQ: On ajoute… | du sucre et du lait | *des herbes, du citron et du piment | du fromage | de la confiture
+RQ: Au Viêt Nam, on mange souvent le phở… | le soir | *au petit-déjeuner | au dessert | seulement le dimanche
+W.prompt: Présente un plat que tu aimes : les ingrédients, le goût et quand on le mange. || Giới thiệu một món ăn bạn thích: nguyên liệu, hương vị và khi nào người ta ăn nó.
+W.min: 40
+W.must: c'est ; délicieux
+W.check: Tính từ sau « c'est » ở dạng giống đực (c'est bon)
+W.check: Tính từ sau danh từ thì hợp giống, số (la soupe est bonne)
+W.check: Dùng du / de la / des cho nguyên liệu
+W.model: Mon plat préféré, c'est le bánh mì. || Món ăn yêu thích của tôi là bánh mì.
+W.model: C'est un sandwich vietnamien. || Đó là một loại bánh mì kẹp của Việt Nam.
+W.model: Dans le pain, il y a de la viande, du pâté, des légumes et des herbes. || Trong bánh mì có thịt, pa-tê, rau và rau thơm.
+W.model: On ajoute aussi un peu de piment. || Người ta còn thêm một chút ớt.
+W.model: C'est salé, un peu épicé et délicieux ! || Nó mặn mặn, hơi cay và ngon tuyệt!
+W.model: On le mange souvent le matin. || Người ta thường ăn nó vào buổi sáng.
+
+## 5 | Payer l'addition
+G.title: Payer et réagir
+G.rule: À la fin du repas, on demande l'addition. On peut payer par carte ou en espèces, et laisser un pourboire si on est content. || Cuối bữa ăn, ta xin hoá đơn. Có thể trả bằng thẻ hoặc tiền mặt, và để lại tiền boa nếu hài lòng.
+G.note: Xin hoá đơn: "L'addition, s'il vous plaît !". Hỏi cách trả: "Je peux payer par carte ?" — "Par carte ou en espèces ?". Ở Pháp, tiền phục vụ đã tính trong giá (service compris), nên tiền boa (le pourboire) không bắt buộc. Chia tiền: "On partage l'addition ?" hoặc "C'est moi qui invite !" (Để tôi mời!).
+G.table: Situation | Phrase
+G.row: demander | L'addition, s'il vous plaît.
+G.row: payer | Je peux payer par carte ?
+G.row: inviter | C'est moi qui invite !
+G.row: partager | On partage ?
+G.row: remercier | C'était délicieux, merci !
+G.ex: L'addition, s'il vous plaît ! || Làm ơn cho tôi hoá đơn!
+G.ex: Je peux payer par carte ? || Tôi có thể trả bằng thẻ không?
+G.ex: Ce soir, c'est moi qui invite ! || Tối nay để tôi mời!
+G.ex: C'était délicieux, merci beaucoup ! || Rất ngon, cảm ơn nhiều!
+G.q: À la fin du repas, on demande… | la carte | le menu | *l'addition | l'entrée
+G.q: « Service compris » veut dire… | il faut laisser un pourboire | *le service est dans le prix | le service est gratuit | il n'y a pas de serveur
+G.q: Payer avec des billets et des pièces, c'est payer… | par carte | *en espèces | par chèque | en ligne
+G.q: « C'est moi qui invite » veut dire… | on partage | *je paie pour toi | tu paies | c'est gratuit
+G.q: L'argent qu'on laisse au serveur s'appelle le ___. = pourboire
+V: l'addition | /la.di.sjɔ̃/ | nom f. | hoá đơn (nhà hàng) | L'addition, s'il vous plaît. || Cho tôi hoá đơn.
+V: payer | /pe.je/ | verbe | trả tiền | On paie à la caisse. || Thanh toán ở quầy thu ngân.
+V: par carte | /paʁ kaʁt/ | expression | bằng thẻ | Je paie par carte. || Tôi trả bằng thẻ.
+V: en espèces | /ɑ̃.n‿ɛs.pɛs/ | expression | bằng tiền mặt | Vous payez en espèces ? || Anh trả bằng tiền mặt à?
+V: le pourboire | /lə puʁ.bwaʁ/ | nom m. | tiền boa | On laisse un pourboire ? || Mình để lại tiền boa nhé?
+V: inviter | /ɛ̃.vi.te/ | verbe | mời | Je t'invite au restaurant. || Mình mời bạn đi nhà hàng.
+V: partager | /paʁ.ta.ʒe/ | verbe | chia sẻ, chia | On partage l'addition. || Mình chia hoá đơn.
+V: la caisse | /la kɛs/ | nom f. | quầy thu ngân | Payez à la caisse, s'il vous plaît. || Xin thanh toán ở quầy thu ngân.
+V: le billet | /lə bi.jɛ/ | nom m. | tờ tiền; vé | Un billet de vingt euros. || Một tờ hai mươi euro.
+V: la monnaie | /la mɔ.nɛ/ | nom f. | tiền lẻ; tiền thối lại | Voici votre monnaie. || Đây là tiền thối lại của anh.
+VQ: L'argent que le vendeur rend, c'est la… | carte | *monnaie | caisse | addition
+VQ: On paie au supermarché à la… | table | *caisse | carte | terrasse
+VQ: Un billet de cinquante euros pour vingt euros : on reçoit trente euros de… | pourboire | *monnaie | carte | addition
+VQ: Chacun paie la moitié, on… | invite | *partage | commande | laisse
+VQ: Je n'ai pas d'argent liquide, je paie par ___. = carte
+D: L'addition, s'il vous plaît.
+D: Je peux payer par carte ?
+D: C'est moi qui invite.
+D: Voici votre monnaie.
+L: Linh | Excusez-moi, l'addition, s'il vous plaît ! || Xin lỗi, cho tôi hoá đơn!
+L: Serveur | Tout de suite. Voilà, ça fait cinquante-deux euros. || Có ngay. Đây ạ, tổng cộng năm mươi hai euro.
+L: Marc | On partage ? || Mình chia nhé?
+L: Linh | Non, c'est moi qui invite, c'est ton anniversaire ! || Không, để mình mời, hôm nay sinh nhật bạn mà!
+L: Linh | Je peux payer par carte ? || Tôi có thể trả bằng thẻ không?
+L: Serveur | Bien sûr. Merci, et bonne soirée ! || Tất nhiên. Cảm ơn, chúc buổi tối vui vẻ!
+LQ: L'addition fait… | quarante-deux euros | *cinquante-deux euros | soixante-deux euros | vingt-cinq euros
+LQ: Qui paie ? | Marc | *Linh | ils partagent | le serveur
+LQ: Pourquoi Linh invite ? | c'est son anniversaire | *c'est l'anniversaire de Marc | elle a gagné de l'argent | c'est Noël
+RA: L'addition, s'il vous plaît.
+RA: Par carte ou en espèces ?
+RA: C'est moi qui invite !
+SH: Ça fait cinquante-deux euros.
+SH: On partage l'addition ?
+SH: C'était délicieux, merci !
+R.title: Le pourboire en France
+R: En France, le service est compris dans le prix. || Ở Pháp, tiền phục vụ đã được tính trong giá.
+R: Le pourboire n'est donc pas obligatoire. || Vì vậy tiền boa không bắt buộc.
+R: Mais si le repas est bon et le serveur sympathique, on laisse souvent un ou deux euros. || Nhưng nếu bữa ăn ngon và người phục vụ dễ mến, người ta thường để lại một hoặc hai euro.
+R: Au café, on laisse parfois la petite monnaie sur la table. || Ở quán cà phê, đôi khi người ta để lại tiền lẻ trên bàn.
+R: Aux États-Unis, c'est très différent : le pourboire est presque obligatoire. || Ở Mỹ thì rất khác: tiền boa gần như bắt buộc.
+R: Et dans ton pays, on laisse un pourboire ? || Còn ở nước bạn, người ta có để lại tiền boa không?
+RQ: En France, le pourboire est… | obligatoire | *facultatif | interdit | toujours de dix euros
+RQ: Si le repas est bon, on laisse souvent… | dix euros | *un ou deux euros | rien | la moitié du prix
+RQ: Où le pourboire est presque obligatoire ? | en France | *aux États-Unis | au Viêt Nam | au Japon
+W.prompt: Raconte la fin d'un repas au restaurant avec un ami : demander l'addition, le prix, qui paie, comment, et ton avis sur le repas. || Kể về cuối bữa ăn ở nhà hàng với một người bạn: xin hoá đơn, giá tiền, ai trả, trả bằng gì và nhận xét của bạn về bữa ăn.
+W.min: 40
+W.must: l'addition ; par carte
+W.check: Có câu xin hoá đơn lịch sự
+W.check: Giá tiền viết bằng chữ (cinquante euros)
+W.check: Có lời nhận xét: C'était délicieux / bon / trop salé…
+W.model: À la fin du repas, j'appelle le serveur. || Cuối bữa ăn, tôi gọi người phục vụ.
+W.model: — L'addition, s'il vous plaît ! || — Làm ơn cho tôi hoá đơn!
+W.model: L'addition fait quarante-huit euros. || Hoá đơn là bốn mươi tám euro.
+W.model: Mon ami veut partager, mais c'est moi qui invite. || Bạn tôi muốn chia, nhưng tôi mời.
+W.model: Je paie par carte et je laisse deux euros de pourboire. || Tôi trả bằng thẻ và để lại hai euro tiền boa.
+W.model: C'était délicieux et le serveur était très gentil. || Bữa ăn rất ngon và người phục vụ rất dễ mến.

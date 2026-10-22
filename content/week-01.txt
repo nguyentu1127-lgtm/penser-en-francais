@@ -1,0 +1,387 @@
+@week 1
+@title Bonjour ! Les sons du français
+@level A1
+
+## 1 | L'alphabet et les accents
+G.title: Les accents français
+G.rule: En français, il y a cinq signes : l'accent aigu (é), l'accent grave (è, à, ù), l'accent circonflexe (â, ê, î, ô, û), la cédille (ç) et le tréma (ë, ï). || Tiếng Pháp có năm loại dấu: dấu sắc (é), dấu huyền (è, à, ù), dấu mũ (â, ê, î, ô, û), dấu móc dưới (ç) và dấu hai chấm (ë, ï).
+G.note: Dấu thay đổi cách đọc: é đọc như "ê" khép, è/ê đọc như "e" mở, ç đọc là /s/. Dấu ở à, ù chỉ để phân biệt nghĩa: a = có (động từ avoir), à = ở/tới; ou = hoặc, où = ở đâu.
+G.table: Accent | Lettre | Exemple
+G.row: aigu | é | le café
+G.row: grave | è / à / ù | la mère, à Paris, où
+G.row: circonflexe | â ê î ô û | la fête, l'hôtel
+G.row: cédille | ç | le garçon, ça va
+G.row: tréma | ë ï | Noël, naïf
+G.ex: Le café est chaud. || Cà phê nóng.
+G.ex: Ma mère est à Paris. || Mẹ tôi đang ở Paris.
+G.ex: Ça va ? Oui, ça va bien. || Khoẻ không? Ừ, khoẻ.
+G.ex: Le garçon est à l'école. || Cậu bé đang ở trường.
+G.q: Quel mot a un accent aigu ? | la mère | *le café | la fête | ça
+G.q: « ç » se prononce comme… | /k/ | */s/ | /ʃ/ | /g/
+G.q: Complétez : Ma mère est ___ Paris. | a | *à | â | as
+G.q: Quel mot a une cédille ? | *le garçon | l'hôtel | Noël | l'école
+G.q: Écrivez le mot : la f_te (accent circonflexe) = fête / la fête
+V: l'alphabet | /lal.fa.bɛ/ | nom m. | bảng chữ cái | L'alphabet français a vingt-six lettres. || Bảng chữ cái tiếng Pháp có hai mươi sáu chữ cái.
+V: une lettre | /yn lɛtʁ/ | nom f. | chữ cái; lá thư | « A » est une lettre. || « A » là một chữ cái.
+V: un mot | /œ̃ mo/ | nom m. | từ | « Café » est un mot français. || « Café » là một từ tiếng Pháp.
+V: épeler | /e.ple/ | verbe | đánh vần | Épelez votre nom, s'il vous plaît. || Xin vui lòng đánh vần họ của bạn.
+V: le nom | /lə nɔ̃/ | nom m. | họ; tên (nói chung) | Mon nom est Nguyen. || Họ của tôi là Nguyễn.
+V: le prénom | /lə pʁe.nɔ̃/ | nom m. | tên riêng (tên gọi) | Mon prénom est Linh. || Tên tôi là Linh.
+V: le café | /lə ka.fe/ | nom m. | cà phê; quán cà phê | Le café est chaud. || Cà phê nóng.
+V: l'école | /le.kɔl/ | nom f. | trường học | Le garçon est à l'école. || Cậu bé đang ở trường.
+V: le garçon | /lə ɡaʁ.sɔ̃/ | nom m. | cậu bé; bồi bàn | Le garçon s'appelle Paul. || Cậu bé tên là Paul.
+V: la fête | /la fɛt/ | nom f. | bữa tiệc; ngày lễ | C'est la fête ! || Đang có tiệc đấy!
+V: s'il vous plaît | /sil vu plɛ/ | expression | làm ơn (lịch sự) | Un café, s'il vous plaît. || Cho tôi một cà phê, làm ơn.
+VQ: « Épelez votre nom » : on demande de… | dire son âge | *dire les lettres du nom | écrire une lettre | chanter
+VQ: « Linh » est un… | *prénom | café | mot de passe | alphabet
+VQ: Le garçon est à ___. | *l'école | épeler | s'il vous plaît | une lettre
+VQ: Combien de lettres dans l'alphabet français ? | 24 | *26 | 29 | 30
+VQ: Un café, ___ (formule polie) = s'il vous plaît / s'il vous plait
+D: Je m'appelle Anna.
+D: C'est un café.
+D: Épelez votre nom, s'il vous plaît.
+D: Le garçon est à l'école.
+L: Réceptionniste | Bonjour madame. Votre nom, s'il vous plaît ? || Chào bà. Xin cho biết họ của bà?
+L: Linh | Bonjour. Je m'appelle Linh Nguyen. || Xin chào. Tôi tên là Linh Nguyễn.
+L: Réceptionniste | Vous pouvez épeler votre nom ? || Bà có thể đánh vần họ của mình không?
+L: Linh | Oui. N, G, U, Y, E, N. || Vâng. N, G, U, Y, E, N.
+L: Réceptionniste | Merci. Et votre prénom ? || Cảm ơn. Còn tên của bà?
+L: Linh | L, I, N, H. Linh. || L, I, N, H. Linh.
+L: Réceptionniste | Parfait, merci madame. || Tốt lắm, cảm ơn bà.
+LQ: Où est Linh ? | à l'école | *à la réception | au café | à la fête
+LQ: Quel est le nom de Linh ? | Linh | *Nguyen | Anna | Paul
+LQ: Combien de lettres dans « Linh » ? | 3 | *4 | 5 | 6
+RA: A, B, C, D, E, F, G
+RA: H, I, J, K, L, M, N
+RA: O, P, Q, R, S, T, U
+RA: V, W, X, Y, Z
+SH: Bonjour, je m'appelle Linh.
+SH: Ça s'écrit L, I, N, H.
+SH: Un café, s'il vous plaît.
+R.title: À l'école de langues
+R: Aujourd'hui, c'est le premier jour à l'école de langues. || Hôm nay là ngày đầu tiên ở trường ngoại ngữ.
+R: Le professeur s'appelle Marc. || Thầy giáo tên là Marc.
+R: Il écrit l'alphabet au tableau. || Thầy viết bảng chữ cái lên bảng.
+R: Les étudiants épellent leur prénom. || Các học viên đánh vần tên của mình.
+R: Linh dit : « L, I, N, H ». || Linh nói: « L, I, N, H ».
+R: Paul dit : « P, A, U, L ». || Paul nói: « P, A, U, L ».
+R: Après la classe, ils vont au café. || Sau giờ học, họ đi đến quán cà phê.
+RQ: Comment s'appelle le professeur ? | Paul | *Marc | Linh | Anna
+RQ: Qu'est-ce que le professeur écrit ? | un mot | *l'alphabet | une lettre à sa mère | son nom
+RQ: Où vont les étudiants après la classe ? | à la fête | à l'hôtel | *au café | à Paris
+W.prompt: Écris trois phrases : ton nom, ton prénom et comment ça s'écrit. || Viết ba câu: họ của bạn, tên của bạn và cách đánh vần.
+W.min: 12
+W.must: je m'appelle ; ça s'écrit
+W.check: Có dùng « Je m'appelle … » đúng mẫu
+W.check: Đánh vần bằng chữ cái, cách nhau dấu phẩy
+W.check: Mỗi câu viết hoa chữ đầu và có dấu chấm cuối câu
+W.model: Bonjour, je m'appelle Minh Tran. || Xin chào, tôi tên là Minh Trần.
+W.model: Mon prénom est Minh et mon nom est Tran. || Tên tôi là Minh và họ tôi là Trần.
+W.model: Ça s'écrit M, I, N, H. || Đánh vần là M, I, N, H.
+
+## 2 | Saluer et se présenter
+G.title: S'appeler : je m'appelle…
+G.rule: Pour dire son nom, on utilise le verbe s'appeler. Pour saluer, on dit « bonjour » la journée, « bonsoir » le soir et « salut » entre amis. || Để nói tên, ta dùng động từ s'appeler. Để chào, ta nói « bonjour » ban ngày, « bonsoir » buổi tối và « salut » giữa bạn bè.
+G.note: S'appeler là động từ phản thân: je m'appelle (tôi tên là), tu t'appelles, il/elle s'appelle. "Tu" dùng với bạn bè, người thân; "vous" dùng khi lịch sự hoặc nói với nhiều người.
+G.table: Pronom | S'appeler
+G.row: je | m'appelle
+G.row: tu | t'appelles
+G.row: il / elle | s'appelle
+G.row: nous | nous appelons
+G.row: vous | vous appelez
+G.row: ils / elles | s'appellent
+G.ex: Bonjour, je m'appelle Linh. || Xin chào, tôi tên là Linh.
+G.ex: Comment tu t'appelles ? || Bạn tên là gì?
+G.ex: Comment vous appelez-vous ? || Ngài tên là gì?
+G.ex: Elle s'appelle Marie. || Cô ấy tên là Marie.
+G.q: Comment ___-vous ? | appelle | *vous appelez | t'appelles | m'appelle
+G.q: Il est vingt heures. On dit… | Bonjour | *Bonsoir | Bonne nuit | Salut madame
+G.q: Elle ___ Marie. | m'appelle | *s'appelle | t'appelles | appelons
+G.q: À un ami, on dit… | *Salut ! | Bonjour monsieur | Enchanté, madame | Au revoir monsieur
+G.q: Complétez : Je ___ Linh. = m'appelle
+V: bonjour | /bɔ̃.ʒuʁ/ | interjection | xin chào (ban ngày) | Bonjour madame ! || Chào bà!
+V: bonsoir | /bɔ̃.swaʁ/ | interjection | chào buổi tối | Bonsoir, monsieur. || Chào ông (buổi tối).
+V: salut | /sa.ly/ | interjection | chào (thân mật) | Salut Paul, ça va ? || Chào Paul, khoẻ không?
+V: au revoir | /o ʁə.vwaʁ/ | interjection | tạm biệt | Au revoir et à demain ! || Tạm biệt và hẹn mai gặp lại!
+V: enchanté | /ɑ̃.ʃɑ̃.te/ | adjectif | rất vui được gặp | Enchanté, je m'appelle Marc. || Rất vui được gặp, tôi tên là Marc.
+V: ça va ? | /sa va/ | expression | khoẻ không? | Ça va ? Oui, ça va bien. || Khoẻ không? Ừ, khoẻ.
+V: merci | /mɛʁ.si/ | interjection | cảm ơn | Merci beaucoup ! || Cảm ơn nhiều!
+V: monsieur | /mə.sjø/ | nom m. | ông, ngài | Bonjour monsieur Martin. || Chào ông Martin.
+V: madame | /ma.dam/ | nom f. | bà, quý bà | Merci madame. || Cảm ơn bà.
+V: à bientôt | /a bjɛ̃.to/ | expression | hẹn sớm gặp lại | Au revoir, à bientôt ! || Tạm biệt, hẹn sớm gặp lại!
+VQ: Le matin, au travail, on dit… | Salut | *Bonjour | Bonsoir | Bonne nuit
+VQ: « Enchanté » s'utilise… | quand on part | *quand on rencontre quelqu'un | pour dire merci | le soir seulement
+VQ: Ça va ? — ___ | *Ça va bien, merci. | Je m'appelle Paul. | Au revoir. | Bonsoir.
+VQ: Pour partir, on dit… | Bonjour | Enchanté | *Au revoir | Merci
+VQ: Complétez : Au revoir, à ___ ! = bientôt / demain
+D: Bonjour, comment allez-vous ?
+D: Je m'appelle Paul.
+D: Enchanté, madame.
+D: Au revoir, à bientôt !
+L: Paul | Salut ! Je m'appelle Paul. Et toi, comment tu t'appelles ? || Chào! Mình tên là Paul. Còn bạn, bạn tên gì?
+L: Linh | Salut Paul ! Moi, c'est Linh. || Chào Paul! Mình là Linh.
+L: Paul | Enchanté, Linh. Ça va ? || Rất vui được gặp, Linh. Khoẻ không?
+L: Linh | Ça va bien, merci. Et toi ? || Mình khoẻ, cảm ơn. Còn bạn?
+L: Paul | Très bien ! Bon, à bientôt ! || Rất khoẻ! Thôi, hẹn gặp lại nhé!
+L: Linh | Au revoir, Paul ! || Tạm biệt Paul!
+LQ: Paul et Linh se parlent… | formellement (vous) | *amicalement (tu) | au téléphone | en colère
+LQ: Comment va Linh ? | mal | *bien | fatiguée | on ne sait pas
+LQ: Qui parle en premier ? | Linh | *Paul | le professeur | madame Martin
+RA: Bonjour, je m'appelle Linh.
+RA: Enchantée !
+RA: Ça va bien, merci. Et vous ?
+SH: Salut ! Ça va ?
+SH: Comment vous appelez-vous ?
+SH: Au revoir, à bientôt !
+R.title: Le premier jour
+R: Lucas arrive à l'université. || Lucas đến trường đại học.
+R: Il dit bonjour à une étudiante. || Anh ấy chào một nữ sinh viên.
+R: « Bonjour, je m'appelle Lucas. Et toi ? » || « Chào bạn, mình tên là Lucas. Còn bạn? »
+R: Elle répond : « Moi, c'est Mai. Enchantée ! » || Cô ấy trả lời: « Mình là Mai. Rất vui được gặp! »
+R: Le soir, Lucas rencontre le professeur. || Buổi tối, Lucas gặp thầy giáo.
+R: Il dit : « Bonsoir, monsieur. » || Anh ấy nói: « Chào thầy (buổi tối). »
+R: Le professeur répond : « Bonsoir, Lucas. À demain ! » || Thầy trả lời: « Chào Lucas. Hẹn mai gặp! »
+RQ: Comment s'appelle l'étudiante ? | Linh | Marie | *Mai | Anna
+RQ: Pourquoi Lucas dit « bonsoir » au professeur ? | *Parce que c'est le soir | Parce qu'il part | Parce que c'est un ami | Parce qu'il est fatigué
+RQ: Avec le professeur, Lucas est… | familier | *poli | triste | absent
+W.prompt: Écris un petit dialogue de quatre à six répliques : tu rencontres une personne, tu la salues, tu te présentes et tu dis au revoir. || Viết một đoạn hội thoại ngắn 4–6 lượt lời: bạn gặp một người, chào, tự giới thiệu và nói tạm biệt.
+W.min: 20
+W.must: bonjour ; je m'appelle ; au revoir
+W.check: Dùng « tu » hoặc « vous » nhất quán với cùng một người
+W.check: Có câu hỏi tên: « Comment tu t'appelles ? » hoặc « Comment vous appelez-vous ? »
+W.check: Câu hỏi kết thúc bằng dấu « ? » (tiếng Pháp có dấu cách trước « ? »)
+W.model: — Bonjour ! Je m'appelle Minh. Et vous ? || — Xin chào! Tôi tên là Minh. Còn bà?
+W.model: — Bonjour, je m'appelle Claire. Enchantée ! || — Xin chào, tôi tên là Claire. Rất vui được gặp!
+W.model: — Enchanté ! Vous allez bien ? || — Rất vui được gặp! Bà có khoẻ không?
+W.model: — Oui, très bien, merci. Au revoir, Minh ! || — Vâng, rất khoẻ, cảm ơn. Tạm biệt Minh!
+W.model: — Au revoir, à bientôt ! || — Tạm biệt, hẹn sớm gặp lại!
+
+## 3 | Les pronoms sujets et le verbe être
+G.title: Le verbe être au présent
+G.rule: Le verbe être est irrégulier et très important. On l'utilise pour la nationalité, la profession, la description et le lieu. || Động từ être là động từ bất quy tắc và rất quan trọng. Ta dùng nó để nói quốc tịch, nghề nghiệp, miêu tả và nơi chốn.
+G.note: Être = thì, là, ở. "Vous" vừa là ngôi lịch sự số ít vừa là số nhiều. "On" (người ta / chúng ta) chia giống "il". Khi nói nghề nghiệp, không dùng mạo từ: Il est professeur (không nói "un professeur").
+G.table: Pronom | Être
+G.row: je | suis
+G.row: tu | es
+G.row: il / elle / on | est
+G.row: nous | sommes
+G.row: vous | êtes
+G.row: ils / elles | sont
+G.ex: Je suis vietnamienne. || Tôi là người Việt (nữ).
+G.ex: Tu es étudiant ? || Bạn là sinh viên à?
+G.ex: Elle est à Paris. || Cô ấy đang ở Paris.
+G.ex: Nous sommes amis. || Chúng tôi là bạn bè.
+G.ex: Vous êtes professeur ? || Ông là giáo viên à?
+G.ex: Ils sont contents. || Họ vui.
+G.q: Nous ___ étudiants. | sont | *sommes | êtes | est
+G.q: Vous ___ français ? | *êtes | es | sommes | suis
+G.q: Marie et Anna ___ à Lyon. | est | *sont | sommes | es
+G.q: Quel pronom pour parler poliment à un professeur ? | tu | *vous | il | on
+G.q: Complétez : Je ___ vietnamien. = suis
+V: être | /ɛtʁ/ | verbe | thì, là, ở | Je suis étudiant. || Tôi là sinh viên.
+V: étudiant | /e.ty.djɑ̃/ | nom m. | sinh viên (nam) | Paul est étudiant. || Paul là sinh viên.
+V: étudiante | /e.ty.djɑ̃t/ | nom f. | sinh viên (nữ) | Linh est étudiante. || Linh là sinh viên.
+V: professeur | /pʁɔ.fɛ.sœʁ/ | nom m. | giáo viên | Marc est professeur. || Marc là giáo viên.
+V: vietnamien | /vjɛt.na.mjɛ̃/ | adjectif | người / thuộc Việt Nam (nam) | Il est vietnamien. || Anh ấy là người Việt.
+V: vietnamienne | /vjɛt.na.mjɛn/ | adjectif | người / thuộc Việt Nam (nữ) | Elle est vietnamienne. || Cô ấy là người Việt.
+V: français | /fʁɑ̃.sɛ/ | adjectif | người / thuộc Pháp (nam) | Lucas est français. || Lucas là người Pháp.
+V: française | /fʁɑ̃.sɛz/ | adjectif | người / thuộc Pháp (nữ) | Marie est française. || Marie là người Pháp.
+V: un ami | /œ̃.n‿a.mi/ | nom m. | bạn (nam) | Paul est un ami. || Paul là một người bạn.
+V: content | /kɔ̃.tɑ̃/ | adjectif | vui, hài lòng | Nous sommes contents. || Chúng tôi vui.
+V: ici | /i.si/ | adverbe | ở đây | Je suis ici. || Tôi ở đây.
+VQ: Linh est une femme. Elle est… | vietnamien | *vietnamienne | français | étudiant
+VQ: Marie est une femme de France. Elle est… | *française | français | vietnamienne | professeur
+VQ: « Ici » veut dire… | là-bas | *à cet endroit | demain | aussi
+VQ: Marc enseigne. Il est… | étudiant | ami | *professeur | content
+VQ: Complétez : Paul est un ___ (bạn nam). = ami
+D: Je suis étudiante.
+D: Vous êtes français ?
+D: Nous sommes à Hanoï.
+D: Ils sont contents.
+L: Marc | Bonjour ! Vous êtes nouvelle ? || Chào chị! Chị là người mới à?
+L: Linh | Oui, je suis nouvelle. Je suis étudiante. || Vâng, tôi là người mới. Tôi là sinh viên.
+L: Marc | Vous êtes chinoise ? || Chị là người Trung Quốc à?
+L: Linh | Non, je suis vietnamienne. Je suis de Hanoï. || Không, tôi là người Việt. Tôi đến từ Hà Nội.
+L: Marc | Ah, très bien ! Moi, je suis professeur. Je suis français. || À, tốt quá! Còn tôi là giáo viên. Tôi là người Pháp.
+LQ: Linh est… | chinoise | *vietnamienne | française | professeur
+LQ: Marc est… | étudiant | vietnamien | *professeur | nouveau
+LQ: Linh est de… | Paris | Lyon | *Hanoï | Pékin
+RA: Je suis, tu es, il est.
+RA: Nous sommes, vous êtes, ils sont.
+RA: Je suis vietnamien et je suis étudiant.
+SH: Vous êtes français ?
+SH: Non, je suis vietnamienne.
+SH: Nous sommes amis.
+R.title: Une classe internationale
+R: Dans la classe de Marc, il y a cinq étudiants. || Trong lớp của thầy Marc có năm học viên.
+R: Linh est vietnamienne. || Linh là người Việt.
+R: Ken est japonais. || Ken là người Nhật.
+R: Ana et Pedro sont espagnols. || Ana và Pedro là người Tây Ban Nha.
+R: Sarah est anglaise. || Sarah là người Anh.
+R: Ils sont tous contents d'être à Paris. || Tất cả họ đều vui vì được ở Paris.
+R: Marc dit : « Vous êtes une super classe ! » || Thầy Marc nói: « Các bạn là một lớp học tuyệt vời! »
+RQ: Combien d'étudiants dans la classe ? | trois | quatre | *cinq | six
+RQ: Ana et Pedro sont… | japonais | *espagnols | anglais | vietnamiens
+RQ: Où sont les étudiants ? | à Madrid | à Tokyo | à Hanoï | *à Paris
+W.prompt: Présente-toi et présente deux personnes que tu connais avec le verbe être : nationalité, profession, ville. || Giới thiệu bản thân và hai người bạn quen bằng động từ être: quốc tịch, nghề nghiệp, thành phố.
+W.min: 25
+W.must: je suis ; il est ; elle est
+W.check: Mỗi chủ ngữ đi với đúng dạng của être (je suis, il est, elle est…)
+W.check: Tính từ quốc tịch khớp giống: vietnamien (nam) / vietnamienne (nữ)
+W.check: Nói nghề nghiệp không có mạo từ: « Elle est médecin »
+W.model: Je m'appelle Minh. || Tôi tên là Minh.
+W.model: Je suis vietnamien et je suis étudiant à Hanoï. || Tôi là người Việt và là sinh viên ở Hà Nội.
+W.model: Mon ami Paul est français. || Bạn tôi, Paul, là người Pháp.
+W.model: Il est professeur à Lyon. || Anh ấy là giáo viên ở Lyon.
+W.model: Ma sœur Lan est vietnamienne. || Chị gái tôi, Lan, là người Việt.
+W.model: Elle est médecin à Hô Chi Minh-Ville. || Chị ấy là bác sĩ ở Thành phố Hồ Chí Minh.
+
+## 4 | Les voyelles nasales
+G.title: Les sons nasaux : [ɑ̃], [ɔ̃], [ɛ̃]
+G.rule: Quand une voyelle est suivie de n ou m, et pas d'une autre voyelle, elle devient souvent nasale : l'air passe par le nez. || Khi một nguyên âm đứng trước n hoặc m, và sau đó không phải là nguyên âm khác, nó thường thành âm mũi: hơi đi qua mũi.
+G.note: Âm mũi không đọc rõ chữ "n" cuối. an/en → [ɑ̃] (gần "ăng"), on → [ɔ̃] (gần "ông"), in/ain/un → [ɛ̃] (gần "anh" nhưng mở hơn). Nếu sau n/m là nguyên âm (ami, une) hoặc có hai chữ n (bonne) thì KHÔNG đọc mũi.
+G.table: Son | Écritures | Exemples
+G.row: [ɑ̃] | an, am, en, em | enfant, chambre, temps
+G.row: [ɔ̃] | on, om | bonjour, nom, maison
+G.row: [ɛ̃] | in, im, ain, ein, un | vin, pain, important, lundi
+G.row: pas nasal | n/m + voyelle, nn | ami, une, fine, bonne
+G.ex: Mon enfant mange du pain. || Con tôi ăn bánh mì.
+G.ex: Le vin blanc est bon. || Rượu vang trắng ngon.
+G.ex: Bonjour, mon nom est Simon. || Xin chào, họ tôi là Simon.
+G.ex: Une amie, une fine. || Một người bạn gái, một cô gái mảnh mai.
+G.q: Quel mot a le son [ɔ̃] ? | pain | *maison | enfant | ami
+G.q: Quel mot n'est pas nasal ? | bon | *bonne | pain | temps
+G.q: « enfant » contient le son… | *[ɑ̃] | [ɔ̃] | [ɛ̃] | aucun son nasal
+G.q: « pain » et « vin » ont le même son ? | *oui, [ɛ̃] | non | oui, [ɑ̃] | oui, [ɔ̃]
+G.q: Écrivez le mot (bánh mì) : le p___ = pain / le pain
+V: le pain | /lə pɛ̃/ | nom m. | bánh mì | Je mange du pain. || Tôi ăn bánh mì.
+V: le vin | /lə vɛ̃/ | nom m. | rượu vang | Le vin blanc est bon. || Rượu vang trắng ngon.
+V: un enfant | /œ̃.n‿ɑ̃.fɑ̃/ | nom m. | đứa trẻ | L'enfant est content. || Đứa trẻ vui vẻ.
+V: la maison | /la mɛ.zɔ̃/ | nom f. | ngôi nhà | La maison est grande. || Ngôi nhà to.
+V: bon | /bɔ̃/ | adjectif | ngon; tốt (giống đực) | Le pain est bon. || Bánh mì ngon.
+V: bonne | /bɔn/ | adjectif | ngon; tốt (giống cái) | Bonne journée ! || Chúc một ngày tốt lành!
+V: blanc | /blɑ̃/ | adjectif | trắng | J'aime le vin blanc. || Tôi thích rượu vang trắng.
+V: le temps | /lə tɑ̃/ | nom m. | thời gian; thời tiết | Il fait beau temps. || Trời đẹp.
+V: lundi | /lœ̃.di/ | nom m. | thứ Hai | Lundi, je suis à l'école. || Thứ Hai tôi ở trường.
+V: la chambre | /la ʃɑ̃bʁ/ | nom f. | phòng ngủ | La chambre est petite. || Phòng ngủ nhỏ.
+VQ: On mange du… | vin | *pain | temps | lundi
+VQ: Le premier jour de la semaine en France : | *lundi | dimanche | samedi | mardi
+VQ: Dans « bonne journée », « bonne » est… | nasal | *pas nasal | muet | anglais
+VQ: On dort dans la… | *chambre | cave à vin | classe | boulangerie
+VQ: Le vin ___ (trắng) = blanc
+D: Le pain est bon.
+D: Mon enfant est dans la chambre.
+D: Lundi, il fait beau temps.
+D: Le vin blanc est bon.
+L: Boulangère | Bonjour monsieur ! Vous désirez ? || Chào ông! Ông muốn mua gì ạ?
+L: Simon | Bonjour madame. Un pain, s'il vous plaît. || Chào bà. Cho tôi một ổ bánh mì.
+L: Boulangère | Voilà. Et avec ça ? || Của ông đây. Ông cần gì thêm không?
+L: Simon | C'est tout, merci. Bonne journée ! || Thế thôi, cảm ơn. Chúc bà một ngày tốt lành!
+L: Boulangère | Merci, bonne journée, monsieur ! || Cảm ơn, chúc ông một ngày tốt lành!
+LQ: Où est Simon ? | *à la boulangerie | à l'école | dans la chambre | au restaurant
+LQ: Qu'est-ce qu'il achète ? | du vin | *un pain | un café | rien
+LQ: « C'est tout » veut dire… | je veux encore | *je ne veux rien d'autre | c'est cher | au revoir
+RA: an, en, on, in, un
+RA: enfant, maison, pain, lundi
+RA: bon, bonne ; un, une ; fin, fine
+SH: Bonjour, un pain, s'il vous plaît.
+SH: Le vin blanc est bon.
+SH: Mon enfant est dans la maison.
+R.title: Le dimanche de Simon
+R: Simon habite dans une petite maison. || Simon sống trong một ngôi nhà nhỏ.
+R: Le dimanche, il va à la boulangerie. || Chủ Nhật, anh ấy đi đến tiệm bánh mì.
+R: Il achète un pain et des croissants. || Anh ấy mua một ổ bánh mì và vài chiếc bánh sừng bò.
+R: Son enfant, Léon, aime le pain chaud. || Con anh ấy, Léon, thích bánh mì nóng.
+R: Le soir, Simon boit un verre de vin blanc. || Buổi tối, Simon uống một ly rượu vang trắng.
+R: C'est un bon moment. || Đó là một khoảnh khắc dễ chịu.
+RQ: Où habite Simon ? | *dans une petite maison | dans un hôtel | à l'école | dans une chambre d'étudiant
+RQ: Comment s'appelle l'enfant ? | Simon | *Léon | Paul | Marc
+RQ: Que boit Simon le soir ? | du café | *du vin blanc | de l'eau | du lait
+W.prompt: Écris quatre phrases avec au moins six mots qui ont un son nasal : pain, maison, enfant, bon, lundi, temps. || Viết bốn câu dùng ít nhất sáu từ có âm mũi: pain, maison, enfant, bon, lundi, temps.
+W.min: 20
+W.must: pain ; maison ; enfant
+W.check: Đếm đủ sáu từ có âm mũi trong bài
+W.check: Đọc to bài viết và chú ý không phát âm chữ « n » cuối trong âm mũi
+W.check: Phân biệt bon (giống đực) / bonne (giống cái)
+W.model: Lundi, mon enfant mange du pain. || Thứ Hai, con tôi ăn bánh mì.
+W.model: Notre maison est grande et blanche. || Nhà của chúng tôi to và màu trắng.
+W.model: Le pain de Simon est très bon. || Bánh mì của Simon rất ngon.
+W.model: Le dimanche, il fait beau temps. || Chủ Nhật trời đẹp.
+
+## 5 | Les nombres de 0 à 20
+G.title: Compter de 0 à 20 et dire son âge
+G.rule: Pour dire l'âge, on utilise le verbe avoir et non le verbe être : « J'ai vingt ans. » Attention aux liaisons : deux ans, trois ans, six ans, dix ans. || Để nói tuổi, ta dùng động từ avoir chứ không dùng être: « J'ai vingt ans. » Chú ý nối âm: deux ans, trois ans, six ans, dix ans.
+G.note: Tiếng Pháp nói tuổi bằng "avoir" (có): J'ai 20 ans = Tôi 20 tuổi (nghĩa đen: tôi có 20 năm). Nối âm (liaison): phụ âm cuối được đọc nối với nguyên âm đầu từ sau — deux‿ans [døz‿ɑ̃], six‿ans [siz‿ɑ̃], dix‿ans [diz‿ɑ̃].
+G.table: 0–6 | 7–13 | 14–20
+G.row: 0 zéro | 7 sept | 14 quatorze
+G.row: 1 un | 8 huit | 15 quinze
+G.row: 2 deux | 9 neuf | 16 seize
+G.row: 3 trois | 10 dix | 17 dix-sept
+G.row: 4 quatre | 11 onze | 18 dix-huit
+G.row: 5 cinq | 12 douze | 19 dix-neuf
+G.row: 6 six | 13 treize | 20 vingt
+G.ex: J'ai vingt ans. || Tôi hai mươi tuổi.
+G.ex: Tu as quel âge ? || Bạn bao nhiêu tuổi?
+G.ex: Il a dix-huit ans. || Anh ấy mười tám tuổi.
+G.ex: Mon numéro, c'est le zéro six, douze, quinze. || Số của tôi là không sáu, mười hai, mười lăm.
+G.q: 16 se dit… | *seize | six | soixante | dix-six
+G.q: J'___ dix-neuf ans. | suis | *ai | es | est
+G.q: Sept plus huit = ? | quatorze | *quinze | seize | treize
+G.q: « dix-huit » = | 16 | 17 | *18 | 19
+G.q: Écrivez en lettres : 12 = douze
+V: un an | /œ̃.n‿ɑ̃/ | nom m. | năm (tuổi) | J'ai vingt ans. || Tôi hai mươi tuổi.
+V: l'âge | /lɑʒ/ | nom m. | tuổi | Tu as quel âge ? || Bạn bao nhiêu tuổi?
+V: avoir | /a.vwaʁ/ | verbe | có | J'ai deux frères. || Tôi có hai anh em trai.
+V: le numéro | /lə ny.me.ʁo/ | nom m. | số (điện thoại, phòng) | Quel est ton numéro de téléphone ? || Số điện thoại của bạn là gì?
+V: compter | /kɔ̃.te/ | verbe | đếm | L'enfant compte jusqu'à dix. || Đứa trẻ đếm đến mười.
+V: combien | /kɔ̃.bjɛ̃/ | adverbe | bao nhiêu | Combien d'étudiants ? || Bao nhiêu học viên?
+V: le téléphone | /lə te.le.fɔn/ | nom m. | điện thoại | Mon téléphone est noir. || Điện thoại của tôi màu đen.
+V: un frère | /œ̃ fʁɛʁ/ | nom m. | anh/em trai | J'ai un frère. || Tôi có một anh trai.
+V: une sœur | /yn sœʁ/ | nom f. | chị/em gái | Ma sœur a quinze ans. || Em gái tôi mười lăm tuổi.
+V: quel | /kɛl/ | adjectif interrogatif | nào, gì | Quel âge as-tu ? || Bạn bao nhiêu tuổi?
+VQ: « Tu as quel âge ? » — | *J'ai dix-sept ans. | Je suis dix-sept. | Dix-sept heures. | Je m'appelle dix-sept.
+VQ: « Combien » sert à demander… | *une quantité | un lieu | un nom | une heure précise
+VQ: La fille de mes parents est ma… | frère | *sœur | mère | amie
+VQ: Pour appeler quelqu'un, on a besoin de son… | *numéro | âge | frère | pain
+VQ: J'ai un ___ (anh trai). = frère
+D: J'ai vingt ans.
+D: Ma sœur a quinze ans.
+D: Tu as quel âge ?
+D: Il y a douze étudiants.
+L: Claire | Tu as des frères et sœurs ? || Bạn có anh chị em không?
+L: Linh | Oui, j'ai un frère et une sœur. || Có, mình có một anh trai và một em gái.
+L: Claire | Ils ont quel âge ? || Họ bao nhiêu tuổi?
+L: Linh | Mon frère a dix-huit ans et ma sœur a douze ans. || Anh mình mười tám tuổi và em gái mình mười hai tuổi.
+L: Claire | Et toi ? || Còn bạn?
+L: Linh | Moi, j'ai vingt ans. || Mình hai mươi tuổi.
+LQ: Linh a combien de frères et sœurs ? | un | *deux | trois | zéro
+LQ: Quel âge a la sœur ? | *12 | 18 | 20 | 2
+LQ: Quel âge a Linh ? | 18 | 12 | *20 | 19
+RA: zéro, un, deux, trois, quatre, cinq, six
+RA: sept, huit, neuf, dix, onze, douze, treize
+RA: quatorze, quinze, seize, dix-sept, dix-huit, dix-neuf, vingt
+SH: Tu as quel âge ?
+SH: J'ai vingt ans.
+SH: Mon numéro, c'est le zéro six, douze, quinze, dix-huit, vingt.
+R.title: La famille de Léa
+R: Léa a dix-sept ans. || Léa mười bảy tuổi.
+R: Elle habite à Lyon avec sa famille. || Cô ấy sống ở Lyon cùng gia đình.
+R: Elle a deux frères : Hugo a quatorze ans et Tom a onze ans. || Cô ấy có hai em trai: Hugo mười bốn tuổi và Tom mười một tuổi.
+R: Elle a aussi un chat, Minou. || Cô ấy còn có một con mèo tên Minou.
+R: Il a trois ans. || Nó ba tuổi.
+R: Dans sa classe, il y a vingt élèves. || Trong lớp của cô ấy có hai mươi học sinh.
+RQ: Quel âge a Léa ? | 14 | *17 | 11 | 20
+RQ: Combien de frères a Léa ? | un | *deux | trois | aucun
+RQ: Minou est… | un frère | *un chat | un professeur | une sœur
+W.prompt: Présente ta famille : combien de personnes, leurs prénoms et leur âge. Utilise avoir et ans. || Giới thiệu gia đình bạn: có bao nhiêu người, tên và tuổi của họ. Dùng avoir và ans.
+W.min: 25
+W.must: j'ai ; ans
+W.check: Nói tuổi bằng avoir: « Il a dix ans », không dùng « Il est dix ans »
+W.check: Viết số bằng chữ (douze, quinze…) ít nhất hai lần
+W.check: Dùng đúng mon / ma: mon frère, ma sœur
+W.model: Dans ma famille, il y a quatre personnes. || Gia đình tôi có bốn người.
+W.model: Mon père s'appelle Hung. || Bố tôi tên là Hùng.
+W.model: Ma mère s'appelle Mai. || Mẹ tôi tên là Mai.
+W.model: J'ai une sœur, Lan. || Tôi có một em gái, tên Lan.
+W.model: Elle a quinze ans. || Em ấy mười lăm tuổi.
+W.model: Moi, j'ai vingt ans. || Còn tôi hai mươi tuổi.
