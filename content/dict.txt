@@ -1840,3 +1840,70 @@ l'électricité | nom f. | điện
 l'élément | nom m. | yếu tố
 la péripétie | nom f. | tình tiết
 dormant | participe | đang ngủ (en dormant: trong khi ngủ)
+@er abandonner | bỏ cuộc, từ bỏ
+l'achat | nom m. | việc mua sắm
+adj | abréviation | tính từ (adjectif)
+adv | abréviation | trạng từ (adverbe)
+l'apprentissage | nom m. | việc học
+la baie | nom f. | vịnh
+la cafetière | nom f. | máy pha cà phê
+la capitale | nom f. | thủ đô
+commun | adjectif | chung
+le comparatif | nom m. | so sánh hơn
+le concours | nom m. | cuộc thi
+le coût | nom m. | chi phí
+le critère | nom m. | tiêu chí
+croustillant | adjectif | giòn
+le doute | nom m. | sự nghi ngờ (sans doute: chắc là)
+dynamique | adjectif | năng động
+le défaut | nom m. | khuyết điểm
+fragile | adjectif | dễ vỡ, mong manh
+la gastronomie | nom f. | ẩm thực
+gourmand | adjectif | ham ăn, sành ăn
+la grammaire | nom f. | ngữ pháp
+la grotte | nom f. | hang động
+historique | adjectif | lịch sử
+imperméable | adjectif | chống thấm nước
+l'impôt | nom m. | thuế
+l'infériorité | nom f. | sự kém hơn
+le jury | nom m. | ban giám khảo
+@er justifier | biện minh, giải thích
+laquelle | pronom | cái nào (giống cái)
+lequel | pronom | cái nào (giống đực)
+lesquels | pronom | những cái nào
+la machine | nom f. | máy
+le magazine | nom m. | tạp chí
+le master | nom m. | bằng thạc sĩ
+le monument | nom m. | công trình, di tích
+le moteur | nom m. | động cơ
+nocturne | adjectif | về đêm
+la nourriture | nom f. | đồ ăn
+nulle part | adverbe | không nơi nào
+pareil | adjectif | giống nhau
+parfumé | adjectif | thơm
+le poids | nom m. | cân nặng
+populaire | adjectif | phổ biến, được ưa chuộng
+raisonnable | adjectif | hợp lý
+le record | nom m. | kỷ lục
+@er reculer | lùi lại
+@er remplacer | thay thế
+la revanche | nom f. | sự phục thù (en revanche: ngược lại)
+riant | participe | đang cười (en riant: vừa cười)
+réputé | adjectif | nổi tiếng, được cho là
+le sol | nom m. | sàn nhà, mặt đất
+spectaculaire | adjectif | ngoạn mục
+spontané | adjectif | tự nhiên, bộc phát
+le superlatif | nom m. | so sánh nhất
+la supériorité | nom f. | sự hơn
+@er tester | thử nghiệm
+la tienne | pronom | cái của bạn (giống cái)
+le tien | pronom | cái của bạn
+traditionnel | adjectif | truyền thống
+@er traiter | xử lý, đề cập
+tropical | adjectif | nhiệt đới
+le ventilateur | nom m. | quạt điện
+le vocabulaire | nom m. | từ vựng
+l'écriture | nom f. | chữ viết, việc viết
+l'égalité | nom f. | sự bằng nhau
+élevé | adjectif | cao
+nul | adjectif | bằng không, dở (nulle part: không nơi nào)

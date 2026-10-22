@@ -1,0 +1,380 @@
+@week 20
+@title Comparer
+@level A2
+
+## 1 | Plus, moins, aussi... que
+G.title: Le comparatif des adjectifs
+G.rule: Pour comparer deux choses avec un adjectif, on utilise plus… que (supériorité), moins… que (infériorité) et aussi… que (égalité). L'adjectif s'accorde avec le premier élément. || Để so sánh hai thứ bằng một tính từ, ta dùng plus… que (hơn), moins… que (kém hơn) và aussi… que (bằng). Tính từ hợp với đối tượng thứ nhất.
+G.note: Lan est plus grande que Minh. Le train est moins cher que l'avion. Ce café est aussi bon que l'autre. "que" + nguyên âm → "qu'": plus âgé qu'elle. Sau "que" dùng đại từ nhấn mạnh: moi, toi, lui, elle, nous, vous, eux, elles — Il est plus grand que moi (không nói "que je"). Với danh từ: plus de, moins de, autant de + danh từ: J'ai plus de travail que toi.
+G.table: Comparaison | Structure | Exemple
+G.row: supériorité | plus + adj. + que | Hanoï est plus froide que Saïgon.
+G.row: infériorité | moins + adj. + que | Le bus est moins rapide que le métro.
+G.row: égalité | aussi + adj. + que | Lan est aussi grande que sa mère.
+G.row: nom | plus de / moins de / autant de | J'ai autant de livres que toi.
+G.ex: Paris est plus grande que Lyon. || Paris lớn hơn Lyon.
+G.ex: En hiver, Hanoï est plus froide que Saïgon. || Vào mùa đông, Hà Nội lạnh hơn Sài Gòn.
+G.ex: Mon frère est moins sportif que moi. || Anh trai tôi ít thể thao hơn tôi.
+G.ex: J'ai autant de travail que toi cette semaine. || Tuần này tôi có nhiều việc như bạn.
+G.q: Le vélo est ___ rapide que la voiture. | plus | *moins | aussi | autant
+G.q: Ma sœur est plus âgée que ___. | je | *moi | me | mon
+G.q: J'ai ___ amis que toi. (égalité, nom) | aussi d' | *autant d' | aussi | autant
+G.q: Ces chaussures sont plus ___ que les autres. | cher | *chères | chère | chers
+G.q: Complétez (égalité) : Il est ___ intelligent que son frère. = aussi
+V: plus | /ply(s)/ | adverbe | hơn | Il est plus grand. || Anh ấy cao hơn.
+V: moins | /mwɛ̃/ | adverbe | kém hơn, ít hơn | C'est moins cher. || Rẻ hơn.
+V: aussi | /o.si/ | adverbe | cũng; bằng | Elle est aussi belle que sa mère. || Cô ấy đẹp như mẹ.
+V: autant | /o.tɑ̃/ | adverbe | nhiều bằng | Il travaille autant que moi. || Anh ấy làm việc nhiều như tôi.
+V: rapide | /ʁa.pid/ | adjectif | nhanh | Le TGV est très rapide. || Tàu TGV rất nhanh.
+V: lent | /lɑ̃/ | adjectif | chậm | Le bus est lent. || Xe buýt chậm.
+V: sportif | /spɔʁ.tif/ | adjectif | thích thể thao | Mon père est très sportif. || Bố tôi rất thích thể thao.
+V: lourd | /luʁ/ | adjectif | nặng | Ma valise est plus lourde que la tienne. || Va li của tôi nặng hơn của bạn.
+V: léger | /le.ʒe/ | adjectif | nhẹ | Ce sac est très léger. || Chiếc túi này rất nhẹ.
+V: la comparaison | /la kɔ̃.pa.ʁɛ.zɔ̃/ | nom f. | sự so sánh | Faisons une comparaison. || Hãy so sánh nhé.
+VQ: Le contraire de « lourd » : | lent | *léger | rapide | petit
+VQ: Le contraire de « rapide » : | léger | *lent | lourd | cher
+VQ: Une personne qui fait beaucoup de sport est… | lente | *sportive | lourde | timide
+VQ: « Aussi… que » exprime… | la supériorité | *l'égalité | l'infériorité | la négation
+VQ: Le contraire de « plus » : ___ = moins
+D: Paris est plus grande que Lyon.
+D: Hanoï est plus froide que Saïgon.
+D: Mon frère est moins sportif que moi.
+D: J'ai autant de travail que toi.
+L: Vendeur | Vous préférez quel téléphone ? || Anh thích chiếc điện thoại nào?
+L: Client | Je ne sais pas. Le modèle A est plus léger que le modèle B ? || Tôi không biết. Mẫu A nhẹ hơn mẫu B à?
+L: Vendeur | Oui, et il est aussi plus rapide. Mais il est plus cher. || Vâng, và nó cũng nhanh hơn. Nhưng nó đắt hơn.
+L: Client | Et la batterie ? || Còn pin thì sao?
+L: Vendeur | La batterie du modèle B est meilleure. Elle dure plus longtemps. || Pin của mẫu B tốt hơn. Nó dùng được lâu hơn.
+L: Client | Alors je prends le modèle B : il est moins cher et je voyage beaucoup. || Vậy tôi lấy mẫu B: nó rẻ hơn và tôi hay đi công tác.
+LQ: Le modèle A est… | plus lourd | *plus léger | aussi cher que B | moins rapide
+LQ: Quel modèle a la meilleure batterie ? | A | *B | les deux | aucun
+LQ: Pourquoi le client choisit B ? | il est plus beau | *il est moins cher et il voyage beaucoup | il est plus rapide | il est plus léger
+RA: plus grand que, moins grand que, aussi grand que.
+RA: Paris est plus grande que Lyon.
+RA: J'ai autant de livres que toi.
+SH: Le modèle A est plus léger que le modèle B ?
+SH: Elle dure plus longtemps.
+SH: Il est moins cher et je voyage beaucoup.
+R.title: Deux sœurs très différentes
+R: Mai et Linh sont sœurs, mais elles sont très différentes. || Mai và Linh là chị em, nhưng họ rất khác nhau.
+R: Mai a vingt-huit ans : elle est plus âgée que Linh, qui a vingt-trois ans. || Mai hai mươi tám tuổi: cô ấy lớn tuổi hơn Linh, người hai mươi ba tuổi.
+R: Linh est plus grande que sa sœur, mais elle est moins sportive. || Linh cao hơn chị, nhưng ít thể thao hơn.
+R: Mai est plus calme et plus organisée ; Linh est plus drôle et plus spontanée. || Mai điềm tĩnh và ngăn nắp hơn; Linh vui tính và tự nhiên hơn.
+R: Elles ont autant d'amis l'une que l'autre. || Họ có nhiều bạn bè ngang nhau.
+R: Mais elles sont aussi gentilles l'une que l'autre, et elles s'adorent ! || Nhưng cả hai đều tốt bụng như nhau, và họ rất quý nhau!
+RQ: Qui est la plus âgée ? | Linh | *Mai | elles ont le même âge | on ne sait pas
+RQ: Linh est… que Mai. | plus sportive | *plus grande | plus calme | plus âgée
+RQ: Elles ont… | plus d'amis | *autant d'amis | moins d'amis | pas d'amis
+W.prompt: Compare deux personnes de ta famille ou deux amis (âge, taille, caractère, goûts). Utilise plus… que, moins… que, aussi… que et autant de. || So sánh hai người trong gia đình bạn hoặc hai người bạn (tuổi, chiều cao, tính cách, sở thích). Dùng plus… que, moins… que, aussi… que và autant de.
+W.min: 50
+W.must: plus ; moins ; aussi
+W.check: Tính từ hợp với chủ ngữ (plus grande, plus grands)
+W.check: Đại từ nhấn mạnh sau que (moi, lui, elle)
+W.check: autant de / plus de + danh từ
+W.model: Mon père et ma mère sont très différents. || Bố và mẹ tôi rất khác nhau.
+W.model: Mon père est plus âgé que ma mère : il a soixante ans. || Bố tôi lớn tuổi hơn mẹ: ông sáu mươi tuổi.
+W.model: Ma mère est moins grande que lui, mais elle est plus énergique. || Mẹ tôi thấp hơn bố, nhưng năng động hơn.
+W.model: Mon père est plus calme et plus patient qu'elle. || Bố tôi điềm tĩnh và kiên nhẫn hơn mẹ.
+W.model: Ma mère a plus d'amis et elle sort plus souvent. || Mẹ tôi có nhiều bạn hơn và đi chơi thường xuyên hơn.
+W.model: Mais ils sont aussi gourmands l'un que l'autre ! || Nhưng cả hai đều ham ăn như nhau!
+
+## 2 | Meilleur et mieux
+G.title: Les comparatifs irréguliers
+G.rule: Bon devient meilleur (adjectif) et bien devient mieux (adverbe). On ne dit pas « plus bon » ni « plus bien ». || Bon (tốt, ngon — tính từ) thành meilleur, và bien (tốt, giỏi — trạng từ) thành mieux. Không nói « plus bon » hay « plus bien ».
+G.note: Meilleur là tính từ → hợp giống, số: meilleur, meilleure, meilleurs, meilleures. Ce gâteau est meilleur. Cette soupe est meilleure. Mieux là trạng từ → không đổi, đi với động từ: Elle chante mieux que moi. Mẹo: hỏi "như thế nào?" cho động từ → mieux. Mô tả danh từ → meilleur. Ngoài ra: "moins bon" và "aussi bon" vẫn dùng bình thường. "Pire" = tệ hơn (plus mauvais).
+G.table: Base | Comparatif | Exemple
+G.row: bon (adj.) | meilleur(e)(s) | Ce vin est meilleur.
+G.row: bien (adv.) | mieux | Il parle mieux français.
+G.row: mauvais (adj.) | pire / plus mauvais | Le temps est pire qu'hier.
+G.row: bon / bien | aussi bon / aussi bien | Elle cuisine aussi bien que toi.
+G.ex: Le phở de ma mère est meilleur que le phở du restaurant. || Phở mẹ tôi nấu ngon hơn phở nhà hàng.
+G.ex: Tu parles français mieux que l'année dernière. || Bạn nói tiếng Pháp giỏi hơn năm ngoái.
+G.ex: Cette solution est meilleure. || Giải pháp này tốt hơn.
+G.ex: Je me sens mieux aujourd'hui. || Hôm nay tôi thấy khoẻ hơn.
+G.q: Ce croissant est ___ que l'autre. | plus bon | *meilleur | mieux | meilleure
+G.q: Elle chante ___ que moi. | meilleure | *mieux | plus bien | meilleur
+G.q: Ces tomates sont ___. | meilleur | mieux | *meilleures | meilleure
+G.q: Après les médicaments, je me sens ___. | meilleur | *mieux | plus bon | bon
+G.q: Comparatif de « bien » : ___ = mieux
+V: meilleur | /mɛ.jœʁ/ | adjectif | tốt hơn, ngon hơn | C'est meilleur avec du sucre. || Có đường thì ngon hơn.
+V: mieux | /mjø/ | adverbe | tốt hơn, giỏi hơn | Ça va mieux ? || Đã đỡ hơn chưa?
+V: pire | /piʁ/ | adjectif | tệ hơn | C'est pire qu'avant. || Tệ hơn trước.
+V: la solution | /la sɔ.ly.sjɔ̃/ | nom f. | giải pháp | C'est la meilleure solution. || Đó là giải pháp tốt nhất.
+V: se sentir | /sə sɑ̃.tiʁ/ | verbe | cảm thấy | Je me sens bien. || Tôi thấy ổn.
+V: la qualité | /la ka.li.te/ | nom f. | chất lượng | Ce produit est de bonne qualité. || Sản phẩm này chất lượng tốt.
+V: le goût | /lə ɡu/ | nom m. | vị | Ce plat a un goût délicieux. || Món này có vị rất ngon.
+V: le vin | /lə vɛ̃/ | nom m. | rượu vang | Le vin rouge est meilleur avec la viande. || Rượu vang đỏ ngon hơn khi uống với thịt.
+V: s'améliorer | /sa.me.ljɔ.ʁe/ | verbe | tiến bộ, cải thiện | Ton français s'améliore ! || Tiếng Pháp của bạn đang tiến bộ!
+V: le progrès | /lə pʁɔ.ɡʁɛ/ | nom m. | sự tiến bộ | Tu fais des progrès. || Bạn đang tiến bộ.
+VQ: Le contraire de « meilleur » : | mieux | *pire | bon | moins
+VQ: « Ça va mieux ? » demande si… | tu as faim | *ta santé est meilleure | tu aimes ça | tu es riche
+VQ: « Faire des progrès » veut dire… | reculer | *s'améliorer | abandonner | se tromper
+VQ: Le café vietnamien a un ___ fort. | qualité | *goût | vin | progrès
+VQ: Comparatif de « bon » au féminin : ___ = meilleure
+D: Le phở de ma mère est meilleur.
+D: Tu parles français mieux que l'année dernière.
+D: Cette solution est meilleure.
+D: Je me sens mieux aujourd'hui.
+L: Professeure | Bravo, Tuấn ! Tu fais de gros progrès. || Giỏi lắm, Tuấn! Em tiến bộ nhiều đấy.
+L: Tuấn | Merci ! Je comprends mieux les films maintenant. || Cảm ơn cô! Giờ em hiểu phim tốt hơn rồi.
+L: Professeure | Et ta prononciation est meilleure aussi. || Và phát âm của em cũng tốt hơn.
+L: Tuấn | Mais mon écriture est pire qu'avant… J'oublie les accents ! || Nhưng chữ viết của em tệ hơn trước… Em hay quên dấu!
+L: Professeure | Ce n'est pas grave. Écris un peu tous les jours et ça ira mieux. || Không sao đâu. Mỗi ngày viết một chút là sẽ tốt hơn.
+L: Tuấn | D'accord, je vais essayer ! || Vâng, em sẽ thử!
+LQ: Qu'est-ce que Tuấn comprend mieux ? | les livres | *les films | la grammaire | les chansons
+LQ: Qu'est-ce qui est meilleur ? | son écriture | *sa prononciation | ses notes | son vocabulaire
+LQ: Quel est son problème à l'écrit ? | il écrit trop lentement | *il oublie les accents | il fait des fautes de grammaire | il n'aime pas écrire
+RA: bon, meilleur ; bien, mieux.
+RA: Ce gâteau est meilleur. Elle chante mieux.
+RA: Je me sens mieux aujourd'hui.
+SH: Tu fais de gros progrès.
+SH: Je comprends mieux les films maintenant.
+SH: Ça ira mieux.
+R.title: Le concours de cuisine
+R: Samedi, il y avait un concours de cuisine dans notre quartier. || Thứ Bảy, có một cuộc thi nấu ăn trong khu phố chúng tôi.
+R: Madame Lefèvre a préparé une tarte aux pommes et Madame Hằng a fait des nems. || Bà Lefèvre làm bánh táo và bà Hằng làm nem rán.
+R: Le jury a goûté les deux plats. || Ban giám khảo nếm cả hai món.
+R: Selon eux, la tarte était bonne, mais les nems étaient meilleurs : plus croustillants et plus parfumés. || Theo họ, bánh táo ngon, nhưng nem ngon hơn: giòn hơn và thơm hơn.
+R: Madame Hằng a gagné le premier prix ! || Bà Hằng đã giành giải nhất!
+R: Madame Lefèvre a dit en riant : « L'année prochaine, je vais cuisiner mieux ! » || Bà Lefèvre vừa cười vừa nói: « Năm sau tôi sẽ nấu ngon hơn! »
+RQ: Qu'est-ce que Madame Lefèvre a préparé ? | des nems | *une tarte aux pommes | une soupe | un gâteau au chocolat
+RQ: Pourquoi les nems étaient meilleurs ? | ils étaient plus grands | *plus croustillants et plus parfumés | moins chers | plus sucrés
+RQ: Comment a réagi Madame Lefèvre ? | elle était en colère | *elle a ri | elle a pleuré | elle est partie
+W.prompt: Compare ton niveau de français aujourd'hui et au début de l'apprentissage. Qu'est-ce qui est meilleur ? Qu'est-ce que tu fais mieux ? Qu'est-ce qui est encore difficile ? || So sánh trình độ tiếng Pháp của bạn hôm nay với lúc mới bắt đầu học. Điều gì tốt hơn? Bạn làm gì giỏi hơn? Điều gì vẫn còn khó?
+W.min: 50
+W.must: meilleur ; mieux
+W.check: meilleur (tính từ, hợp giống số) / mieux (trạng từ, bất biến)
+W.check: Không viết « plus bon », « plus bien »
+W.check: Có ít nhất một điểm cần cải thiện
+W.model: Il y a cinq mois, je ne parlais pas du tout français. || Năm tháng trước, tôi hoàn toàn không nói được tiếng Pháp.
+W.model: Aujourd'hui, ma prononciation est meilleure et je comprends mieux les dialogues. || Hôm nay, phát âm của tôi tốt hơn và tôi hiểu các đoạn hội thoại tốt hơn.
+W.model: Je lis mieux et plus vite, et mon vocabulaire est plus riche. || Tôi đọc tốt hơn và nhanh hơn, vốn từ của tôi phong phú hơn.
+W.model: Mais l'écoute est encore difficile : les Français parlent plus vite que l'application ! || Nhưng nghe vẫn còn khó: người Pháp nói nhanh hơn ứng dụng!
+W.model: Ma grammaire est meilleure, mais je confonds encore l'imparfait et le passé composé. || Ngữ pháp của tôi tốt hơn, nhưng tôi vẫn nhầm imparfait với passé composé.
+W.model: Dans six mois, je vais parler encore mieux ! || Sáu tháng nữa, tôi sẽ nói giỏi hơn nữa!
+
+## 3 | Le superlatif
+G.title: Le plus, le moins, le meilleur
+G.rule: Le superlatif exprime le plus haut ou le plus bas degré : le/la/les plus + adjectif, le/la/les moins + adjectif. Pour préciser le groupe, on utilise de : la plus belle ville du monde. || So sánh nhất diễn tả mức độ cao nhất hoặc thấp nhất: le/la/les plus + tính từ, le/la/les moins + tính từ. Để chỉ rõ phạm vi, ta dùng de: la plus belle ville du monde (thành phố đẹp nhất thế giới).
+G.note: Mạo từ hợp với danh từ: le plus grand, la plus grande, les plus grands. Nếu tính từ đứng sau danh từ, lặp lại mạo từ: le restaurant le plus cher, la ville la plus chaude. Bất quy tắc: le meilleur / la meilleure (tốt nhất), le mieux (giỏi nhất — trạng từ), le pire (tệ nhất). "de" + mạo từ: du monde, de la classe, des trois.
+G.table: Forme | Exemple
+G.row: le plus + adj. | le plus grand pays
+G.row: la moins + adj. | la ville la moins chère
+G.row: les plus + adj. | les plus beaux paysages
+G.row: le / la meilleur(e) | la meilleure amie
+G.row: le mieux (adverbe) | C'est lui qui chante le mieux.
+G.ex: Le Mékong est le plus long fleuve d'Asie du Sud-Est. || Sông Mê Kông là con sông dài nhất Đông Nam Á.
+G.ex: C'est le restaurant le moins cher du quartier. || Đó là nhà hàng rẻ nhất khu phố.
+G.ex: Lan est la meilleure élève de la classe. || Lan là học sinh giỏi nhất lớp.
+G.ex: Le Fansipan est la montagne la plus haute du Viêt Nam. || Fansipan là ngọn núi cao nhất Việt Nam.
+G.q: C'est ___ ville la plus chaude du pays. | le | *la | les | du
+G.q: C'est le restaurant ___ cher. | plus le | *le plus | la plus | plus
+G.q: Lan est la ___ élève de la classe. | plus bonne | *meilleure | mieux | meilleur
+G.q: C'est la plus belle plage ___ monde. | de | *du | de la | des
+G.q: Superlatif de « bon » (masculin) : le ___ = meilleur
+V: le plus | /lə ply/ | expression | nhất | C'est le plus beau jour. || Đó là ngày đẹp nhất.
+V: le moins | /lə mwɛ̃/ | expression | ít nhất | C'est le moins cher. || Đó là cái rẻ nhất.
+V: le fleuve | /lə flœv/ | nom m. | sông lớn (đổ ra biển) | La Seine est un fleuve. || Sông Seine là một con sông lớn.
+V: la montagne | /la mɔ̃.taɲ/ | nom f. | núi | J'aime la montagne. || Tôi thích núi.
+V: haut | /o/ | adjectif | cao | La tour Eiffel est très haute. || Tháp Eiffel rất cao.
+V: profond | /pʁɔ.fɔ̃/ | adjectif | sâu | Ce lac est très profond. || Cái hồ này rất sâu.
+V: célèbre | /se.lɛbʁ/ | adjectif | nổi tiếng | C'est le monument le plus célèbre. || Đó là công trình nổi tiếng nhất.
+V: peuplé | /pœ.ple/ | adjectif | đông dân | C'est la ville la plus peuplée. || Đó là thành phố đông dân nhất.
+V: le monde | /lə mɔ̃d/ | nom m. | thế giới | C'est le plus grand pays du monde. || Đó là nước lớn nhất thế giới.
+V: l'élève | /le.lɛv/ | nom | học sinh | C'est un bon élève. || Đó là một học sinh giỏi.
+VQ: Le contraire de « profond » : | haut | *peu profond | long | célèbre
+VQ: Une ville avec beaucoup d'habitants est… | célèbre | *peuplée | haute | profonde
+VQ: Une personne que tout le monde connaît est… | peuplée | *célèbre | profonde | haute
+VQ: Une grande rivière qui va jusqu'à la mer : | un lac | *un fleuve | une montagne | un pont
+VQ: Superlatif de « mauvais » : le ___ = pire
+D: Le Mékong est le plus long fleuve d'Asie du Sud-Est.
+D: C'est le restaurant le moins cher du quartier.
+D: Lan est la meilleure élève de la classe.
+D: Le Fansipan est la montagne la plus haute du Viêt Nam.
+L: Animateur | Question numéro un : quelle est la ville la plus peuplée de France ? || Câu hỏi số một: thành phố đông dân nhất nước Pháp là thành phố nào?
+L: Candidate | C'est Paris ! || Là Paris!
+L: Animateur | Bravo ! Question deux : quel est le plus long fleuve de France ? || Chính xác! Câu hỏi hai: con sông dài nhất nước Pháp là sông nào?
+L: Candidate | Euh… la Seine ? || Ờ… sông Seine?
+L: Animateur | Non, c'est la Loire ! Elle fait plus de mille kilomètres. || Không, là sông Loire! Nó dài hơn một nghìn cây số.
+L: Candidate | Ah, j'ai encore beaucoup de choses à apprendre ! || À, tôi còn nhiều thứ phải học!
+LQ: La ville la plus peuplée de France est… | Lyon | *Paris | Marseille | Lille
+LQ: Le plus long fleuve de France est… | la Seine | *la Loire | le Rhône | la Garonne
+LQ: La Loire fait… | moins de mille kilomètres | *plus de mille kilomètres | cent kilomètres | cinq cents kilomètres
+RA: le plus grand, la plus grande, les plus grands.
+RA: le meilleur, la meilleure, le pire.
+RA: C'est la ville la plus peuplée de France.
+SH: Quelle est la ville la plus peuplée de France ?
+SH: Quel est le plus long fleuve de France ?
+SH: J'ai encore beaucoup de choses à apprendre !
+R.title: Le Viêt Nam en records
+R: Le Viêt Nam est un pays plein de records. || Việt Nam là một đất nước đầy kỷ lục.
+R: Hô Chi Minh-Ville est la ville la plus peuplée du pays, avec plus de neuf millions d'habitants. || Thành phố Hồ Chí Minh là thành phố đông dân nhất cả nước, với hơn chín triệu dân.
+R: La grotte de Sơn Đoòng est la plus grande grotte du monde. || Hang Sơn Đoòng là hang động lớn nhất thế giới.
+R: Le Fansipan, avec ses trois mille cent quarante-trois mètres, est le sommet le plus haut d'Indochine. || Fansipan, với độ cao ba nghìn một trăm bốn mươi ba mét, là đỉnh núi cao nhất Đông Dương.
+R: Pour beaucoup de touristes, la baie d'Hạ Long est le paysage le plus spectaculaire du pays. || Với nhiều du khách, vịnh Hạ Long là phong cảnh ngoạn mục nhất cả nước.
+R: Et pour les gourmands, le phở est sans doute le meilleur plat du monde ! || Và với những người sành ăn, phở chắc chắn là món ngon nhất thế giới!
+RQ: Quelle est la ville la plus peuplée du Viêt Nam ? | Hanoï | *Hô Chi Minh-Ville | Đà Nẵng | Huế
+RQ: Qu'est-ce que Sơn Đoòng ? | une montagne | *la plus grande grotte du monde | une baie | un fleuve
+RQ: Le Fansipan est le sommet le plus haut… | du monde | *d'Indochine | d'Asie | de France
+W.prompt: Présente ton pays ou ta région avec des superlatifs : la ville la plus…, le plat le meilleur…, le lieu le plus… || Giới thiệu đất nước hoặc vùng của bạn bằng so sánh nhất: thành phố… nhất, món ăn ngon nhất, nơi… nhất.
+W.min: 50
+W.must: le plus ; la plus ; le meilleur
+W.check: Mạo từ hợp với danh từ (le/la/les plus)
+W.check: Lặp lại mạo từ khi tính từ đứng sau (la ville la plus…)
+W.check: de + mạo từ để chỉ phạm vi (du monde, de la région)
+W.model: Je viens du delta du Mékong, la région la plus fertile du Viêt Nam. || Tôi đến từ đồng bằng sông Cửu Long, vùng màu mỡ nhất Việt Nam.
+W.model: Cần Thơ est la ville la plus grande de la région. || Cần Thơ là thành phố lớn nhất vùng.
+W.model: Le marché flottant de Cái Răng est le lieu le plus célèbre pour les touristes. || Chợ nổi Cái Răng là nơi nổi tiếng nhất với du khách.
+W.model: Pour moi, le meilleur plat de la région est le hủ tiếu. || Với tôi, món ngon nhất vùng là hủ tiếu.
+W.model: La saison la plus agréable est de décembre à avril. || Mùa dễ chịu nhất là từ tháng Mười Hai đến tháng Tư.
+W.model: Les habitants sont les plus accueillants du pays ! || Người dân ở đây hiếu khách nhất cả nước!
+
+## 4 | Comparer deux villes
+G.title: Organiser une comparaison
+G.rule: Pour comparer deux villes de manière organisée, on traite plusieurs critères (taille, climat, coût de la vie, ambiance) et on utilise des connecteurs : alors que, par contre, en revanche, les deux, tandis que. || Để so sánh hai thành phố một cách có tổ chức, ta xét nhiều tiêu chí (quy mô, khí hậu, chi phí sinh hoạt, không khí) và dùng các từ nối: alors que (trong khi), par contre / en revanche (ngược lại), les deux (cả hai), tandis que (trong khi).
+G.note: "Alors que / tandis que" nối hai mệnh đề đối lập trong một câu: Hanoï a quatre saisons, alors que Saïgon a deux saisons. "Par contre / en revanche" bắt đầu câu mới: Paris est chère. Par contre, Lyon est plus abordable. Điểm giống nhau: Les deux villes… / Comme Paris, Lyon… / … aussi. Kết luận: Personnellement, je préfère… parce que…
+G.table: Connecteur | Exemple
+G.row: alors que | Hanoï est froide en hiver, alors que Saïgon est chaude.
+G.row: par contre | Paris est chère. Par contre, Lille est abordable.
+G.row: en revanche | Le métro est rapide. En revanche, il est bondé.
+G.row: les deux | Les deux villes sont historiques.
+G.row: comme | Comme Hanoï, Huế a un vieux quartier.
+G.ex: Hanoï a quatre saisons, alors que Saïgon a seulement deux saisons. || Hà Nội có bốn mùa, trong khi Sài Gòn chỉ có hai mùa.
+G.ex: Le loyer est très cher à Paris. Par contre, il est raisonnable à Toulouse. || Tiền thuê nhà ở Paris rất đắt. Ngược lại, ở Toulouse giá hợp lý.
+G.ex: Les deux villes ont une vie nocturne très animée. || Cả hai thành phố đều có cuộc sống về đêm rất sôi động.
+G.ex: Personnellement, je préfère Huế parce qu'elle est plus calme. || Cá nhân tôi thích Huế hơn vì nó yên bình hơn.
+G.q: « Par contre » exprime… | une cause | *une opposition | une conséquence | un temps
+G.q: Pour un point commun, on dit… | alors que | *les deux villes… | par contre | en revanche
+G.q: Lyon est petite, ___ Paris est immense. | par contre | *alors que | les deux | comme
+G.q: Synonyme de « par contre » : | donc | *en revanche | alors | parce que
+G.q: Pour donner son goût : ___, je préfère Huế. = Personnellement / personnellement
+V: alors que | /a.lɔʁ kə/ | conjonction | trong khi (đối lập) | Il fait chaud ici, alors que là-bas il neige. || Ở đây nóng, trong khi ở kia có tuyết.
+V: par contre | /paʁ kɔ̃tʁ/ | expression | ngược lại | Le studio est petit. Par contre, il est lumineux. || Căn hộ nhỏ. Ngược lại, nó sáng sủa.
+V: en revanche | /ɑ̃ ʁə.vɑ̃ʃ/ | expression | ngược lại | En revanche, le loyer est cher. || Ngược lại, tiền thuê đắt.
+V: le loyer | /lə lwa.je/ | nom m. | tiền thuê nhà | Le loyer est de cinq cents euros. || Tiền thuê nhà là năm trăm euro.
+V: le climat | /lə kli.ma/ | nom m. | khí hậu | Le climat est tropical. || Khí hậu nhiệt đới.
+V: le coût de la vie | /lə ku də la vi/ | expression | chi phí sinh hoạt | Le coût de la vie est élevé. || Chi phí sinh hoạt cao.
+V: animé | /a.ni.me/ | adjectif | sôi động | Le quartier est très animé. || Khu phố rất sôi động.
+V: abordable | /a.bɔʁ.dabl/ | adjectif | giá phải chăng | Les prix sont abordables. || Giá cả phải chăng.
+V: bondé | /bɔ̃.de/ | adjectif | chật cứng người | Le métro est bondé le matin. || Tàu điện ngầm chật cứng vào buổi sáng.
+V: personnellement | /pɛʁ.sɔ.nɛl.mɑ̃/ | adverbe | cá nhân tôi | Personnellement, je préfère la mer. || Cá nhân tôi thích biển hơn.
+VQ: Le contraire de « calme » (quartier) : | bondé | *animé | abordable | cher
+VQ: « Abordable » veut dire… | très cher | *pas trop cher | gratuit | fermé
+VQ: L'argent qu'on paie chaque mois pour un appartement : | le salaire | *le loyer | l'impôt | le prix
+VQ: Le temps habituel d'une région, c'est le… | météo | *climat | coût | loyer
+VQ: Un métro avec trop de monde est ___. = bondé
+D: Hanoï a quatre saisons, alors que Saïgon a deux saisons.
+D: Par contre, le loyer est raisonnable à Toulouse.
+D: Les deux villes ont une vie nocturne animée.
+D: Personnellement, je préfère Huế.
+L: Étudiante | J'hésite entre Paris et Lyon pour mon master. Tu connais les deux ? || Mình đang phân vân giữa Paris và Lyon để học thạc sĩ. Bạn biết cả hai chứ?
+L: Ami | Oui. Paris est plus grande et plus animée, mais la vie est beaucoup plus chère. || Ừ. Paris lớn hơn và sôi động hơn, nhưng cuộc sống đắt hơn nhiều.
+L: Étudiante | Et les loyers ? || Còn tiền thuê nhà?
+L: Ami | À Paris, une chambre coûte environ huit cents euros, alors qu'à Lyon, c'est cinq cents. || Ở Paris, một phòng khoảng tám trăm euro, trong khi ở Lyon là năm trăm.
+L: Étudiante | Et pour la nourriture ? || Còn đồ ăn?
+L: Ami | Les deux villes sont excellentes ! Par contre, Lyon est la capitale de la gastronomie. || Cả hai thành phố đều tuyệt vời! Nhưng Lyon là thủ đô ẩm thực.
+LQ: Pourquoi l'étudiante hésite ? | pour un travail | *pour son master | pour des vacances | pour habiter avec sa famille
+LQ: Une chambre à Lyon coûte environ… | huit cents euros | *cinq cents euros | trois cents euros | mille euros
+LQ: Lyon est connue comme… | la ville la plus grande | *la capitale de la gastronomie | la ville la plus chère | la ville la plus froide
+RA: Hanoï a quatre saisons, alors que Saïgon a deux saisons.
+RA: Paris est chère. Par contre, Lyon est plus abordable.
+RA: Les deux villes sont excellentes.
+SH: J'hésite entre Paris et Lyon.
+SH: La vie est beaucoup plus chère.
+SH: Lyon est la capitale de la gastronomie.
+R.title: Hanoï ou Saïgon ?
+R: Hanoï et Saïgon sont les deux plus grandes villes du Viêt Nam, mais elles sont très différentes. || Hà Nội và Sài Gòn là hai thành phố lớn nhất Việt Nam, nhưng chúng rất khác nhau.
+R: Hanoï est la capitale : elle est plus ancienne et plus traditionnelle. || Hà Nội là thủ đô: nó lâu đời hơn và truyền thống hơn.
+R: Saïgon, en revanche, est plus moderne et plus dynamique. || Sài Gòn, ngược lại, hiện đại và năng động hơn.
+R: À Hanoï, il fait froid en hiver, alors qu'à Saïgon il fait chaud toute l'année. || Ở Hà Nội, mùa đông lạnh, trong khi ở Sài Gòn nóng quanh năm.
+R: Les Hanoïens sont réputés plus réservés, tandis que les Saïgonnais sont plus ouverts. || Người Hà Nội được cho là kín đáo hơn, trong khi người Sài Gòn cởi mở hơn.
+R: Les deux villes ont une cuisine délicieuse, mais chacune a ses spécialités ! || Cả hai thành phố đều có ẩm thực ngon, nhưng mỗi nơi có đặc sản riêng!
+RQ: Quelle ville est plus traditionnelle ? | Saïgon | *Hanoï | les deux | aucune
+RQ: Où fait-il chaud toute l'année ? | à Hanoï | *à Saïgon | dans les deux villes | nulle part
+RQ: Qu'ont les deux villes en commun ? | le climat | *une cuisine délicieuse | la même taille | le même caractère
+W.prompt: Compare deux villes que tu connais (taille, climat, coût de la vie, ambiance, nourriture) et dis laquelle tu préfères et pourquoi. || So sánh hai thành phố bạn biết (quy mô, khí hậu, chi phí sinh hoạt, không khí, đồ ăn) và nói bạn thích thành phố nào hơn và tại sao.
+W.min: 60
+W.must: alors que ; par contre ; personnellement
+W.check: Ít nhất bốn tiêu chí so sánh
+W.check: Có điểm giống và điểm khác
+W.check: Có kết luận với lý do (parce que)
+W.model: Je voudrais comparer Đà Nẵng et Huế, deux villes du centre du Viêt Nam. || Tôi muốn so sánh Đà Nẵng và Huế, hai thành phố miền Trung Việt Nam.
+W.model: Đà Nẵng est plus grande et plus moderne que Huế. || Đà Nẵng lớn hơn và hiện đại hơn Huế.
+W.model: Elle a de belles plages, alors que Huế a des monuments historiques. || Đà Nẵng có những bãi biển đẹp, trong khi Huế có các di tích lịch sử.
+W.model: Le coût de la vie est un peu plus élevé à Đà Nẵng. Par contre, il y a plus de travail. || Chi phí sinh hoạt ở Đà Nẵng cao hơn một chút. Ngược lại, ở đó có nhiều việc làm hơn.
+W.model: Les deux villes ont une cuisine délicieuse, mais la cuisine de Huế est plus épicée. || Cả hai thành phố đều có ẩm thực ngon, nhưng món Huế cay hơn.
+W.model: Personnellement, je préfère Huế parce qu'elle est plus calme et plus poétique. || Cá nhân tôi thích Huế hơn vì nó yên bình và thơ mộng hơn.
+
+## 5 | Comparer des produits
+G.title: Choisir et justifier
+G.rule: Pour comparer des produits avant un achat, on utilise le comparatif et le superlatif avec des critères comme le prix, la qualité, la taille et la durée, et on justifie son choix. || Để so sánh các sản phẩm trước khi mua, ta dùng so sánh hơn và so sánh nhất với các tiêu chí như giá, chất lượng, kích thước và độ bền, và giải thích lý do lựa chọn.
+G.note: Câu hỏi hữu ích ở cửa hàng: Quelle est la différence entre… et… ? (Khác nhau giữa… và… là gì?), Lequel / Laquelle est le/la moins cher(ère) ? (Cái nào rẻ nhất?), Vous avez quelque chose de plus petit ? (Có cái nào nhỏ hơn không?). Đưa ra quyết định: Je prends celui-ci / celle-là (Tôi lấy cái này / cái kia). "Le rapport qualité-prix" = tỷ lệ giá trị trên giá tiền.
+G.table: Question | Réponse
+G.row: Quelle est la différence ? | Celui-ci est plus léger.
+G.row: Lequel est le moins cher ? | Le modèle bleu.
+G.row: Vous avez plus petit ? | Oui, en taille S.
+G.row: Lequel vous conseillez ? | Celui-là, il a le meilleur rapport qualité-prix.
+G.ex: Quelle est la différence entre ces deux aspirateurs ? || Hai chiếc máy hút bụi này khác nhau thế nào?
+G.ex: Celui-ci est plus puissant, mais celui-là est plus silencieux. || Cái này mạnh hơn, nhưng cái kia êm hơn.
+G.ex: Cet ordinateur a le meilleur rapport qualité-prix. || Chiếc máy tính này có giá trị tốt nhất so với giá tiền.
+G.ex: Je prends celle-ci, elle est plus solide. || Tôi lấy cái này, nó chắc chắn hơn.
+G.q: Pour demander une taille plus petite : | Vous avez moins petit ? | *Vous avez plus petit ? | C'est le plus petit ? | Petit, s'il vous plaît.
+G.q: « Celui-ci » remplace un nom… | féminin | *masculin singulier | pluriel | féminin pluriel
+G.q: Lequel est ___ cher ? | moins le | *le moins | la moins | plus moins
+G.q: Le rapport qualité-prix compare… | la taille et le poids | *la qualité et le prix | deux magasins | deux couleurs
+G.q: Féminin de « celui-ci » : ___ = celle-ci
+V: le produit | /lə pʁɔ.dɥi/ | nom m. | sản phẩm | Ce produit est de bonne qualité. || Sản phẩm này chất lượng tốt.
+V: la différence | /la di.fe.ʁɑ̃s/ | nom f. | sự khác biệt | Quelle est la différence ? || Khác nhau ở đâu?
+V: celui-ci | /sə.lɥi.si/ | pronom | cái này | Je préfère celui-ci. || Tôi thích cái này hơn.
+V: celle-là | /sɛl.la/ | pronom | cái kia (giống cái) | Je prends celle-là. || Tôi lấy cái kia.
+V: puissant | /pɥi.sɑ̃/ | adjectif | mạnh | Ce moteur est puissant. || Động cơ này mạnh.
+V: silencieux | /si.lɑ̃.sjø/ | adjectif | êm, im lặng | Ce ventilateur est silencieux. || Chiếc quạt này êm.
+V: solide | /sɔ.lid/ | adjectif | chắc chắn | Cette table est solide. || Cái bàn này chắc chắn.
+V: conseiller | /kɔ̃.se.je/ | verbe | khuyên | Qu'est-ce que vous me conseillez ? || Anh khuyên tôi chọn gì?
+V: la taille | /la taj/ | nom f. | kích cỡ | Vous faites quelle taille ? || Anh mặc cỡ nào?
+V: l'aspirateur | /las.pi.ʁa.tœʁ/ | nom m. | máy hút bụi | J'ai acheté un nouvel aspirateur. || Tôi đã mua một chiếc máy hút bụi mới.
+VQ: Le contraire de « bruyant » : | puissant | *silencieux | solide | léger
+VQ: Le contraire de « fragile » : | léger | *solide | silencieux | petit
+VQ: Une machine pour nettoyer le sol : | un ventilateur | *un aspirateur | un ordinateur | un frigo
+VQ: S, M, L, XL sont des… | prix | *tailles | couleurs | qualités
+VQ: Pour demander un avis au vendeur : Qu'est-ce que vous me ___ ? = conseillez
+D: Quelle est la différence entre ces deux aspirateurs ?
+D: Celui-ci est plus puissant.
+D: Cet ordinateur a le meilleur rapport qualité-prix.
+D: Je prends celle-ci, elle est plus solide.
+L: Cliente | Bonjour, je cherche un sac à dos pour voyager. || Chào anh, tôi tìm một chiếc ba lô để đi du lịch.
+L: Vendeur | Nous avons ces trois modèles. Le rouge est le plus léger. || Chúng tôi có ba mẫu này. Cái màu đỏ nhẹ nhất.
+L: Cliente | Et le noir ? Il a l'air plus grand. || Còn cái màu đen? Trông nó to hơn.
+L: Vendeur | Oui, il est plus grand et plus solide, mais il est aussi le plus cher : cent vingt euros. || Vâng, nó to hơn và chắc chắn hơn, nhưng cũng đắt nhất: một trăm hai mươi euro.
+L: Cliente | Lequel vous me conseillez pour un voyage de deux semaines ? || Anh khuyên tôi chọn cái nào cho chuyến đi hai tuần?
+L: Vendeur | Le vert : il a le meilleur rapport qualité-prix. Il est imperméable et il coûte soixante-dix euros. || Cái màu xanh lá: nó đáng tiền nhất. Nó chống thấm nước và giá bảy mươi euro.
+LQ: Quel sac est le plus léger ? | le noir | *le rouge | le vert | ils sont pareils
+LQ: Combien coûte le sac noir ? | soixante-dix euros | *cent vingt euros | cent euros | quatre-vingts euros
+LQ: Pourquoi le vendeur conseille le vert ? | il est le plus grand | *il a le meilleur rapport qualité-prix | il est le moins cher | il est le plus beau
+RA: Celui-ci est plus léger. Celui-là est plus solide.
+RA: Lequel est le moins cher ?
+RA: Il a le meilleur rapport qualité-prix.
+SH: Je cherche un sac à dos pour voyager.
+SH: Lequel vous me conseillez ?
+SH: Il est imperméable et il coûte soixante-dix euros.
+R.title: Test de consommateurs : trois cafetières
+R: Notre magazine a testé trois cafetières populaires. || Tạp chí của chúng tôi đã thử nghiệm ba chiếc máy pha cà phê phổ biến.
+R: La cafetière Rapido est la moins chère : seulement quarante euros. Mais elle est la plus bruyante. || Máy Rapido rẻ nhất: chỉ bốn mươi euro. Nhưng nó ồn nhất.
+R: La cafetière Barista Pro fait le meilleur café, mais elle est plus difficile à utiliser. || Máy Barista Pro pha cà phê ngon nhất, nhưng khó sử dụng hơn.
+R: Elle est aussi la plus chère : trois cents euros ! || Nó cũng đắt nhất: ba trăm euro!
+R: La cafetière Matin est moins rapide que Rapido, mais elle est plus silencieuse et plus solide. || Máy Matin chậm hơn Rapido, nhưng êm hơn và bền hơn.
+R: Notre conseil : pour cent euros, la Matin a le meilleur rapport qualité-prix. || Lời khuyên của chúng tôi: với giá một trăm euro, Matin đáng tiền nhất.
+RQ: Quelle cafetière est la moins chère ? | Matin | *Rapido | Barista Pro | elles coûtent le même prix
+RQ: Quel est le défaut de la Rapido ? | elle est chère | *elle est bruyante | elle fait du mauvais café | elle est lente
+RQ: Quelle cafetière le magazine conseille ? | Rapido | Barista Pro | *Matin | aucune
+W.prompt: Tu veux acheter un téléphone (ou un vélo, un ordinateur). Compare trois modèles avec des critères (prix, qualité, poids, taille) et explique ton choix. || Bạn muốn mua một chiếc điện thoại (hoặc xe đạp, máy tính). So sánh ba mẫu theo các tiêu chí (giá, chất lượng, trọng lượng, kích thước) và giải thích lựa chọn của bạn.
+W.min: 60
+W.must: le moins cher ; le meilleur ; plus
+W.check: Có cả so sánh hơn và so sánh nhất
+W.check: meilleur / mieux dùng đúng
+W.check: Có kết luận giải thích lựa chọn
+W.model: Je veux acheter un vélo pour aller au travail. J'ai comparé trois modèles. || Tôi muốn mua một chiếc xe đạp để đi làm. Tôi đã so sánh ba mẫu.
+W.model: Le vélo A est le moins cher, mais il est lourd et pas très solide. || Xe A rẻ nhất, nhưng nặng và không chắc chắn lắm.
+W.model: Le vélo B est le plus léger et le plus rapide, mais il coûte mille euros ! || Xe B nhẹ nhất và nhanh nhất, nhưng giá một nghìn euro!
+W.model: Le vélo C est plus cher que A, mais beaucoup moins cher que B. || Xe C đắt hơn A, nhưng rẻ hơn B nhiều.
+W.model: Il est solide et il a un panier : c'est pratique pour faire les courses. || Nó chắc chắn và có giỏ: rất tiện để đi chợ.
+W.model: Je choisis le vélo C parce qu'il a le meilleur rapport qualité-prix. || Tôi chọn xe C vì nó đáng tiền nhất.
