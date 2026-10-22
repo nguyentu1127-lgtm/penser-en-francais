@@ -1,0 +1,383 @@
+@week 25
+@title Exprimer ses émotions
+@level A2
+
+## 1 | Je suis content(e), triste...
+G.title: Être + adjectif d'émotion
+G.rule: Pour exprimer une émotion, on utilise être + adjectif, accordé avec le sujet. Pour donner la cause, on ajoute de + infinitif ou parce que + phrase : Je suis content de te voir. Je suis triste parce que tu pars. || Để diễn tả cảm xúc, ta dùng être + tính từ, hợp với chủ ngữ. Để nói nguyên nhân, thêm de + nguyên mẫu hoặc parce que + mệnh đề: Je suis content de te voir (Tôi vui được gặp bạn). Je suis triste parce que tu pars (Tôi buồn vì bạn đi).
+G.note: Tính từ cảm xúc thường gặp (đực / cái): content(e) — vui, heureux / heureuse — hạnh phúc, triste — buồn, fâché(e) — giận, déçu(e) — thất vọng, inquiet / inquiète — lo lắng, stressé(e) — căng thẳng, fier / fière — tự hào, gêné(e) — ngượng, ému(e) — xúc động. Mức độ: un peu, assez, très, vraiment, tellement (rất, quá). Hỏi thăm: Ça va ? Tu as l'air triste. Qu'est-ce qui ne va pas ? (Có chuyện gì không ổn?)
+G.table: Masculin | Féminin | Sens
+G.row: content | contente | heureux, satisfait
+G.row: heureux | heureuse | très content
+G.row: inquiet | inquiète | qui a peur pour quelqu'un
+G.row: fier | fière | content de soi ou d'un autre
+G.row: déçu | déçue | pas content du résultat
+G.ex: Je suis très contente de te revoir ! || Mình rất vui được gặp lại bạn!
+G.ex: Il est déçu parce qu'il a raté son examen. || Anh ấy thất vọng vì trượt kỳ thi.
+G.ex: Mes parents sont fiers de moi. || Bố mẹ tôi tự hào về tôi.
+G.ex: Tu as l'air inquiète. Qu'est-ce qui ne va pas ? || Trông bạn có vẻ lo lắng. Có chuyện gì không ổn?
+G.q: Ma sœur est ___ de son nouveau travail. | heureux | *heureuse | heureuses | heureusement
+G.q: Je suis content ___ te voir. | que | *de | à | pour
+G.q: Quand on n'a pas le résultat espéré, on est… | fier | *déçu | ému | content
+G.q: Féminin de « inquiet » : | inquiette | *inquiète | inquiéte | inquiets
+G.q: Pour demander pourquoi quelqu'un est triste : Qu'est-ce qui ne ___ pas ? = va
+V: content | /kɔ̃.tɑ̃/ | adjectif | vui | Je suis content de ma journée. || Tôi hài lòng với ngày hôm nay.
+V: heureux | /œ.ʁø/ | adjectif | hạnh phúc | Elle est heureuse avec lui. || Cô ấy hạnh phúc bên anh ấy.
+V: triste | /tʁist/ | adjectif | buồn | Pourquoi tu es triste ? || Sao bạn buồn?
+V: fâché | /fa.ʃe/ | adjectif | giận | Il est fâché contre moi. || Anh ấy giận tôi.
+V: déçu | /de.sy/ | adjectif | thất vọng | Je suis un peu déçu. || Tôi hơi thất vọng.
+V: inquiet | /ɛ̃.kjɛ/ | adjectif | lo lắng | Ma mère est inquiète. || Mẹ tôi lo lắng.
+V: fier | /fjɛʁ/ | adjectif | tự hào | Je suis fier de toi ! || Tôi tự hào về bạn!
+V: ému | /e.my/ | adjectif | xúc động | Elle était très émue. || Cô ấy rất xúc động.
+V: stressé | /stʁɛ.se/ | adjectif | căng thẳng | Je suis stressé avant l'examen. || Tôi căng thẳng trước kỳ thi.
+V: l'émotion | /le.mo.sjɔ̃/ | nom f. | cảm xúc | C'est difficile d'exprimer ses émotions. || Thật khó để bày tỏ cảm xúc.
+VQ: Le contraire de « content » : | fier | *triste | ému | heureux
+VQ: Avant un examen important, on est souvent… | fâché | *stressé | déçu | fier
+VQ: Quand ton enfant réussit, tu es… de lui. | inquiet | *fier | fâché | déçu
+VQ: Quand ton ami ne répond pas pendant trois jours, tu es… | fier | *inquiet | heureux | content
+VQ: Pendant un mariage, beaucoup de gens pleurent : ils sont ___. = émus
+D: Je suis très contente de te revoir !
+D: Il est déçu parce qu'il a raté son examen.
+D: Mes parents sont fiers de moi.
+D: Tu as l'air inquiète.
+L: Lan | Salut Hugo ! Tu as l'air fatigué. Ça va ? || Chào Hugo! Trông bạn mệt mỏi. Ổn chứ?
+L: Hugo | Pas vraiment. Je suis un peu stressé. J'ai un entretien demain. || Không hẳn. Mình hơi căng thẳng. Mai mình có buổi phỏng vấn.
+L: Lan | C'est génial ! C'est pour quel poste ? || Tuyệt quá! Cho vị trí nào vậy?
+L: Hugo | Ingénieur dans une grande entreprise. Je suis content, mais j'ai peur de rater. || Kỹ sư ở một công ty lớn. Mình vui, nhưng sợ trượt.
+L: Lan | Tu vas réussir, j'en suis sûre ! Je suis fière de toi. || Bạn sẽ thành công, mình chắc chắn! Mình tự hào về bạn.
+L: Hugo | Merci, Lan. Ça me fait du bien de te parler. || Cảm ơn Lan. Nói chuyện với bạn làm mình thấy dễ chịu hơn.
+LQ: Comment se sent Hugo ? | heureux | *stressé | fâché | triste
+LQ: Pourquoi ? | il a un examen | *il a un entretien demain | il a perdu son travail | il est malade
+LQ: Que dit Lan à la fin ? | elle est inquiète | *elle est fière de lui | elle est déçue | elle est stressée
+RA: Je suis content. Je suis contente.
+RA: Il est fier. Elle est fière.
+RA: Il est inquiet. Elle est inquiète.
+SH: Tu as l'air fatigué. Ça va ?
+SH: Je suis content, mais j'ai peur de rater.
+SH: Ça me fait du bien de te parler.
+R.title: Le journal de Hoa
+R: Aujourd'hui, j'ai vécu beaucoup d'émotions différentes. || Hôm nay, tôi đã trải qua rất nhiều cảm xúc khác nhau.
+R: Le matin, j'étais stressée parce que j'avais une présentation devant toute l'équipe. || Buổi sáng, tôi căng thẳng vì có một bài thuyết trình trước cả nhóm.
+R: Finalement, tout s'est bien passé et mon chef m'a félicitée. J'étais très fière ! || Cuối cùng, mọi thứ suôn sẻ và sếp đã khen ngợi tôi. Tôi rất tự hào!
+R: À midi, j'ai appris que ma meilleure amie part vivre au Canada. Je suis triste de la voir partir. || Buổi trưa, tôi biết tin bạn thân nhất sắp sang Canada sống. Tôi buồn khi thấy cô ấy ra đi.
+R: Le soir, ma mère m'a appelée pour me dire qu'elle va bien après son opération. J'étais tellement soulagée ! || Buổi tối, mẹ gọi cho tôi để nói rằng bà khoẻ sau ca phẫu thuật. Tôi nhẹ nhõm vô cùng!
+R: Quelle journée ! Je suis épuisée, mais heureuse. || Một ngày thật dài! Tôi kiệt sức, nhưng hạnh phúc.
+RQ: Pourquoi Hoa était stressée le matin ? | elle était en retard | *elle avait une présentation | sa mère était malade | elle avait un examen
+RQ: Pourquoi est-elle triste ? | elle a raté sa présentation | *sa meilleure amie part au Canada | son chef est fâché | elle est malade
+RQ: Comment va sa mère ? | mal | *bien, après son opération | on ne sait pas | elle est à l'hôpital
+W.prompt: Raconte une journée où tu as ressenti plusieurs émotions. Pour chaque émotion, donne la cause avec de + infinitif ou parce que. || Kể về một ngày bạn trải qua nhiều cảm xúc. Với mỗi cảm xúc, nêu nguyên nhân bằng de + nguyên mẫu hoặc parce que.
+W.min: 55
+W.must: parce que ; j'étais ; content
+W.check: Tính từ cảm xúc hợp giống với người viết
+W.check: Có nguyên nhân cho mỗi cảm xúc
+W.check: Ít nhất bốn cảm xúc khác nhau
+W.model: Samedi dernier était une journée pleine d'émotions. || Thứ Bảy tuần trước là một ngày đầy cảm xúc.
+W.model: Le matin, j'étais inquiet parce que mon chat n'est pas rentré de la nuit. || Buổi sáng, tôi lo lắng vì con mèo cả đêm không về.
+W.model: À dix heures, il est revenu et j'étais tellement soulagé de le voir ! || Lúc mười giờ, nó quay về và tôi vô cùng nhẹ nhõm khi thấy nó!
+W.model: L'après-midi, j'ai reçu mes résultats d'examen de français : j'étais très fier d'avoir quinze sur vingt. || Buổi chiều, tôi nhận kết quả thi tiếng Pháp: tôi rất tự hào vì được mười lăm trên hai mươi.
+W.model: Le soir, mon équipe de foot a perdu. J'étais un peu déçu. || Buổi tối, đội bóng của tôi thua. Tôi hơi thất vọng.
+W.model: Mais je suis content de cette journée, parce que tout s'est bien terminé. || Nhưng tôi hài lòng với ngày hôm đó, vì mọi chuyện kết thúc tốt đẹp.
+
+## 2 | Avoir peur, avoir envie
+G.title: Les expressions avec avoir
+G.rule: Beaucoup d'émotions et de besoins s'expriment avec avoir + nom, sans article : avoir peur, avoir envie, avoir honte, avoir hâte, avoir besoin. On ajoute de + nom ou de + infinitif. || Nhiều cảm xúc và nhu cầu được diễn tả bằng avoir + danh từ, không có mạo từ: avoir peur (sợ), avoir envie (muốn, thèm), avoir honte (xấu hổ), avoir hâte (nóng lòng), avoir besoin (cần). Thêm de + danh từ hoặc de + nguyên mẫu.
+G.note: Tiếng Việt dùng động từ "sợ", tiếng Pháp dùng "có nỗi sợ": J'ai peur des araignées (Tôi sợ nhện). de + le = du, de + les = des: J'ai peur du noir. J'ai envie d'un café. J'ai hâte de partir en vacances (Tôi nóng lòng đi nghỉ). J'ai honte de mon erreur. Tăng mức độ: très peur, vraiment envie, tellement hâte. Phủ định: Je n'ai pas peur. Hỏi: De quoi tu as peur ?
+G.table: Expression | Exemple
+G.row: avoir peur de | J'ai peur des serpents.
+G.row: avoir envie de | J'ai envie d'une glace.
+G.row: avoir hâte de | J'ai hâte de te voir.
+G.row: avoir honte de | J'ai honte de mon retard.
+G.row: avoir besoin de | J'ai besoin de repos.
+G.ex: J'ai très peur de l'avion. || Tôi rất sợ đi máy bay.
+G.ex: Tu as envie d'aller au cinéma ce soir ? || Tối nay bạn có muốn đi xem phim không?
+G.ex: J'ai tellement hâte de rentrer au Viêt Nam pour le Têt ! || Tôi nóng lòng được về Việt Nam ăn Tết!
+G.ex: Il a honte d'avoir menti à sa mère. || Anh ấy xấu hổ vì đã nói dối mẹ.
+G.q: J'ai peur ___ chiens. | de | du | *des | les
+G.q: « J'ai hâte de partir » veut dire… | je dois partir vite | *je suis impatient de partir | j'ai peur de partir | je ne veux pas partir
+G.q: Il a ___ de son erreur. | peur | *honte | hâte | envie
+G.q: J'ai envie ___ café. | de | *d'un | du un | à un
+G.q: Pour dire qu'on veut beaucoup quelque chose : J'ai ___ de… = envie
+V: avoir peur | /a.vwaʁ pœʁ/ | expression | sợ | J'ai peur du noir. || Tôi sợ bóng tối.
+V: avoir envie | /a.vwaʁ ɑ̃.vi/ | expression | muốn, thèm | J'ai envie de dormir. || Tôi muốn ngủ.
+V: avoir hâte | /a.vwaʁ ɑt/ | expression | nóng lòng | J'ai hâte de te voir. || Tôi nóng lòng được gặp bạn.
+V: avoir honte | /a.vwaʁ ɔ̃t/ | expression | xấu hổ | J'ai honte de moi. || Tôi xấu hổ về bản thân.
+V: l'araignée | /la.ʁe.ɲe/ | nom f. | con nhện | J'ai peur des araignées. || Tôi sợ nhện.
+V: mentir | /mɑ̃.tiʁ/ | verbe | nói dối | Il ne faut pas mentir. || Không được nói dối.
+V: le repos | /lə ʁə.po/ | nom m. | sự nghỉ ngơi | J'ai besoin de repos. || Tôi cần nghỉ ngơi.
+V: la glace | /la ɡlas/ | nom f. | kem | J'ai envie d'une glace. || Tôi thèm kem.
+V: impatient | /ɛ̃.pa.sjɑ̃/ | adjectif | nóng lòng, sốt ruột | Les enfants sont impatients. || Bọn trẻ sốt ruột.
+V: le vide | /lə vid/ | nom m. | khoảng không (peur du vide: sợ độ cao) | J'ai peur du vide. || Tôi sợ độ cao.
+VQ: Quand on a fait une bêtise, on a… | hâte | *honte | envie | peur du vide
+VQ: Quand on est très fatigué, on a besoin de… | glace | *repos | vide | honte
+VQ: Un animal avec huit pattes : | un serpent | *une araignée | un chien | un oiseau
+VQ: Le contraire de « dire la vérité » : | répondre | *mentir | parler | crier
+VQ: Avant les vacances, les enfants ont ___ de partir. (nóng lòng) = hâte
+D: J'ai très peur de l'avion.
+D: Tu as envie d'aller au cinéma ce soir ?
+D: J'ai tellement hâte de rentrer pour le Têt !
+D: Il a honte d'avoir menti.
+L: Moniteur | Alors, prête pour le saut en parachute ? || Nào, sẵn sàng nhảy dù chưa?
+L: Quỳnh | Euh… j'ai un peu peur. J'ai peur du vide depuis que je suis petite. || Ờ… em hơi sợ. Em sợ độ cao từ hồi nhỏ.
+L: Moniteur | C'est normal. Mais vous avez envie d'essayer ? || Bình thường thôi. Nhưng em có muốn thử không?
+L: Quỳnh | Oui ! J'ai envie de vaincre ma peur. Et j'ai hâte de voir la vue d'en haut ! || Có ạ! Em muốn chiến thắng nỗi sợ. Và em nóng lòng được ngắm cảnh từ trên cao!
+L: Moniteur | Très bien. Vous pouvez crier, tout le monde crie ! || Tốt lắm. Đừng ngại hét lên, ai cũng hét cả!
+L: Quỳnh | D'accord… On y va ! || Vâng… Đi thôi!
+LQ: Quỳnh a peur de quoi ? | des avions | *du vide | du moniteur | du bruit
+LQ: Qu'est-ce qu'elle a envie de faire ? | rentrer chez elle | *vaincre sa peur | dormir | crier
+LQ: Que dit le moniteur sur les cris ? | c'est interdit | *tout le monde crie | il faut se taire | c'est honteux
+RA: J'ai peur. J'ai envie. J'ai hâte. J'ai honte.
+RA: J'ai peur du vide depuis que je suis petite.
+RA: J'ai hâte de voir la vue d'en haut !
+SH: J'ai un peu peur.
+SH: J'ai envie de vaincre ma peur.
+SH: Tout le monde crie !
+R.title: Nos peurs et nos envies
+R: Nous avons demandé à des passants : « De quoi avez-vous peur ? De quoi avez-vous envie ? » || Chúng tôi đã hỏi những người qua đường: « Bạn sợ điều gì? Bạn mong muốn điều gì? »
+R: Sophie, vingt ans : « J'ai peur de ne pas trouver de travail après mes études. J'ai envie de voyager en Asie. » || Sophie, hai mươi tuổi: « Tôi sợ không tìm được việc sau khi học xong. Tôi muốn đi du lịch châu Á. »
+R: Pierre, quarante-cinq ans : « J'ai peur pour mes enfants : le monde change vite. J'ai besoin de vacances ! » || Pierre, bốn mươi lăm tuổi: « Tôi lo cho các con: thế giới thay đổi nhanh. Tôi cần một kỳ nghỉ! »
+R: Monique, soixante-dix ans : « Je n'ai plus peur de rien ! J'ai hâte de voir mon premier arrière-petit-fils. » || Monique, bảy mươi tuổi: « Tôi chẳng còn sợ gì nữa! Tôi nóng lòng được gặp đứa chắt đầu tiên. »
+R: Karim, trente ans : « J'ai honte de le dire, mais j'ai peur des chats ! » || Karim, ba mươi tuổi: « Tôi ngại nói ra, nhưng tôi sợ mèo! »
+R: Et vous, de quoi avez-vous peur ? || Còn bạn, bạn sợ điều gì?
+RQ: Sophie a envie de… | trouver un travail | *voyager en Asie | avoir des enfants | rester chez elle
+RQ: De quoi Pierre a-t-il besoin ? | de travail | *de vacances | d'argent | d'enfants
+RQ: Karim a peur… | des chiens | *des chats | du vide | de l'avion
+W.prompt: Parle de tes peurs, de tes envies et de ce que tu attends avec impatience. Utilise avoir peur de, avoir envie de, avoir hâte de, avoir besoin de. || Nói về nỗi sợ, mong muốn và những điều bạn nóng lòng chờ đợi. Dùng avoir peur de, avoir envie de, avoir hâte de, avoir besoin de.
+W.min: 50
+W.must: j'ai peur ; j'ai envie ; j'ai hâte
+W.check: Không có mạo từ giữa avoir và peur/envie/hâte
+W.check: de + le = du, de + les = des
+W.check: Ít nhất bốn cụm khác nhau
+W.model: Je n'ai pas peur de beaucoup de choses, mais j'ai très peur des serpents. || Tôi không sợ nhiều thứ, nhưng tôi rất sợ rắn.
+W.model: J'ai aussi un peu peur de parler français au téléphone ! || Tôi cũng hơi sợ nói tiếng Pháp qua điện thoại!
+W.model: En ce moment, j'ai besoin de repos : je travaille trop. || Lúc này, tôi cần nghỉ ngơi: tôi làm việc quá nhiều.
+W.model: J'ai envie de partir à la mer avec ma famille. || Tôi muốn đi biển cùng gia đình.
+W.model: J'ai tellement hâte d'être en juillet : je vais aller en France pour la première fois ! || Tôi nóng lòng đến tháng Bảy: tôi sẽ đi Pháp lần đầu tiên!
+W.model: Et j'ai envie de goûter tous les fromages ! || Và tôi muốn nếm thử tất cả các loại phô mai!
+
+## 3 | Réagir à une nouvelle
+G.title: Bonne ou mauvaise nouvelle
+G.rule: Pour réagir à une nouvelle, on utilise des exclamations adaptées : pour une bonne nouvelle (Félicitations ! C'est génial ! Je suis ravi pour toi !) et pour une mauvaise nouvelle (Oh non ! Je suis désolé ! Quel dommage !). || Để phản ứng với một tin tức, ta dùng các câu cảm thán phù hợp: với tin vui (Félicitations ! — Chúc mừng!, C'est génial ! — Tuyệt quá!, Je suis ravi pour toi ! — Mình rất mừng cho bạn!) và với tin buồn (Oh non ! — Ôi không!, Je suis désolé ! — Mình rất tiếc!, Quel dommage ! — Tiếc quá!).
+G.note: Cấu trúc cảm thán: Quel(le) + danh từ ! — Quelle bonne nouvelle ! Quel dommage ! Quelle chance ! (May quá!) Quelle horreur ! (Kinh khủng quá!). Que / Comme + câu ! — Comme c'est triste ! (Buồn quá!) Thể hiện đồng cảm: Je comprends. Courage ! (Cố lên!) Ça va s'arranger (Rồi sẽ ổn thôi). Je pense à toi (Mình nghĩ đến bạn). Chúc mừng: Félicitations ! Bravo ! Chapeau ! (Ngả mũ!).
+G.table: Nouvelle | Réaction
+G.row: J'ai eu mon diplôme ! | Félicitations ! Bravo !
+G.row: Je vais me marier ! | Quelle bonne nouvelle ! Je suis ravi pour toi !
+G.row: J'ai perdu mon travail. | Oh non, je suis désolé. Courage !
+G.row: Le concert est annulé. | Quel dommage !
+G.row: Mon grand-père est malade. | Je pense à toi. Ça va s'arranger.
+G.ex: Tu as eu ton permis ? Félicitations ! || Bạn đã đỗ bằng lái à? Chúc mừng!
+G.ex: Quelle bonne nouvelle ! Je suis vraiment ravie pour vous. || Tin vui quá! Mình thật sự mừng cho các bạn.
+G.ex: Ton vol est annulé ? Quel dommage ! || Chuyến bay của bạn bị huỷ à? Tiếc quá!
+G.ex: Je suis désolée pour ton grand-père. Je pense à toi. || Mình rất tiếc về ông bạn. Mình nghĩ đến bạn.
+G.q: Ton ami a réussi son examen. Tu dis : | Quel dommage ! | *Félicitations ! | Courage ! | Je suis désolé.
+G.q: Ton amie a perdu son chat. Tu dis : | Bravo ! | *Oh non, je suis désolé ! | Quelle chance ! | Chapeau !
+G.q: ___ dommage ! | Quelle | *Quel | Quels | Que
+G.q: « Courage ! » sert à… | féliciter | *encourager | se moquer | remercier
+G.q: Exclamation : ___ bonne nouvelle ! = Quelle
+V: la nouvelle | /la nu.vɛl/ | nom f. | tin tức | J'ai une bonne nouvelle ! || Mình có một tin vui!
+V: félicitations | /fe.li.si.ta.sjɔ̃/ | interjection | chúc mừng | Félicitations pour ton mariage ! || Chúc mừng đám cưới của bạn!
+V: ravi | /ʁa.vi/ | adjectif | rất vui mừng | Je suis ravi pour toi. || Mình rất mừng cho bạn.
+V: quel dommage | /kɛl dɔ.maʒ/ | expression | tiếc quá | Quel dommage, il pleut ! || Tiếc quá, trời mưa!
+V: courage | /ku.ʁaʒ/ | interjection | cố lên | Courage, tu vas y arriver ! || Cố lên, bạn sẽ làm được!
+V: s'arranger | /sa.ʁɑ̃.ʒe/ | verbe | ổn thoả | Ça va s'arranger. || Rồi sẽ ổn thôi.
+V: le permis | /lə pɛʁ.mi/ | nom m. | bằng lái | J'ai eu mon permis ! || Mình đỗ bằng lái rồi!
+V: le diplôme | /lə di.plom/ | nom m. | bằng cấp | Elle a son diplôme d'infirmière. || Cô ấy có bằng y tá.
+V: enceinte | /ɑ̃.sɛ̃t/ | adjectif | mang thai | Ma sœur est enceinte ! || Chị tôi có thai rồi!
+V: l'horreur | /lɔ.ʁœʁ/ | nom f. | sự kinh hoàng | Quelle horreur ! || Kinh khủng quá!
+VQ: Pour une bonne nouvelle, on dit… | Quel dommage ! | *Bravo ! | Quelle horreur ! | Courage !
+VQ: « Ça va s'arranger » veut dire… | c'est fini | *ça va aller mieux | c'est grave | c'est trop tard
+VQ: Une femme qui attend un bébé est… | ravie | *enceinte | désolée | fâchée
+VQ: Le document pour conduire une voiture : | le diplôme | *le permis | le passeport | le visa
+VQ: Pour dire à quelqu'un de ne pas abandonner : « ___ ! » = Courage
+D: Tu as eu ton permis ? Félicitations !
+D: Quelle bonne nouvelle !
+D: Ton vol est annulé ? Quel dommage !
+D: Je suis désolée. Je pense à toi.
+L: Thúy | Devine ! J'ai une grande nouvelle ! || Đoán xem! Mình có một tin lớn!
+L: Paul | Dis-moi ! || Kể mình nghe đi!
+L: Thúy | Je suis enceinte ! Le bébé arrive en mars. || Mình có thai rồi! Em bé sẽ ra đời vào tháng Ba.
+L: Paul | C'est génial ! Félicitations ! Je suis tellement content pour vous deux ! || Tuyệt quá! Chúc mừng! Mình mừng cho hai bạn quá!
+L: Thúy | Merci ! Par contre, je dois annuler notre voyage à Rome en février… || Cảm ơn bạn! Nhưng mà mình phải huỷ chuyến đi Rome tháng Hai của chúng ta…
+L: Paul | Oh, quel dommage ! Mais ce n'est pas grave, on va y aller plus tard… avec le bébé ! || Ôi, tiếc quá! Nhưng không sao, chúng ta sẽ đi sau… cùng em bé!
+LQ: Quelle est la grande nouvelle ? | Thúy se marie | *Thúy est enceinte | Thúy part à Rome | Thúy a un nouveau travail
+LQ: Le bébé arrive quand ? | en février | *en mars | en mai | en décembre
+LQ: Comment réagit Paul à l'annulation du voyage ? | il est fâché | *il dit « quel dommage » mais ce n'est pas grave | il est content | il ne dit rien
+RA: Félicitations ! Bravo ! Chapeau !
+RA: Quel dommage ! Quelle horreur ! Quelle chance !
+RA: Courage ! Ça va s'arranger.
+SH: J'ai une grande nouvelle !
+SH: Félicitations ! Je suis tellement content pour vous !
+SH: Quel dommage ! Mais ce n'est pas grave.
+R.title: Les messages du groupe « Famille »
+R: Minh : Bonne nouvelle, j'ai été accepté à l'université de Montréal ! || Minh: Tin vui, con đã được nhận vào trường đại học Montréal!
+R: Maman : Bravo, mon fils ! Nous sommes si fiers de toi ! || Mẹ: Giỏi lắm con trai! Bố mẹ rất tự hào về con!
+R: Tante Hà : Félicitations ! Quelle chance de partir au Canada ! || Dì Hà: Chúc mừng! Thật may mắn được đi Canada!
+R: Grand-mère : Bravo ! Mais tu vas me manquer… Il fait très froid là-bas, non ? || Bà: Giỏi lắm! Nhưng bà sẽ nhớ cháu lắm… Ở đó lạnh lắm phải không?
+R: Cousin Tùng : Super ! Malheureusement, moi, j'ai raté mon examen de conduite… || Anh họ Tùng: Tuyệt! Còn anh thì không may, anh trượt bài thi lái xe rồi…
+R: Minh : Oh non, désolé Tùng ! Courage, tu vas l'avoir la prochaine fois ! || Minh: Ôi không, tiếc quá anh Tùng! Cố lên, lần sau anh sẽ đỗ!
+RQ: Quelle est la nouvelle de Minh ? | il se marie | *il est accepté à l'université de Montréal | il a son permis | il part en vacances
+RQ: Que dit la grand-mère ? | elle est fâchée | *il va lui manquer | elle veut partir aussi | elle est malade
+RQ: Quelle est la mauvaise nouvelle de Tùng ? | il est malade | *il a raté son examen de conduite | il a perdu son travail | il part au Canada
+W.prompt: Écris un échange de messages : une personne annonce une bonne nouvelle et une mauvaise nouvelle, les autres réagissent avec des exclamations adaptées. || Viết một đoạn tin nhắn: một người thông báo một tin vui và một tin buồn, những người khác phản ứng bằng các câu cảm thán phù hợp.
+W.min: 50
+W.must: félicitations ; quel dommage ; courage
+W.check: Phản ứng phù hợp với loại tin (vui/buồn)
+W.check: Quel / Quelle hợp với danh từ
+W.check: Dấu chấm than sau câu cảm thán
+W.model: Moi : Les amis, j'ai deux nouvelles : une bonne et une mauvaise ! || Tôi: Các bạn ơi, mình có hai tin: một tin vui và một tin buồn!
+W.model: Lan : Commence par la bonne ! || Lan: Bắt đầu bằng tin vui đi!
+W.model: Moi : J'ai réussi mon examen de français A2 ! || Tôi: Mình đã đỗ kỳ thi tiếng Pháp A2!
+W.model: Lan : Félicitations ! Je suis tellement fière de toi ! Tuấn : Bravo, chapeau ! || Lan: Chúc mừng! Mình tự hào về bạn quá! Tuấn: Giỏi lắm, ngả mũ!
+W.model: Moi : Et la mauvaise : je ne peux pas venir à la fête samedi, je dois travailler. || Tôi: Còn tin buồn: thứ Bảy mình không đến bữa tiệc được, mình phải làm việc.
+W.model: Tuấn : Oh, quel dommage ! Courage pour le travail, on fera une autre fête pour toi ! || Tuấn: Ôi, tiếc quá! Cố lên với công việc nhé, chúng mình sẽ làm một bữa tiệc khác cho bạn!
+
+## 4 | Les adverbes en -ment
+G.title: Comment ? Lentement, joyeusement…
+G.rule: Les adverbes en -ment indiquent comment se fait une action. On les forme souvent à partir de l'adjectif féminin + -ment : lent → lente → lentement ; heureux → heureuse → heureusement. || Trạng từ đuôi -ment cho biết hành động diễn ra như thế nào. Ta thường tạo chúng từ tính từ giống cái + -ment: lent → lente → lentement (chậm rãi); heureux → heureuse → heureusement (may thay).
+G.note: Quy tắc: (1) Giống cái + -ment: doux → douce → doucement; sérieux → sérieuse → sérieusement. (2) Tính từ kết thúc bằng nguyên âm: dùng giống đực + -ment: vrai → vraiment, poli → poliment, absolu → absolument. (3) -ant → -amment, -ent → -emment (đọc /a.mɑ̃/): courant → couramment, patient → patiemment, récent → récemment. Bất quy tắc: gentil → gentiment, bref → brièvement. Vị trí: thường sau động từ: Il parle lentement.
+G.table: Adjectif | Féminin | Adverbe
+G.row: lent | lente | lentement
+G.row: doux | douce | doucement
+G.row: vrai | (vrai) | vraiment
+G.row: patient | (-ent) | patiemment
+G.row: courant | (-ant) | couramment
+G.ex: Parlez lentement, s'il vous plaît. || Xin nói chậm thôi.
+G.ex: Elle parle couramment trois langues. || Cô ấy nói lưu loát ba thứ tiếng.
+G.ex: Le bébé dort, ferme la porte doucement. || Em bé đang ngủ, đóng cửa nhẹ nhàng thôi.
+G.ex: Heureusement, personne n'a été blessé. || May thay, không ai bị thương.
+G.q: Adverbe de « rapide » : | rapidment | *rapidement | rapidemment | rapidamment
+G.q: Adverbe de « heureux » : | heureuxment | *heureusement | heureusment | heureuement
+G.q: Adverbe de « vrai » : | vraiement | *vraiment | vraimment | vraisement
+G.q: Adverbe de « patient » : | patientement | *patiemment | patientment | patiamment
+G.q: Adverbe de « doux » : ___ = doucement
+V: lentement | /lɑ̃t.mɑ̃/ | adverbe | chậm rãi | Parle lentement. || Nói chậm thôi.
+V: rapidement | /ʁa.pid.mɑ̃/ | adverbe | nhanh chóng | Il a rapidement compris. || Anh ấy hiểu nhanh.
+V: doucement | /dus.mɑ̃/ | adverbe | nhẹ nhàng | Ferme doucement. || Đóng nhẹ thôi.
+V: vraiment | /vʁɛ.mɑ̃/ | adverbe | thật sự | C'est vraiment beau. || Thật sự đẹp.
+V: couramment | /ku.ʁa.mɑ̃/ | adverbe | lưu loát | Il parle couramment anglais. || Anh ấy nói tiếng Anh lưu loát.
+V: patiemment | /pa.sja.mɑ̃/ | adverbe | kiên nhẫn | Elle attend patiemment. || Cô ấy kiên nhẫn chờ.
+V: tristement | /tʁis.tə.mɑ̃/ | adverbe | buồn bã | Il a souri tristement. || Anh ấy cười buồn.
+V: gentiment | /ʒɑ̃.ti.mɑ̃/ | adverbe | tử tế | Elle m'a aidé gentiment. || Cô ấy đã tử tế giúp tôi.
+V: joyeusement | /ʒwa.jøz.mɑ̃/ | adverbe | vui vẻ | Les enfants chantent joyeusement. || Bọn trẻ hát vui vẻ.
+V: calmement | /kal.mə.mɑ̃/ | adverbe | bình tĩnh | Explique calmement. || Giải thích bình tĩnh thôi.
+VQ: Le contraire de « lentement » : | doucement | *rapidement | calmement | patiemment
+VQ: Parler une langue sans difficulté, c'est la parler… | lentement | *couramment | tristement | doucement
+VQ: Le contraire de « malheureusement » : | tristement | *heureusement | vraiment | gentiment
+VQ: « Doucement ! » veut dire… | plus fort | *sans bruit, avec calme | plus vite | joyeusement
+VQ: Adverbe de « calme » : ___ = calmement
+D: Parlez lentement, s'il vous plaît.
+D: Elle parle couramment trois langues.
+D: Ferme la porte doucement.
+D: Heureusement, personne n'a été blessé.
+L: Élève | Madame, je ne comprends pas bien quand les Français parlent rapidement. || Thưa cô, em không hiểu rõ khi người Pháp nói nhanh.
+L: Professeure | C'est normal. Tu peux leur demander poliment : « Pouvez-vous parler plus lentement ? » || Bình thường thôi. Em có thể lịch sự nhờ họ: « Anh có thể nói chậm hơn không? »
+L: Élève | Et comment je peux parler couramment ? || Thế làm sao để em nói lưu loát ạ?
+L: Professeure | Il faut pratiquer régulièrement et écouter attentivement des podcasts. || Cần luyện tập đều đặn và chăm chú nghe podcast.
+L: Élève | Je travaille sérieusement, mais j'oublie facilement les mots… || Em học nghiêm túc, nhưng hay dễ quên từ…
+L: Professeure | Sois patient ! Tu progresses vraiment bien. || Hãy kiên nhẫn! Em tiến bộ thật sự tốt mà.
+LQ: Quel est le problème de l'élève ? | il parle trop vite | *il ne comprend pas quand on parle rapidement | il n'aime pas le français | il est timide
+LQ: Que conseille la professeure pour parler couramment ? | regarder la télé | *pratiquer régulièrement et écouter des podcasts | lire des livres | voyager
+LQ: Selon la professeure, l'élève progresse… | lentement | *vraiment bien | mal | pas du tout
+RA: lent, lentement ; rapide, rapidement.
+RA: doux, doucement ; heureux, heureusement.
+RA: patient, patiemment ; courant, couramment.
+SH: Pouvez-vous parler plus lentement ?
+SH: Il faut pratiquer régulièrement.
+SH: Tu progresses vraiment bien.
+R.title: La fête de mon grand-père
+R: Samedi, nous avons fêté les quatre-vingts ans de mon grand-père. || Thứ Bảy, chúng tôi đã mừng thọ ông tôi tám mươi tuổi.
+R: Toute la famille est arrivée joyeusement avec des fleurs et des cadeaux. || Cả gia đình vui vẻ đến với hoa và quà.
+R: Mon grand-père s'est levé lentement et il a parlé doucement. || Ông tôi chậm rãi đứng dậy và nói nhẹ nhàng.
+R: Il nous a remerciés gentiment, puis il a raconté sa jeunesse. || Ông tử tế cảm ơn chúng tôi, rồi kể về thời trẻ của mình.
+R: Malheureusement, ma tante n'était pas là : elle habite en Australie. || Không may, dì tôi không có mặt: dì sống ở Úc.
+R: Heureusement, elle a appelé en vidéo et mon grand-père a vraiment été ému. || May thay, dì gọi video và ông tôi đã thật sự xúc động.
+RQ: Quel âge a le grand-père ? | soixante-dix ans | *quatre-vingts ans | quatre-vingt-dix ans | cent ans
+RQ: Comment a-t-il parlé ? | fort | *doucement | rapidement | tristement
+RQ: Pourquoi la tante n'était pas là ? | elle était malade | *elle habite en Australie | elle travaillait | elle était fâchée
+W.prompt: Décris une personne que tu admires et sa manière de faire les choses (parler, travailler, cuisiner, enseigner…). Utilise au moins six adverbes en -ment. || Miêu tả một người bạn ngưỡng mộ và cách họ làm mọi việc (nói chuyện, làm việc, nấu ăn, dạy học…). Dùng ít nhất sáu trạng từ đuôi -ment.
+W.min: 50
+W.must: ment ; vraiment
+W.check: Trạng từ tạo đúng (giống cái + -ment; -ent → -emment)
+W.check: Trạng từ đứng sau động từ
+W.check: Ít nhất sáu trạng từ khác nhau
+W.model: J'admire beaucoup ma professeure de piano, Madame Lý. || Tôi rất ngưỡng mộ cô giáo dạy piano của tôi, cô Lý.
+W.model: Elle parle doucement et elle explique patiemment, même quand je fais beaucoup d'erreurs. || Cô nói nhẹ nhàng và giải thích kiên nhẫn, ngay cả khi tôi mắc nhiều lỗi.
+W.model: Elle joue magnifiquement : ses doigts bougent rapidement et légèrement. || Cô đàn tuyệt vời: những ngón tay cô di chuyển nhanh và nhẹ.
+W.model: Elle parle couramment français et allemand. || Cô nói lưu loát tiếng Pháp và tiếng Đức.
+W.model: Elle s'habille simplement et elle sourit gentiment à tout le monde. || Cô ăn mặc giản dị và mỉm cười tử tế với mọi người.
+W.model: C'est vraiment une personne exceptionnelle ! || Cô thật sự là một người đặc biệt!
+
+## 5 | Exprimer la surprise
+G.title: C'est pas vrai ! Incroyable !
+G.rule: Pour exprimer la surprise, on utilise des exclamations et des questions : C'est pas vrai ! Incroyable ! Sérieusement ? Tu plaisantes ? Je n'en reviens pas ! Je ne m'attendais pas à ça ! || Để diễn tả sự ngạc nhiên, ta dùng câu cảm thán và câu hỏi: C'est pas vrai ! (Không thể nào!) Incroyable ! (Khó tin quá!) Sérieusement ? (Thật à?) Tu plaisantes ? (Bạn đùa à?) Je n'en reviens pas ! (Tôi không tin nổi!) Je ne m'attendais pas à ça ! (Tôi không ngờ!)
+G.note: Mức độ trang trọng: Thân mật (với bạn bè): C'est pas vrai ! (bỏ "ne" — văn nói), Sérieux ?, Trop bien !, Waouh !. Trung tính: Vraiment ? Incroyable ! Ça alors ! (Thế cơ à!). Trang trọng hơn: Quelle surprise ! Je suis très surpris(e). Kèm cảm xúc: ngạc nhiên vui (Quelle bonne surprise !) hoặc ngạc nhiên buồn/giận (Je suis choqué(e) — Tôi sốc).
+G.table: Registre | Exclamation
+G.row: familier | C'est pas vrai ! Sérieux ? Waouh !
+G.row: courant | Vraiment ? Incroyable ! Ça alors !
+G.row: soutenu | Quelle surprise ! Je suis très surpris.
+G.row: positive | Quelle bonne surprise !
+G.row: négative | Je suis choqué !
+G.ex: Tu as gagné à la loterie ? C'est pas vrai ! || Bạn trúng xổ số à? Không thể nào!
+G.ex: Ça alors ! Je ne savais pas que tu parlais japonais ! || Thế cơ à! Mình không biết bạn nói được tiếng Nhật!
+G.ex: Je n'en reviens pas : il a quitté son travail pour faire le tour du monde ! || Tôi không tin nổi: anh ấy bỏ việc để đi vòng quanh thế giới!
+G.ex: Quelle bonne surprise ! Je ne m'attendais pas à te voir ici. || Thật là bất ngờ thú vị! Mình không ngờ gặp bạn ở đây.
+G.q: Pour une surprise avec un ami, on dit familièrement : | Je suis très surpris, monsieur. | *Sérieux ? | Je vous remercie. | Quelle horreur.
+G.q: « Je n'en reviens pas » veut dire… | je ne reviens pas | *je suis très surpris | je pars | je ne comprends pas
+G.q: « Tu plaisantes ? » veut dire… | tu es triste ? | *c'est une blague ? | tu es malade ? | tu pars ?
+G.q: Une surprise agréable : | Quelle horreur ! | *Quelle bonne surprise ! | Quel dommage ! | Je suis choqué !
+G.q: Exclamation de surprise : Ça ___ ! = alors
+V: la surprise | /la syʁ.pʁiz/ | nom f. | sự ngạc nhiên | Quelle surprise ! || Thật bất ngờ!
+V: surpris | /syʁ.pʁi/ | adjectif | ngạc nhiên | Je suis très surpris. || Tôi rất ngạc nhiên.
+V: plaisanter | /plɛ.zɑ̃.te/ | verbe | đùa | Tu plaisantes ? || Bạn đùa à?
+V: s'attendre à | /sa.tɑ̃dʁ a/ | verbe | trông đợi, ngờ tới | Je ne m'attendais pas à ça. || Tôi không ngờ chuyện đó.
+V: ça alors | /sa a.lɔʁ/ | expression | thế cơ à | Ça alors, quelle coïncidence ! || Thế cơ à, trùng hợp quá!
+V: choqué | /ʃɔ.ke/ | adjectif | bị sốc | J'étais choqué par la nouvelle. || Tôi bị sốc vì tin đó.
+V: la loterie | /la lɔ.tʁi/ | nom f. | xổ số | Il a gagné à la loterie. || Anh ấy trúng xổ số.
+V: la blague | /la blaɡ/ | nom f. | trò đùa | C'est une blague ? || Đùa à?
+V: la coïncidence | /la kɔ.ɛ̃.si.dɑ̃s/ | nom f. | sự trùng hợp | Quelle coïncidence ! || Trùng hợp quá!
+V: le tour du monde | /lə tuʁ dy mɔ̃d/ | expression | vòng quanh thế giới | Ils font le tour du monde. || Họ đi vòng quanh thế giới.
+VQ: « C'est une blague ? » veut dire… | c'est vrai ? | *tu plaisantes ? | c'est triste ? | c'est cher ?
+VQ: Quand deux choses arrivent par hasard en même temps : | une blague | *une coïncidence | une surprise triste | une loterie
+VQ: Après une nouvelle très négative, on est… | ravi | *choqué | fier | content
+VQ: « Je ne m'attendais pas à ça » exprime… | la colère | *la surprise | la peur | l'ennui
+VQ: Voyager dans beaucoup de pays : faire le ___ du monde. = tour
+D: Tu as gagné à la loterie ? C'est pas vrai !
+D: Ça alors ! Je ne savais pas que tu parlais japonais !
+D: Je n'en reviens pas !
+D: Quelle bonne surprise !
+L: Bảo | Devine qui j'ai rencontré dans le métro ! || Đoán xem mình đã gặp ai trên tàu điện ngầm!
+L: Chloé | Qui ? Dis-moi ! || Ai? Kể mình nghe!
+L: Bảo | Notre ancien professeur de maths, Monsieur Petit ! || Thầy dạy toán cũ của chúng mình, thầy Petit!
+L: Chloé | Sérieux ? Mais il habite à Marseille maintenant ! || Thật á? Nhưng bây giờ thầy sống ở Marseille mà!
+L: Bảo | Oui, il était à Paris pour une conférence. Et il se souvenait de mon nom ! || Ừ, thầy đến Paris dự hội nghị. Và thầy vẫn nhớ tên mình!
+L: Chloé | Incroyable ! Après dix ans ! Je n'en reviens pas ! || Khó tin quá! Sau mười năm! Mình không tin nổi!
+LQ: Qui Bảo a-t-il rencontré ? | un ancien camarade | *son ancien professeur de maths | un acteur | son voisin
+LQ: Où habite Monsieur Petit maintenant ? | à Paris | *à Marseille | à Lyon | au Viêt Nam
+LQ: Pourquoi Chloé est-elle surprise ? | le professeur est jeune | *il se souvenait du nom de Bảo après dix ans | il habite à Paris | il est malade
+RA: C'est pas vrai ! Sérieux ? Incroyable !
+RA: Ça alors ! Quelle bonne surprise !
+RA: Je n'en reviens pas ! Je ne m'attendais pas à ça !
+SH: Devine qui j'ai rencontré dans le métro !
+SH: Sérieux ? Mais il habite à Marseille !
+SH: Incroyable ! Je n'en reviens pas !
+R.title: La fête surprise
+R: Pour les trente ans de Julien, ses amis ont organisé une fête surprise. || Nhân sinh nhật ba mươi tuổi của Julien, bạn bè anh đã tổ chức một bữa tiệc bất ngờ.
+R: Sa femme lui a dit : « Ce soir, on dîne tranquillement à la maison, juste nous deux. » || Vợ anh nói với anh: « Tối nay, chúng ta ăn tối yên tĩnh ở nhà, chỉ hai đứa mình thôi. »
+R: Quand il a ouvert la porte, trente personnes ont crié : « Surprise ! » || Khi anh mở cửa, ba mươi người hét lên: « Bất ngờ! »
+R: Julien était complètement choqué : « C'est pas vrai ! Je ne m'attendais pas du tout à ça ! » || Julien hoàn toàn sững sờ: « Không thể nào! Anh không ngờ chút nào! »
+R: Mais la plus grande surprise est arrivée après : son frère, qui habite au Japon, est sorti de la cuisine ! || Nhưng điều bất ngờ lớn nhất đến sau đó: anh trai anh, người sống ở Nhật, bước ra từ bếp!
+R: Julien a pleuré de joie. Il a dit : « C'est le plus beau cadeau de ma vie ! » || Julien khóc vì vui sướng. Anh nói: « Đây là món quà đẹp nhất đời anh! »
+RQ: Qu'est-ce que la femme de Julien lui a dit ? | qu'ils vont au restaurant | *qu'ils dînent tranquillement à la maison | qu'il y a une fête | qu'elle part
+RQ: Combien de personnes ont crié « Surprise » ? | dix | vingt | *trente | quarante
+RQ: Quelle était la plus grande surprise ? | un gâteau énorme | *son frère venu du Japon | un voyage | une voiture
+W.prompt: Raconte une grande surprise de ta vie (une rencontre, une nouvelle, un cadeau). Décris la situation, ta réaction exacte (avec des exclamations) et tes émotions. || Kể một điều bất ngờ lớn trong đời bạn (một cuộc gặp gỡ, một tin tức, một món quà). Miêu tả tình huống, phản ứng chính xác của bạn (với các câu cảm thán) và cảm xúc.
+W.min: 60
+W.must: je ne m'attendais pas ; incroyable
+W.check: Có ít nhất ba câu cảm thán diễn tả sự ngạc nhiên
+W.check: Bối cảnh ở imparfait, sự kiện ở passé composé
+W.check: Tính từ cảm xúc hợp giống
+W.model: L'année dernière, je travaillais tard au bureau le jour de mon anniversaire. || Năm ngoái, vào ngày sinh nhật, tôi làm việc muộn ở văn phòng.
+W.model: J'étais un peu triste parce que personne ne m'a appelée. || Tôi hơi buồn vì không ai gọi cho tôi.
+W.model: À huit heures, je suis rentrée chez moi et j'ai ouvert la porte. || Lúc tám giờ, tôi về nhà và mở cửa.
+W.model: Tout à coup, la lumière s'est allumée : ma famille et mes amis étaient tous là ! || Bỗng nhiên, đèn bật sáng: gia đình và bạn bè tôi đều ở đó!
+W.model: J'ai crié : « C'est pas vrai ! Incroyable ! Je ne m'attendais pas du tout à ça ! » || Tôi hét lên: « Không thể nào! Khó tin quá! Tôi hoàn toàn không ngờ!»
+W.model: J'étais tellement surprise et émue que j'ai pleuré. Quelle belle soirée ! || Tôi ngạc nhiên và xúc động đến mức đã khóc. Một buổi tối thật đẹp!

@@ -2020,3 +2020,34 @@ téléphonique | adjectif | qua điện thoại
 la valeur | nom f. | giá trị
 le voyageur | nom m. | hành khách, du khách
 le wifi | nom m. | wifi
+@er adapter | điều chỉnh cho phù hợp
+@er admirer | ngưỡng mộ
+l'annulation | nom f. | sự huỷ bỏ
+la bêtise | nom f. | điều ngớ ngẩn, chuyện dại dột
+le camarade | nom m. | bạn (cùng lớp)
+complètement | adverbe | hoàn toàn
+la conférence | nom f. | hội nghị, buổi thuyết trình
+l'ennui | nom m. | sự buồn chán
+exact | adjectif | chính xác
+l'exclamation | nom f. | câu cảm thán
+familièrement | adverbe | một cách thân mật
+le hasard | nom m. | sự tình cờ (par hasard: tình cờ)
+la honte | nom f. | sự xấu hổ
+honteux | adjectif | đáng xấu hổ
+la hâte | nom f. | sự vội vàng (avoir hâte: nóng lòng)
+l'impatience | nom f. | sự nóng lòng
+le moniteur | nom m. | huấn luyện viên
+l'opération | nom f. | ca phẫu thuật; phép tính
+le parachute | nom m. | dù
+le passant | nom m. | người qua đường
+@er pratiquer | luyện tập, thực hành
+la patte | nom f. | chân (động vật)
+la réaction | nom f. | phản ứng
+satisfait | adjectif | hài lòng
+le saut | nom m. | cú nhảy
+@er soulager | làm nhẹ nhõm
+soulagé | adjectif | nhẹ nhõm
+@v taire | im lặng (se taire) | tais,tais,tait,taisons,taisez,taisent | tu | tais | tair
+tellement | adverbe | quá, rất
+tranquillement | adverbe | yên tĩnh, thong thả
+@v vaincre | chiến thắng | vaincs,vaincs,vainc,vainquons,vainquez,vainquent | vaincu | vainqu | vaincr
