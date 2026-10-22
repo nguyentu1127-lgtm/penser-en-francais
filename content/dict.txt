@@ -1982,3 +1982,41 @@ rare | adjectif | hiếm
 sainement | adverbe | một cách lành mạnh
 souriant | adjectif | tươi cười (en souriant: vừa cười)
 sérieusement | adverbe | nghiêm túc
+l'appareil | nom m. | thiết bị, máy
+l'assurance | nom f. | bảo hiểm
+@er autoriser | cho phép
+le bagage | nom m. | hành lý
+@er brancher | cắm điện
+complète | adjectif | đầy, kín (giống cái của complet)
+le conditionnel | nom m. | thức điều kiện
+le contrôle | nom m. | sự kiểm tra
+double | adjectif | đôi
+dès | préposition | ngay từ, ngay khi (dès que)
+@er enregistrer | ghi lại; làm thủ tục ký gửi
+@er expirer | hết hạn
+familial | adjectif | gia đình
+grec | adjectif | Hy Lạp (Y grec: chữ Y)
+inclus | adjectif | bao gồm
+inutile | adjectif | vô ích
+la marchandise | nom f. | hàng hoá
+messieurs | nom m. pl. | các ông, quý ông
+le millilitre | nom m. | mi-li-lít
+le mécontentement | nom m. | sự bất mãn
+nécessaire | adjectif | cần thiết
+le passager | nom m. | hành khách
+la perte | nom f. | sự mất mát
+la photocopie | nom f. | bản photo
+la précision | nom f. | sự chính xác
+@er prévoir | dự kiến
+prévu | adjectif | được dự kiến
+le retour | nom m. | sự trở về
+le réceptionniste | nom | nhân viên lễ tân
+la soute | nom f. | khoang hành lý
+le supplément | nom m. | phụ phí
+technique | adjectif | kỹ thuật
+les travaux | nom m. pl. | công trình (en travaux: đang sửa chữa)
+le type | nom m. | loại
+téléphonique | adjectif | qua điện thoại
+la valeur | nom f. | giá trị
+le voyageur | nom m. | hành khách, du khách
+le wifi | nom m. | wifi

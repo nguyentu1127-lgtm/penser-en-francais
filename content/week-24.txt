@@ -1,0 +1,380 @@
+@week 24
+@title Voyager
+@level A2
+
+## 1 | À la gare
+G.title: Acheter un billet de train
+G.rule: Pour acheter un billet, on précise la destination, la date, l'heure, le type de billet (aller simple ou aller-retour) et la classe. On utilise « je voudrais » pour être poli. || Để mua vé, ta nói rõ điểm đến, ngày, giờ, loại vé (một chiều hay khứ hồi) và hạng ghế. Ta dùng « je voudrais » để lịch sự.
+G.note: Mẫu câu: Je voudrais un aller simple / un aller-retour pour Lyon, s'il vous plaît. Le prochain train part à quelle heure ? Il arrive à quelle heure ? C'est direct ou il y a une correspondance ? (Đi thẳng hay phải đổi tàu?). Ở Pháp, giờ tàu dùng hệ 24 giờ: 14 h 35 = quatorze heures trente-cinq. Trên bảng điện: départ (khởi hành), arrivée (đến), voie (đường ray số), retard (trễ), supprimé (huỷ chuyến).
+G.table: Question | Réponse
+G.row: Un aller-retour pour Lyon, s'il vous plaît. | En première ou en seconde classe ?
+G.row: Le prochain train part à quelle heure ? | À 14 h 35.
+G.row: C'est direct ? | Non, il y a une correspondance à Dijon.
+G.row: Le train part de quelle voie ? | De la voie 7.
+G.ex: Je voudrais un aller simple pour Bordeaux, s'il vous plaît. || Cho tôi một vé một chiều đi Bordeaux.
+G.ex: Le train de 9 h 12 a vingt minutes de retard. || Chuyến tàu 9 giờ 12 bị trễ hai mươi phút.
+G.ex: Il faut composter le billet ? — Non, plus maintenant. || Có cần bấm vé không? — Không, giờ không cần nữa.
+G.ex: Le TGV pour Marseille part de la voie 5. || Tàu TGV đi Marseille khởi hành ở đường ray số 5.
+G.q: Un billet pour aller et revenir : | un aller simple | *un aller-retour | une correspondance | une voie
+G.q: « Il y a une correspondance » veut dire… | le train est direct | *il faut changer de train | le train est en retard | le train est complet
+G.q: 17 h 45 se dit… | cinq heures quarante-cinq | *dix-sept heures quarante-cinq | sept heures moins le quart | dix-sept heures quinze
+G.q: Pour être poli, on dit… | Je veux un billet. | *Je voudrais un billet. | Donnez billet ! | Un billet !
+G.q: Le numéro du quai où arrive le train, c'est la ___. = voie
+V: le billet | /lə bi.jɛ/ | nom m. | vé | J'ai acheté mon billet en ligne. || Tôi đã mua vé trực tuyến.
+V: l'aller simple | /la.le sɛ̃pl/ | nom m. | vé một chiều | Un aller simple pour Nice. || Một vé một chiều đi Nice.
+V: l'aller-retour | /la.le.ʁə.tuʁ/ | nom m. | vé khứ hồi | Un aller-retour coûte quatre-vingts euros. || Một vé khứ hồi giá tám mươi euro.
+V: la correspondance | /la kɔ.ʁɛs.pɔ̃.dɑ̃s/ | nom f. | chuyến nối | J'ai une correspondance à Lyon. || Tôi có chuyến nối ở Lyon.
+V: la voie | /la vwa/ | nom f. | đường ray | Le train part de la voie 3. || Tàu khởi hành ở đường ray số 3.
+V: le quai | /lə kɛ/ | nom m. | sân ga | Attendez sur le quai. || Hãy chờ trên sân ga.
+V: le retard | /lə ʁə.taʁ/ | nom m. | sự chậm trễ | Le train a du retard. || Tàu bị trễ.
+V: le départ | /lə de.paʁ/ | nom m. | sự khởi hành | Le départ est à midi. || Giờ khởi hành là buổi trưa.
+V: l'arrivée | /la.ʁi.ve/ | nom f. | sự đến nơi | L'arrivée est prévue à quinze heures. || Dự kiến đến lúc ba giờ chiều.
+V: le guichet | /lə ɡi.ʃɛ/ | nom m. | quầy bán vé | Le guichet est fermé. || Quầy vé đóng cửa.
+VQ: Le contraire de « départ » : | retard | *arrivée | voie | quai
+VQ: Le contraire de « en avance » : | à l'heure | *en retard | direct | complet
+VQ: On achète les billets au… | quai | *guichet | train | voie
+VQ: On attend le train sur le… | guichet | *quai | billet | retard
+VQ: Un billet seulement pour aller : un aller ___. = simple
+D: Je voudrais un aller simple pour Bordeaux.
+D: Le train de 9 h 12 a vingt minutes de retard.
+D: Le TGV pour Marseille part de la voie 5.
+D: C'est direct ou il y a une correspondance ?
+L: Voyageur | Bonjour, je voudrais un aller-retour pour Strasbourg, s'il vous plaît. || Chào chị, cho tôi một vé khứ hồi đi Strasbourg.
+L: Guichetière | Pour quelle date ? || Ngày nào ạ?
+L: Voyageur | Aller vendredi matin, retour dimanche soir. || Đi sáng thứ Sáu, về tối Chủ Nhật.
+L: Guichetière | Il y a un train direct à 8 h 25, il arrive à 10 h 10. En seconde classe, c'est quatre-vingt-dix euros. || Có một chuyến đi thẳng lúc 8 giờ 25, đến lúc 10 giờ 10. Hạng hai giá chín mươi euro.
+L: Voyageur | Parfait. Vous avez une réduction pour les moins de vingt-six ans ? || Tốt quá. Chị có giảm giá cho người dưới hai mươi sáu tuổi không?
+L: Guichetière | Oui, avec la carte Jeune, c'est soixante euros. || Có, với thẻ Thanh niên, giá sáu mươi euro.
+LQ: Où va le voyageur ? | à Lyon | *à Strasbourg | à Paris | à Lille
+LQ: À quelle heure arrive le train ? | 8 h 25 | *10 h 10 | 10 h 25 | 9 h 10
+LQ: Avec la carte Jeune, le billet coûte… | quatre-vingt-dix euros | *soixante euros | cinquante euros | soixante-dix euros
+RA: Un aller simple. Un aller-retour.
+RA: Le train part de la voie sept.
+RA: Il arrive à quatorze heures trente-cinq.
+SH: Je voudrais un aller-retour pour Strasbourg.
+SH: Il y a un train direct à huit heures vingt-cinq.
+SH: Vous avez une réduction pour les moins de vingt-six ans ?
+R.title: Annonce en gare
+R: Mesdames et messieurs, votre attention, s'il vous plaît. || Kính thưa quý khách, xin quý khách chú ý.
+R: Le TGV numéro 6115 à destination de Marseille part voie 11 à 13 h 07. || Tàu TGV số 6115 đi Marseille sẽ khởi hành ở đường ray 11 lúc 13 giờ 07.
+R: Ce train dessert les gares de Lyon Part-Dieu et d'Avignon. || Tàu này dừng ở các ga Lyon Part-Dieu và Avignon.
+R: En raison d'un problème technique, le train de 13 h 15 pour Nantes a trente minutes de retard. || Do sự cố kỹ thuật, chuyến tàu 13 giờ 15 đi Nantes bị trễ ba mươi phút.
+R: Nous vous rappelons que le wagon-bar se trouve en voiture 4. || Xin nhắc quý khách toa ăn uống nằm ở toa số 4.
+R: Nous vous souhaitons un agréable voyage. || Chúc quý khách một chuyến đi vui vẻ.
+RQ: Le TGV pour Marseille part de quelle voie ? | voie 4 | voie 6 | *voie 11 | voie 13
+RQ: Pourquoi le train pour Nantes est en retard ? | à cause de la météo | *à cause d'un problème technique | une grève | un accident
+RQ: Où est le wagon-bar ? | en voiture 1 | *en voiture 4 | en voiture 11 | il n'y en a pas
+W.prompt: Écris un dialogue au guichet de la gare : tu achètes un billet (destination, date, heure, type de billet, prix, réduction). || Viết một đoạn hội thoại ở quầy vé nhà ga: bạn mua vé (điểm đến, ngày, giờ, loại vé, giá, giảm giá).
+W.min: 50
+W.must: je voudrais ; aller ; à quelle heure
+W.check: Lịch sự (bonjour, s'il vous plaît, merci)
+W.check: Giờ theo hệ 24 giờ
+W.check: Có đủ thông tin: điểm đến, ngày, giờ, giá
+W.model: — Bonjour, je voudrais un billet pour Bordeaux, s'il vous plaît. || — Chào anh, cho tôi một vé đi Bordeaux.
+W.model: — Un aller simple ou un aller-retour ? || — Một chiều hay khứ hồi ạ?
+W.model: — Un aller-retour. Aller samedi, retour lundi. Le premier train part à quelle heure ? || — Khứ hồi. Đi thứ Bảy, về thứ Hai. Chuyến đầu tiên khởi hành lúc mấy giờ?
+W.model: — À 6 h 50. Il arrive à Bordeaux à 9 h 05. C'est direct. || — Lúc 6 giờ 50. Đến Bordeaux lúc 9 giờ 05. Đi thẳng.
+W.model: — Très bien. C'est combien ? || — Tốt quá. Giá bao nhiêu?
+W.model: — Cent dix euros en seconde classe. Voici votre billet, bon voyage ! || — Một trăm mười euro hạng hai. Vé của chị đây, chúc chị đi vui vẻ!
+
+## 2 | À l'hôtel
+G.title: Arriver à l'hôtel
+G.rule: À la réception de l'hôtel, on donne son nom, on confirme la réservation et on pose des questions sur les services : le petit-déjeuner, le wifi, l'heure du départ. || Tại quầy lễ tân khách sạn, ta nói tên, xác nhận đặt phòng và hỏi về các dịch vụ: bữa sáng, wifi, giờ trả phòng.
+G.note: Mẫu câu khi nhận phòng: J'ai une réservation au nom de… (Tôi đã đặt phòng tên…). Le petit-déjeuner est compris ? (Có bao gồm bữa sáng không?) / servi de quelle heure à quelle heure ? Quel est le code du wifi ? Il faut libérer la chambre à quelle heure ? (Mấy giờ phải trả phòng?). Loại phòng: une chambre simple (đơn), double (giường đôi), avec deux lits (hai giường), avec vue sur la mer (nhìn ra biển). Từ khác: la clé / la carte magnétique (thẻ từ), l'ascenseur, la réception.
+G.table: Question | Réponse
+G.row: J'ai une réservation au nom de Trần. | Oui, une chambre double pour deux nuits.
+G.row: Le petit-déjeuner est compris ? | Oui, de 7 h à 10 h.
+G.row: Quel est le code du wifi ? | Il est sur votre carte.
+G.row: Il faut libérer la chambre à quelle heure ? | Avant 11 h.
+G.ex: Bonsoir, j'ai une réservation au nom de Nguyễn. || Chào buổi tối, tôi có đặt phòng tên Nguyễn.
+G.ex: Votre chambre est au troisième étage, la 312. || Phòng của anh ở tầng ba, số 312.
+G.ex: Le petit-déjeuner est servi de sept heures à dix heures. || Bữa sáng phục vụ từ bảy giờ đến mười giờ.
+G.ex: Vous pouvez garder nos bagages après le départ ? || Anh có thể giữ hành lý cho chúng tôi sau khi trả phòng không?
+G.q: Pour une personne seule, on réserve une chambre… | double | *simple | avec deux lits | familiale
+G.q: « Le petit-déjeuner est compris » veut dire… | il est payant | *il est inclus dans le prix | il n'y en a pas | il est servi dans la chambre
+G.q: « Libérer la chambre », c'est… | la nettoyer | *la quitter | la réserver | la changer
+G.q: On donne son nom à la… | piscine | *réception | chambre | cuisine
+G.q: J'ai une réservation au ___ de Lê. = nom
+V: la réception | /la ʁe.sɛp.sjɔ̃/ | nom f. | quầy lễ tân | Demandez à la réception. || Hãy hỏi quầy lễ tân.
+V: la réservation | /la ʁe.zɛʁ.va.sjɔ̃/ | nom f. | việc đặt chỗ | J'ai une réservation. || Tôi có đặt chỗ.
+V: la chambre double | /la ʃɑ̃bʁ dubl/ | nom f. | phòng giường đôi | Une chambre double, s'il vous plaît. || Cho tôi một phòng giường đôi.
+V: compris | /kɔ̃.pʁi/ | adjectif | bao gồm | Le petit-déjeuner est compris. || Đã bao gồm bữa sáng.
+V: la nuit | /la nɥi/ | nom f. | đêm (lưu trú) | Nous restons trois nuits. || Chúng tôi ở ba đêm.
+V: les bagages | /le ba.ɡaʒ/ | nom m. pl. | hành lý | Où sont vos bagages ? || Hành lý của anh đâu?
+V: la clé | /la kle/ | nom f. | chìa khoá | Voici votre clé. || Chìa khoá của anh đây.
+V: la vue | /la vy/ | nom f. | tầm nhìn | Une chambre avec vue sur la mer. || Một phòng nhìn ra biển.
+V: le service | /lə sɛʁ.vis/ | nom m. | dịch vụ | Le service est excellent. || Dịch vụ tuyệt vời.
+V: servir | /sɛʁ.viʁ/ | verbe | phục vụ | Le dîner est servi à vingt heures. || Bữa tối phục vụ lúc tám giờ.
+VQ: Le contraire de « payant » : | compris seulement | *gratuit | cher | servi
+VQ: Une chambre pour deux personnes avec un grand lit : | simple | *double | familiale | suite
+VQ: Les valises et les sacs d'un voyageur : | les clés | *les bagages | les services | les vues
+VQ: « Une chambre avec vue sur la mer » : on voit… | la montagne | *la mer | la rue | le parking
+VQ: À l'hôtel, on dort une ou plusieurs ___. = nuits
+D: J'ai une réservation au nom de Nguyễn.
+D: Votre chambre est au troisième étage.
+D: Le petit-déjeuner est servi de sept heures à dix heures.
+D: Vous pouvez garder nos bagages ?
+L: Réceptionniste | Bonsoir, bienvenue à l'hôtel du Lac. || Chào buổi tối, chào mừng đến khách sạn du Lac.
+L: Client | Bonsoir, j'ai une réservation au nom de Phạm, pour trois nuits. || Chào chị, tôi có đặt phòng tên Phạm, ba đêm.
+L: Réceptionniste | Oui, une chambre double avec vue sur le lac. Voici votre carte, chambre 205. || Vâng, một phòng đôi nhìn ra hồ. Đây là thẻ phòng của anh, phòng 205.
+L: Client | Le petit-déjeuner est compris ? || Có bao gồm bữa sáng không?
+L: Réceptionniste | Oui, il est servi au rez-de-chaussée de sept heures à dix heures. Le code wifi est sur la carte. || Có, phục vụ ở tầng trệt từ bảy giờ đến mười giờ. Mã wifi ghi trên thẻ.
+L: Client | Merci. Et il faut libérer la chambre à quelle heure ? — Avant onze heures. || Cảm ơn chị. Và phải trả phòng lúc mấy giờ? — Trước mười một giờ.
+LQ: Combien de nuits reste le client ? | deux | *trois | quatre | une
+LQ: Quel est le numéro de la chambre ? | 250 | *205 | 502 | 215
+LQ: Où est servi le petit-déjeuner ? | dans la chambre | *au rez-de-chaussée | au premier étage | au restaurant du lac
+RA: J'ai une réservation au nom de Phạm.
+RA: Le petit-déjeuner est compris ?
+RA: Il faut libérer la chambre à quelle heure ?
+SH: J'ai une réservation pour trois nuits.
+SH: Voici votre carte, chambre 205.
+SH: Le code wifi est sur la carte.
+R.title: Informations pour nos clients
+R: Bienvenue à l'Hôtel des Arts ! || Chào mừng quý khách đến Hôtel des Arts!
+R: La réception est ouverte vingt-quatre heures sur vingt-quatre. || Quầy lễ tân mở cửa hai mươi bốn giờ.
+R: Le petit-déjeuner est servi dans la salle du premier étage, de 7 h à 10 h 30. Il n'est pas compris dans le prix de la chambre : il coûte douze euros. || Bữa sáng được phục vụ ở phòng tầng một, từ 7 giờ đến 10 giờ 30. Không bao gồm trong giá phòng: giá mười hai euro.
+R: Le wifi est gratuit dans tout l'hôtel. || Wifi miễn phí trong toàn khách sạn.
+R: Les chambres doivent être libérées avant midi. Nous pouvons garder vos bagages gratuitement. || Quý khách vui lòng trả phòng trước buổi trưa. Chúng tôi có thể giữ hành lý miễn phí.
+R: Les animaux ne sont pas acceptés. Merci de votre compréhension. || Không nhận thú cưng. Cảm ơn sự thông cảm của quý khách.
+RQ: Le petit-déjeuner est compris ? | oui | *non, il coûte douze euros | seulement le week-end | on ne sait pas
+RQ: Avant quelle heure faut-il libérer la chambre ? | 10 h 30 | 11 h | *midi | 14 h
+RQ: Est-ce que les chiens sont acceptés ? | oui | *non | seulement les petits | avec supplément
+W.prompt: Tu arrives dans un hôtel. Écris le dialogue avec le réceptionniste : ta réservation, la chambre, le petit-déjeuner, le wifi et l'heure du départ. || Bạn đến một khách sạn. Viết đoạn hội thoại với lễ tân: đặt phòng, phòng ở, bữa sáng, wifi và giờ trả phòng.
+W.min: 50
+W.must: réservation ; compris ; chambre
+W.check: Câu hỏi lịch sự và rõ ràng
+W.check: Có thông tin phòng (loại, tầng, số)
+W.check: Có giờ giấc (bữa sáng, trả phòng)
+W.model: — Bonjour madame. J'ai réservé une chambre au nom de Lê Minh, pour deux nuits. || — Chào bà. Tôi đã đặt một phòng tên Lê Minh, hai đêm.
+W.model: — Bonjour monsieur. Oui, une chambre simple au quatrième étage, la 408. || — Chào ông. Vâng, một phòng đơn ở tầng bốn, phòng 408.
+W.model: — Le petit-déjeuner est compris ? || — Có bao gồm bữa sáng không?
+W.model: — Oui, il est servi de 6 h 30 à 9 h 30 au restaurant. || — Có, phục vụ từ 6 giờ 30 đến 9 giờ 30 ở nhà hàng.
+W.model: — Et le wifi ? — Le code est « soleil2024 ». || — Còn wifi? — Mã là « soleil2024 ».
+W.model: — Merci. Je pars dimanche à quinze heures, vous pouvez garder ma valise ? — Bien sûr ! || — Cảm ơn. Tôi đi Chủ Nhật lúc ba giờ chiều, bà giữ va li giúp tôi được không? — Tất nhiên!
+
+## 3 | Réserver par téléphone
+G.title: Le conditionnel de politesse
+G.rule: Pour réserver poliment, on utilise le conditionnel de politesse : je voudrais, j'aimerais, pourriez-vous, est-ce que vous auriez… On épelle son nom et on donne ses coordonnées. || Để đặt chỗ lịch sự, ta dùng thức điều kiện lịch sự: je voudrais (tôi muốn), j'aimerais (tôi mong), pourriez-vous (ông/bà có thể), est-ce que vous auriez (ông/bà có… không). Ta đánh vần tên và cung cấp thông tin liên hệ.
+G.note: Các dạng cố định (học như từ vựng): je voudrais (vouloir), j'aimerais (aimer), pourriez-vous / pourrais-tu (pouvoir), vous auriez (avoir). Ví dụ: Est-ce que vous auriez une chambre libre le 15 mai ? Pourriez-vous répéter, s'il vous plaît ? Đánh vần tên: N comme Nicolas, G comme Gérard, Y grec (i-grec)… Mở đầu cuộc gọi: Allô, bonjour, je vous appelle pour… Kết thúc: Je vous remercie, au revoir.
+G.table: Présent | Conditionnel de politesse
+G.row: je veux | je voudrais
+G.row: j'aime | j'aimerais
+G.row: vous pouvez | vous pourriez
+G.row: vous avez | vous auriez
+G.ex: Allô, bonjour. Je vous appelle pour réserver une table pour ce soir. || A lô, xin chào. Tôi gọi để đặt một bàn cho tối nay.
+G.ex: Est-ce que vous auriez une chambre libre du 3 au 5 juin ? || Ông có phòng trống từ ngày 3 đến ngày 5 tháng Sáu không?
+G.ex: Pourriez-vous répéter le prix, s'il vous plaît ? || Ông có thể nhắc lại giá được không?
+G.ex: Je m'appelle Nguyễn : N, G, U, Y grec, E, N. || Tôi tên Nguyễn: N, G, U, Y, E, N.
+G.q: La forme la plus polie : | Je veux une table. | *Je voudrais une table. | Donnez-moi une table. | Une table !
+G.q: « Vous auriez » vient du verbe… | aller | *avoir | être | aimer
+G.q: Pour demander de répéter poliment : | Quoi ? | *Pourriez-vous répéter ? | Répète ! | Hein ?
+G.q: Au téléphone, on commence par… | Salut ! | *Allô, bonjour. | Au revoir. | Merci.
+G.q: Conditionnel de politesse de « j'aime » : ___ = j'aimerais
+V: réserver | /ʁe.zɛʁ.ve/ | verbe | đặt trước | Je voudrais réserver une chambre. || Tôi muốn đặt một phòng.
+V: allô | /a.lo/ | interjection | a lô | Allô, bonjour ! || A lô, xin chào!
+V: épeler | /e.ple/ | verbe | đánh vần | Pouvez-vous épeler votre nom ? || Anh có thể đánh vần tên không?
+V: répéter | /ʁe.pe.te/ | verbe | nhắc lại | Pourriez-vous répéter ? || Ông có thể nhắc lại không?
+V: les coordonnées | /le kɔ.ɔʁ.dɔ.ne/ | nom f. pl. | thông tin liên lạc | Laissez-moi vos coordonnées. || Để lại thông tin liên lạc cho tôi.
+V: le numéro | /lə ny.me.ʁo/ | nom m. | số | Quel est votre numéro de téléphone ? || Số điện thoại của anh là gì?
+V: confirmer | /kɔ̃.fiʁ.me/ | verbe | xác nhận | Je confirme la réservation. || Tôi xác nhận việc đặt chỗ.
+V: annuler | /a.ny.le/ | verbe | huỷ | Je dois annuler ma réservation. || Tôi phải huỷ đặt chỗ.
+V: complet | /kɔ̃.plɛ/ | adjectif | kín chỗ | Désolé, l'hôtel est complet. || Xin lỗi, khách sạn hết phòng.
+V: disponible | /dis.pɔ.nibl/ | adjectif | còn trống, có sẵn | Il y a une chambre disponible. || Còn một phòng trống.
+VQ: Le contraire de « confirmer » une réservation : | réserver | *annuler | répéter | épeler
+VQ: Un hôtel sans chambre libre est… | disponible | *complet | fermé | cher
+VQ: Synonyme de « libre » (chambre) : | complet | *disponible | annulé | réservé
+VQ: Le nom, l'adresse, le téléphone, ce sont les… | réservations | *coordonnées | numéros seulement | chambres
+VQ: Dire les lettres d'un mot une par une, c'est l'___. = épeler
+D: Je vous appelle pour réserver une table.
+D: Est-ce que vous auriez une chambre libre ?
+D: Pourriez-vous répéter le prix ?
+D: Je m'appelle Nguyễn : N, G, U, Y grec, E, N.
+L: Restaurant | Restaurant Le Bistrot, bonjour ! || Nhà hàng Le Bistrot, xin chào!
+L: Hằng | Bonjour, je voudrais réserver une table pour quatre personnes, samedi soir. || Chào anh, tôi muốn đặt một bàn cho bốn người, tối thứ Bảy.
+L: Restaurant | Pour quelle heure ? || Mấy giờ ạ?
+L: Hằng | Vingt heures, si possible. Est-ce que vous auriez une table en terrasse ? || Tám giờ tối, nếu được. Anh có bàn ngoài hiên không?
+L: Restaurant | Désolé, la terrasse est complète. Mais j'ai une table près de la fenêtre. C'est à quel nom ? || Xin lỗi, ngoài hiên kín chỗ rồi. Nhưng tôi có một bàn gần cửa sổ. Đặt tên gì ạ?
+L: Hằng | Au nom de Hằng : H, A, N, G. Merci beaucoup ! || Tên Hằng: H, A, N, G. Cảm ơn anh nhiều!
+LQ: Pour combien de personnes ? | deux | *quatre | six | huit
+LQ: Pourquoi pas en terrasse ? | il pleut | *la terrasse est complète | elle est fermée | c'est trop cher
+LQ: Où sera la table ? | en terrasse | *près de la fenêtre | au fond | au bar
+RA: Je voudrais. J'aimerais. Pourriez-vous. Vous auriez.
+RA: Est-ce que vous auriez une chambre libre ?
+RA: A, B, C, D, E, F, G, H, I, J, K, L, M.
+SH: Je voudrais réserver une table pour quatre personnes.
+SH: Est-ce que vous auriez une table en terrasse ?
+SH: C'est à quel nom ?
+R.title: Message sur le répondeur
+R: Bonjour, ici Madame Vũ. Je vous appelle au sujet de ma réservation. || Xin chào, tôi là bà Vũ. Tôi gọi về việc đặt phòng của tôi.
+R: J'ai réservé une chambre double du 12 au 15 août, au nom de Vũ : V, U. || Tôi đã đặt một phòng đôi từ ngày 12 đến 15 tháng Tám, tên Vũ: V, U.
+R: Malheureusement, mon vol est annulé et je vais arriver un jour plus tard. || Không may, chuyến bay của tôi bị huỷ và tôi sẽ đến muộn một ngày.
+R: Pourriez-vous changer la réservation du 13 au 15 août ? || Ông/bà có thể đổi đặt phòng thành từ ngày 13 đến 15 tháng Tám không?
+R: J'aimerais aussi une chambre calme, si possible. || Tôi cũng mong có một phòng yên tĩnh, nếu được.
+R: Vous pouvez me rappeler au 06 12 34 56 78. Merci beaucoup, au revoir. || Ông/bà có thể gọi lại cho tôi theo số 06 12 34 56 78. Cảm ơn nhiều, tạm biệt.
+RQ: Pourquoi Madame Vũ appelle ? | pour annuler | *pour changer sa réservation | pour réserver une table | pour se plaindre
+RQ: Pourquoi va-t-elle arriver plus tard ? | elle est malade | *son vol est annulé | elle travaille | il y a une grève
+RQ: Qu'est-ce qu'elle aimerait aussi ? | une vue sur la mer | *une chambre calme | un petit-déjeuner | un parking
+W.prompt: Écris un message téléphonique pour réserver (un hôtel, un restaurant ou un cours). Utilise le conditionnel de politesse, épelle ton nom et donne tes coordonnées. || Viết một tin nhắn thoại để đặt chỗ (khách sạn, nhà hàng hoặc khoá học). Dùng thức điều kiện lịch sự, đánh vần tên và cung cấp thông tin liên lạc.
+W.min: 50
+W.must: je voudrais ; pourriez-vous ; au nom de
+W.check: Mở đầu và kết thúc cuộc gọi lịch sự
+W.check: Dùng ít nhất hai dạng điều kiện lịch sự
+W.check: Có ngày, giờ, số người, số điện thoại
+W.model: Allô, bonjour. Je m'appelle Đặng Thu, je vous appelle pour une réservation. || A lô, xin chào. Tôi tên Đặng Thu, tôi gọi để đặt chỗ.
+W.model: Je voudrais une chambre pour deux personnes, du vendredi 10 au dimanche 12 mai. || Tôi muốn một phòng cho hai người, từ thứ Sáu ngày 10 đến Chủ Nhật ngày 12 tháng Năm.
+W.model: Est-ce que vous auriez une chambre avec un balcon ? || Ông/bà có phòng có ban công không?
+W.model: Pourriez-vous aussi me dire si le parking est gratuit ? || Ông/bà cũng có thể cho tôi biết bãi đỗ xe có miễn phí không?
+W.model: C'est au nom de Đặng : D, A, N, G. Mon numéro est le 07 98 76 54 32. || Đặt tên Đặng: D, A, N, G. Số điện thoại của tôi là 07 98 76 54 32.
+W.model: Je vous remercie, bonne journée ! || Cảm ơn ông/bà, chúc một ngày tốt lành!
+
+## 4 | Les bagages et les documents
+G.title: Préparer son voyage
+G.rule: Avant un voyage, on vérifie ses documents (passeport, visa, carte d'embarquement) et on prépare ses bagages. On utilise il faut + infinitif et ne pas oublier de + infinitif pour faire une liste. || Trước chuyến đi, ta kiểm tra giấy tờ (hộ chiếu, thị thực, thẻ lên máy bay) và chuẩn bị hành lý. Ta dùng il faut + nguyên mẫu (cần phải) và ne pas oublier de + nguyên mẫu (đừng quên) để lập danh sách.
+G.note: Cấu trúc nhắc nhở: Il faut prendre ton passeport. N'oublie pas de vérifier ton vol. Pense à acheter un adaptateur. À l'aéroport: l'enregistrement (làm thủ tục), la carte d'embarquement (thẻ lên máy bay), la porte d'embarquement (cửa ra máy bay), le contrôle de sécurité (kiểm tra an ninh), la douane (hải quan), le bagage à main (hành lý xách tay), le bagage en soute (hành lý ký gửi). Câu hỏi thường gặp: Vous avez quelque chose à déclarer ? (Có gì cần khai báo không?)
+G.table: Document / objet | Usage
+G.row: le passeport | pour voyager à l'étranger
+G.row: le visa | pour entrer dans certains pays
+G.row: la carte d'embarquement | pour monter dans l'avion
+G.row: le bagage à main | dans l'avion avec soi
+G.row: le bagage en soute | enregistré, sous l'avion
+G.ex: N'oublie pas de prendre ton passeport ! || Đừng quên mang hộ chiếu nhé!
+G.ex: Il faut arriver à l'aéroport deux heures avant le départ. || Cần đến sân bay hai tiếng trước giờ khởi hành.
+G.ex: Les liquides de plus de cent millilitres sont interdits en cabine. || Chất lỏng trên một trăm mi-li-lít bị cấm mang lên khoang.
+G.ex: L'embarquement commence à quinze heures, porte 32. || Bắt đầu lên máy bay lúc ba giờ chiều, cửa 32.
+G.q: Pour monter dans l'avion, il faut la… | carte d'identité seulement | *carte d'embarquement | carte postale | carte bancaire
+G.q: N'oublie pas ___ vérifier l'heure ! | à | *de | que | pour
+G.q: « Il faut arriver tôt » veut dire… | c'est interdit | *c'est nécessaire | c'est possible | c'est inutile
+G.q: Le bagage qu'on garde avec soi dans l'avion : | le bagage en soute | *le bagage à main | la valise enregistrée | le colis
+G.q: Le document officiel pour voyager à l'étranger : le ___. = passeport
+V: le passeport | /lə pas.pɔʁ/ | nom m. | hộ chiếu | Mon passeport est valide. || Hộ chiếu của tôi còn hạn.
+V: le visa | /lə vi.za/ | nom m. | thị thực | Il faut un visa pour la France. || Cần thị thực để đến Pháp.
+V: l'embarquement | /lɑ̃.baʁ.kə.mɑ̃/ | nom m. | việc lên máy bay | L'embarquement est à quinze heures. || Lên máy bay lúc ba giờ chiều.
+V: l'enregistrement | /lɑ̃ʁ.ʒis.tʁə.mɑ̃/ | nom m. | thủ tục check-in | L'enregistrement ferme une heure avant. || Quầy làm thủ tục đóng một tiếng trước.
+V: la douane | /la dwan/ | nom f. | hải quan | Nous passons la douane. || Chúng tôi qua hải quan.
+V: interdit | /ɛ̃.tɛʁ.di/ | adjectif | bị cấm | Fumer est interdit. || Cấm hút thuốc.
+V: valide | /va.lid/ | adjectif | còn hiệu lực | Ton visa est valide ? || Thị thực của bạn còn hạn không?
+V: le vol | /lə vɔl/ | nom m. | chuyến bay | Mon vol est à huit heures. || Chuyến bay của tôi lúc tám giờ.
+V: l'adaptateur | /la.dap.ta.tœʁ/ | nom m. | ổ chuyển đổi | Pense à prendre un adaptateur. || Nhớ mang ổ chuyển đổi.
+V: déclarer | /de.kla.ʁe/ | verbe | khai báo | Vous avez quelque chose à déclarer ? || Anh có gì cần khai báo không?
+VQ: Le contraire de « autorisé » : | valide | *interdit | libre | ouvert
+VQ: Un passeport qui n'est plus valable est… | valide | *expiré | interdit | neuf
+VQ: À l'aéroport, on contrôle les marchandises à la… | réception | *douane | porte | soute
+VQ: Pour brancher un appareil dans un autre pays, il faut parfois un… | visa | *adaptateur | passeport | billet
+VQ: Le voyage en avion d'une ville à une autre, c'est un ___. = vol
+D: N'oublie pas de prendre ton passeport !
+D: Il faut arriver à l'aéroport deux heures avant.
+D: Les liquides sont interdits en cabine.
+D: L'embarquement commence à quinze heures, porte 32.
+L: Mère | Tu as tout ? Ton passeport, ton visa ? || Con có đủ hết chưa? Hộ chiếu, thị thực?
+L: Khánh | Oui, maman, ils sont dans mon sac à dos. || Rồi mẹ ạ, chúng ở trong ba lô của con.
+L: Mère | Et ta carte d'embarquement ? || Còn thẻ lên máy bay?
+L: Khánh | Elle est sur mon téléphone. Il faut juste montrer le code. || Nó ở trong điện thoại con. Chỉ cần đưa mã ra.
+L: Mère | N'oublie pas de mettre ta crème et ton parfum dans la valise : les liquides sont interdits en cabine ! || Đừng quên để kem và nước hoa vào va li nhé: chất lỏng bị cấm trên khoang!
+L: Khánh | Je sais, maman ! Ne t'inquiète pas, je t'appelle dès que j'arrive à Paris. || Con biết mà mẹ! Mẹ đừng lo, con sẽ gọi mẹ ngay khi con đến Paris.
+LQ: Où sont le passeport et le visa ? | dans la valise | *dans son sac à dos | chez sa mère | dans sa poche
+LQ: Où est la carte d'embarquement ? | dans son sac | *sur son téléphone | à l'aéroport | il l'a oubliée
+LQ: Pourquoi mettre la crème dans la valise ? | elle est lourde | *les liquides sont interdits en cabine | elle est fragile | pour la garder au frais
+RA: le passeport, le visa, la carte d'embarquement.
+RA: Il faut arriver deux heures avant le départ.
+RA: N'oublie pas de prendre ton passeport !
+SH: Tu as tout ? Ton passeport, ton visa ?
+SH: Il faut juste montrer le code.
+SH: Je t'appelle dès que j'arrive à Paris.
+R.title: Conseils avant le départ
+R: Vous partez à l'étranger ? Voici quelques conseils pour un voyage sans stress. || Bạn sắp ra nước ngoài? Đây là vài lời khuyên cho một chuyến đi không căng thẳng.
+R: D'abord, vérifiez que votre passeport est valide au moins six mois après votre retour. || Đầu tiên, kiểm tra hộ chiếu của bạn còn hạn ít nhất sáu tháng sau ngày về.
+R: Faites une photocopie de vos documents et gardez-la dans un autre sac. || Photo các giấy tờ và giữ bản photo ở một túi khác.
+R: Ne mettez pas vos médicaments et vos objets de valeur dans le bagage en soute : gardez-les dans votre bagage à main. || Đừng để thuốc men và đồ có giá trị vào hành lý ký gửi: hãy giữ chúng trong hành lý xách tay.
+R: N'oubliez pas d'acheter une assurance voyage. || Đừng quên mua bảo hiểm du lịch.
+R: Enfin, arrivez à l'aéroport en avance : il y a souvent beaucoup de monde au contrôle de sécurité ! || Cuối cùng, hãy đến sân bay sớm: thường có rất đông người ở khu kiểm tra an ninh!
+RQ: Le passeport doit être valide… | jusqu'au départ | *six mois après le retour | un an | un mois
+RQ: Où mettre les médicaments ? | dans la valise en soute | *dans le bagage à main | à la maison | dans la poche
+RQ: Pourquoi arriver en avance ? | pour faire du shopping | *il y a beaucoup de monde au contrôle | pour manger | l'avion part tôt
+W.prompt: Écris une liste de conseils pour un ami qui part en France pour la première fois : documents, bagages, à l'aéroport. Utilise il faut, n'oublie pas de, pense à. || Viết danh sách lời khuyên cho một người bạn lần đầu sang Pháp: giấy tờ, hành lý, ở sân bay. Dùng il faut, n'oublie pas de, pense à.
+W.min: 50
+W.must: il faut ; n'oublie pas de ; pense à
+W.check: il faut / n'oublie pas de / pense à + nguyên mẫu
+W.check: Có các nhóm: giấy tờ, hành lý, sân bay
+W.check: Mệnh lệnh thức với tu chia đúng
+W.model: Bon voyage en France ! Voici mes conseils. || Chúc bạn đi Pháp vui vẻ! Đây là lời khuyên của mình.
+W.model: D'abord, il faut vérifier ton visa et ton passeport. Fais des photocopies ! || Đầu tiên, cần kiểm tra thị thực và hộ chiếu. Hãy photo chúng!
+W.model: N'oublie pas de prendre des vêtements chauds : en novembre, il fait froid à Paris. || Đừng quên mang quần áo ấm: tháng Mười Một ở Paris trời lạnh.
+W.model: Pense à acheter un adaptateur, les prises sont différentes. || Nhớ mua ổ chuyển đổi, ổ cắm điện khác nhau.
+W.model: À l'aéroport, il faut arriver trois heures avant pour un vol international. || Ở sân bay, cần đến ba tiếng trước với chuyến bay quốc tế.
+W.model: Garde tes médicaments dans ton bagage à main et envoie-moi un message quand tu arrives ! || Giữ thuốc trong hành lý xách tay và nhắn tin cho mình khi bạn đến nơi nhé!
+
+## 5 | Un problème en voyage
+G.title: Se plaindre et demander de l'aide
+G.rule: Quand on a un problème en voyage, on explique la situation avec précision (passé composé et imparfait), puis on demande poliment une solution : Est-ce que vous pourriez… ? Qu'est-ce que je dois faire ? || Khi gặp vấn đề lúc đi du lịch, ta giải thích tình huống chính xác (passé composé và imparfait), rồi lịch sự yêu cầu giải pháp: Est-ce que vous pourriez… ? (Ông/bà có thể…?) Qu'est-ce que je dois faire ? (Tôi phải làm gì?)
+G.note: Các vấn đề thường gặp: Mon vol est annulé / a du retard. J'ai raté ma correspondance. Ma valise n'est pas arrivée. On m'a volé mon portefeuille. La climatisation ne marche pas. Il n'y a pas d'eau chaude. Cách phàn nàn lịch sự: Excusez-moi, il y a un problème avec… / Je suis désolé(e) de vous déranger, mais… / Ce n'est pas normal. Yêu cầu: Est-ce que je peux changer de chambre ? Je voudrais être remboursé(e) (Tôi muốn được hoàn tiền).
+G.table: Problème | Demande
+G.row: La climatisation ne marche pas. | Est-ce que je peux changer de chambre ?
+G.row: Mon vol est annulé. | Qu'est-ce que je dois faire ?
+G.row: Ma valise n'est pas arrivée. | Où est-ce que je dois faire une déclaration ?
+G.row: On m'a volé mon sac. | Où est le commissariat ?
+G.row: Le service est très mauvais. | Je voudrais être remboursé.
+G.ex: Excusez-moi, la climatisation de ma chambre ne marche pas. || Xin lỗi, điều hoà trong phòng tôi không chạy.
+G.ex: J'ai raté ma correspondance parce que mon premier vol avait du retard. || Tôi lỡ chuyến bay nối vì chuyến đầu tiên bị trễ.
+G.ex: Ma valise n'est pas arrivée. Qu'est-ce que je dois faire ? || Va li của tôi không đến. Tôi phải làm gì?
+G.ex: Est-ce que vous pourriez me trouver une autre chambre ? || Ông có thể tìm cho tôi một phòng khác không?
+G.q: Pour se plaindre poliment : | C'est nul ! | *Excusez-moi, il y a un problème avec… | Je veux partir ! | Vous êtes mauvais !
+G.q: « Je voudrais être remboursé » veut dire… | je veux payer | *je veux récupérer mon argent | je veux une autre chambre | je veux partir
+G.q: La climatisation ne ___ pas. | va | *marche | fait | roule
+G.q: Pour déclarer un vol (sac volé), on va au… | guichet | *commissariat | hôtel | bureau de poste
+G.q: J'ai ___ ma correspondance. (lỡ) = raté
+V: se plaindre | /sə plɛ̃dʁ/ | verbe | phàn nàn | Je voudrais me plaindre. || Tôi muốn phàn nàn.
+V: marcher | /maʁ.ʃe/ | verbe | hoạt động (máy móc) | La télé ne marche pas. || TV không hoạt động.
+V: la climatisation | /la kli.ma.ti.za.sjɔ̃/ | nom f. | điều hoà | La climatisation est en panne. || Điều hoà bị hỏng.
+V: en panne | /ɑ̃ pan/ | expression | bị hỏng | L'ascenseur est en panne. || Thang máy bị hỏng.
+V: rembourser | /ʁɑ̃.buʁ.se/ | verbe | hoàn tiền | Ils vont me rembourser. || Họ sẽ hoàn tiền cho tôi.
+V: le commissariat | /lə kɔ.mi.sa.ʁja/ | nom m. | đồn cảnh sát | Où est le commissariat ? || Đồn cảnh sát ở đâu?
+V: la déclaration | /la de.kla.ʁa.sjɔ̃/ | nom f. | bản khai báo | J'ai fait une déclaration de perte. || Tôi đã làm đơn khai báo mất đồ.
+V: déranger | /de.ʁɑ̃.ʒe/ | verbe | làm phiền | Désolé de vous déranger. || Xin lỗi đã làm phiền.
+V: annulé | /a.ny.le/ | adjectif | bị huỷ | Mon vol est annulé. || Chuyến bay của tôi bị huỷ.
+V: l'eau chaude | /lo ʃod/ | nom f. | nước nóng | Il n'y a pas d'eau chaude. || Không có nước nóng.
+VQ: Un appareil qui ne fonctionne pas est… | annulé | *en panne | remboursé | dérangé
+VQ: « Rembourser » veut dire… | payer plus | *rendre l'argent | voler | réserver
+VQ: On va au commissariat pour… | acheter un billet | *déclarer un vol ou une perte | dormir | manger
+VQ: Pour avoir frais dans une chambre chaude, on utilise la… | douche | *climatisation | télé | clé
+VQ: Pour exprimer son mécontentement, on se ___. = plaint
+D: La climatisation de ma chambre ne marche pas.
+D: J'ai raté ma correspondance.
+D: Ma valise n'est pas arrivée.
+D: Est-ce que vous pourriez me trouver une autre chambre ?
+L: Cliente | Excusez-moi de vous déranger, mais il y a un problème dans ma chambre. || Xin lỗi đã làm phiền, nhưng phòng tôi có vấn đề.
+L: Réceptionniste | Oui, madame, qu'est-ce qui se passe ? || Vâng, thưa chị, có chuyện gì ạ?
+L: Cliente | Il n'y a pas d'eau chaude, et la fenêtre ne ferme pas bien. Il y a beaucoup de bruit. || Không có nước nóng, và cửa sổ đóng không kín. Rất ồn.
+L: Réceptionniste | Je suis vraiment désolé. Je peux vous proposer une autre chambre, au cinquième étage, côté jardin. || Tôi thật sự xin lỗi. Tôi có thể đề xuất cho chị một phòng khác, ở tầng năm, phía vườn.
+L: Cliente | Merci, c'est parfait. || Cảm ơn, thế thì tuyệt.
+L: Réceptionniste | Et pour nous excuser, le petit-déjeuner de demain est offert. || Và để xin lỗi, bữa sáng ngày mai được miễn phí.
+LQ: Quel est le premier problème ? | pas de wifi | *pas d'eau chaude | la télé ne marche pas | la clé
+LQ: Pourquoi y a-t-il du bruit ? | les voisins | *la fenêtre ne ferme pas bien | la climatisation | la rue est en travaux
+LQ: Qu'est-ce qui est offert ? | une nuit | *le petit-déjeuner de demain | un dîner | rien
+RA: Excusez-moi de vous déranger.
+RA: Il n'y a pas d'eau chaude.
+RA: Est-ce que je peux changer de chambre ?
+SH: Il y a un problème dans ma chambre.
+SH: La fenêtre ne ferme pas bien.
+SH: Je peux vous proposer une autre chambre.
+R.title: Un voyage plein de surprises
+R: Le mois dernier, je suis parti à Barcelone pour un week-end. || Tháng trước, tôi đi Barcelona một cuối tuần.
+R: D'abord, mon vol avait trois heures de retard à cause d'une grève. || Đầu tiên, chuyến bay của tôi bị trễ ba tiếng do đình công.
+R: Quand je suis arrivé, ma valise n'était pas sur le tapis ! J'ai fait une déclaration au service bagages. || Khi tôi đến nơi, va li của tôi không có trên băng chuyền! Tôi đã khai báo ở bộ phận hành lý.
+R: À l'hôtel, la climatisation était en panne et il faisait trente-cinq degrés. || Ở khách sạn, điều hoà bị hỏng và nhiệt độ ba mươi lăm độ.
+R: Heureusement, le réceptionniste m'a donné une chambre plus grande avec une terrasse. || May mắn là lễ tân đã cho tôi một phòng rộng hơn có sân thượng.
+R: Et le lendemain, ma valise est arrivée. Finalement, c'était un très bon week-end ! || Và hôm sau, va li của tôi đã đến. Cuối cùng, đó là một cuối tuần rất vui!
+RQ: Pourquoi le vol avait du retard ? | la météo | *une grève | un problème technique | un passager malade
+RQ: Quel problème y avait-il à l'hôtel ? | pas d'eau chaude | *la climatisation était en panne | la chambre était sale | pas de chambre
+RQ: Quand la valise est-elle arrivée ? | le même jour | *le lendemain | jamais | à la fin du séjour
+W.prompt: Raconte un problème que tu as eu en voyage (ou invente-le) : ce qui s'est passé, comment tu as réagi, ce que tu as demandé et comment ça s'est terminé. || Kể một vấn đề bạn đã gặp khi đi du lịch (hoặc tự nghĩ ra): chuyện gì đã xảy ra, bạn đã phản ứng thế nào, đã yêu cầu gì và kết thúc ra sao.
+W.min: 60
+W.must: problème ; est-ce que vous pourriez
+W.check: Bối cảnh ở imparfait, sự việc ở passé composé
+W.check: Có câu yêu cầu lịch sự
+W.check: Câu chuyện có kết thúc
+W.model: L'année dernière, j'ai voyagé à Bangkok avec mon mari. || Năm ngoái, tôi đi Bangkok với chồng.
+W.model: Le premier soir, nous dînions dans un restaurant quand j'ai remarqué que mon téléphone n'était plus dans mon sac. || Tối đầu tiên, chúng tôi đang ăn tối trong một nhà hàng thì tôi nhận ra điện thoại không còn trong túi.
+W.model: J'étais très stressée. J'ai demandé au serveur : « Excusez-moi, est-ce que vous pourriez m'aider ? » || Tôi rất căng thẳng. Tôi hỏi người phục vụ: « Xin lỗi, anh có thể giúp tôi không? »
+W.model: Il a cherché partout avec nous, mais nous ne l'avons pas trouvé. || Anh ấy đã tìm khắp nơi cùng chúng tôi, nhưng không thấy.
+W.model: Le lendemain, je suis allée au commissariat pour faire une déclaration. || Hôm sau, tôi đến đồn cảnh sát để khai báo.
+W.model: Deux jours plus tard, la police m'a appelée : un chauffeur de taxi a rapporté mon téléphone ! || Hai ngày sau, cảnh sát gọi cho tôi: một tài xế taxi đã mang trả điện thoại của tôi!
