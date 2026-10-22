@@ -1961,3 +1961,24 @@ la retraite | nom f. | sự nghỉ hưu
 le secret | nom m. | bí mật
 la sécurité | nom f. | an ninh (sécurité sociale: bảo hiểm xã hội)
 l'échange | nom m. | sự trao đổi
+@v suffire | đủ | suffis,suffis,suffit,suffisons,suffisez,suffisent | suffi | suffis | suffir
+@v reprendre | lấy thêm; tiếp tục | reprends,reprends,reprend,reprenons,reprenez,reprennent | repris | repren | reprendr
+l'agacement | nom m. | sự bực bội
+alimentaire | adjectif | thuộc về ăn uống
+@er allonger | kéo dài
+la conversation | nom f. | cuộc trò chuyện
+dont | pronom | mà (của nó), về điều đó
+@er encourager | khuyến khích
+le fan | nom m. | người hâm mộ
+le fast-food | nom m. | đồ ăn nhanh
+l'instant | nom m. | khoảnh khắc (à l'instant: vừa mới)
+marre | adverbe | (en avoir marre) chán ngấy
+natal | adjectif | quê hương (ville natale)
+la nostalgie | nom f. | nỗi hoài niệm
+le panier | nom m. | cái giỏ
+partant | participe | khi rời đi
+@er progresser | tiến bộ
+rare | adjectif | hiếm
+sainement | adverbe | một cách lành mạnh
+souriant | adjectif | tươi cười (en souriant: vừa cười)
+sérieusement | adverbe | nghiêm túc

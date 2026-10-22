@@ -1,0 +1,384 @@
+@week 23
+@title Y et en
+@level A2
+
+## 1 | Le pronom y
+G.title: Y remplace un lieu
+G.rule: Le pronom y remplace un lieu introduit par à, en, dans, chez, sur ou sous. Il se place devant le verbe, comme les autres pronoms. || Đại từ y thay thế cho một nơi chốn có các giới từ à, en, dans, chez, sur hoặc sous. Nó đứng trước động từ, giống các đại từ khác.
+G.note: Tu vas à Paris ? — Oui, j'y vais (tôi đến đó). Tu habites en France ? — Oui, j'y habite. Il est chez lui ? — Oui, il y est. Vị trí: Je n'y vais pas. Je vais y aller. J'y suis allé. Mệnh lệnh: Vas-y ! (Đi đi! — thêm -s vì phát âm). Cụm cố định: On y va ! (Đi thôi!), Ça y est ! (Xong rồi!), Il y a… (Có…). Y cũng thay thế à + vật (không phải người): Je pense à mon examen → J'y pense.
+G.table: Lieu | Avec y
+G.row: Je vais à la plage. | J'y vais.
+G.row: J'habite en France. | J'y habite.
+G.row: Il est dans le jardin. | Il y est.
+G.row: Nous allons chez Lan. | Nous y allons.
+G.row: Je pense à mon examen. | J'y pense.
+G.ex: Tu vas au marché ? — Oui, j'y vais tous les samedis. || Bạn đi chợ à? — Ừ, thứ Bảy nào tôi cũng đi.
+G.ex: Tu es déjà allé au Japon ? — Non, je n'y suis jamais allé. || Bạn đã từng đến Nhật chưa? — Chưa, tôi chưa bao giờ đến đó.
+G.ex: Paris ? J'y habite depuis trois ans. || Paris à? Tôi sống ở đó được ba năm rồi.
+G.ex: Allez, on y va ! || Nào, đi thôi!
+G.q: Tu vas à la banque ? — Oui, j'___ vais. | en | *y | le | lui
+G.q: Négation : Je ___ vais ___. (à Lyon) | n'… y pas | *n'y… pas | y ne… pas | ne… pas y
+G.q: Passé composé : J'___ suis allé hier. | en | *y | l' | lui
+G.q: « On y va ! » veut dire… | On reste ici. | *Allons-y, partons ! | On est arrivés. | On a fini.
+G.q: Tu habites à Huế ? — Oui, j'___ habite. = y
+V: y | /i/ | pronom | ở đó, đến đó | J'y vais demain. || Mai tôi đến đó.
+V: on y va | /ɔ̃.n‿i va/ | expression | đi thôi | Tout le monde est prêt ? On y va ! || Mọi người sẵn sàng chưa? Đi thôi!
+V: ça y est | /sa.j‿ɛ/ | expression | xong rồi, được rồi | Ça y est, j'ai fini ! || Xong rồi, tôi làm xong rồi!
+V: vas-y | /va.zi/ | expression | đi đi, làm đi | Vas-y, je t'attends ! || Đi đi, tôi chờ bạn!
+V: penser à | /pɑ̃.se a/ | verbe | nghĩ về | J'y pense souvent. || Tôi thường nghĩ về điều đó.
+V: retourner | /ʁə.tuʁ.ne/ | verbe | quay lại | J'y retourne l'année prochaine. || Năm sau tôi quay lại đó.
+V: la banque | /la bɑ̃k/ | nom f. | ngân hàng | J'y vais pour retirer de l'argent. || Tôi đến đó để rút tiền.
+V: depuis | /də.pɥi/ | préposition | từ, được (khoảng thời gian) | J'y travaille depuis 2020. || Tôi làm ở đó từ năm 2020.
+V: rester | /ʁɛs.te/ | verbe | ở lại | Nous y sommes restés une semaine. || Chúng tôi ở đó một tuần.
+V: prêt | /pʁɛ/ | adjectif | sẵn sàng | Tu es prêt ? || Bạn sẵn sàng chưa?
+VQ: « Ça y est ! » veut dire… | ça commence | *c'est fini, c'est fait | c'est loin | c'est cher
+VQ: « J'y pense » remplace… | je pense à lui | *je pense à cela | je pense à elle | je pense
+VQ: Pour encourager quelqu'un à commencer : | Ça y est ! | *Vas-y ! | Il y a ! | J'y suis !
+VQ: « Retourner » dans un lieu, c'est… | le quitter | *y aller une nouvelle fois | le découvrir | le détester
+VQ: Tout le monde est prêt ? On ___ va ! = y
+D: Tu vas au marché ? Oui, j'y vais tous les samedis.
+D: Je n'y suis jamais allé.
+D: Paris ? J'y habite depuis trois ans.
+D: Allez, on y va !
+L: Mạnh | Tu connais la Bretagne ? || Bạn biết vùng Bretagne không?
+L: Claire | Oui, j'y vais chaque été. Ma grand-mère y habite. || Có, mùa hè nào mình cũng đến đó. Bà mình sống ở đó.
+L: Mạnh | C'est beau ? Je n'y suis jamais allé. || Có đẹp không? Mình chưa bao giờ đến đó.
+L: Claire | C'est magnifique ! Tu dois y aller. Tu veux venir avec moi en juillet ? || Tuyệt đẹp! Bạn phải đến đó. Bạn có muốn đi cùng mình vào tháng Bảy không?
+L: Mạnh | Avec plaisir ! On y reste combien de temps ? || Rất sẵn lòng! Chúng ta ở đó bao lâu?
+L: Claire | Deux semaines. On y va en train, c'est plus simple. || Hai tuần. Chúng ta đi bằng tàu, đơn giản hơn.
+LQ: Qui habite en Bretagne ? | les parents de Claire | *la grand-mère de Claire | Mạnh | personne
+LQ: Mạnh est déjà allé en Bretagne ? | oui, une fois | *non, jamais | oui, chaque été | on ne sait pas
+LQ: Combien de temps vont-ils y rester ? | une semaine | *deux semaines | un mois | trois jours
+RA: J'y vais. Je n'y vais pas. Je vais y aller.
+RA: J'y suis allé. Je n'y suis jamais allé.
+RA: On y va ! Ça y est ! Vas-y !
+SH: J'y vais chaque été.
+SH: Tu dois y aller.
+SH: On y va en train, c'est plus simple.
+R.title: Mon café préféré
+R: Près de chez moi, il y a un petit café qui s'appelle « Le Coin ». || Gần nhà tôi có một quán cà phê nhỏ tên là « Le Coin ».
+R: J'y vais presque tous les matins avant le travail. || Gần như sáng nào tôi cũng đến đó trước khi đi làm.
+R: J'y prends un café crème et un croissant, et j'y lis le journal. || Tôi uống một ly cà phê sữa và ăn một chiếc bánh sừng bò ở đó, rồi đọc báo.
+R: Le patron, Gérard, y travaille depuis trente ans ! || Ông chủ Gérard đã làm việc ở đó ba mươi năm!
+R: Le dimanche, je n'y vais pas, parce que c'est fermé. || Chủ Nhật tôi không đến đó, vì quán đóng cửa.
+R: Quand je vais déménager, je vais y penser avec nostalgie. || Khi tôi chuyển nhà, tôi sẽ nhớ về nó với nỗi hoài niệm.
+RQ: Quand va-t-il au café ? | le soir | *presque tous les matins | le dimanche | à midi
+RQ: Depuis combien de temps Gérard y travaille ? | dix ans | vingt ans | *trente ans | trois ans
+RQ: Pourquoi il n'y va pas le dimanche ? | il travaille | *le café est fermé | il dort | il va à l'église
+W.prompt: Présente trois lieux que tu fréquentes souvent (un café, une salle de sport, chez un ami…) : quand tu y vas, ce que tu y fais, depuis quand. Utilise y. || Giới thiệu ba nơi bạn thường lui tới (quán cà phê, phòng tập, nhà bạn…): bạn đến đó khi nào, làm gì ở đó, từ bao giờ. Dùng y.
+W.min: 50
+W.must: j'y vais ; j'y ; je n'y
+W.check: y đứng trước động từ (hoặc trợ động từ, hoặc nguyên mẫu)
+W.check: Phủ định: je n'y… pas
+W.check: Ít nhất ba thì/dạng khác nhau với y
+W.model: Il y a une piscine municipale à côté de mon bureau. J'y vais trois fois par semaine. || Có một bể bơi thành phố cạnh văn phòng tôi. Tôi đến đó ba lần một tuần.
+W.model: J'y nage pendant quarante minutes à l'heure du déjeuner. || Tôi bơi ở đó bốn mươi phút vào giờ ăn trưa.
+W.model: Le samedi, je vais au marché de Tân Định. J'y achète des fruits et des fleurs. || Thứ Bảy, tôi đi chợ Tân Định. Tôi mua hoa quả và hoa ở đó.
+W.model: Ma grand-mère habite à Biên Hòa. Je n'y vais pas souvent, parce que c'est loin. || Bà tôi sống ở Biên Hòa. Tôi không đến đó thường xuyên, vì xa.
+W.model: Mais j'y suis allé le mois dernier pour son anniversaire. || Nhưng tháng trước tôi đã đến đó nhân sinh nhật bà.
+W.model: Je vais y retourner pour le Têt. || Tôi sẽ quay lại đó vào dịp Tết.
+
+## 2 | Le pronom en
+G.title: En remplace « de + nom »
+G.rule: Le pronom en remplace un nom introduit par de, du, de la, des. Il remplace souvent une quantité indéfinie ou un complément avec de : J'achète du pain → J'en achète. Je viens de Lyon → J'en viens. || Đại từ en thay thế cho danh từ đi với de, du, de la, des. Nó thường thay thế một số lượng không xác định hoặc một bổ ngữ có de: J'achète du pain → J'en achète. Je viens de Lyon → J'en viens.
+G.note: Các trường hợp chính: (1) Mạo từ bộ phận / không xác định: Tu veux du café ? — Oui, j'en veux. (2) Động từ + de: parler de, avoir besoin de, avoir envie de, s'occuper de: Tu as besoin de ton ordinateur ? — Oui, j'en ai besoin. (3) Đến từ đâu (de + nơi): Tu viens de la plage ? — Oui, j'en viens. Vị trí giống các đại từ khác. Phủ định: Je n'en veux pas. Cụm cố định: J'en ai marre ! (Tôi chán lắm rồi!), Je m'en vais (Tôi đi đây).
+G.table: Phrase | Avec en
+G.row: Je mange du riz. | J'en mange.
+G.row: Il boit de l'eau. | Il en boit.
+G.row: Tu as des frères ? | Tu en as ?
+G.row: Je parle de mon voyage. | J'en parle.
+G.row: J'ai besoin d'aide. | J'en ai besoin.
+G.ex: Tu veux du thé ? — Oui, j'en veux bien, merci. || Bạn uống trà không? — Có, tôi xin một chút, cảm ơn.
+G.ex: Tu as des enfants ? — Non, je n'en ai pas. || Bạn có con chưa? — Chưa, tôi chưa có.
+G.ex: Ce projet ? On en parle demain en réunion. || Dự án này à? Mai chúng ta bàn về nó trong cuộc họp.
+G.ex: Tu as besoin de la voiture ? — Non, je n'en ai pas besoin. || Bạn có cần xe không? — Không, tôi không cần.
+G.q: Tu bois du café ? — Oui, j'___ bois. | y | *en | le | lui
+G.q: Tu as des frères ? — Non, je n'___ ai pas. | y | *en | les | leur
+G.q: Il parle de ses vacances → Il ___ parle. | y | *en | les | lui
+G.q: Tu reviens du marché ? — Oui, j'___ reviens. | y | *en | le | lui
+G.q: Tu as besoin de ce livre ? — Oui, j'___ ai besoin. = en
+V: en | /ɑ̃/ | pronom | (thay cho de + danh từ) | J'en veux. || Tôi muốn một ít.
+V: avoir besoin de | /a.vwaʁ bə.zwɛ̃ də/ | expression | cần | J'en ai besoin. || Tôi cần nó.
+V: avoir envie de | /a.vwaʁ ɑ̃.vi də/ | expression | thèm, muốn | J'en ai envie. || Tôi thèm nó.
+V: parler de | /paʁ.le də/ | verbe | nói về | On en parle demain. || Mai ta nói về chuyện đó.
+V: s'occuper de | /sɔ.ky.pe də/ | verbe | lo, chăm sóc | Je m'en occupe ! || Để tôi lo!
+V: en avoir marre | /ɑ̃.n‿a.vwaʁ maʁ/ | expression | chán ngấy | J'en ai marre de la pluie ! || Tôi chán mưa lắm rồi!
+V: s'en aller | /sɑ̃.n‿a.le/ | verbe | rời đi | Je m'en vais. || Tôi đi đây.
+V: revenir de | /ʁə.və.niʁ də/ | verbe | trở về từ | J'en reviens à l'instant. || Tôi vừa từ đó về.
+V: le projet | /lə pʁɔ.ʒɛ/ | nom m. | dự án | On en parle en réunion. || Ta bàn về nó trong cuộc họp.
+V: le besoin | /lə bə.zwɛ̃/ | nom m. | nhu cầu | Quels sont vos besoins ? || Nhu cầu của anh là gì?
+VQ: « Je m'en occupe » veut dire… | je refuse | *je vais le faire | je ne sais pas | j'ai fini
+VQ: « J'en ai marre » exprime… | la joie | *l'agacement, la fatigue | la surprise | la peur
+VQ: « Je m'en vais » veut dire… | j'arrive | *je pars | je reste | je reviens
+VQ: Avoir ___ de quelque chose, c'est en avoir envie très fort. | marre | *envie | besoin seulement | peur
+VQ: Tu as besoin d'aide ? — Oui, j'___ ai besoin. = en
+D: Tu veux du thé ? Oui, j'en veux bien.
+D: Tu as des enfants ? Non, je n'en ai pas.
+D: Ce projet ? On en parle demain.
+D: Je n'en ai pas besoin.
+L: Hôte | Vous voulez encore du gâteau ? || Anh dùng thêm bánh nhé?
+L: Invité | Oui, j'en veux bien un petit morceau. Il est délicieux ! || Vâng, cho tôi một miếng nhỏ. Bánh ngon quá!
+L: Hôte | Et du vin ? || Còn rượu vang?
+L: Invité | Non merci, je n'en bois pas, je conduis ce soir. || Không, cảm ơn, tôi không uống, tối nay tôi lái xe.
+L: Hôte | Vous avez besoin d'un taxi pour rentrer ? || Anh có cần taxi để về không?
+L: Invité | Non, je n'en ai pas besoin, ma voiture est en bas. Merci pour cette soirée ! || Không, tôi không cần, xe tôi ở dưới nhà. Cảm ơn vì buổi tối hôm nay!
+LQ: L'invité reprend du gâteau ? | non | *oui, un petit morceau | oui, beaucoup | il n'aime pas le gâteau
+LQ: Pourquoi il ne boit pas de vin ? | il n'aime pas ça | *il conduit ce soir | il est malade | il n'y en a plus
+LQ: Il a besoin d'un taxi ? | oui | *non, sa voiture est en bas | il va marcher | il prend le bus
+RA: J'en veux. Je n'en veux pas.
+RA: J'en ai besoin. J'en ai envie. J'en parle.
+RA: Je m'en occupe ! J'en ai marre ! Je m'en vais.
+SH: J'en veux bien un petit morceau.
+SH: Je n'en bois pas, je conduis ce soir.
+SH: Je n'en ai pas besoin.
+R.title: Le régime de Tom
+R: Tom a décidé de manger plus sainement. || Tom đã quyết định ăn uống lành mạnh hơn.
+R: Avant, il mangeait du fast-food tous les jours. Maintenant, il n'en mange plus. || Trước đây ngày nào anh ấy cũng ăn đồ ăn nhanh. Giờ thì anh không ăn nữa.
+R: Il buvait beaucoup de soda ; aujourd'hui, il en boit seulement le week-end. || Anh ấy từng uống rất nhiều nước ngọt; bây giờ, anh chỉ uống vào cuối tuần.
+R: Les légumes ? Il en mange à chaque repas. || Rau à? Bữa nào anh cũng ăn.
+R: Il fait aussi du sport : il en fait trois fois par semaine. || Anh ấy cũng tập thể thao: anh tập ba lần một tuần.
+R: Ses amis lui disent : « Tu as l'air en forme ! » et Tom en est très fier. || Bạn bè nói với anh: « Trông cậu khoẻ đấy! » và Tom rất tự hào về điều đó.
+RQ: Tom mange encore du fast-food ? | oui, tous les jours | *non, plus du tout | le week-end | une fois par semaine
+RQ: Quand boit-il du soda ? | tous les jours | *seulement le week-end | jamais | le matin
+RQ: Combien de fois fait-il du sport ? | une fois par semaine | *trois fois par semaine | tous les jours | jamais
+W.prompt: Parle de tes habitudes alimentaires : ce que tu manges et bois, ce que tu ne manges pas, ce dont tu as envie. Utilise en au moins cinq fois. || Nói về thói quen ăn uống của bạn: bạn ăn và uống gì, không ăn gì, thèm gì. Dùng en ít nhất năm lần.
+W.min: 50
+W.must: j'en ; je n'en ; en
+W.check: en thay cho du/de la/des/de + danh từ
+W.check: Phủ định: je n'en… pas
+W.check: en đứng trước động từ (hoặc trợ động từ)
+W.model: Le matin, je bois du café vietnamien. J'en bois deux tasses ! || Buổi sáng, tôi uống cà phê Việt Nam. Tôi uống hai cốc!
+W.model: Je mange du riz à chaque repas : j'en mange depuis toujours. || Bữa nào tôi cũng ăn cơm: tôi ăn từ trước đến nay.
+W.model: Les produits laitiers ? Je n'en mange pas beaucoup, je ne les digère pas bien. || Các sản phẩm từ sữa à? Tôi không ăn nhiều, tôi tiêu hoá không tốt lắm.
+W.model: J'adore les fruits tropicaux. J'en achète au marché chaque semaine. || Tôi rất thích trái cây nhiệt đới. Tuần nào tôi cũng mua ở chợ.
+W.model: Le chocolat ? J'en ai souvent envie le soir ! || Sô-cô-la à? Tôi hay thèm nó vào buổi tối!
+W.model: Mais je n'en mange qu'un petit carré. || Nhưng tôi chỉ ăn một miếng nhỏ.
+
+## 3 | En avec les quantités
+G.title: J'en ai deux, j'en veux un kilo
+G.rule: Quand on remplace un nom avec une quantité (un nombre, beaucoup de, un kilo de, un peu de), on utilise en et on répète la quantité après le verbe : J'ai trois enfants → J'en ai trois. || Khi thay thế một danh từ có số lượng (một con số, beaucoup de, un kilo de, un peu de), ta dùng en và lặp lại số lượng sau động từ: J'ai trois enfants → J'en ai trois.
+G.note: Số đếm: J'ai deux sœurs → J'en ai deux. Cụm số lượng: Je bois beaucoup de café → J'en bois beaucoup. Je veux un kilo de pommes → J'en veux un kilo. Với un/une: Tu as une voiture ? — Oui, j'en ai une. (phải lặp lại "une"!). Phủ định: Non, je n'en ai pas. Ở chợ: Vous en voulez combien ? (Anh lấy bao nhiêu?) — J'en voudrais deux kilos.
+G.table: Question | Réponse avec en
+G.row: Tu as combien de frères ? | J'en ai deux.
+G.row: Tu as une voiture ? | Oui, j'en ai une.
+G.row: Tu bois beaucoup d'eau ? | J'en bois beaucoup.
+G.row: Vous voulez combien de tomates ? | J'en veux un kilo.
+G.row: Il reste du lait ? | Il en reste un peu.
+G.ex: Tu as des cousins ? — Oui, j'en ai beaucoup : j'en ai douze ! || Bạn có anh chị em họ không? — Có, tôi có nhiều lắm: tôi có mười hai người!
+G.ex: Vous avez un stylo ? — Oui, j'en ai un. Tenez. || Anh có bút không? — Có, tôi có một cái. Đây.
+G.ex: Des mangues ? J'en voudrais trois, s'il vous plaît. || Xoài à? Cho tôi ba quả.
+G.ex: Il reste du pain ? — Il en reste un morceau. || Còn bánh mì không? — Còn một mẩu.
+G.q: Tu as une voiture ? — Oui, j'___. | en ai | *en ai une | l'ai une | y ai une
+G.q: Tu as combien d'enfants ? — J'___ ai deux. | les | *en | y | leur
+G.q: Tu manges beaucoup de fruits ? — Oui, j'en mange ___. | des | *beaucoup | de | le
+G.q: Vous voulez des oranges ? — Oui, j'en voudrais ___ kilo. | des | *un | une | du
+G.q: Tu as un chien ? — Oui, j'en ai ___. = un
+V: combien | /kɔ̃.bjɛ̃/ | adverbe | bao nhiêu | Vous en voulez combien ? || Anh lấy bao nhiêu?
+V: le kilo | /lə ki.lo/ | nom m. | ki-lô-gam | Un kilo de riz, s'il vous plaît. || Cho tôi một ký gạo.
+V: le morceau | /lə mɔʁ.so/ | nom m. | miếng, mẩu | Un morceau de fromage. || Một miếng phô mai.
+V: rester | /ʁɛs.te/ | verbe | còn lại | Il en reste un peu. || Còn lại một ít.
+V: la mangue | /la mɑ̃ɡ/ | nom f. | quả xoài | Ces mangues sont très sucrées. || Những quả xoài này rất ngọt.
+V: la tranche | /la tʁɑ̃ʃ/ | nom f. | lát | Une tranche de jambon. || Một lát giăm bông.
+V: la douzaine | /la du.zɛn/ | nom f. | tá (12) | Une douzaine d'œufs. || Một tá trứng.
+V: la bouteille | /la bu.tɛj/ | nom f. | chai | Une bouteille d'eau. || Một chai nước.
+V: le paquet | /lə pa.kɛ/ | nom m. | gói | Un paquet de biscuits. || Một gói bánh quy.
+V: suffire | /sy.fiʁ/ | verbe | đủ | Deux, ça suffit. || Hai là đủ.
+VQ: Une douzaine, c'est… | dix | *douze | vingt | cent
+VQ: Pour l'eau ou le vin, on achète une… | tranche | *bouteille | douzaine | morceau
+VQ: Pour le jambon, on demande une… | bouteille | *tranche | douzaine | paquet
+VQ: « Ça suffit » veut dire… | encore | *c'est assez | c'est trop peu | merci beaucoup
+VQ: Pour demander la quantité : Vous en voulez ___ ? = combien
+D: Tu as des cousins ? J'en ai douze !
+D: Vous avez un stylo ? Oui, j'en ai un.
+D: Des mangues ? J'en voudrais trois.
+D: Il en reste un morceau.
+L: Marchande | Bonjour ! Qu'est-ce que je vous sers ? || Chào chị! Chị cần gì ạ?
+L: Cliente | Je voudrais des tomates, s'il vous plaît. || Cho tôi ít cà chua.
+L: Marchande | Vous en voulez combien ? || Chị lấy bao nhiêu?
+L: Cliente | J'en voudrais un kilo. Et vous avez des œufs ? || Cho tôi một ký. Chị có trứng không?
+L: Marchande | Oui, il m'en reste deux douzaines. || Có, tôi còn hai tá.
+L: Cliente | Alors j'en prends une douzaine. Ça fait combien ? || Vậy tôi lấy một tá. Bao nhiêu tiền?
+LQ: Combien de tomates veut la cliente ? | un demi-kilo | *un kilo | deux kilos | trois tomates
+LQ: Combien d'œufs reste-t-il à la marchande ? | une douzaine | *deux douzaines | dix | aucun
+LQ: Combien d'œufs prend la cliente ? | six | *une douzaine | deux douzaines | aucun
+RA: J'en ai deux. J'en ai une. J'en ai beaucoup.
+RA: J'en voudrais un kilo, s'il vous plaît.
+RA: Il en reste un peu.
+SH: Vous en voulez combien ?
+SH: J'en voudrais un kilo.
+SH: Alors j'en prends une douzaine.
+R.title: La liste de courses
+R: Ce soir, Anh prépare un repas pour huit amis. Elle vérifie ce qu'elle a. || Tối nay, Anh nấu một bữa cho tám người bạn. Cô kiểm tra xem mình có gì.
+R: Du riz ? Elle en a deux kilos : c'est suffisant. || Gạo à? Cô có hai ký: đủ rồi.
+R: Des œufs ? Elle en a seulement trois. Elle doit en acheter une douzaine. || Trứng à? Cô chỉ có ba quả. Cô phải mua một tá.
+R: Du nước mắm ? Il en reste un peu au fond de la bouteille. Elle va en acheter une autre. || Nước mắm à? Còn một chút dưới đáy chai. Cô sẽ mua chai khác.
+R: Des herbes fraîches ? Elle n'en a pas du tout. Elle en a besoin de beaucoup ! || Rau thơm tươi à? Cô không có chút nào. Cô cần rất nhiều!
+R: Elle écrit sa liste et elle part au marché en souriant. || Cô viết danh sách và vừa đi chợ vừa mỉm cười.
+RQ: Combien de kilos de riz a-t-elle ? | un | *deux | trois | aucun
+RQ: Combien d'œufs a-t-elle ? | aucun | *trois | une douzaine | deux
+RQ: Qu'est-ce qu'elle n'a pas du tout ? | du riz | des œufs | *des herbes fraîches | du nước mắm
+W.prompt: Tu prépares une fête. Écris ce que tu as déjà et ce que tu dois acheter, avec des quantités : j'en ai deux, il en reste un peu, je dois en acheter un kilo… || Bạn chuẩn bị một bữa tiệc. Viết những gì bạn đã có và cần mua, kèm số lượng: j'en ai deux, il en reste un peu, je dois en acheter un kilo…
+W.min: 50
+W.must: j'en ai ; il en reste ; en acheter
+W.check: Lặp lại số lượng sau động từ (j'en ai deux, j'en veux un kilo)
+W.check: un/une phải lặp lại (j'en ai une)
+W.check: Với nguyên mẫu: en trước nguyên mẫu (je dois en acheter)
+W.model: Samedi, j'organise un barbecue pour dix personnes. || Thứ Bảy, tôi tổ chức một bữa tiệc nướng cho mười người.
+W.model: De la viande ? J'en ai deux kilos, mais j'en ai besoin de trois. || Thịt à? Tôi có hai ký, nhưng tôi cần ba.
+W.model: Des bières ? J'en ai une douzaine dans le frigo. C'est assez. || Bia à? Tôi có một tá trong tủ lạnh. Đủ rồi.
+W.model: Du pain ? Je n'en ai pas, je vais en acheter cinq baguettes. || Bánh mì à? Tôi không có, tôi sẽ mua năm ổ bánh mì dài.
+W.model: Du charbon ? Il en reste un peu, mais je dois en acheter un sac. || Than à? Còn một ít, nhưng tôi phải mua một bao.
+W.model: Des chaises ? J'en ai six. Je vais en emprunter quatre à mon voisin. || Ghế à? Tôi có sáu cái. Tôi sẽ mượn hàng xóm bốn cái.
+
+## 4 | Y et en dans la conversation
+G.title: Répondre vite et naturellement
+G.rule: Dans la conversation, y et en permettent de répondre rapidement sans répéter le nom. On les utilise beaucoup dans des expressions courantes : on y va, j'en ai marre, je m'en occupe, ça y est, je n'en sais rien. || Trong hội thoại, y và en giúp trả lời nhanh mà không lặp lại danh từ. Chúng được dùng nhiều trong các cụm thông dụng: on y va, j'en ai marre, je m'en occupe, ça y est, je n'en sais rien.
+G.note: So sánh: "Tu vas à la poste ? — Oui, j'y vais" (y = à la poste). "Tu reviens de la poste ? — Oui, j'en reviens" (en = de la poste). Phân biệt: à → y; de → en. Thêm cụm hữu ích: Il y en a (Có — số lượng: Il y en a trois), Je n'en peux plus (Tôi kiệt sức rồi), Je m'en fiche (Tôi không quan tâm — thân mật), Je n'y peux rien (Tôi chẳng làm gì được), N'y pense plus ! (Đừng nghĩ nữa!).
+G.table: Expression | Sens
+G.row: On y va ! | Allons-y !
+G.row: Ça y est ! | C'est fait !
+G.row: Je m'en occupe. | Je vais le faire.
+G.row: J'en ai marre ! | Je suis fatigué de ça !
+G.row: Je n'en peux plus ! | Je suis épuisé !
+G.row: Il y en a trois. | Il existe trois choses.
+G.ex: Il y a des places libres ? — Oui, il y en a deux au fond. || Còn chỗ trống không? — Còn, có hai chỗ ở phía cuối.
+G.ex: Tu penses à ton entretien ? — Oui, j'y pense tout le temps ! || Bạn đang nghĩ về buổi phỏng vấn à? — Ừ, tôi nghĩ về nó suốt!
+G.ex: Je n'en peux plus, je vais me coucher. || Tôi kiệt sức rồi, tôi đi ngủ đây.
+G.ex: Les billets ? Ne t'inquiète pas, je m'en occupe. || Vé à? Đừng lo, để tôi lo.
+G.q: Tu vas à la gym ? — Oui, j'___ vais. | en | *y | la | lui
+G.q: Tu viens de la gym ? — Oui, j'___ viens. | y | *en | la | lui
+G.q: Il y a des chaises ? — Oui, il y ___ a cinq. | y | *en | les | le
+G.q: « Je n'en peux plus » veut dire… | je ne peux pas venir | *je suis épuisé | je n'ai plus d'argent | je ne veux plus
+G.q: Ne t'inquiète pas, je m'___ occupe. = en
+V: il y en a | /il.j‿ɑ̃.n‿a/ | expression | có (số lượng) | Il y en a beaucoup. || Có nhiều lắm.
+V: je n'en peux plus | /ʒə nɑ̃ pø ply/ | expression | tôi kiệt sức rồi | Je n'en peux plus de ce travail ! || Tôi kiệt sức với công việc này rồi!
+V: s'inquiéter | /sɛ̃.kje.te/ | verbe | lo lắng | Ne t'inquiète pas ! || Đừng lo!
+V: épuisé | /e.pɥi.ze/ | adjectif | kiệt sức | Je suis épuisé. || Tôi kiệt sức.
+V: l'entretien | /lɑ̃.tʁə.tjɛ̃/ | nom m. | buổi phỏng vấn | J'ai un entretien demain. || Mai tôi có một buổi phỏng vấn.
+V: libre | /libʁ/ | adjectif | trống, tự do | Cette place est libre ? || Chỗ này còn trống không?
+V: le billet | /lə bi.jɛ/ | nom m. | vé | J'ai acheté les billets. || Tôi đã mua vé.
+V: tout le temps | /tu lə tɑ̃/ | expression | suốt, lúc nào cũng | Il pleut tout le temps ! || Trời mưa suốt!
+V: la gym | /la ʒim/ | nom f. | phòng tập thể dục | Je vais à la gym. || Tôi đi tập gym.
+V: courant | /ku.ʁɑ̃/ | adjectif | thông dụng | C'est une expression courante. || Đó là một cụm từ thông dụng.
+VQ: Le contraire de « occupé » (une place) : | prêt | *libre | épuisé | courant
+VQ: « Ne t'inquiète pas » veut dire… | dépêche-toi | *ne sois pas stressé | ne viens pas | ne parle pas
+VQ: Un rendez-vous pour trouver un travail : | un billet | *un entretien | une gym | un projet
+VQ: Une expression qu'on utilise souvent est… | rare | *courante | libre | épuisée
+VQ: Très, très fatigué : ___ = épuisé
+D: Il y a des places libres ? Oui, il y en a deux.
+D: Tu penses à ton entretien ? J'y pense tout le temps !
+D: Je n'en peux plus, je vais me coucher.
+D: Ne t'inquiète pas, je m'en occupe.
+L: Julien | Tu viens à la soirée de Marc samedi ? || Bạn có đến bữa tiệc của Marc thứ Bảy không?
+L: Ngân | Oui, j'y vais ! Et toi ? || Có, mình sẽ đến! Còn bạn?
+L: Julien | Moi aussi. Il faut apporter quelque chose ? || Mình cũng vậy. Có cần mang gì không?
+L: Ngân | Des boissons. Il y en a déjà un peu, mais pas assez. || Đồ uống. Đã có một ít rồi, nhưng chưa đủ.
+L: Julien | D'accord, je m'en occupe. J'en achète combien ? || Được, để mình lo. Mình mua bao nhiêu?
+L: Ngân | Prends-en six bouteilles. Et un gâteau, si tu en trouves un bon ! || Mua sáu chai đi. Và một chiếc bánh, nếu bạn tìm được cái nào ngon!
+LQ: La soirée est chez qui ? | chez Ngân | *chez Marc | chez Julien | au restaurant
+LQ: Qu'est-ce que Julien va apporter ? | de la nourriture | *des boissons et un gâteau | des chaises | de la musique
+LQ: Combien de bouteilles ? | trois | *six | douze | une
+RA: On y va ! Ça y est ! Vas-y !
+RA: Je m'en occupe. J'en ai marre. Je n'en peux plus.
+RA: Il y en a deux. Il y en a beaucoup.
+SH: Oui, j'y vais ! Et toi ?
+SH: D'accord, je m'en occupe.
+SH: Prends-en six bouteilles.
+R.title: Messages entre colocataires
+R: Lucie : Salut ! Tu es au supermarché ? Il n'y a plus de lait. || Lucie: Chào! Bạn đang ở siêu thị à? Hết sữa rồi.
+R: Bình : Oui, j'y suis ! J'en prends combien ? || Bình: Ừ, mình đang ở đó! Mình mua mấy hộp?
+R: Lucie : Prends-en deux litres. Et on a besoin de papier toilette aussi. || Lucie: Mua hai lít nhé. Và chúng ta cũng cần giấy vệ sinh.
+R: Bình : Ok, j'en ai mis dans le panier. Autre chose ? || Bình: Ok, mình đã bỏ vào giỏ rồi. Còn gì nữa không?
+R: Lucie : Non, ça y est. Merci ! Ah, et ne pense plus à la vaisselle d'hier, je m'en suis occupée. || Lucie: Không, xong rồi. Cảm ơn! À, và đừng nghĩ đến chỗ bát đĩa hôm qua nữa, mình đã rửa rồi.
+R: Bình : Tu es la meilleure ! J'arrive dans vingt minutes. || Bình: Bạn là nhất! Hai mươi phút nữa mình về.
+RQ: Où est Bình ? | à la maison | *au supermarché | au travail | à la boulangerie
+RQ: Combien de lait faut-il acheter ? | un litre | *deux litres | trois litres | une bouteille
+RQ: Qui a fait la vaisselle d'hier ? | Bình | *Lucie | personne | les deux
+W.prompt: Écris un échange de messages entre toi et un colocataire (ou un membre de ta famille) pour organiser les courses ou une sortie. Utilise y, en et des expressions comme je m'en occupe, ça y est, on y va. || Viết một đoạn tin nhắn qua lại giữa bạn và bạn cùng nhà (hoặc người trong gia đình) để sắp xếp việc mua sắm hoặc một buổi đi chơi. Dùng y, en và các cụm như je m'en occupe, ça y est, on y va.
+W.min: 50
+W.must: j'y ; j'en ; je m'en occupe
+W.check: y thay cho à + nơi chốn; en thay cho de + danh từ
+W.check: Ít nhất hai cụm cố định (on y va, ça y est…)
+W.check: Định dạng tin nhắn rõ ràng (tên: nội dung)
+W.model: Moi : Tu es à la maison ? || Tôi: Bạn đang ở nhà à?
+W.model: Thảo : Oui, j'y suis. Pourquoi ? || Thảo: Ừ, mình đang ở nhà. Sao vậy?
+W.model: Moi : Il reste du riz ? Je veux faire un cơm chiên ce soir. || Tôi: Còn gạo không? Tối nay mình muốn làm cơm chiên.
+W.model: Thảo : Il en reste un peu, mais pas assez pour quatre. Je m'en occupe, je vais en acheter. || Thảo: Còn một ít, nhưng không đủ cho bốn người. Để mình lo, mình sẽ đi mua.
+W.model: Moi : Super ! Et le cinéma après ? Il y a encore des places ? || Tôi: Tuyệt! Còn đi xem phim sau đó? Còn chỗ không?
+W.model: Thảo : Ça y est, j'ai réservé ! Il y en avait quatre. On y va à vingt heures ! || Thảo: Xong rồi, mình đặt rồi! Có đúng bốn chỗ. Tám giờ tối chúng ta đi nhé!
+
+## 5 | Synthèse des pronoms
+G.title: COD, COI, y, en : comment choisir ?
+G.rule: Pour choisir le bon pronom, on regarde la construction du verbe : sans préposition → le, la, les ; à + personne → lui, leur ; à + lieu ou chose → y ; de + nom ou quantité → en. || Để chọn đúng đại từ, ta nhìn cấu trúc động từ: không giới từ → le, la, les; à + người → lui, leur; à + nơi chốn hoặc sự vật → y; de + danh từ hoặc số lượng → en.
+G.note: Bảng quyết định: (1) Có giới từ không? Không → COD (le/la/les). Nhưng nếu là du/de la/des (bộ phận) hoặc số lượng → en. (2) Có "à"? → người: lui/leur; nơi chốn/sự vật: y. (3) Có "de"? → en. Ví dụ: Je pense à Marie → je pense à elle (với người, sau penser à dùng đại từ nhấn mạnh — trường hợp đặc biệt). Je pense à mon examen → j'y pense. Vị trí chung: trước động từ chia / trợ động từ / nguyên mẫu; sau động từ ở mệnh lệnh khẳng định.
+G.table: Construction | Pronom | Exemple
+G.row: verbe + nom | le, la, les | Je vois Paul → Je le vois.
+G.row: verbe + du, des, quantité | en | Je bois du thé → J'en bois.
+G.row: verbe + à + personne | lui, leur | Je parle à Paul → Je lui parle.
+G.row: verbe + à + lieu / chose | y | Je vais à Rome → J'y vais.
+G.row: verbe + de + nom | en | Je parle de Rome → J'en parle.
+G.ex: Mon frère ? Je le vois souvent et je lui téléphone tous les jours. || Anh trai tôi à? Tôi thường gặp anh ấy và gọi điện cho anh mỗi ngày.
+G.ex: Hanoï ? J'y suis né et j'en garde de très bons souvenirs. || Hà Nội à? Tôi sinh ra ở đó và giữ những kỷ niệm rất đẹp về nó.
+G.ex: Des gâteaux ? J'en ai fait trois et je les ai apportés au bureau. || Bánh à? Tôi đã làm ba cái và mang đến văn phòng.
+G.ex: Ce problème ? J'y réfléchis et je vais en parler à mon chef. || Vấn đề này à? Tôi đang suy nghĩ về nó và sẽ nói với sếp.
+G.q: Je réfléchis à ta proposition → J'___ réfléchis. | en | *y | la | lui
+G.q: Je parle de mon travail → J'___ parle. | y | *en | le | lui
+G.q: J'écris à mes amis → Je ___ écris. | les | y | *leur | en
+G.q: Je mange des fraises → J'___ mange. | les | y | *en | leur
+G.q: Je regarde le match → Je ___ regarde. = le
+V: réfléchir à | /ʁe.fle.ʃiʁ a/ | verbe | suy nghĩ về | J'y réfléchis. || Tôi đang suy nghĩ về điều đó.
+V: la proposition | /la pʁɔ.po.zi.sjɔ̃/ | nom f. | đề nghị | C'est une bonne proposition. || Đó là một đề nghị hay.
+V: garder un souvenir | /ɡaʁ.de œ̃ su.vniʁ/ | expression | giữ kỷ niệm | J'en garde un bon souvenir. || Tôi giữ một kỷ niệm đẹp về nó.
+V: apporter | /a.pɔʁ.te/ | verbe | mang đến | Je les ai apportés. || Tôi đã mang chúng đến.
+V: la fraise | /la fʁɛz/ | nom f. | dâu tây | J'adore les fraises. || Tôi rất thích dâu tây.
+V: choisir | /ʃwa.ziʁ/ | verbe | chọn | Choisis le bon pronom. || Chọn đúng đại từ.
+V: la construction | /la kɔ̃s.tʁyk.sjɔ̃/ | nom f. | cấu trúc | Regarde la construction du verbe. || Nhìn cấu trúc của động từ.
+V: le tableau | /lə ta.blo/ | nom m. | bảng | Regarde le tableau. || Nhìn bảng này.
+V: résumer | /ʁe.zy.me/ | verbe | tóm tắt | Résumons la leçon. || Hãy tóm tắt bài học.
+V: s'entraîner | /sɑ̃.tʁɛ.ne/ | verbe | luyện tập | Je m'entraîne tous les jours. || Tôi luyện tập mỗi ngày.
+VQ: « Réfléchir à » une chose, c'est… | l'oublier | *y penser sérieusement | la refuser | l'acheter
+VQ: Un fruit rouge et sucré du printemps : | la mangue | *la fraise | la banane | l'orange
+VQ: « Résumer » veut dire… | allonger | *dire l'essentiel en peu de mots | traduire | répéter
+VQ: Le contraire de « emporter » (prendre avec soi en partant) : | garder | *apporter | choisir | résumer
+VQ: Pour progresser, il faut s'___ tous les jours. = entraîner
+D: Je le vois souvent et je lui téléphone tous les jours.
+D: Hanoï ? J'y suis né et j'en garde de bons souvenirs.
+D: J'en ai fait trois et je les ai apportés au bureau.
+D: J'y réfléchis et je vais en parler à mon chef.
+L: Chef | Vous avez lu ma proposition ? || Anh đã đọc đề nghị của tôi chưa?
+L: Đức | Oui, je l'ai lue hier soir. J'y réfléchis encore. || Rồi, tôi đã đọc tối qua. Tôi vẫn đang suy nghĩ.
+L: Chef | Vous en avez parlé à votre femme ? || Anh đã nói chuyện đó với vợ chưa?
+L: Đức | Oui, je lui en ai parlé. Elle trouve que Lyon, c'est une bonne idée. || Rồi, tôi đã nói với cô ấy. Cô ấy thấy Lyon là một ý hay.
+L: Chef | Vous connaissez Lyon ? || Anh biết Lyon không?
+L: Đức | Oui, j'y suis allé deux fois et j'en garde un excellent souvenir. Je vous donne ma réponse lundi. || Có, tôi đã đến đó hai lần và giữ một kỷ niệm tuyệt vời. Thứ Hai tôi sẽ trả lời anh.
+LQ: Quand Đức a-t-il lu la proposition ? | ce matin | *hier soir | la semaine dernière | il ne l'a pas lue
+LQ: Qu'en pense sa femme ? | elle n'est pas d'accord | *elle trouve que c'est une bonne idée | elle ne sait pas | elle n'en a pas parlé
+LQ: Combien de fois Đức est-il allé à Lyon ? | jamais | une fois | *deux fois | souvent
+RA: Je le vois. Je lui parle. J'y vais. J'en veux.
+RA: J'y réfléchis et je vais en parler à mon chef.
+RA: J'y suis allé et j'en garde un bon souvenir.
+SH: Je l'ai lue hier soir. J'y réfléchis encore.
+SH: Je lui en ai parlé.
+SH: J'y suis allé deux fois.
+R.title: Interview d'une chanteuse
+R: — Vous êtes née à Marseille. Vous y retournez souvent ? || — Chị sinh ra ở Marseille. Chị có thường quay về đó không?
+R: — Oui, j'y vais chaque mois. Ma mère y habite toujours. || — Có, tháng nào tôi cũng về. Mẹ tôi vẫn sống ở đó.
+R: — Votre nouvel album parle beaucoup de votre enfance. || — Album mới của chị nói nhiều về tuổi thơ của chị.
+R: — Oui, j'en parle parce que j'en garde des souvenirs très forts. || — Vâng, tôi nói về nó vì tôi giữ những kỷ niệm rất sâu đậm.
+R: — Et vos fans ? Vous leur répondez sur les réseaux sociaux ? || — Còn người hâm mộ? Chị có trả lời họ trên mạng xã hội không?
+R: — Bien sûr ! Je les adore et je leur écris presque tous les jours. || — Tất nhiên! Tôi yêu quý họ và gần như ngày nào cũng viết cho họ.
+RQ: Qui habite encore à Marseille ? | son père | *sa mère | sa sœur | ses fans
+RQ: De quoi parle son nouvel album ? | de l'amour | *de son enfance | de Paris | de ses fans
+RQ: Comment communique-t-elle avec ses fans ? | par lettre | *sur les réseaux sociaux | elle ne leur répond pas | à la radio
+W.prompt: Écris une petite interview de toi-même sur ta ville natale, ta famille et tes habitudes. Utilise le, la, les, lui, leur, y et en au moins une fois chacun. || Viết một bài phỏng vấn ngắn với chính bạn về quê hương, gia đình và thói quen. Dùng le, la, les, lui, leur, y và en mỗi loại ít nhất một lần.
+W.min: 60
+W.must: j'y ; j'en ; lui ; leur
+W.check: Mỗi loại đại từ dùng ít nhất một lần
+W.check: Chọn đại từ theo cấu trúc động từ
+W.check: Vị trí đại từ đúng
+W.model: — Tu es née où ? — À Nha Trang. J'y ai habité jusqu'à dix-huit ans. || — Bạn sinh ra ở đâu? — Ở Nha Trang. Tôi sống ở đó đến năm mười tám tuổi.
+W.model: — Tu y retournes souvent ? — Oui, j'y vais pour le Têt et en été. || — Bạn có thường về đó không? — Có, tôi về vào dịp Tết và mùa hè.
+W.model: — Et tes parents ? — Je les appelle tous les dimanches et je leur envoie des photos. || — Còn bố mẹ bạn? — Tôi gọi cho bố mẹ mỗi Chủ Nhật và gửi ảnh cho họ.
+W.model: — Tu as des frères et sœurs ? — J'en ai deux. Mon petit frère est étudiant, je lui prête souvent de l'argent ! || — Bạn có anh chị em không? — Tôi có hai người. Em trai tôi là sinh viên, tôi thường cho nó mượn tiền!
+W.model: — Tu manges des fruits de mer ? — Oui, j'en mange beaucoup. À Nha Trang, ils sont délicieux. || — Bạn có ăn hải sản không? — Có, tôi ăn nhiều. Ở Nha Trang, hải sản rất ngon.
+W.model: — Et la mer, elle te manque ? — Oui, je la regarde sur mes photos chaque soir ! || — Còn biển, bạn có nhớ không? — Có, tối nào tôi cũng ngắm biển qua ảnh!
