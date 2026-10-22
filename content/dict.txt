@@ -1673,3 +1673,70 @@ la vieillesse | nom f. | tuổi già
 l'écrivain | nom m. | nhà văn
 énorme | adjectif | khổng lồ
 l'événement | nom m. | sự kiện
+@er avouer | thú nhận
+le bouchon | nom m. | nút chai; tắc đường; quán ăn kiểu Lyon
+la boutique | nom f. | cửa hàng nhỏ
+la calanque | nom f. | vịnh đá hẹp (miền Nam nước Pháp)
+le carnet | nom m. | sổ tay (carnet de voyage: nhật ký du lịch)
+le changement | nom m. | sự thay đổi
+la couturière | nom f. | thợ may (nữ)
+le dossier | nom m. | hồ sơ
+@v entourer | bao quanh | entoure,entoures,entoure,entourons,entourez,entourent | entouré | entour | entourer
+l'entraînement | nom m. | buổi tập luyện
+la grève | nom f. | cuộc đình công
+la matinée | nom f. | buổi sáng
+@er moquer | (se moquer de) chế giễu, trêu
+le mouvement | nom m. | chuyển động
+le port | nom m. | cảng
+@v ressortir | lại đi ra | ressors,ressors,ressort,ressortons,ressortez,ressortent | ressorti | ressort | ressortir
+la rizière | nom f. | ruộng lúa
+le sommet | nom m. | đỉnh
+spécial | adjectif | đặc biệt
+la tente | nom f. | cái lều
+l'état | nom m. | trạng thái; nhà nước
+l'accessoire | nom m. | phụ kiện
+@er accélérer | tăng tốc
+l'agent | nom m. | nhân viên
+l'autoroute | nom f. | đường cao tốc
+le code | nom m. | mã
+le colis | nom m. | bưu kiện
+le couloir | nom m. | hành lang
+couvert | adjectif | có mái che
+@er croiser | cắt ngang, gặp
+la destination | nom f. | điểm đến
+la décoration | nom f. | đồ trang trí
+l'exception | nom f. | ngoại lệ
+la fontaine | nom f. | đài phun nước
+le guichet | nom m. | quầy (bán vé)
+l'impasse | nom f. | ngõ cụt
+@er importer | quan trọng (n'importe quel: bất kỳ)
+inconnu | adjectif | lạ, chưa biết
+l'indication | nom f. | chỉ dẫn
+le jouet | nom m. | đồ chơi
+le kilomètre | nom m. | cây số
+large | adjectif | rộng
+neuvième | adjectif | thứ chín
+cinquième | adjectif | thứ năm
+unième | adjectif | thứ (dùng sau số: vingt et unième)
+l'office | nom m. | văn phòng (office de tourisme)
+ordinal | adjectif | thứ tự (số thứ tự)
+@er orienter | định hướng
+le panneau | nom m. | biển báo
+le parfum | nom m. | nước hoa; hương vị
+la politesse | nom f. | phép lịch sự
+la position | nom f. | vị trí
+primaire | adjectif | tiểu học, sơ cấp
+public | adjectif | công cộng
+quelconque | adjectif | bất kỳ
+le rapport | nom m. | quan hệ; báo cáo (par rapport à: so với)
+la route | nom f. | con đường
+la ruelle | nom f. | ngõ, hẻm
+la région | nom f. | vùng
+second | adjectif | thứ hai
+le tourisme | nom m. | du lịch
+@er prier | cầu nguyện; xin (je vous en prie: không có gì)
+accélère | verbe | tăng tốc (accélérer)
+publique | adjectif | công cộng (giống cái của public)
+celle | pronom | cái/người đó (giống cái)
+celui | pronom | cái/người đó (giống đực)
+ceux | pronom | những cái/người đó

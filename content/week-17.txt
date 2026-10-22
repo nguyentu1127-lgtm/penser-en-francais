@@ -1,0 +1,385 @@
+@week 17
+@title Demander son chemin
+@level A2
+
+## 1 | Où est... ?
+G.title: Demander poliment un lieu
+G.rule: Pour demander un lieu, on commence par une formule de politesse : « Excusez-moi, où est la gare ? », « Pardon, est-ce qu'il y a une pharmacie près d'ici ? ». || Để hỏi một địa điểm, ta bắt đầu bằng một câu lịch sự: « Excusez-moi, où est la gare ? », « Pardon, est-ce qu'il y a une pharmacie près d'ici ? ».
+G.note: "Où est + le/la (nơi cụ thể, đã biết)": Où est la gare ? — chỉ có một ga. "Est-ce qu'il y a + un/une (bất kỳ)": Est-ce qu'il y a une banque près d'ici ? — ngân hàng nào cũng được. Lịch sự hơn: "Pourriez-vous m'indiquer…" (Ông/bà có thể chỉ cho tôi…), "Je cherche…" (Tôi đang tìm…). Đừng quên "Merci beaucoup, bonne journée !".
+G.table: Question | Usage
+G.row: Où est la gare ? | lieu précis
+G.row: Où sont les toilettes ? | lieu précis, pluriel
+G.row: Est-ce qu'il y a une banque près d'ici ? | un lieu quelconque
+G.row: Je cherche la rue Victor Hugo. | lieu précis
+G.row: Pourriez-vous m'indiquer la poste ? | très poli
+G.ex: Excusez-moi, où est la station de métro ? || Xin lỗi, ga tàu điện ngầm ở đâu ạ?
+G.ex: Pardon, est-ce qu'il y a une boulangerie près d'ici ? || Xin lỗi, gần đây có tiệm bánh mì nào không ạ?
+G.ex: Je cherche l'hôpital Saint-Louis, s'il vous plaît. || Tôi đang tìm bệnh viện Saint-Louis ạ.
+G.ex: Pourriez-vous m'indiquer le chemin de la mairie ? || Ông/bà có thể chỉ cho tôi đường đến toà thị chính không ạ?
+G.q: Pour n'importe quelle pharmacie, on dit : | Où est la pharmacie ? | *Est-ce qu'il y a une pharmacie près d'ici ? | Où sont pharmacie ? | Je cherche pharmacie.
+G.q: ___ sont les toilettes ? | Qui | *Où | Quand | Comment
+G.q: La formule la plus polie : | Où est la poste ? | *Pourriez-vous m'indiquer la poste ? | La poste ? | Je veux la poste.
+G.q: Pour commencer poliment, on dit… | Hé ! | *Excusez-moi | Allez ! | Bon !
+G.q: Complétez : Est-ce qu'il ___ ___ un supermarché près d'ici ? = y a
+V: le chemin | /lə ʃə.mɛ̃/ | nom m. | con đường, lối đi | Je cherche le chemin de la gare. || Tôi đang tìm đường đến ga.
+V: la station | /la sta.sjɔ̃/ | nom f. | ga, trạm | La station de métro est en face. || Ga tàu điện ngầm ở đối diện.
+V: la pharmacie | /la faʁ.ma.si/ | nom f. | hiệu thuốc | La pharmacie ferme à vingt heures. || Hiệu thuốc đóng cửa lúc tám giờ tối.
+V: la mairie | /la mɛ.ʁi/ | nom f. | toà thị chính | La mairie est sur la place. || Toà thị chính nằm trên quảng trường.
+V: la poste | /la pɔst/ | nom f. | bưu điện | Je vais à la poste. || Tôi đi bưu điện.
+V: la boulangerie | /la bu.lɑ̃.ʒʁi/ | nom f. | tiệm bánh mì | La boulangerie ouvre à sept heures. || Tiệm bánh mì mở cửa lúc bảy giờ.
+V: indiquer | /ɛ̃.di.ke/ | verbe | chỉ, chỉ dẫn | Pouvez-vous m'indiquer la gare ? || Bạn có thể chỉ cho tôi ga không?
+V: chercher | /ʃɛʁ.ʃe/ | verbe | tìm | Je cherche un distributeur. || Tôi đang tìm cây rút tiền.
+V: le distributeur | /lə dis.tʁi.by.tœʁ/ | nom m. | cây ATM | Il y a un distributeur à côté de la banque. || Có một cây ATM cạnh ngân hàng.
+V: perdu | /pɛʁ.dy/ | adjectif | bị lạc | Excusez-moi, je suis perdu. || Xin lỗi, tôi bị lạc.
+VQ: Pour acheter des médicaments, on va à la… | boulangerie | *pharmacie | poste | mairie
+VQ: Pour envoyer un colis, on va à la… | mairie | *poste | pharmacie | gare
+VQ: Pour retirer de l'argent, on cherche un… | guichet de gare | *distributeur | chemin | plan
+VQ: « Je suis perdu » veut dire… | j'ai perdu quelque chose | *je ne sais pas où je suis | je suis fatigué | je suis en retard
+VQ: On achète des croissants à la ___. = boulangerie
+D: Excusez-moi, où est la station de métro ?
+D: Est-ce qu'il y a une boulangerie près d'ici ?
+D: Je cherche l'hôpital Saint-Louis.
+D: Excusez-moi, je suis perdu.
+L: Touriste | Excusez-moi, madame. Je suis perdu. Où est la gare de Lyon ? || Xin lỗi bà. Tôi bị lạc. Ga Lyon ở đâu ạ?
+L: Passante | La gare de Lyon ? C'est un peu loin. Vous êtes à pied ? || Ga Lyon à? Hơi xa đấy. Anh đi bộ à?
+L: Touriste | Oui. Est-ce qu'il y a une station de métro près d'ici ? || Vâng. Gần đây có ga tàu điện ngầm nào không ạ?
+L: Passante | Oui, la station Bastille, à deux minutes. Prenez la ligne 1. || Có, ga Bastille, cách hai phút. Anh đi tuyến số 1.
+L: Touriste | Merci beaucoup ! || Cảm ơn bà nhiều!
+L: Passante | Je vous en prie. Bonne journée ! || Không có gì. Chúc anh một ngày tốt lành!
+LQ: Le touriste cherche… | la gare du Nord | *la gare de Lyon | la Bastille | un hôtel
+LQ: La station Bastille est à… | dix minutes | *deux minutes | un kilomètre | cinq minutes
+LQ: Quelle ligne faut-il prendre ? | la ligne 2 | *la ligne 1 | la ligne 4 | le bus 1
+RA: Excusez-moi, où est la gare ?
+RA: Est-ce qu'il y a une pharmacie près d'ici ?
+RA: Pourriez-vous m'indiquer la poste ?
+SH: Excusez-moi, madame. Je suis perdu.
+SH: Est-ce qu'il y a une station de métro près d'ici ?
+SH: Je vous en prie. Bonne journée !
+R.title: Panneau d'information
+R: Bienvenue à Annecy ! || Chào mừng đến Annecy!
+R: L'office de tourisme se trouve place de la mairie, à côté de la poste. || Văn phòng du lịch nằm ở quảng trường toà thị chính, cạnh bưu điện.
+R: La gare est à dix minutes à pied du centre-ville. || Ga cách trung tâm thành phố mười phút đi bộ.
+R: Il y a une pharmacie de garde ouverte le dimanche, rue Royale. || Có một hiệu thuốc trực mở cửa vào Chủ Nhật, trên phố Royale.
+R: Les toilettes publiques sont près du lac, en face du parking. || Nhà vệ sinh công cộng ở gần hồ, đối diện bãi đỗ xe.
+R: Pour toute question, demandez à nos agents ! || Mọi thắc mắc, hãy hỏi nhân viên của chúng tôi!
+RQ: Où se trouve l'office de tourisme ? | près du lac | *à côté de la poste | à la gare | rue Royale
+RQ: La gare est à… | deux minutes | *dix minutes à pied | vingt minutes en bus | un kilomètre
+RQ: Quelle pharmacie est ouverte le dimanche ? | aucune | *la pharmacie de garde, rue Royale | celle de la gare | celle du lac
+W.prompt: Tu es dans une ville inconnue. Écris un petit dialogue : tu demandes poliment trois lieux (une banque, une pharmacie, la gare) à un passant. || Bạn đang ở một thành phố lạ. Viết một đoạn hội thoại ngắn: bạn lịch sự hỏi ba địa điểm (ngân hàng, hiệu thuốc, ga) với một người qua đường.
+W.min: 40
+W.must: excusez-moi ; est-ce qu'il y a ; où est
+W.check: Mở đầu và kết thúc lịch sự (Excusez-moi… Merci, bonne journée)
+W.check: "où est + le/la" cho nơi xác định; "il y a un/une" cho nơi bất kỳ
+W.check: Dấu hỏi ở cuối câu hỏi
+W.model: — Excusez-moi, monsieur. Est-ce qu'il y a une banque près d'ici ? || — Xin lỗi ông. Gần đây có ngân hàng nào không ạ?
+W.model: — Oui, il y a une banque au coin de la rue. || — Có, có một ngân hàng ở góc phố.
+W.model: — Et où est la pharmacie la plus proche ? || — Còn hiệu thuốc gần nhất ở đâu ạ?
+W.model: — Elle est en face de la boulangerie. || — Nó ở đối diện tiệm bánh mì.
+W.model: — Merci ! Et pour aller à la gare, c'est loin ? || — Cảm ơn ông! Còn đi ra ga thì có xa không ạ?
+W.model: — Non, c'est à cinq minutes à pied. Bonne journée ! || — Không, đi bộ năm phút. Chúc một ngày tốt lành!
+
+## 2 | Tournez à gauche, à droite
+G.title: L'impératif pour indiquer le chemin
+G.rule: Pour indiquer un chemin, on utilise l'impératif : allez tout droit, tournez à gauche, prenez la deuxième rue à droite, traversez le pont. || Để chỉ đường, ta dùng mệnh lệnh thức: allez tout droit (đi thẳng), tournez à gauche (rẽ trái), prenez la deuxième rue à droite (rẽ vào phố thứ hai bên phải), traversez le pont (đi qua cầu).
+G.note: Mệnh lệnh thức = động từ chia không có chủ ngữ. Dạng "vous" (lịch sự): allez, tournez, prenez, continuez, traversez, suivez. Dạng "tu" (thân mật): va, tourne, prends, continue, traverse, suis — với động từ -er, bỏ -s: tu tournes → tourne ! "Tout droit" (thẳng) khác "à droite" (bên phải)! Đây là lỗi rất hay gặp.
+G.table: Vous | Tu
+G.row: Allez tout droit. | Va tout droit.
+G.row: Tournez à gauche. | Tourne à gauche.
+G.row: Prenez la rue à droite. | Prends la rue à droite.
+G.row: Traversez la place. | Traverse la place.
+G.row: Continuez jusqu'au feu. | Continue jusqu'au feu.
+G.ex: Allez tout droit jusqu'au carrefour. || Đi thẳng đến ngã tư.
+G.ex: Au feu rouge, tournez à droite. || Đến đèn đỏ thì rẽ phải.
+G.ex: Traversez le pont et continuez tout droit. || Đi qua cầu và tiếp tục đi thẳng.
+G.ex: Prends la première rue à gauche, c'est là ! || Rẽ vào phố đầu tiên bên trái, là đó!
+G.q: « Tout droit » veut dire… | à droite | *sans tourner | à gauche | derrière
+G.q: Impératif (tu) de « tourner » : | tournes | *tourne | tournez | tourner
+G.q: Impératif (vous) de « prendre » : | prendez | *prenez | prends | prendre
+G.q: Pour passer de l'autre côté de la rue, on… | tourne | *traverse | monte | continue
+G.q: Impératif (vous) de « aller » : ___ tout droit. = Allez
+V: tourner | /tuʁ.ne/ | verbe | rẽ | Tournez à gauche. || Rẽ trái.
+V: traverser | /tʁa.vɛʁ.se/ | verbe | đi qua, băng qua | Traversez la rue. || Băng qua đường.
+V: continuer | /kɔ̃.ti.nɥe/ | verbe | tiếp tục | Continuez tout droit. || Tiếp tục đi thẳng.
+V: suivre | /sɥivʁ/ | verbe | đi theo | Suivez les panneaux. || Đi theo biển chỉ dẫn.
+V: tout droit | /tu dʁwa/ | expression | thẳng | Allez tout droit. || Đi thẳng.
+V: à gauche | /a ɡoʃ/ | expression | bên trái | La banque est à gauche. || Ngân hàng ở bên trái.
+V: à droite | /a dʁwat/ | expression | bên phải | Tournez à droite. || Rẽ phải.
+V: le carrefour | /lə kaʁ.fuʁ/ | nom m. | ngã tư | Au carrefour, tournez à gauche. || Đến ngã tư thì rẽ trái.
+V: le feu | /lə fø/ | nom m. | đèn giao thông | Arrêtez-vous au feu rouge. || Dừng lại ở đèn đỏ.
+V: le pont | /lə pɔ̃/ | nom m. | cây cầu | Traversez le pont. || Đi qua cầu.
+VQ: L'endroit où deux rues se croisent : | le pont | *le carrefour | le feu | le trottoir
+VQ: Au feu rouge, on… | traverse vite | *s'arrête | tourne toujours | accélère
+VQ: Le contraire de « à gauche » : | tout droit | *à droite | en face | derrière
+VQ: Pour passer au-dessus d'une rivière, on prend… | le carrefour | *le pont | le feu | la place
+VQ: Impératif (vous) de « suivre » : ___ = suivez
+D: Allez tout droit jusqu'au carrefour.
+D: Au feu rouge, tournez à droite.
+D: Traversez le pont.
+D: Prends la première rue à gauche.
+L: Hà | Pardon, monsieur, pour aller au musée d'Orsay, s'il vous plaît ? || Xin lỗi ông, cho tôi hỏi đường đến bảo tàng Orsay ạ?
+L: Monsieur | Alors… allez tout droit jusqu'à la Seine. || À… cô đi thẳng đến sông Seine.
+L: Monsieur | Ensuite, traversez le pont Royal et tournez à droite. || Sau đó, qua cầu Royal rồi rẽ phải.
+L: Monsieur | Le musée est sur votre gauche, vous ne pouvez pas le rater. || Bảo tàng ở bên tay trái cô, cô không thể nào bỏ lỡ được.
+L: Hà | Je traverse le pont et je tourne à droite. Merci ! || Tôi qua cầu rồi rẽ phải. Cảm ơn ông!
+L: Monsieur | Voilà ! Bonne visite ! || Đúng rồi! Chúc cô tham quan vui vẻ!
+LQ: Hà cherche… | le Louvre | *le musée d'Orsay | la tour Eiffel | la gare
+LQ: Après le pont, il faut… | tourner à gauche | *tourner à droite | aller tout droit | revenir
+LQ: Le musée est… | sur la droite | *sur la gauche | derrière le pont | loin
+RA: Allez tout droit. Tournez à gauche. Tournez à droite.
+RA: Traversez le pont et continuez tout droit.
+RA: Au carrefour, prenez la deuxième rue à droite.
+SH: Pour aller au musée d'Orsay, s'il vous plaît ?
+SH: Traversez le pont Royal et tournez à droite.
+SH: Vous ne pouvez pas le rater.
+R.title: Le message de Sophie
+R: Salut Minh ! Pour venir chez moi samedi, c'est facile. || Chào Minh! Đến nhà mình thứ Bảy dễ lắm.
+R: Descends du bus à l'arrêt « Jean Jaurès ». || Xuống xe buýt ở trạm « Jean Jaurès ».
+R: Va tout droit jusqu'au feu, puis tourne à gauche dans la rue des Lilas. || Đi thẳng đến đèn giao thông, rồi rẽ trái vào phố Lilas.
+R: Continue cent mètres : tu vas voir une petite place avec une fontaine. || Đi tiếp một trăm mét: bạn sẽ thấy một quảng trường nhỏ có đài phun nước.
+R: Traverse la place, mon immeuble est en face de la boulangerie. || Băng qua quảng trường, toà nhà của mình đối diện tiệm bánh mì.
+R: C'est au troisième étage, le code est 4512. À samedi ! || Ở tầng ba, mã cửa là 4512. Hẹn thứ Bảy nhé!
+RQ: À quel arrêt Minh doit-il descendre ? | Lilas | *Jean Jaurès | Fontaine | Boulangerie
+RQ: Au feu, il faut… | tourner à droite | *tourner à gauche | traverser | s'arrêter
+RQ: L'immeuble de Sophie est en face… | de la fontaine | *de la boulangerie | de l'arrêt | du feu
+W.prompt: Écris un message à un ami pour lui expliquer le chemin de l'arrêt de bus (ou de la station) jusqu'à chez toi. Utilise l'impératif avec tu. || Viết tin nhắn cho một người bạn để chỉ đường từ trạm xe buýt (hoặc ga) đến nhà bạn. Dùng mệnh lệnh thức với tu.
+W.min: 45
+W.must: tout droit ; tourne ; traverse
+W.check: Mệnh lệnh thức với tu: động từ -er không có -s (tourne, continue)
+W.check: Phân biệt "tout droit" và "à droite"
+W.check: Có mốc dễ nhận biết (feu, carrefour, pont, place)
+W.model: Salut Léa ! Voici le chemin pour venir chez moi. || Chào Léa! Đây là đường đến nhà mình.
+W.model: Descends à la station Opéra et prends la sortie numéro deux. || Xuống ở ga Opéra và đi lối ra số hai.
+W.model: Va tout droit jusqu'au carrefour. || Đi thẳng đến ngã tư.
+W.model: Tourne à droite et traverse le petit pont. || Rẽ phải và đi qua cây cầu nhỏ.
+W.model: Ma maison est la troisième à gauche, avec une porte bleue. || Nhà mình là nhà thứ ba bên trái, có cửa màu xanh.
+W.model: Appelle-moi si tu es perdue ! || Gọi mình nếu bạn bị lạc nhé!
+
+## 3 | Les ordinaux
+G.title: Premier, deuxième, troisième…
+G.rule: Les nombres ordinaux indiquent un rang. On les forme en ajoutant -ième au nombre : deux → deuxième, trois → troisième. L'exception est premier (première au féminin). || Số thứ tự chỉ một thứ hạng. Ta tạo bằng cách thêm -ième vào số: deux → deuxième, trois → troisième. Ngoại lệ là premier (giống cái: première).
+G.note: Quy tắc chính tả: bỏ -e cuối: quatre → quatrième, onze → onzième. cinq → cinquième (thêm u). neuf → neuvième (f → v). "Second(e)" = deuxième (dùng khi chỉ có hai). Tầng nhà: le rez-de-chaussée (tầng trệt) = tầng 1 ở Việt Nam, le premier étage = tầng 2 ở Việt Nam! Thế kỷ: le vingt et unième siècle (thế kỷ 21).
+G.table: Nombre | Ordinal
+G.row: 1 | premier / première
+G.row: 2 | deuxième (second)
+G.row: 4 | quatrième
+G.row: 5 | cinquième
+G.row: 9 | neuvième
+G.row: 21 | vingt et unième
+G.ex: Prenez la deuxième rue à gauche. || Rẽ vào phố thứ hai bên trái.
+G.ex: J'habite au cinquième étage. || Tôi sống ở tầng năm.
+G.ex: C'est la première fois que je viens à Paris. || Đây là lần đầu tiên tôi đến Paris.
+G.ex: Mon bureau est au rez-de-chaussée. || Văn phòng tôi ở tầng trệt.
+G.q: Ordinal de « cinq » : | cinqième | *cinquième | cinquème | cinqueme
+G.q: Ordinal de « neuf » : | neufième | *neuvième | neuvème | nevième
+G.q: Ordinal de « un » (féminin) : | unième | *première | premier | unienne
+G.q: Le « rez-de-chaussée » est… | le dernier étage | *le niveau de la rue | le premier étage | la cave
+G.q: Ordinal de « quatre » : ___ = quatrième
+V: premier | /pʁə.mje/ | adjectif | thứ nhất, đầu tiên | Le premier jour. || Ngày đầu tiên.
+V: deuxième | /dø.zjɛm/ | adjectif | thứ hai | La deuxième rue. || Phố thứ hai.
+V: dernier | /dɛʁ.nje/ | adjectif | cuối cùng | Le dernier étage. || Tầng cuối cùng.
+V: l'étage | /le.taʒ/ | nom m. | tầng | Il habite au troisième étage. || Anh ấy sống ở tầng ba.
+V: le rez-de-chaussée | /lə ʁe.d‿ʃo.se/ | nom m. | tầng trệt | La boulangerie est au rez-de-chaussée. || Tiệm bánh ở tầng trệt.
+V: le siècle | /lə sjɛkl/ | nom m. | thế kỷ | Nous sommes au vingt et unième siècle. || Chúng ta đang ở thế kỷ hai mươi mốt.
+V: l'ascenseur | /la.sɑ̃.sœʁ/ | nom m. | thang máy | Prenez l'ascenseur. || Hãy đi thang máy.
+V: l'escalier | /lɛs.ka.lje/ | nom m. | cầu thang | Je monte par l'escalier. || Tôi đi lên bằng cầu thang bộ.
+V: le rang | /lə ʁɑ̃/ | nom m. | hàng, thứ hạng | Il est au premier rang. || Anh ấy ở hàng đầu.
+V: la sortie | /la sɔʁ.ti/ | nom f. | lối ra | Prenez la sortie numéro trois. || Hãy đi lối ra số ba.
+VQ: Cent ans, c'est un… | étage | *siècle | rang | an
+VQ: Pour monter sans marcher, on prend… | l'escalier | *l'ascenseur | la sortie | le rang
+VQ: Le contraire de « premier » : | deuxième | *dernier | second | ancien
+VQ: Le contraire de « l'entrée » : | l'étage | *la sortie | l'escalier | le rang
+VQ: Le niveau de la rue s'appelle le ___. = rez-de-chaussée
+D: Prenez la deuxième rue à gauche.
+D: J'habite au cinquième étage.
+D: C'est la première fois que je viens à Paris.
+D: Mon bureau est au rez-de-chaussée.
+L: Visiteur | Bonjour, je cherche le cabinet du docteur Martin. || Chào chị, tôi tìm phòng khám của bác sĩ Martin.
+L: Gardienne | C'est au quatrième étage, deuxième porte à droite. || Ở tầng bốn, cửa thứ hai bên phải.
+L: Visiteur | Il y a un ascenseur ? || Có thang máy không ạ?
+L: Gardienne | Oui, mais il est en panne aujourd'hui. Prenez l'escalier, au fond du couloir. || Có, nhưng hôm nay bị hỏng. Anh đi cầu thang bộ ở cuối hành lang.
+L: Visiteur | Quatre étages à pied… Bon, c'est du sport ! || Đi bộ bốn tầng… Thôi, coi như tập thể dục!
+L: Gardienne | Courage ! || Cố lên!
+LQ: Le cabinet est au… | troisième étage | *quatrième étage | rez-de-chaussée | cinquième étage
+LQ: Quelle porte ? | la première à gauche | *la deuxième à droite | la dernière | la troisième à droite
+LQ: Pourquoi il prend l'escalier ? | il aime le sport | *l'ascenseur est en panne | il a peur de l'ascenseur | c'est plus rapide
+RA: premier, deuxième, troisième, quatrième, cinquième.
+RA: sixième, septième, huitième, neuvième, dixième.
+RA: le rez-de-chaussée, le premier étage, le dernier étage.
+SH: C'est au quatrième étage, deuxième porte à droite.
+SH: Il y a un ascenseur ?
+SH: Prenez l'escalier, au fond du couloir.
+R.title: Le grand magasin
+R: Bienvenue aux Galeries de la Ville ! || Chào mừng đến Galeries de la Ville!
+R: Au rez-de-chaussée, vous trouvez les parfums et les accessoires. || Ở tầng trệt, quý khách có thể tìm nước hoa và phụ kiện.
+R: Le premier étage est réservé à la mode femme, et le deuxième à la mode homme. || Tầng một dành cho thời trang nữ, và tầng hai dành cho thời trang nam.
+R: Au troisième étage, il y a les vêtements pour enfants et les jouets. || Ở tầng ba có quần áo trẻ em và đồ chơi.
+R: La maison et la décoration sont au quatrième. || Đồ gia dụng và trang trí ở tầng bốn.
+R: Au cinquième et dernier étage, notre restaurant offre une vue magnifique sur la ville. || Ở tầng năm, cũng là tầng cuối, nhà hàng của chúng tôi có tầm nhìn tuyệt đẹp ra thành phố.
+RQ: Où sont les parfums ? | au premier étage | *au rez-de-chaussée | au cinquième | au quatrième
+RQ: Pour acheter un jouet, on va au… | deuxième étage | *troisième étage | quatrième étage | rez-de-chaussée
+RQ: Combien d'étages a le magasin (sans le rez-de-chaussée) ? | quatre | *cinq | six | trois
+W.prompt: Décris ton immeuble, ton école ou ton bureau : ce qu'il y a à chaque étage. Utilise les ordinaux. || Miêu tả toà nhà, trường học hoặc văn phòng của bạn: có gì ở mỗi tầng. Dùng số thứ tự.
+W.min: 40
+W.must: rez-de-chaussée ; premier ; étage
+W.check: Số thứ tự đúng chính tả (quatrième, cinquième, neuvième)
+W.check: premier / première hợp giống
+W.check: Nhớ: rez-de-chaussée = tầng trệt
+W.model: Mon bureau est dans un immeuble de six étages. || Văn phòng tôi nằm trong một toà nhà sáu tầng.
+W.model: Au rez-de-chaussée, il y a l'accueil et un petit café. || Ở tầng trệt có quầy lễ tân và một quán cà phê nhỏ.
+W.model: Le premier et le deuxième étages sont pour une banque. || Tầng một và tầng hai dành cho một ngân hàng.
+W.model: Mon entreprise est au cinquième étage. || Công ty tôi ở tầng năm.
+W.model: Au sixième et dernier étage, il y a une salle de sport. || Ở tầng sáu, cũng là tầng cuối, có một phòng tập thể dục.
+W.model: Je prends toujours l'escalier pour faire du sport ! || Tôi luôn đi cầu thang bộ để tập thể dục!
+
+## 4 | Loin de, près de
+G.title: Les prépositions de lieu
+G.rule: Pour situer un lieu, on utilise des prépositions : près de, loin de, à côté de, en face de, au coin de, entre… et…, devant, derrière, au bout de. || Để định vị một địa điểm, ta dùng giới từ: près de (gần), loin de (xa), à côté de (bên cạnh), en face de (đối diện), au coin de (ở góc), entre… et… (giữa… và…), devant (trước), derrière (sau), au bout de (ở cuối).
+G.note: "de" kết hợp với mạo từ: de + le = du, de + les = des. près du parc, en face des magasins, à côté de la poste, loin de l'école. Không kết hợp với la và l'. "Devant/derrière/entre" không có "de": devant la gare, derrière l'église. Hỏi khoảng cách: C'est loin ? — C'est à 200 mètres / à cinq minutes à pied.
+G.table: Préposition | Exemple
+G.row: près de | près du parc
+G.row: loin de | loin de la gare
+G.row: à côté de | à côté des magasins
+G.row: en face de | en face de l'église
+G.row: au coin de | au coin de la rue
+G.row: au bout de | au bout de la rue
+G.ex: La banque est en face de la poste. || Ngân hàng đối diện bưu điện.
+G.ex: J'habite près du marché. || Tôi sống gần chợ.
+G.ex: Le café est entre la pharmacie et le cinéma. || Quán cà phê ở giữa hiệu thuốc và rạp chiếu phim.
+G.ex: L'hôtel est au bout de la rue, à cinq minutes à pied. || Khách sạn ở cuối phố, đi bộ năm phút.
+G.q: de + le parc = | de le parc | *du parc | des parc | de la parc
+G.q: Le contraire de « près de » : | à côté de | *loin de | en face de | devant
+G.q: Le contraire de « devant » : | en face de | *derrière | à côté de | entre
+G.q: La poste est ___ la banque. (en face) | en face la | *en face de | en face du | en face des
+G.q: de + les magasins = ___ magasins = des
+V: près de | /pʁɛ də/ | préposition | gần | J'habite près de la gare. || Tôi sống gần ga.
+V: loin de | /lwɛ̃ də/ | préposition | xa | C'est loin d'ici ? || Có xa đây không?
+V: à côté de | /a ko.te də/ | préposition | bên cạnh | La pharmacie est à côté du café. || Hiệu thuốc ở cạnh quán cà phê.
+V: en face de | /ɑ̃ fas də/ | préposition | đối diện | Le bus s'arrête en face de l'école. || Xe buýt dừng đối diện trường học.
+V: au coin de | /o kwɛ̃ də/ | expression | ở góc | Il y a un café au coin de la rue. || Có một quán cà phê ở góc phố.
+V: au bout de | /o bu də/ | expression | ở cuối | La gare est au bout de l'avenue. || Ga ở cuối đại lộ.
+V: entre | /ɑ̃tʁ/ | préposition | giữa | Le parc est entre l'école et l'église. || Công viên ở giữa trường học và nhà thờ.
+V: derrière | /dɛ.ʁjɛʁ/ | préposition | phía sau | Le parking est derrière l'hôtel. || Bãi đỗ xe ở phía sau khách sạn.
+V: l'église | /le.ɡliz/ | nom f. | nhà thờ | L'église est très ancienne. || Nhà thờ rất cổ.
+V: le quartier | /lə kaʁ.tje/ | nom m. | khu phố | J'aime mon quartier. || Tôi thích khu phố của mình.
+VQ: « C'est à deux minutes » veut dire que c'est… | loin | *près | fermé | cher
+VQ: L'endroit où une rue finit : | le coin | *le bout | le milieu | le carrefour
+VQ: Une petite partie de la ville où on habite : | la région | *le quartier | le pays | la place
+VQ: de + la poste = | du poste | *de la poste | des poste | de le poste
+VQ: Le café est ___ la banque et le cinéma. (au milieu) = entre
+D: La banque est en face de la poste.
+D: J'habite près du marché.
+D: Le café est entre la pharmacie et le cinéma.
+D: L'hôtel est au bout de la rue.
+L: Nouvelle voisine | Bonjour ! Je viens d'arriver dans le quartier. Il y a un supermarché près d'ici ? || Chào bác! Cháu mới chuyển đến khu này. Gần đây có siêu thị không ạ?
+L: Voisin | Oui, au coin de la rue, à côté de la banque. || Có, ở góc phố, cạnh ngân hàng.
+L: Nouvelle voisine | Et l'école primaire, c'est loin ? || Còn trường tiểu học thì có xa không ạ?
+L: Voisin | Non, c'est en face de l'église, à cinq minutes à pied. || Không, nó đối diện nhà thờ, đi bộ năm phút.
+L: Nouvelle voisine | Parfait ! Et il y a un parc pour les enfants ? || Tuyệt quá! Có công viên cho trẻ con không ạ?
+L: Voisin | Oui, derrière la mairie. Bienvenue dans le quartier ! || Có, ở phía sau toà thị chính. Chào mừng đến khu phố!
+LQ: Où est le supermarché ? | en face de l'église | *au coin de la rue, à côté de la banque | derrière la mairie | loin
+LQ: L'école est en face… | de la banque | *de l'église | de la mairie | du parc
+LQ: Où est le parc ? | à côté de l'école | *derrière la mairie | au bout de la rue | en face de la banque
+RA: près du parc, loin de la gare, à côté des magasins.
+RA: en face de l'église, au coin de la rue.
+RA: entre la pharmacie et le cinéma.
+SH: Il y a un supermarché près d'ici ?
+SH: C'est en face de l'église, à cinq minutes à pied.
+SH: Bienvenue dans le quartier !
+R.title: Mon quartier
+R: J'habite dans le quartier de la Croix-Rousse, à Lyon. || Tôi sống ở khu Croix-Rousse, ở Lyon.
+R: Mon appartement est au bout d'une petite rue calme, près de la place principale. || Căn hộ của tôi ở cuối một con phố nhỏ yên tĩnh, gần quảng trường chính.
+R: En face de chez moi, il y a une boulangerie excellente. || Đối diện nhà tôi có một tiệm bánh mì tuyệt vời.
+R: Le marché est à côté de la station de métro, et il a lieu tous les matins. || Chợ nằm cạnh ga tàu điện ngầm, họp mỗi buổi sáng.
+R: Mon bureau est loin du quartier, alors je prends le métro tous les jours. || Văn phòng tôi xa khu phố, nên ngày nào tôi cũng đi tàu điện ngầm.
+R: Mais le week-end, je ne quitte jamais mon quartier : tout est près ! || Nhưng cuối tuần, tôi không bao giờ rời khu phố: cái gì cũng gần!
+RQ: L'appartement est… | sur la place | *au bout d'une petite rue | à côté du métro | loin de la place
+RQ: Où est le marché ? | en face de chez lui | *à côté de la station de métro | derrière la place | loin
+RQ: Pourquoi il prend le métro ? | il n'aime pas marcher | *son bureau est loin | il va au marché | il pleut
+W.prompt: Décris ton quartier : où sont les commerces et les lieux importants par rapport à chez toi. Utilise au moins six prépositions de lieu. || Miêu tả khu phố của bạn: cửa hàng và các địa điểm quan trọng nằm ở đâu so với nhà bạn. Dùng ít nhất sáu giới từ chỉ nơi chốn.
+W.min: 50
+W.must: près de ; en face de ; à côté de
+W.check: de + le = du, de + les = des
+W.check: devant, derrière, entre không có "de"
+W.check: Ít nhất sáu giới từ khác nhau
+W.model: J'habite dans un quartier animé de Hanoï, près du lac Hoàn Kiếm. || Tôi sống ở một khu phố sôi động của Hà Nội, gần hồ Hoàn Kiếm.
+W.model: En face de ma maison, il y a un petit café où je prends mon petit-déjeuner. || Đối diện nhà tôi có một quán cà phê nhỏ nơi tôi ăn sáng.
+W.model: À côté du café, il y a une pharmacie et une boutique de vêtements. || Cạnh quán cà phê có một hiệu thuốc và một cửa hàng quần áo.
+W.model: Le marché est au bout de la rue, entre la banque et la poste. || Chợ ở cuối phố, giữa ngân hàng và bưu điện.
+W.model: Derrière ma maison, il y a un petit temple très calme. || Phía sau nhà tôi có một ngôi chùa nhỏ rất yên tĩnh.
+W.model: Mon école de français est loin de chez moi : je prends le bus. || Trường tiếng Pháp của tôi xa nhà: tôi đi xe buýt.
+
+## 5 | Lire un plan
+G.title: Se repérer et expliquer un itinéraire
+G.rule: Pour expliquer un itinéraire complet, on enchaîne les indications avec d'abord, ensuite, puis, après et enfin, et on donne des repères : vous allez voir…, vous passez devant…, c'est juste après… || Để giải thích một lộ trình đầy đủ, ta nối các chỉ dẫn bằng d'abord, ensuite, puis, après và enfin, và đưa ra các mốc: vous allez voir… (bạn sẽ thấy…), vous passez devant… (bạn đi qua trước…), c'est juste après… (ngay sau…).
+G.note: Có thể chỉ đường bằng thì hiện tại thay cho mệnh lệnh — nghe nhẹ nhàng hơn: "Vous prenez la première à droite, vous continuez jusqu'au feu, et c'est là." Từ vựng bản đồ: le plan (bản đồ thành phố), la carte (bản đồ vùng), le nord, le sud, l'est, l'ouest. "Vous êtes ici" = Bạn đang ở đây.
+G.table: Étape | Expression
+G.row: départ | D'abord, vous sortez de la gare.
+G.row: suite | Ensuite, vous prenez l'avenue.
+G.row: repère | Vous passez devant un cinéma.
+G.row: suite | Puis, vous tournez à gauche.
+G.row: arrivée | Enfin, c'est juste après le pont.
+G.ex: D'abord, vous sortez du métro et vous tournez à droite. || Đầu tiên, bạn ra khỏi ga tàu điện ngầm và rẽ phải.
+G.ex: Vous passez devant une grande église. || Bạn đi qua trước một nhà thờ lớn.
+G.ex: Puis, vous traversez le parc. || Rồi bạn băng qua công viên.
+G.ex: Enfin, le musée est juste après le pont, sur votre gauche. || Cuối cùng, bảo tàng ở ngay sau cây cầu, bên tay trái bạn.
+G.q: Pour terminer un itinéraire, on dit… | d'abord | *enfin | ensuite | puis
+G.q: « Vous passez devant la poste » : la poste est… | votre destination | *un repère sur le chemin | fermée | loin
+G.q: Sur un plan, « Vous êtes ici » indique… | la destination | *votre position | le nord | la gare
+G.q: Le contraire de « nord » : | est | *sud | ouest | centre
+G.q: Pour commencer un itinéraire, on dit ___. = d'abord / D'abord
+V: le plan | /lə plɑ̃/ | nom m. | bản đồ (thành phố) | Tu as un plan de la ville ? || Bạn có bản đồ thành phố không?
+V: la carte | /la kaʁt/ | nom f. | bản đồ; thẻ | Regarde la carte de la région. || Xem bản đồ vùng này đi.
+V: l'itinéraire | /li.ti.ne.ʁɛʁ/ | nom m. | lộ trình | Quel est le meilleur itinéraire ? || Lộ trình tốt nhất là gì?
+V: le nord | /lə nɔʁ/ | nom m. | phía bắc | Lille est au nord de la France. || Lille ở phía bắc nước Pháp.
+V: le sud | /lə syd/ | nom m. | phía nam | Marseille est dans le sud. || Marseille ở miền nam.
+V: l'est | /lɛst/ | nom m. | phía đông | Strasbourg est à l'est. || Strasbourg ở phía đông.
+V: l'ouest | /lwɛst/ | nom m. | phía tây | La Bretagne est à l'ouest. || Bretagne ở phía tây.
+V: le repère | /lə ʁə.pɛʁ/ | nom m. | mốc định hướng | La tour est un bon repère. || Toà tháp là một mốc tốt.
+V: l'avenue | /lav.ny/ | nom f. | đại lộ | Prenez l'avenue principale. || Hãy đi theo đại lộ chính.
+V: se repérer | /sə ʁə.pe.ʁe/ | verbe | định hướng | J'ai du mal à me repérer. || Tôi khó định hướng.
+VQ: Marseille est au… de la France. | nord | *sud | est | ouest
+VQ: Un bâtiment qu'on voit facilement pour s'orienter est un… | plan | *repère | itinéraire | carrefour
+VQ: Une grande rue large, c'est une… | ruelle | *avenue | impasse | place
+VQ: Le chemin complet d'un point A à un point B : | le repère | *l'itinéraire | la carte | le nord
+VQ: Le contraire de « est » (direction) : ___ = ouest
+D: D'abord, vous sortez du métro.
+D: Vous passez devant une grande église.
+D: Puis, vous traversez le parc.
+D: Enfin, le musée est juste après le pont.
+L: Guide | Bon, regardons le plan. Nous sommes ici, devant l'hôtel de ville. || Nào, chúng ta xem bản đồ. Chúng ta đang ở đây, trước toà thị chính.
+L: Touriste | Et la cathédrale, c'est où ? || Còn nhà thờ lớn thì ở đâu?
+L: Guide | Au nord. D'abord, nous prenons l'avenue de la République. || Ở phía bắc. Đầu tiên, chúng ta đi theo đại lộ République.
+L: Guide | Ensuite, nous passons devant le marché couvert et nous tournons à gauche. || Sau đó, chúng ta đi qua trước chợ có mái che và rẽ trái.
+L: Touriste | C'est loin ? || Có xa không?
+L: Guide | Non, environ quinze minutes à pied. Et vous allez voir de très belles maisons ! || Không, khoảng mười lăm phút đi bộ. Và quý khách sẽ thấy những ngôi nhà rất đẹp!
+LQ: Où sont-ils au départ ? | devant la cathédrale | *devant l'hôtel de ville | au marché | à l'hôtel
+LQ: La cathédrale est… | au sud | *au nord | à l'est | à l'ouest
+LQ: Combien de temps faut-il ? | cinq minutes | *environ quinze minutes | une heure | trente minutes
+RA: le nord, le sud, l'est, l'ouest.
+RA: D'abord, ensuite, puis, enfin.
+RA: Vous passez devant le marché couvert.
+SH: Nous sommes ici, devant l'hôtel de ville.
+SH: D'abord, nous prenons l'avenue de la République.
+SH: Environ quinze minutes à pied.
+R.title: Itinéraire pour le mariage
+R: Chers invités, voici l'itinéraire pour venir au mariage de Lan et Pierre. || Kính gửi quý khách, đây là lộ trình đến đám cưới của Lan và Pierre.
+R: D'abord, prenez l'autoroute A7 vers le sud, puis la sortie numéro 15. || Đầu tiên, đi đường cao tốc A7 hướng nam, rồi ra ở lối số 15.
+R: Ensuite, suivez la direction du village de Beaumont pendant cinq kilomètres. || Sau đó, đi theo hướng làng Beaumont trong năm cây số.
+R: Vous allez passer devant une grande ferme et un lac. || Quý khách sẽ đi qua một trang trại lớn và một cái hồ.
+R: Au rond-point, tournez à droite : le château est juste après l'église. || Đến vòng xuyến thì rẽ phải: lâu đài nằm ngay sau nhà thờ.
+R: Le parking est derrière le château. Nous vous attendons à quinze heures ! || Bãi đỗ xe ở sau lâu đài. Chúng tôi chờ quý khách lúc ba giờ chiều!
+RQ: Il faut prendre l'autoroute vers… | le nord | *le sud | l'est | l'ouest
+RQ: Qu'est-ce qu'on voit sur la route ? | une gare | *une ferme et un lac | un musée | une plage
+RQ: Où est le parking ? | devant l'église | *derrière le château | au rond-point | près du lac
+W.prompt: Écris l'itinéraire de la gare (ou de l'aéroport) jusqu'à un lieu que tu aimes dans ta ville. Utilise d'abord, ensuite, puis, enfin et des repères. || Viết lộ trình từ ga (hoặc sân bay) đến một nơi bạn yêu thích trong thành phố. Dùng d'abord, ensuite, puis, enfin và các mốc.
+W.min: 55
+W.must: d'abord ; ensuite ; enfin
+W.check: Các bước theo thứ tự với từ nối
+W.check: Có ít nhất hai mốc (vous passez devant…)
+W.check: Mệnh lệnh thức hoặc hiện tại với vous chia đúng
+W.model: Pour aller de la gare de Huế à la citadelle, c'est simple. || Để đi từ ga Huế đến Kinh thành, rất đơn giản.
+W.model: D'abord, sortez de la gare et prenez la rue Lê Lợi à droite. || Đầu tiên, ra khỏi ga và đi theo đường Lê Lợi bên phải.
+W.model: Ensuite, continuez tout droit le long de la rivière des Parfums. || Sau đó, tiếp tục đi thẳng dọc sông Hương.
+W.model: Vous allez passer devant un grand hôtel et un jardin. || Bạn sẽ đi qua một khách sạn lớn và một khu vườn.
+W.model: Puis, traversez le pont Trường Tiền. || Rồi băng qua cầu Trường Tiền.
+W.model: Enfin, tournez à gauche : l'entrée de la citadelle est au bout de la rue. || Cuối cùng, rẽ trái: lối vào Kinh thành ở cuối phố.

@@ -1,0 +1,384 @@
+@week 16
+@title Le passé composé avec être
+@level A2
+
+## 1 | Les verbes de mouvement
+G.title: Être + participe passé
+G.rule: Certains verbes de mouvement ou de changement d'état forment le passé composé avec être : aller, venir, arriver, partir, entrer, sortir, monter, descendre, naître, mourir, rester, tomber, passer, retourner, devenir. || Một số động từ chỉ chuyển động hoặc thay đổi trạng thái tạo quá khứ kép với être: aller, venir, arriver, partir, entrer, sortir, monter, descendre, naître, mourir, rester, tomber, passer, retourner, devenir.
+G.note: Mẹo nhớ "DR & MRS VANDERTRAMP": Devenir, Revenir, Monter, Rester, Sortir, Venir, Aller, Naître, Descendre, Entrer, Rentrer, Tomber, Retourner, Arriver, Mourir, Partir. Hình dung "ngôi nhà của être": vào (entrer), ra (sortir), lên (monter), xuống (descendre), ở lại (rester), ngã (tomber), sinh ra (naître), chết (mourir). Phân từ bất quy tắc: venir → venu, naître → né, mourir → mort.
+G.table: Infinitif | Participe | Exemple
+G.row: aller | allé | Je suis allé à Lyon.
+G.row: venir | venu | Tu es venu en bus ?
+G.row: partir | parti | Il est parti tôt.
+G.row: naître | né | Je suis né en 1998.
+G.row: mourir | mort | Victor Hugo est mort en 1885.
+G.row: tomber | tombé | Nous sommes tombés.
+G.ex: Je suis allé au cinéma samedi soir. || Tối thứ Bảy tôi đã đi xem phim.
+G.ex: Il est arrivé à Paris il y a deux jours. || Anh ấy đã đến Paris cách đây hai ngày.
+G.ex: Nous sommes restés à la maison dimanche. || Chủ Nhật chúng tôi đã ở nhà.
+G.ex: Ma grand-mère est née à Hanoï. || Bà tôi sinh ra ở Hà Nội.
+G.q: Hier, je ___ allé au marché. | ai | *suis | es | est
+G.q: Quel verbe se conjugue avec être ? | manger | *arriver | finir | prendre
+G.q: Participe passé de « venir » : | venit | *venu | viendu | venir
+G.q: Ils ___ partis à huit heures. | ont | *sont | avons | êtes
+G.q: Participe passé de « naître » : ___ = né
+V: arriver | /a.ʁi.ve/ | verbe | đến nơi | Le train est arrivé en retard. || Tàu đã đến muộn.
+V: partir | /paʁ.tiʁ/ | verbe | rời đi, khởi hành | Elle est partie ce matin. || Cô ấy đã đi sáng nay.
+V: entrer | /ɑ̃.tʁe/ | verbe | đi vào | Il est entré dans la boutique. || Anh ấy đã vào cửa hàng.
+V: sortir | /sɔʁ.tiʁ/ | verbe | đi ra, đi chơi | Nous sommes sortis hier soir. || Tối qua chúng tôi đã đi chơi.
+V: monter | /mɔ̃.te/ | verbe | đi lên | Je suis monté au sixième étage. || Tôi đã lên tầng sáu.
+V: descendre | /de.sɑ̃dʁ/ | verbe | đi xuống | Elle est descendue du bus. || Cô ấy đã xuống xe buýt.
+V: tomber | /tɔ̃.be/ | verbe | ngã, rơi | L'enfant est tombé. || Đứa trẻ đã bị ngã.
+V: rester | /ʁɛs.te/ | verbe | ở lại | Je suis resté chez moi. || Tôi đã ở nhà.
+V: naître | /nɛtʁ/ | verbe | sinh ra | Il est né en mai. || Anh ấy sinh vào tháng Năm.
+V: mourir | /mu.ʁiʁ/ | verbe | chết | Le chat est mort de vieillesse. || Con mèo đã chết vì già.
+VQ: Le contraire de « monter » : | sortir | *descendre | tomber | rester
+VQ: Le contraire de « entrer » : | arriver | *sortir | passer | venir
+VQ: Le contraire de « naître » : | partir | *mourir | tomber | devenir
+VQ: Le contraire de « partir » : | sortir | *rester | monter | descendre
+VQ: Participe passé de « mourir » : ___ = mort
+D: Je suis allé au cinéma samedi soir.
+D: Il est arrivé à Paris il y a deux jours.
+D: Nous sommes restés à la maison.
+D: Ma grand-mère est née à Hanoï.
+L: Linh | Tu es sorti hier soir ? || Tối qua bạn có đi chơi không?
+L: Théo | Oui, je suis allé à un concert avec Paul. || Có, mình đi xem hoà nhạc với Paul.
+L: Linh | Vous êtes rentrés tard ? || Các bạn về muộn không?
+L: Théo | Oui, nous sommes rentrés à deux heures du matin ! || Có, bọn mình về lúc hai giờ sáng!
+L: Linh | Et ce matin, tu es arrivé à l'heure au bureau ? || Thế sáng nay bạn đến văn phòng đúng giờ chứ?
+L: Théo | Non… je suis arrivé à dix heures. Mon chef n'est pas content. || Không… mình đến lúc mười giờ. Sếp mình không vui.
+LQ: Théo est allé… | au cinéma | *à un concert | au restaurant | chez Paul
+LQ: À quelle heure sont-ils rentrés ? | à minuit | à une heure | *à deux heures | à dix heures
+LQ: Ce matin, Théo est arrivé… | à l'heure | *en retard | en avance | il n'est pas venu
+RA: je suis allé, tu es venu, il est parti.
+RA: nous sommes arrivés, vous êtes sortis, ils sont restés.
+RA: Je suis né en mille neuf cent quatre-vingt-dix-huit.
+SH: Tu es sorti hier soir ?
+SH: Nous sommes rentrés à deux heures du matin.
+SH: Je suis arrivé à dix heures.
+R.title: Une journée à Lyon
+R: Samedi, je suis parti de Paris à sept heures. || Thứ Bảy, tôi rời Paris lúc bảy giờ.
+R: Je suis arrivé à Lyon deux heures plus tard. || Tôi đến Lyon hai tiếng sau.
+R: Je suis monté sur la colline de Fourvière pour voir la ville. || Tôi đã lên đồi Fourvière để ngắm thành phố.
+R: Ensuite, je suis descendu dans le vieux Lyon et je suis entré dans un bouchon, un restaurant typique. || Sau đó, tôi xuống khu phố cổ Lyon và vào một "bouchon", một nhà hàng đặc trưng.
+R: Je suis resté là-bas deux heures ! || Tôi đã ở đó hai tiếng!
+R: Je suis rentré à Paris le soir, fatigué mais content. || Tôi về Paris vào buổi tối, mệt nhưng vui.
+RQ: À quelle heure est-il parti de Paris ? | à six heures | *à sept heures | à neuf heures | le soir
+RQ: Qu'est-ce qu'un bouchon à Lyon ? | une colline | *un restaurant typique | un musée | une rue
+RQ: Combien de temps est-il resté au restaurant ? | une heure | *deux heures | toute la journée | dix minutes
+W.prompt: Raconte une sortie récente (au cinéma, au marché, chez des amis) : quand tu es parti, comment tu es allé, quand tu es rentré. || Kể về một lần đi chơi gần đây (rạp phim, chợ, nhà bạn): bạn đi lúc nào, đi bằng gì, về lúc nào.
+W.min: 45
+W.must: je suis allé ; je suis rentré
+W.check: Động từ chuyển động dùng être (je suis allé, il est parti)
+W.check: Phân từ bất quy tắc: venu, né, mort
+W.check: Có mốc thời gian
+W.model: Dimanche dernier, je suis allé chez mon ami Nam. || Chủ Nhật tuần trước, tôi đã đến nhà bạn tôi là Nam.
+W.model: Je suis parti de chez moi à dix heures. || Tôi rời nhà lúc mười giờ.
+W.model: Je suis allé chez lui à vélo. || Tôi đạp xe đến nhà cậu ấy.
+W.model: Nous sommes sortis pour manger un bánh mì près du lac. || Chúng tôi ra ngoài ăn bánh mì gần hồ.
+W.model: Ensuite, nous sommes restés au café tout l'après-midi. || Sau đó, chúng tôi ngồi ở quán cà phê cả buổi chiều.
+W.model: Je suis rentré à la maison à six heures. || Tôi về nhà lúc sáu giờ.
+
+## 2 | L'accord du participe passé
+G.title: Accord avec le sujet
+G.rule: Avec l'auxiliaire être, le participe passé s'accorde avec le sujet : on ajoute -e au féminin et -s au pluriel. || Với trợ động từ être, phân từ quá khứ hợp giống và số với chủ ngữ: thêm -e cho giống cái và -s cho số nhiều.
+G.note: il est allé, elle est allée, ils sont allés, elles sont allées. Với "je/tu/vous", hợp theo người nói: Lan dit : « Je suis allée ». Với "vous" lịch sự một người đàn ông: vous êtes allé. Phần lớn đuôi -e, -s không đọc thành tiếng (allé = allée = allés), nhưng phải viết đúng! Ngoại lệ nghe được: mort /mɔʁ/ → morte /mɔʁt/. Với avoir: không hợp với chủ ngữ (elle a mangé).
+G.table: Sujet | Masculin | Féminin
+G.row: je | je suis allé | je suis allée
+G.row: il / elle | il est parti | elle est partie
+G.row: nous | nous sommes venus | nous sommes venues
+G.row: ils / elles | ils sont arrivés | elles sont arrivées
+G.ex: Ma sœur est arrivée hier soir. || Chị gái tôi đã đến tối qua.
+G.ex: Mes parents sont partis en vacances. || Bố mẹ tôi đã đi nghỉ.
+G.ex: Lan et Mai sont venues à la fête. || Lan và Mai đã đến bữa tiệc.
+G.ex: Elle a mangé une pomme, puis elle est sortie. || Cô ấy ăn một quả táo, rồi cô ấy đi ra ngoài.
+G.q: Marie est ___ à Rome. | allé | *allée | allés | allées
+G.q: Mes frères sont ___ tard. | rentré | rentrée | *rentrés | rentrées
+G.q: Avec avoir : Elle a ___ un gâteau. | mangée | *mangé | mangés | mangées
+G.q: Les filles sont ___. (partir) | parti | partis | *parties | partie
+G.q: Anne dit : « Je suis ___ en 2000. » (naître) = née
+V: la sœur | /la sœʁ/ | nom f. | chị/em gái | Ma sœur est partie au Canada. || Chị gái tôi đã sang Canada.
+V: l'accord | /la.kɔʁ/ | nom m. | sự hợp (ngữ pháp); sự đồng ý | L'accord du participe est important. || Sự hợp phân từ rất quan trọng.
+V: féminin | /fe.mi.nɛ̃/ | adjectif | giống cái | « Allée » est féminin. || « Allée » là giống cái.
+V: masculin | /mas.ky.lɛ̃/ | adjectif | giống đực | « Allé » est masculin. || « Allé » là giống đực.
+V: le pluriel | /lə ply.ʁjɛl/ | nom m. | số nhiều | Au pluriel, on ajoute un « s ». || Ở số nhiều, ta thêm « s ».
+V: revenir | /ʁə.və.niʁ/ | verbe | quay lại | Elle est revenue de vacances. || Cô ấy đã đi nghỉ về.
+V: rentrer | /ʁɑ̃.tʁe/ | verbe | về nhà | Ils sont rentrés à minuit. || Họ đã về lúc nửa đêm.
+V: devenir | /də.və.niʁ/ | verbe | trở thành | Elle est devenue médecin. || Cô ấy đã trở thành bác sĩ.
+V: la fête | /la fɛt/ | nom f. | bữa tiệc, lễ hội | Tu es venu à la fête ? || Bạn có đến bữa tiệc không?
+V: ensemble | /ɑ̃.sɑ̃bl/ | adverbe | cùng nhau | Nous sommes partis ensemble. || Chúng tôi đã đi cùng nhau.
+VQ: « Elle est devenue médecin » : elle… | a vu un médecin | *est maintenant médecin | n'aime pas les médecins | est malade
+VQ: « Revenir » veut dire… | partir | *venir une nouvelle fois | rester | tomber
+VQ: Au féminin, on ajoute souvent… | -s | *-e | -x | rien
+VQ: « Ensemble » veut dire… | seul | *avec d'autres personnes | vite | tard
+VQ: Au pluriel, on ajoute souvent un ___. = s
+D: Ma sœur est arrivée hier soir.
+D: Mes parents sont partis en vacances.
+D: Lan et Mai sont venues à la fête.
+D: Elle est devenue médecin.
+L: Mère | Ta sœur est rentrée ? || Chị con về chưa?
+L: Fils | Oui, elle est rentrée à six heures, puis elle est ressortie. || Rồi ạ, chị về lúc sáu giờ, rồi lại đi ra ngoài.
+L: Mère | Elle est allée où ? || Chị đi đâu?
+L: Fils | Elle est allée au cinéma avec ses copines. || Chị đi xem phim với các bạn gái.
+L: Mère | Et tes cousins ? Ils sont arrivés de Đà Nẵng ? || Còn các anh họ con? Họ đã từ Đà Nẵng đến chưa?
+L: Fils | Non, ils sont restés à l'aéroport : leur avion est en retard. || Chưa ạ, họ vẫn ở sân bay: máy bay của họ bị trễ.
+LQ: À quelle heure la sœur est-elle rentrée ? | à cinq heures | *à six heures | à huit heures | elle n'est pas rentrée
+LQ: Avec qui est-elle allée au cinéma ? | avec son frère | *avec ses copines | avec sa mère | seule
+LQ: Pourquoi les cousins ne sont pas arrivés ? | ils sont malades | *leur avion est en retard | ils ont oublié | ils sont restés à Đà Nẵng
+RA: il est allé, elle est allée.
+RA: ils sont partis, elles sont parties.
+RA: Je suis née, tu es venue, vous êtes revenus.
+SH: Ta sœur est rentrée ?
+SH: Elle est allée au cinéma avec ses copines.
+SH: Ils sont restés à l'aéroport.
+R.title: La famille Nguyen en France
+R: En 1995, mes grands-parents sont partis du Viêt Nam. || Năm 1995, ông bà tôi rời Việt Nam.
+R: Ils sont arrivés à Marseille en hiver, sans parler français. || Họ đến Marseille vào mùa đông, không biết nói tiếng Pháp.
+R: Ma grand-mère est devenue couturière et mon grand-père a ouvert un petit restaurant. || Bà tôi trở thành thợ may và ông tôi mở một nhà hàng nhỏ.
+R: Ma mère est née en 1997, dans un petit appartement près du port. || Mẹ tôi sinh năm 1997 trong một căn hộ nhỏ gần cảng.
+R: Mes tantes sont venues plus tard, en 2003. || Các dì của tôi đến sau, vào năm 2003.
+R: Elles sont toutes restées en France, mais chaque été, nous sommes retournés au Viêt Nam ensemble. || Họ đều ở lại Pháp, nhưng mỗi mùa hè, chúng tôi lại cùng nhau về Việt Nam.
+RQ: Où sont arrivés les grands-parents ? | à Paris | *à Marseille | à Lyon | à Nice
+RQ: Qu'est-ce que la grand-mère est devenue ? | cuisinière | *couturière | professeure | médecin
+RQ: Quand les tantes sont-elles venues ? | en 1995 | en 1997 | *en 2003 | chaque été
+W.prompt: Raconte l'histoire d'une personne de ta famille (naissance, départ, arrivée, ce qu'elle est devenue). Fais attention à l'accord avec être. || Kể câu chuyện về một người trong gia đình (sinh ra, ra đi, đến nơi, trở thành gì). Chú ý sự hợp với être.
+W.min: 50
+W.must: est née ; est devenue
+W.check: Phân từ với être hợp với chủ ngữ (-e, -s)
+W.check: Phân từ với avoir không hợp với chủ ngữ
+W.check: Có ít nhất ba động từ dùng être
+W.model: Ma tante Hoa est née à Huế en 1975. || Dì Hoa của tôi sinh ra ở Huế năm 1975.
+W.model: À dix-huit ans, elle est partie à Hanoï pour étudier. || Năm mười tám tuổi, dì ra Hà Nội học.
+W.model: Elle est devenue professeure de français. || Dì trở thành giáo viên tiếng Pháp.
+W.model: En 2005, elle est allée en France pour un stage et elle est restée un an. || Năm 2005, dì sang Pháp thực tập và ở lại một năm.
+W.model: Elle est revenue avec beaucoup de livres et de souvenirs. || Dì trở về với rất nhiều sách và kỷ niệm.
+W.model: C'est elle qui m'a donné envie d'apprendre le français ! || Chính dì đã khiến tôi muốn học tiếng Pháp!
+
+## 3 | Les verbes pronominaux au passé
+G.title: Je me suis levé(e)
+G.rule: Tous les verbes pronominaux forment le passé composé avec être. Le pronom réfléchi se place avant l'auxiliaire : je me suis levé, elle s'est couchée. || Tất cả động từ phản thân đều tạo quá khứ kép với être. Đại từ phản thân đứng trước trợ động từ: je me suis levé, elle s'est couchée.
+G.note: Cấu trúc: chủ ngữ + me/te/se/nous/vous/se + être + phân từ. je me suis réveillé(e), tu t'es habillé(e), il s'est lavé, elle s'est lavée, nous nous sommes promené(e)s, vous vous êtes reposé(e)(s), ils se sont amusés. Phân từ thường hợp với chủ ngữ. (Một số trường hợp đặc biệt như "elle s'est lavé les mains" sẽ học ở B1.)
+G.table: Pronom | Forme
+G.row: je | je me suis levé(e)
+G.row: tu | tu t'es levé(e)
+G.row: il / elle | il s'est levé / elle s'est levée
+G.row: nous | nous nous sommes levé(e)s
+G.row: vous | vous vous êtes levé(e)(s)
+G.row: ils / elles | ils se sont levés / elles se sont levées
+G.ex: Ce matin, je me suis réveillé à six heures. || Sáng nay tôi thức dậy lúc sáu giờ.
+G.ex: Elle s'est habillée très vite. || Cô ấy mặc quần áo rất nhanh.
+G.ex: Nous nous sommes bien amusés à la fête. || Chúng tôi đã rất vui ở bữa tiệc.
+G.ex: Ils se sont rencontrés à l'université. || Họ đã gặp nhau ở trường đại học.
+G.q: Hier, je ___ couché tard. | ai | m'ai | *me suis | suis me
+G.q: Elle s'est ___ à sept heures. (lever) | levé | *levée | levés | lever
+G.q: Les verbes pronominaux au passé composé utilisent… | avoir | *être | avoir ou être | aller
+G.q: Nous ___ promenés au parc. | sommes nous | *nous sommes | nous avons | avons nous
+G.q: Complétez : Tu ___ reposé ? (avec le pronom) = t'es
+V: se réveiller | /sə ʁe.ve.je/ | verbe | thức dậy | Je me suis réveillé tôt. || Tôi đã thức dậy sớm.
+V: se lever | /sə lə.ve/ | verbe | đứng dậy, rời giường | Elle s'est levée à sept heures. || Cô ấy dậy lúc bảy giờ.
+V: s'habiller | /sa.bi.je/ | verbe | mặc quần áo | Il s'est habillé en noir. || Anh ấy mặc đồ đen.
+V: se promener | /sə pʁɔm.ne/ | verbe | đi dạo | Nous nous sommes promenés au bord du lac. || Chúng tôi đi dạo bên hồ.
+V: s'amuser | /sa.my.ze/ | verbe | vui chơi | Les enfants se sont bien amusés. || Bọn trẻ đã chơi rất vui.
+V: se reposer | /sə ʁə.po.ze/ | verbe | nghỉ ngơi | Tu t'es bien reposé ? || Bạn nghỉ ngơi tốt chứ?
+V: se rencontrer | /sə ʁɑ̃.kɔ̃.tʁe/ | verbe | gặp nhau | Ils se sont rencontrés en 2015. || Họ gặp nhau năm 2015.
+V: se dépêcher | /sə de.pe.ʃe/ | verbe | vội vàng | Je me suis dépêché pour prendre le bus. || Tôi đã vội để bắt xe buýt.
+V: s'ennuyer | /sɑ̃.nɥi.je/ | verbe | chán | Je me suis ennuyé pendant le film. || Tôi đã chán trong lúc xem phim.
+V: se marier | /sə ma.ʁje/ | verbe | kết hôn | Mes parents se sont mariés en 1990. || Bố mẹ tôi kết hôn năm 1990.
+VQ: Le contraire de « s'amuser » : | se reposer | *s'ennuyer | se promener | se lever
+VQ: « Se dépêcher » veut dire… | marcher lentement | *faire vite | dormir | attendre
+VQ: Le contraire de « se coucher » : | se reposer | *se lever | se marier | s'habiller
+VQ: « Ils se sont mariés » : ils sont… | amis | *mari et femme | collègues | frères
+VQ: Complétez : Elle s'est ___ en robe rouge. (habiller) = habillée
+D: Ce matin, je me suis réveillé à six heures.
+D: Elle s'est habillée très vite.
+D: Nous nous sommes bien amusés.
+D: Ils se sont rencontrés à l'université.
+L: Thảo | Comment s'est passé ton dimanche ? || Chủ Nhật của bạn thế nào?
+L: Claire | Très tranquille ! Je me suis levée à onze heures. || Rất yên bình! Mình dậy lúc mười một giờ.
+L: Thảo | Onze heures ! Tu t'es couchée tard ? || Mười một giờ! Bạn đi ngủ muộn à?
+L: Claire | Oui, samedi soir, je me suis bien amusée chez Julie. || Ừ, tối thứ Bảy mình chơi rất vui ở nhà Julie.
+L: Claire | L'après-midi, nous nous sommes promenées au parc avec mon chien. || Buổi chiều, bọn mình đi dạo công viên cùng con chó của mình.
+L: Thảo | Moi, je me suis ennuyée : il a plu toute la journée ! || Còn mình thì chán lắm: trời mưa cả ngày!
+LQ: À quelle heure Claire s'est-elle levée ? | à neuf heures | *à onze heures | à midi | à sept heures
+LQ: Où Claire s'est-elle amusée samedi ? | au parc | *chez Julie | au cinéma | chez Thảo
+LQ: Pourquoi Thảo s'est ennuyée ? | elle était malade | *il a plu toute la journée | elle a travaillé | elle était seule
+RA: je me suis levé, tu t'es habillé, il s'est lavé.
+RA: nous nous sommes promenés, ils se sont amusés.
+RA: Elle s'est réveillée, elle s'est dépêchée.
+SH: Comment s'est passé ton dimanche ?
+SH: Je me suis levée à onze heures.
+SH: Nous nous sommes promenées au parc.
+R.title: Un lundi difficile
+R: Lundi, Antoine ne s'est pas réveillé à l'heure : son réveil n'a pas sonné ! || Thứ Hai, Antoine không dậy đúng giờ: đồng hồ báo thức không reo!
+R: Il s'est levé à huit heures et demie. || Anh ấy dậy lúc tám rưỡi.
+R: Il s'est lavé et il s'est habillé en cinq minutes. || Anh ấy rửa mặt và mặc quần áo trong năm phút.
+R: Il s'est dépêché pour prendre le métro, mais il s'est trompé de ligne. || Anh ấy vội vàng đi tàu điện ngầm, nhưng lại đi nhầm tuyến.
+R: Finalement, il est arrivé au bureau à dix heures. || Cuối cùng, anh ấy đến văn phòng lúc mười giờ.
+R: Ses collègues se sont moqués de lui : c'était férié ! || Đồng nghiệp trêu anh ấy: hôm đó là ngày nghỉ lễ!
+RQ: Pourquoi Antoine ne s'est pas réveillé ? | il était malade | *son réveil n'a pas sonné | il s'est couché tard | il a oublié
+RQ: Quel problème a-t-il eu dans le métro ? | le métro était en retard | *il s'est trompé de ligne | il a perdu son ticket | il est tombé
+RQ: Qu'est-ce qui était spécial ce lundi ? | c'était son anniversaire | *c'était un jour férié | il était en vacances | c'était dimanche
+W.prompt: Raconte ta matinée d'hier avec des verbes pronominaux : se réveiller, se lever, se laver, s'habiller, se dépêcher… || Kể buổi sáng hôm qua của bạn bằng các động từ phản thân: se réveiller, se lever, se laver, s'habiller, se dépêcher…
+W.min: 45
+W.must: je me suis réveillé ; je me suis
+W.check: Đại từ phản thân đứng trước être (je me suis…)
+W.check: Phân từ hợp với chủ ngữ (nếu là nữ: levée)
+W.check: Phủ định: je ne me suis pas…
+W.model: Hier, je me suis réveillée à six heures. || Hôm qua tôi thức dậy lúc sáu giờ.
+W.model: Je ne me suis pas levée tout de suite : je suis restée au lit dix minutes. || Tôi không dậy ngay: tôi nằm trên giường thêm mười phút.
+W.model: Ensuite, je me suis lavée et je me suis habillée. || Sau đó, tôi tắm rửa và mặc quần áo.
+W.model: J'ai pris un café avec mon mari, puis nous nous sommes dépêchés. || Tôi uống cà phê với chồng, rồi chúng tôi vội vàng.
+W.model: Je suis arrivée au bureau à huit heures. || Tôi đến văn phòng lúc tám giờ.
+W.model: Le soir, je me suis reposée devant la télé. || Buổi tối, tôi nghỉ ngơi trước TV.
+
+## 4 | La négation au passé composé
+G.title: Ne + auxiliaire + pas + participe
+G.rule: À la forme négative, ne et pas entourent l'auxiliaire : je n'ai pas mangé, elle n'est pas venue. Avec un verbe pronominal, ne se place avant le pronom : je ne me suis pas levé. || Ở dạng phủ định, ne và pas bao quanh trợ động từ: je n'ai pas mangé, elle n'est pas venue. Với động từ phản thân, ne đứng trước đại từ: je ne me suis pas levé.
+G.note: Các phủ định khác cũng đặt quanh trợ động từ: ne… jamais (chưa bao giờ), ne… plus (không còn nữa), ne… rien (không gì cả), ne… pas encore (chưa). Ví dụ: Je n'ai rien compris. Il n'est jamais allé en Chine. Tu n'as pas encore fini ? Riêng "ne… personne": personne đứng SAU phân từ: Je n'ai vu personne.
+G.table: Négation | Exemple
+G.row: ne… pas | Je n'ai pas dormi.
+G.row: ne… jamais | Il n'est jamais venu.
+G.row: ne… rien | Nous n'avons rien mangé.
+G.row: ne… plus | Elle n'est plus sortie.
+G.row: ne… pas encore | Tu n'as pas encore fini ?
+G.row: ne… personne | Je n'ai vu personne.
+G.ex: Je n'ai pas compris la question. || Tôi đã không hiểu câu hỏi.
+G.ex: Elle n'est jamais allée au Japon. || Cô ấy chưa bao giờ đến Nhật.
+G.ex: Nous n'avons rien acheté au marché. || Chúng tôi không mua gì ở chợ.
+G.ex: Il ne s'est pas reposé ce week-end. || Cuối tuần này anh ấy không nghỉ ngơi.
+G.q: Je ___ vu ce film. | n'ai vu pas | *n'ai pas | pas ai | ne pas ai
+G.q: Elle ___ venue à la fête. | n'a pas | *n'est pas | ne pas est | pas n'est
+G.q: Je n'ai vu ___. (aucune personne) | rien | *personne | jamais | plus
+G.q: Ils ___ levés tôt. | ne sont se pas | *ne se sont pas | se ne sont pas | ne pas se sont
+G.q: Mettez à la forme négative avec « rien » : J'ai mangé. = Je n'ai rien mangé.
+V: rien | /ʁjɛ̃/ | pronom | không gì | Je n'ai rien dit. || Tôi không nói gì cả.
+V: personne | /pɛʁ.sɔn/ | pronom | không ai | Je n'ai vu personne. || Tôi không thấy ai.
+V: pas encore | /pa.z‿ɑ̃.kɔʁ/ | expression | chưa | Je n'ai pas encore mangé. || Tôi chưa ăn.
+V: ne… plus | /nə ply/ | expression | không… nữa | Il n'est plus venu. || Anh ấy không đến nữa.
+V: comprendre | /kɔ̃.pʁɑ̃dʁ/ | verbe | hiểu | Tu as compris ? || Bạn hiểu chưa?
+V: le devoir | /lə də.vwaʁ/ | nom m. | bài tập về nhà | Tu as fait tes devoirs ? || Con đã làm bài tập chưa?
+V: le ménage | /lə me.naʒ/ | nom m. | việc dọn nhà | Je n'ai pas fait le ménage. || Tôi chưa dọn nhà.
+V: les courses | /le kuʁs/ | nom f. pl. | việc đi chợ, mua sắm | Tu as fait les courses ? || Bạn đi chợ chưa?
+V: l'excuse | /lɛks.kyz/ | nom f. | lời bào chữa, lời xin lỗi | Ce n'est pas une excuse ! || Đó không phải lý do!
+V: honnêtement | /ɔ.nɛt.mɑ̃/ | adverbe | thành thật mà nói | Honnêtement, je n'ai rien fait. || Thành thật mà nói, tôi chẳng làm gì cả.
+VQ: « Je n'ai pas encore mangé » : je vais… | ne jamais manger | *manger plus tard | manger maintenant | avoir mangé hier
+VQ: Le contraire de « quelque chose » : | personne | *rien | jamais | plus
+VQ: Le contraire de « quelqu'un » : | rien | *personne | plus | encore
+VQ: Nettoyer la maison, c'est faire le… | devoir | *ménage | courses | jardin
+VQ: Acheter à manger au supermarché, c'est faire les ___. = courses
+D: Je n'ai pas compris la question.
+D: Elle n'est jamais allée au Japon.
+D: Nous n'avons rien acheté.
+D: Il ne s'est pas reposé.
+L: Mère | Tu as fait tes devoirs ? || Con làm bài tập chưa?
+L: Fils | Pas encore… || Chưa ạ…
+L: Mère | Et ta chambre ? Tu n'as pas rangé ta chambre ! || Còn phòng con? Con chưa dọn phòng!
+L: Fils | Non, je n'ai rien fait. Je suis rentré tard de l'entraînement. || Chưa, con chưa làm gì cả. Con đi tập về muộn.
+L: Mère | Ce n'est pas une excuse ! Tu n'es pas sorti avec tes amis après ? || Đó không phải lý do! Sau đó con không đi chơi với bạn à?
+L: Fils | Euh… honnêtement, si, un peu… || Ờ… thành thật thì có, một chút ạ…
+LQ: Le fils a fait ses devoirs ? | oui | *pas encore | il ne fait jamais ses devoirs | à moitié
+LQ: Pourquoi il dit qu'il n'a rien fait ? | il était malade | *il est rentré tard de l'entraînement | il a dormi | il a oublié
+LQ: Qu'est-ce qu'il avoue à la fin ? | il a rangé sa chambre | *il est sorti avec ses amis | il a fait ses devoirs | il a menti à son prof
+RA: Je n'ai pas dormi. Je n'ai rien mangé.
+RA: Il n'est jamais venu. Je n'ai vu personne.
+RA: Je ne me suis pas levé.
+SH: Tu n'as pas rangé ta chambre !
+SH: Je n'ai rien fait.
+SH: Ce n'est pas une excuse !
+R.title: Une mauvaise journée
+R: Hier, rien ne s'est bien passé pour Lucie. || Hôm qua, chẳng có gì suôn sẻ với Lucie.
+R: Elle ne s'est pas réveillée à l'heure et elle n'a pas pris de petit-déjeuner. || Cô ấy không dậy đúng giờ và không ăn sáng.
+R: Au bureau, elle n'a trouvé personne : la réunion a été annulée. || Ở văn phòng, cô ấy không thấy ai: cuộc họp đã bị huỷ.
+R: Elle n'a rien compris aux nouveaux dossiers. || Cô ấy chẳng hiểu gì về các hồ sơ mới.
+R: Le soir, elle n'est pas allée à la salle de sport et elle n'a pas encore fait les courses. || Buổi tối, cô ấy không đi phòng tập và vẫn chưa đi chợ.
+R: Elle a juste dit : « Demain, ça ira mieux ! » || Cô ấy chỉ nói: « Ngày mai sẽ tốt hơn! »
+RQ: Lucie a pris son petit-déjeuner ? | oui | *non | un café seulement | au bureau
+RQ: Pourquoi il n'y avait personne au bureau ? | c'était dimanche | *la réunion a été annulée | il y avait une grève | tout le monde était malade
+RQ: Qu'est-ce que Lucie n'a pas encore fait ? | ses devoirs | *les courses | le ménage | la cuisine
+W.prompt: Écris ce que tu n'as pas fait cette semaine (le ménage, le sport, les devoirs…) et explique pourquoi. Utilise ne… pas, ne… rien, ne… jamais, ne… pas encore. || Viết những điều bạn chưa làm trong tuần này (dọn nhà, thể thao, bài tập…) và giải thích lý do. Dùng ne… pas, ne… rien, ne… jamais, ne… pas encore.
+W.min: 45
+W.must: n'ai pas ; pas encore ; rien
+W.check: ne… pas bao quanh trợ động từ
+W.check: n' trước nguyên âm (n'ai, n'est)
+W.check: personne đứng sau phân từ (je n'ai vu personne)
+W.model: Cette semaine, je n'ai pas beaucoup travaillé. || Tuần này, tôi không làm việc nhiều.
+W.model: Je n'ai pas fait le ménage et je n'ai pas encore fait les courses. || Tôi chưa dọn nhà và vẫn chưa đi chợ.
+W.model: Je ne suis pas allé à la salle de sport, parce que j'ai eu un rhume. || Tôi không đi phòng tập vì bị cảm.
+W.model: Mercredi, je ne me suis pas levé : je suis resté au lit. || Thứ Tư, tôi không dậy: tôi nằm trên giường.
+W.model: Je n'ai vu personne et je n'ai rien mangé de bon. || Tôi không gặp ai và không ăn được gì ngon.
+W.model: La semaine prochaine, je vais me rattraper ! || Tuần sau tôi sẽ bù lại!
+
+## 5 | Raconter un voyage
+G.title: Avoir ou être ?
+G.rule: Pour raconter un voyage, on mélange les deux auxiliaires : avoir pour la plupart des verbes (visiter, manger, voir) et être pour les verbes de mouvement et les verbes pronominaux. || Để kể một chuyến đi, ta kết hợp cả hai trợ động từ: avoir với phần lớn động từ (visiter, manger, voir) và être với động từ chuyển động và động từ phản thân.
+G.note: Câu hỏi kiểm tra: động từ có trong danh sách "DR & MRS VANDERTRAMP" hoặc là động từ phản thân không? → être. Nếu không → avoir. So sánh: Nous sommes allés à Nice (être) / Nous avons visité Nice (avoir). Nous sommes partis tôt (être) / Nous avons pris le train (avoir). Nous nous sommes baignés (être, phản thân).
+G.table: Avoir | Être
+G.row: J'ai visité Nice. | Je suis allé à Nice.
+G.row: Nous avons pris le train. | Nous sommes partis tôt.
+G.row: Elle a vu la mer. | Elle est arrivée le soir.
+G.row: Ils ont nagé. | Ils se sont baignés.
+G.ex: L'été dernier, nous sommes allés en Bretagne. || Mùa hè năm ngoái, chúng tôi đã đi Bretagne.
+G.ex: Nous avons loué une petite maison près de la mer. || Chúng tôi thuê một ngôi nhà nhỏ gần biển.
+G.ex: Les enfants se sont baignés tous les jours. || Bọn trẻ tắm biển mỗi ngày.
+G.ex: Nous sommes rentrés bronzés et heureux. || Chúng tôi trở về với làn da rám nắng và hạnh phúc.
+G.q: Nous ___ visité le musée. | sommes | *avons | êtes | ont
+G.q: Elle ___ arrivée à l'hôtel. | a | *est | ai | as
+G.q: Je ___ baigné dans la mer. | ai | m'ai | *me suis | suis
+G.q: Ils ___ pris l'avion. | sont | *ont | se sont | êtes
+G.q: Complétez avec l'auxiliaire : Vous ___ partis quand ? = êtes
+V: le voyage | /lə vwa.jaʒ/ | nom m. | chuyến đi | Nous avons fait un beau voyage. || Chúng tôi đã có một chuyến đi đẹp.
+V: louer | /lwe/ | verbe | thuê | Nous avons loué une voiture. || Chúng tôi đã thuê một chiếc xe hơi.
+V: se baigner | /sə be.ɲe/ | verbe | tắm (biển, sông) | Je me suis baigné dans la mer. || Tôi đã tắm biển.
+V: bronzé | /bʁɔ̃.ze/ | adjectif | rám nắng | Tu es très bronzé ! || Bạn rám nắng quá!
+V: la plage | /la plaʒ/ | nom f. | bãi biển | Nous sommes allés à la plage. || Chúng tôi đã đi biển.
+V: le paysage | /lə pe.i.zaʒ/ | nom m. | phong cảnh | Les paysages sont magnifiques. || Phong cảnh tuyệt đẹp.
+V: l'hôtel | /lo.tɛl/ | nom m. | khách sạn | L'hôtel était près de la gare. || Khách sạn ở gần ga.
+V: la valise | /la va.liz/ | nom f. | va li | J'ai fait ma valise. || Tôi đã xếp va li.
+V: le séjour | /lə se.ʒuʁ/ | nom m. | kỳ lưu trú | Bon séjour ! || Chúc kỳ lưu trú vui vẻ!
+V: découvrir | /de.ku.vʁiʁ/ | verbe | khám phá | Nous avons découvert un petit village. || Chúng tôi đã khám phá một ngôi làng nhỏ.
+VQ: « Louer » une voiture, c'est… | l'acheter | *payer pour l'utiliser un temps | la vendre | la réparer
+VQ: Après une semaine au soleil, on est… | malade | *bronzé | fatigué de froid | mouillé
+VQ: On met ses vêtements de voyage dans une… | poche | *valise | plage | chambre
+VQ: Participe passé de « découvrir » : | découvri | *découvert | découvru | découvré
+VQ: « Bon ___ ! » se dit à une personne en vacances. = séjour / voyage
+D: L'été dernier, nous sommes allés en Bretagne.
+D: Nous avons loué une petite maison.
+D: Les enfants se sont baignés tous les jours.
+D: Nous sommes rentrés bronzés et heureux.
+L: Collègue | Tu es bronzé ! Tu es parti en vacances ? || Bạn rám nắng quá! Bạn đi nghỉ à?
+L: Bảo | Oui, je suis allé dans le sud de la France avec ma femme. || Ừ, mình đi miền Nam nước Pháp với vợ.
+L: Collègue | Vous avez visité quelles villes ? || Hai người đã thăm những thành phố nào?
+L: Bảo | Nous avons visité Nice et Marseille, et nous sommes restés trois jours à Cassis. || Bọn mình đã thăm Nice và Marseille, và ở Cassis ba ngày.
+L: Collègue | Vous vous êtes baignés ? || Hai người có tắm biển không?
+L: Bảo | Oui, tous les jours ! Et nous avons découvert des calanques magnifiques. || Có, ngày nào cũng tắm! Và bọn mình đã khám phá những vịnh đá tuyệt đẹp.
+LQ: Avec qui Bảo est-il parti ? | avec un ami | *avec sa femme | seul | avec ses parents
+LQ: Combien de jours sont-ils restés à Cassis ? | deux | *trois | cinq | une semaine
+LQ: Qu'est-ce qu'ils ont découvert ? | un musée | *des calanques | un village | un restaurant
+RA: Je suis allé à Nice. J'ai visité Nice.
+RA: Nous sommes partis tôt. Nous avons pris le train.
+RA: Ils se sont baignés tous les jours.
+SH: Tu es parti en vacances ?
+SH: Nous avons visité Nice et Marseille.
+SH: Vous vous êtes baignés ?
+R.title: Carnet de voyage : Sapa
+R: En octobre, je suis partie à Sapa avec deux amies françaises. || Tháng Mười, tôi đi Sa Pa với hai người bạn Pháp.
+R: Nous avons pris le train de nuit depuis Hanoï et nous sommes arrivées à Lào Cai à six heures du matin. || Chúng tôi đi tàu đêm từ Hà Nội và đến Lào Cai lúc sáu giờ sáng.
+R: Pendant trois jours, nous avons marché dans les rizières. || Trong ba ngày, chúng tôi đi bộ giữa những ruộng lúa bậc thang.
+R: Nous avons dormi chez une famille h'mông et nous avons appris quelques mots de leur langue. || Chúng tôi ngủ ở nhà một gia đình người H'Mông và học vài từ trong tiếng của họ.
+R: Le dernier jour, nous sommes montées au sommet du Fansipan. || Ngày cuối, chúng tôi lên đỉnh Fansipan.
+R: Mes amies sont rentrées en France, mais elles veulent déjà revenir ! || Các bạn tôi đã về Pháp, nhưng họ đã muốn quay lại rồi!
+RQ: Comment sont-elles allées à Lào Cai ? | en bus | *en train de nuit | en avion | en moto
+RQ: Où ont-elles dormi ? | à l'hôtel | *chez une famille h'mông | sous une tente | dans le train
+RQ: Qu'est-ce qu'elles ont fait le dernier jour ? | elles se sont reposées | *elles sont montées au Fansipan | elles sont allées à Hanoï | elles ont acheté des souvenirs
+W.prompt: Écris un carnet de voyage : où tu es allé, comment, ce que tu as visité, ce que tu as mangé et quand tu es rentré. Mélange avoir et être. || Viết nhật ký du lịch: bạn đã đi đâu, bằng cách nào, đã tham quan gì, đã ăn gì và về khi nào. Kết hợp avoir và être.
+W.min: 60
+W.must: je suis allé ; nous avons ; nous sommes
+W.check: Chọn đúng trợ động từ avoir / être
+W.check: Hợp phân từ với être
+W.check: Câu chuyện có thứ tự: d'abord, ensuite, finalement
+W.model: L'année dernière, je suis allé à Hội An avec ma famille. || Năm ngoái, tôi đã đi Hội An cùng gia đình.
+W.model: Nous sommes partis de Hô Chi Minh-Ville en avion et nous sommes arrivés à Đà Nẵng en une heure. || Chúng tôi bay từ Thành phố Hồ Chí Minh và đến Đà Nẵng trong một tiếng.
+W.model: D'abord, nous avons visité la vieille ville et le pont japonais. || Đầu tiên, chúng tôi tham quan phố cổ và chùa Cầu.
+W.model: Ensuite, nous avons mangé un cao lầu délicieux. || Sau đó, chúng tôi ăn một tô cao lầu rất ngon.
+W.model: Le lendemain, nous nous sommes baignés à la plage d'An Bàng. || Hôm sau, chúng tôi tắm biển ở bãi An Bàng.
+W.model: Nous sommes rentrés après cinq jours, fatigués mais très contents. || Chúng tôi về sau năm ngày, mệt nhưng rất vui.
