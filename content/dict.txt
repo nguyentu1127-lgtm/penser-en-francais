@@ -2178,3 +2178,44 @@ volontairement | adverbe | tự nguyện, cố ý
 @er vouvoyer | xưng "vous"
 vouvoie | verbe | xưng "vous" (vouvoyer)
 l'étape | nom f. | giai đoạn
+l'abréviation | nom f. | chữ viết tắt
+l'acceptation | nom f. | sự chấp nhận
+amical | adjectif | thân thiện
+l'appart | nom m. | căn hộ (thân mật)
+attaché | adjectif | đính kèm, gắn bó
+bcp | abréviation | nhiều (beaucoup)
+compréhensif | adjectif | thông cảm, thấu hiểu
+concernant | préposition | liên quan đến
+la confiance | nom f. | lòng tin
+la crémaillère | nom f. | tiệc tân gia (pendre la crémaillère)
+@er emménager | chuyển đến (nhà mới)
+l'explication | nom f. | lời giải thích
+l'expéditeur | nom m. | người gửi
+informel | adjectif | thân mật, không trang trọng
+les infos | nom f. pl. | thông tin (thân mật)
+@v inscrire | đăng ký | inscris,inscris,inscrit,inscrivons,inscrivez,inscrivent | inscrit | inscriv | inscrir
+intensif | adjectif | cấp tốc
+joint | adjectif | đính kèm (pièce jointe)
+local | adjectif | địa phương
+mdr | abréviation | cười to (mort de rire)
+merveilleux | adjectif | tuyệt vời
+municipal | adjectif | thuộc thành phố
+l'ouverture | nom f. | phần mở đầu; sự mở cửa
+@er patienter | chờ đợi
+la présence | nom f. | sự có mặt
+rdv | abréviation | cuộc hẹn (rendez-vous)
+la recommandation | nom f. | sự giới thiệu, lời khuyên
+le remerciement | nom m. | lời cảm ơn
+le resto | nom m. | nhà hàng (thân mật)
+la salutation | nom f. | lời chào
+le sien | pronom | cái của anh/chị ấy
+la signature | nom f. | chữ ký
+la socca | nom f. | bánh socca (đặc sản Nice)
+le stagiaire | nom | thực tập sinh
+stp | abréviation | làm ơn (s'il te plaît)
+le style | nom m. | phong cách
+tardif | adjectif | muộn
+@v transmettre | chuyển giao | transmets,transmets,transmet,transmettons,transmettez,transmettent | transmis | transmett | transmettr
+turquoise | adjectif | xanh ngọc
+la tutrice | nom f. | người hướng dẫn (nữ)
+également | adverbe | cũng

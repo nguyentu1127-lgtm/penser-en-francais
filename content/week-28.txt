@@ -1,0 +1,383 @@
+@week 28
+@title Écrire un message
+@level A2
+
+## 1 | Le message informel
+G.title: Écrire à un ami
+G.rule: Dans un message informel à un ami ou à la famille, on tutoie, on commence par Salut, Coucou ou Cher / Chère + prénom, et on termine par Bisous, À bientôt ou Je t'embrasse. Le style est simple et spontané. || Trong tin nhắn thân mật gửi bạn bè hay gia đình, ta xưng "tu", mở đầu bằng Salut, Coucou hoặc Cher / Chère + tên, và kết thúc bằng Bisous, À bientôt hoặc Je t'embrasse. Văn phong đơn giản và tự nhiên.
+G.note: Mở đầu: Salut ! / Coucou ! (rất thân) / Cher Paul, Chère Lan, (hợp giống!). Nội dung: hỏi thăm (Comment ça va ? Ça fait longtemps !), kể tin, đề nghị. Kết thúc: À bientôt ! / Bisous ! / Gros bisous ! / Je t'embrasse / Grosses bises. Văn nói trong tin nhắn: "Tu viens ?" thay "Est-ce que tu viens ?", "Ça te dit de… ?" (Bạn có muốn… không?). Viết tắt hay gặp: stp (s'il te plaît), mdr (cười to), bcp (beaucoup), rdv (rendez-vous), slt (salut).
+G.table: Partie | Exemples
+G.row: ouverture | Salut ! / Coucou ! / Chère Lan,
+G.row: nouvelles | Comment ça va ? Ça fait longtemps !
+G.row: proposition | Ça te dit de venir samedi ?
+G.row: fin | À bientôt ! / Bisous ! / Je t'embrasse.
+G.row: abréviations | stp, bcp, rdv, mdr
+G.ex: Coucou Lan ! Ça fait longtemps ! Comment vas-tu ? || Chào Lan! Lâu quá không gặp! Bạn khoẻ không?
+G.ex: Ça te dit de prendre un café samedi après-midi ? || Chiều thứ Bảy bạn có muốn đi uống cà phê không?
+G.ex: Je t'envoie les photos de la fête. Bisous ! || Mình gửi bạn ảnh bữa tiệc. Hôn bạn!
+G.ex: Chère Mamie, je pense bien à toi. Je t'embrasse fort. || Bà yêu quý, cháu nhớ bà lắm. Cháu ôm hôn bà thật chặt.
+G.q: Pour commencer un message à un ami : | Madame, Monsieur, | *Salut ! | Veuillez agréer… | Objet :
+G.q: ___ Lan, (féminin) | Cher | *Chère | Chers | Chères
+G.q: Pour terminer un message à sa mère : | Cordialement | *Je t'embrasse | Veuillez agréer | Bonne réception
+G.q: « Ça te dit de venir ? » veut dire… | Tu dois venir. | *Tu as envie de venir ? | Tu es venu ? | Ne viens pas.
+G.q: Abréviation de « s'il te plaît » : ___ = stp
+V: coucou | /ku.ku/ | interjection | chào (rất thân) | Coucou, ça va ? || Chào, khoẻ không?
+V: cher | /ʃɛʁ/ | adjectif | thân mến | Cher Paul, || Paul thân mến,
+V: les bisous | /le bi.zu/ | nom m. pl. | những nụ hôn (kết thư thân mật) | Gros bisous ! || Hôn thật nhiều!
+V: embrasser | /ɑ̃.bʁa.se/ | verbe | hôn, ôm | Je t'embrasse. || Ôm hôn bạn.
+V: tutoyer | /ty.twa.je/ | verbe | xưng "tu" | On peut se tutoyer ? || Mình xưng "tu" được không?
+V: ça fait longtemps | /sa fɛ lɔ̃.tɑ̃/ | expression | lâu quá rồi | Ça fait longtemps qu'on ne s'est pas vus ! || Lâu quá rồi mình không gặp nhau!
+V: le rendez-vous | /lə ʁɑ̃.de.vu/ | nom m. | cuộc hẹn | On a rendez-vous à midi. || Chúng ta hẹn lúc trưa.
+V: les nouvelles | /le nu.vɛl/ | nom f. pl. | tin tức (về ai) | Donne-moi de tes nouvelles ! || Cho mình biết tin về bạn nhé!
+V: la mamie | /la ma.mi/ | nom f. | bà (thân mật) | Je téléphone à Mamie. || Tôi gọi cho bà.
+V: spontané | /spɔ̃.ta.ne/ | adjectif | tự nhiên | Un message spontané. || Một tin nhắn tự nhiên.
+VQ: Le contraire de « vouvoyer » : | embrasser | *tutoyer | écrire | répondre
+VQ: « Donne-moi de tes nouvelles » veut dire… | achète un journal | *dis-moi comment tu vas | envoie-moi de l'argent | viens me voir
+VQ: Abréviation de « rendez-vous » : | rdz | *rdv | rv | rnd
+VQ: Pour un message très amical, on finit par… | Cordialement | *Bisous | Salutations | Respectueusement
+VQ: Mot familier pour « grand-mère » : ___ = Mamie / mamie
+D: Coucou Lan ! Ça fait longtemps !
+D: Ça te dit de prendre un café samedi ?
+D: Je t'envoie les photos. Bisous !
+D: Chère Mamie, je t'embrasse fort.
+L: Message de Hà | Coucou Julie ! Ça va ? Ça fait longtemps ! || Chào Julie! Khoẻ không? Lâu quá rồi!
+L: Message de Julie | Salut Hà ! Oui, ça va bien, et toi ? Tu es rentrée de Đà Lạt ? || Chào Hà! Ừ, mình khoẻ, còn bạn? Bạn đi Đà Lạt về chưa?
+L: Message de Hà | Oui, hier soir ! C'était génial. Ça te dit de déjeuner ensemble dimanche ? Je te raconte tout. || Rồi, tối qua! Tuyệt lắm. Chủ Nhật bạn có muốn ăn trưa cùng không? Mình kể hết cho nghe.
+L: Message de Julie | Avec plaisir ! Rdv à midi au petit resto vietnamien ? || Rất sẵn lòng! Hẹn mười hai giờ ở quán Việt nhỏ nhé?
+L: Message de Hà | Parfait ! J'apporte des confitures de Đà Lạt pour toi. || Tuyệt! Mình mang mứt Đà Lạt cho bạn.
+L: Message de Julie | Trop gentille ! À dimanche, bisous ! || Dễ thương quá! Hẹn Chủ Nhật, hôn bạn!
+LQ: D'où revient Hà ? | de Hanoï | *de Đà Lạt | de Paris | de Huế
+LQ: Quand vont-elles déjeuner ? | samedi | *dimanche | lundi | ce soir
+LQ: Qu'est-ce que Hà apporte ? | des photos | *des confitures | des fleurs | un livre
+RA: Salut ! Coucou ! Chère Lan, Cher Paul,
+RA: Ça te dit de venir samedi ?
+RA: À bientôt ! Bisous ! Je t'embrasse.
+SH: Coucou ! Ça va ? Ça fait longtemps !
+SH: Ça te dit de déjeuner ensemble dimanche ?
+SH: À dimanche, bisous !
+R.title: Carte postale de Nice
+R: Chère Thảo, || Thảo thân mến,
+R: Je t'écris de Nice, où je passe une semaine avec ma famille. || Mình viết cho bạn từ Nice, nơi mình đang nghỉ một tuần cùng gia đình.
+R: Il fait un temps magnifique et la mer est turquoise ! || Thời tiết tuyệt đẹp và biển màu xanh ngọc!
+R: Hier, nous avons visité le vieux Nice et j'ai goûté la socca, une spécialité locale. Délicieux ! || Hôm qua, bọn mình tham quan khu phố cổ Nice và mình đã nếm thử socca, một đặc sản địa phương. Ngon tuyệt!
+R: Je pense à toi et j'ai hâte de te montrer mes photos. || Mình nghĩ đến bạn và nóng lòng cho bạn xem ảnh.
+R: Gros bisous, Camille || Hôn bạn thật nhiều, Camille
+RQ: Avec qui Camille est-elle à Nice ? | avec des amis | *avec sa famille | seule | avec Thảo
+RQ: Qu'est-ce que la socca ? | une plage | *une spécialité locale | un musée | une boisson
+RQ: Comment Camille termine-t-elle la carte ? | Cordialement | *Gros bisous | À demain | Je vous salue
+W.prompt: Écris un message à un ami que tu n'as pas vu depuis longtemps : donne de tes nouvelles, demande des siennes et propose de vous voir. || Viết tin nhắn cho một người bạn lâu rồi không gặp: kể tin về bạn, hỏi thăm họ và đề nghị gặp nhau.
+W.min: 50
+W.must: salut ; ça te dit ; bisous
+W.check: Mở đầu và kết thúc thân mật
+W.check: Xưng tu nhất quán
+W.check: Có tin tức, câu hỏi và đề nghị
+W.model: Salut Minh ! || Chào Minh!
+W.model: Ça fait longtemps ! Comment vas-tu ? Et ton nouveau travail à Singapour ? || Lâu quá rồi! Bạn khoẻ không? Còn công việc mới ở Singapore thì sao?
+W.model: Moi, ça va bien. J'ai déménagé dans un nouvel appartement et j'apprends le français depuis six mois ! || Mình ổn. Mình đã chuyển đến căn hộ mới và học tiếng Pháp được sáu tháng rồi!
+W.model: Ma sœur m'a dit que tu rentres à Hà Nội pour le Têt. C'est vrai ? || Chị mình bảo bạn về Hà Nội ăn Tết. Đúng không?
+W.model: Ça te dit de prendre un café ensemble ? Je connais un endroit super près du lac. || Bạn có muốn đi uống cà phê cùng không? Mình biết một chỗ rất hay gần hồ.
+W.model: Donne-moi de tes nouvelles ! Bisous, Vân. || Cho mình biết tin bạn nhé! Hôn bạn, Vân.
+
+## 2 | L'e-mail formel
+G.title: Écrire à une administration ou une entreprise
+G.rule: Dans un e-mail formel, on vouvoie, on indique un objet clair, on commence par Madame, Monsieur ou Madame X, on présente sa demande poliment avec le conditionnel et on termine par une formule de politesse. || Trong e-mail trang trọng, ta xưng "vous", ghi tiêu đề rõ ràng, mở đầu bằng Madame, Monsieur hoặc Madame X, trình bày yêu cầu lịch sự bằng thức điều kiện và kết thúc bằng một công thức lịch sự.
+G.note: Cấu trúc: (1) Objet : Demande d'informations / Inscription au cours de… (2) Madame, Monsieur, (khi không biết tên) hoặc Madame Martin, (3) Lý do viết: Je vous écris pour… / Je me permets de vous contacter au sujet de… (4) Yêu cầu: Je voudrais savoir si… / Pourriez-vous m'indiquer… ? (5) Kết: Je vous remercie par avance. Cordialement, / Bien cordialement, + họ tên. Không viết "Cher Monsieur" với người lạ, không dùng viết tắt, không dùng "bisous" hay dấu "!".
+G.table: Partie | Formule
+G.row: objet | Objet : Demande d'informations
+G.row: ouverture | Madame, Monsieur,
+G.row: raison | Je vous écris pour vous demander…
+G.row: demande | Pourriez-vous m'indiquer… ?
+G.row: remerciement | Je vous remercie par avance.
+G.row: fin | Cordialement, Nguyễn Văn An
+G.ex: Objet : Inscription au cours de français intensif || Tiêu đề: Đăng ký khoá học tiếng Pháp cấp tốc
+G.ex: Madame, Monsieur, je vous écris pour avoir des informations sur vos cours du soir. || Kính gửi ông/bà, tôi viết thư này để hỏi thông tin về các khoá học buổi tối.
+G.ex: Pourriez-vous m'indiquer les tarifs et les horaires ? || Ông/bà có thể cho tôi biết học phí và giờ học không?
+G.ex: Je vous remercie par avance pour votre réponse. Cordialement, Lê Thu Hà. || Xin cảm ơn trước vì sự phản hồi của ông/bà. Trân trọng, Lê Thu Hà.
+G.q: Pour commencer un e-mail formel à un inconnu : | Salut, | *Madame, Monsieur, | Cher ami, | Coucou,
+G.q: Pour terminer un e-mail formel : | Bisous | *Cordialement | À plus | Je t'embrasse
+G.q: Dans un e-mail formel, on utilise… | tu | *vous | les deux | on seulement
+G.q: Pour présenter la raison : | J'ai envie de… | *Je vous écris pour… | Ça te dit de… | Écoute,
+G.q: Je vous remercie par ___. (trước) = avance
+V: l'objet | /lɔb.ʒɛ/ | nom m. | tiêu đề (e-mail); đồ vật | Écrivez un objet clair. || Hãy viết tiêu đề rõ ràng.
+V: cordialement | /kɔʁ.dja.lə.mɑ̃/ | adverbe | trân trọng | Cordialement, Paul Martin. || Trân trọng, Paul Martin.
+V: par avance | /paʁ a.vɑ̃s/ | expression | trước | Merci par avance. || Cảm ơn trước.
+V: la demande | /la də.mɑ̃d/ | nom f. | yêu cầu | J'ai une demande. || Tôi có một yêu cầu.
+V: l'inscription | /lɛ̃s.kʁip.sjɔ̃/ | nom f. | sự đăng ký | L'inscription est en ligne. || Đăng ký trực tuyến.
+V: le tarif | /lə ta.ʁif/ | nom m. | biểu giá | Quels sont vos tarifs ? || Biểu giá của quý vị thế nào?
+V: se permettre | /sə pɛʁ.mɛtʁ/ | verbe | xin phép, mạn phép | Je me permets de vous écrire. || Tôi mạn phép viết thư cho ông/bà.
+V: au sujet de | /o sy.ʒɛ də/ | expression | về việc | Je vous écris au sujet de ma facture. || Tôi viết về hoá đơn của tôi.
+V: la pièce jointe | /la pjɛs ʒwɛ̃t/ | nom f. | tệp đính kèm | Vous trouverez mon CV en pièce jointe. || Ông/bà sẽ thấy CV của tôi trong tệp đính kèm.
+V: l'administration | /lad.mi.nis.tʁa.sjɔ̃/ | nom f. | cơ quan hành chính | J'écris à l'administration. || Tôi viết thư cho cơ quan hành chính.
+VQ: Le document attaché à un e-mail : | l'objet | *la pièce jointe | le tarif | la demande
+VQ: Le sujet d'un e-mail s'écrit dans l'… | adresse | *objet | signature | pièce jointe
+VQ: « Au sujet de » veut dire… | à cause de | *concernant | grâce à | au lieu de
+VQ: Les prix d'un service : les… | demandes | *tarifs | inscriptions | objets
+VQ: Formule finale la plus courante : ___ = Cordialement
+D: Objet : Inscription au cours de français intensif.
+D: Madame, Monsieur, je vous écris pour avoir des informations.
+D: Pourriez-vous m'indiquer les tarifs et les horaires ?
+D: Je vous remercie par avance. Cordialement.
+L: Collègue | Tu peux relire mon e-mail pour l'école de langues ? || Bạn đọc lại giúp mình e-mail gửi trường ngôn ngữ được không?
+L: Sang | Bien sûr. Hmm… « Salut, je veux des infos sur vos cours. » C'est trop familier ! || Tất nhiên. Hmm… « Chào, tôi muốn thông tin về khoá học. » Thân mật quá!
+L: Collègue | Ah bon ? Qu'est-ce que je dois écrire ? || Thật à? Mình phải viết gì?
+L: Sang | Commence par « Madame, Monsieur », puis « Je vous écris pour avoir des informations sur vos cours ». || Bắt đầu bằng « Madame, Monsieur », rồi « Je vous écris pour avoir des informations sur vos cours ».
+L: Collègue | Et à la fin, je mets « Bisous » ? || Còn cuối thư, mình viết « Bisous » à?
+L: Sang | Surtout pas ! Écris « Je vous remercie par avance. Cordialement », et ton nom. || Tuyệt đối không! Viết « Je vous remercie par avance. Cordialement », và tên bạn.
+LQ: À qui le collègue écrit-il ? | à un ami | *à une école de langues | à sa mère | à son chef
+LQ: Quel est le problème de son e-mail ? | trop long | *trop familier | trop formel | en anglais
+LQ: Quelle formule finale conseille Sang ? | Bisous | *Cordialement | À plus | Salut
+RA: Madame, Monsieur,
+RA: Je vous écris pour avoir des informations.
+RA: Je vous remercie par avance. Cordialement.
+SH: C'est trop familier !
+SH: Commence par « Madame, Monsieur ».
+SH: Je vous remercie par avance. Cordialement.
+R.title: E-mail à la mairie
+R: Objet : Demande d'inscription à la bibliothèque municipale || Tiêu đề: Đề nghị đăng ký thẻ thư viện thành phố
+R: Madame, Monsieur, || Kính gửi ông/bà,
+R: Je viens d'emménager dans votre ville et je souhaiterais m'inscrire à la bibliothèque municipale. || Tôi vừa chuyển đến thành phố và muốn đăng ký thẻ thư viện thành phố.
+R: Pourriez-vous m'indiquer quels documents je dois apporter et si l'inscription est gratuite ? || Ông/bà có thể cho tôi biết tôi cần mang những giấy tờ gì và việc đăng ký có miễn phí không?
+R: Je voudrais également savoir si la bibliothèque propose des livres en vietnamien. || Tôi cũng muốn biết thư viện có sách tiếng Việt không.
+R: Je vous remercie par avance pour votre réponse. Cordialement, Đỗ Minh Tâm || Xin cảm ơn trước vì sự phản hồi của ông/bà. Trân trọng, Đỗ Minh Tâm
+RQ: Pourquoi Tâm écrit-il ? | pour se plaindre | *pour s'inscrire à la bibliothèque | pour un travail | pour un logement
+RQ: Quelle question pose-t-il sur le prix ? | combien coûte un livre | *si l'inscription est gratuite | le prix du parking | rien
+RQ: Qu'est-ce qu'il veut savoir aussi ? | les horaires | *s'il y a des livres en vietnamien | l'adresse | le nom du directeur
+W.prompt: Écris un e-mail formel à une école de langues pour demander des informations sur un cours (dates, prix, niveau, horaires). || Viết e-mail trang trọng gửi một trường ngôn ngữ để hỏi thông tin về một khoá học (ngày, giá, trình độ, giờ học).
+W.min: 60
+W.must: objet ; madame, monsieur ; pourriez-vous ; cordialement
+W.check: Có tiêu đề, mở đầu, lý do, yêu cầu, cảm ơn, kết thư
+W.check: Xưng vous nhất quán, không viết tắt
+W.check: Dùng thức điều kiện lịch sự (je voudrais, pourriez-vous)
+W.model: Objet : Demande d'informations sur les cours de français du soir || Tiêu đề: Hỏi thông tin về các khoá tiếng Pháp buổi tối
+W.model: Madame, Monsieur, || Kính gửi ông/bà,
+W.model: Je me permets de vous écrire car je souhaite continuer à apprendre le français. J'ai actuellement le niveau A2. || Tôi mạn phép viết thư này vì tôi muốn tiếp tục học tiếng Pháp. Hiện tôi có trình độ A2.
+W.model: Pourriez-vous m'indiquer les dates de la prochaine session de niveau B1 et les horaires des cours du soir ? || Ông/bà có thể cho tôi biết ngày khai giảng khoá B1 tiếp theo và giờ học các lớp buổi tối không?
+W.model: Je voudrais également connaître le prix de la formation et savoir s'il y a un test de niveau. || Tôi cũng muốn biết học phí và có bài kiểm tra trình độ không.
+W.model: Je vous remercie par avance pour votre réponse. Cordialement, Phạm Thị Lan || Xin cảm ơn trước vì sự phản hồi. Trân trọng, Phạm Thị Lan
+
+## 3 | Les formules de politesse
+G.title: Adapter le registre
+G.rule: Les formules de politesse changent selon la relation avec le destinataire : très familières (Bisous), amicales (Amitiés, À bientôt), neutres (Cordialement, Bien à vous) ou très formelles (Veuillez agréer, Madame, Monsieur, l'expression de mes salutations distinguées). || Công thức lịch sự thay đổi theo mối quan hệ với người nhận: rất thân mật (Bisous), thân thiện (Amitiés, À bientôt), trung tính (Cordialement, Bien à vous) hoặc rất trang trọng (Veuillez agréer, Madame, Monsieur, l'expression de mes salutations distinguées).
+G.note: Bảng chọn nhanh: Gia đình, bạn thân → Bisous, Je t'embrasse. Bạn bè, đồng nghiệp thân → Amitiés, À bientôt, Bonne journée ! Đồng nghiệp, khách hàng (e-mail) → Cordialement, Bien cordialement, Bien à vous. Thư hành chính, thư xin việc → Veuillez agréer… salutations distinguées (rất trang trọng, chủ yếu trong thư giấy). Mở đầu tương ứng: Coucou / Salut → Bonjour Paul → Madame Martin → Madame, Monsieur. "Bonjour + tên" ngày càng phổ biến trong e-mail công việc.
+G.table: Registre | Début | Fin
+G.row: très familier | Coucou ! | Bisous !
+G.row: amical | Cher Paul, / Salut Paul ! | Amitiés / À bientôt
+G.row: professionnel | Bonjour Madame Martin, | Cordialement / Bien à vous
+G.row: très formel | Madame, Monsieur, | Veuillez agréer… mes salutations distinguées.
+G.ex: Bonjour Monsieur Dupont, je vous envoie le rapport en pièce jointe. Bien cordialement. || Chào ông Dupont, tôi gửi ông báo cáo trong tệp đính kèm. Trân trọng.
+G.ex: Merci pour ton aide hier ! Amitiés, Lucie. || Cảm ơn bạn đã giúp hôm qua! Thân mến, Lucie.
+G.ex: Veuillez agréer, Madame, Monsieur, l'expression de mes salutations distinguées. || Xin ông/bà vui lòng nhận lời chào trân trọng của tôi.
+G.ex: Bonne fin de journée et à demain ! || Chúc một buổi chiều tốt lành và hẹn ngày mai!
+G.q: Pour un client que tu connais un peu : | Bisous | *Bien cordialement | Je t'embrasse | Coucou
+G.q: Pour une lettre de motivation : | À plus ! | *Veuillez agréer… salutations distinguées | Bisous | Amitiés
+G.q: Pour un collègue sympa : | Veuillez agréer | *À bientôt ! | Madame, Monsieur | Salutations distinguées
+G.q: Pour commencer un e-mail professionnel à Mme Martin : | Coucou Mme Martin ! | *Bonjour Madame Martin, | Salut Martin ! | Chère amie,
+G.q: Formule amicale de fin : ___ (thân mến) = Amitiés
+V: la formule | /la fɔʁ.myl/ | nom f. | công thức, câu mẫu | Une formule de politesse. || Một câu lịch sự.
+V: le registre | /lə ʁə.ʒistʁ/ | nom m. | văn phong | Le registre est formel. || Văn phong trang trọng.
+V: le destinataire | /lə dɛs.ti.na.tɛʁ/ | nom m. | người nhận | Qui est le destinataire ? || Người nhận là ai?
+V: amitiés | /a.mi.tje/ | nom f. pl. | thân mến (kết thư) | Amitiés, Paul. || Thân mến, Paul.
+V: veuillez | /vœ.je/ | verbe | xin vui lòng | Veuillez patienter. || Xin vui lòng chờ.
+V: agréer | /a.ɡʁe.e/ | verbe | chấp nhận (trang trọng) | Veuillez agréer mes salutations. || Xin nhận lời chào của tôi.
+V: les salutations | /le sa.ly.ta.sjɔ̃/ | nom f. pl. | lời chào | Mes salutations distinguées. || Lời chào trân trọng của tôi.
+V: distingué | /dis.tɛ̃.ɡe/ | adjectif | trân trọng, lịch lãm | Salutations distinguées. || Lời chào trân trọng.
+V: formel | /fɔʁ.mɛl/ | adjectif | trang trọng | Une lettre formelle. || Một lá thư trang trọng.
+V: familier | /fa.mi.lje/ | adjectif | thân mật, suồng sã | Ce mot est familier. || Từ này suồng sã.
+VQ: Le contraire de « formel » : | distingué | *familier | poli | sérieux
+VQ: La personne qui reçoit un message : | l'expéditeur | *le destinataire | le facteur | l'auteur
+VQ: « Veuillez patienter » veut dire… | partez | *attendez, s'il vous plaît | répondez | signez
+VQ: Le niveau de langue (familier, formel…) : le… | formule | *registre | destinataire | salutation
+VQ: Mes salutations ___. (trân trọng) = distinguées
+D: Bonjour Monsieur Dupont, je vous envoie le rapport.
+D: Merci pour ton aide ! Amitiés, Lucie.
+D: Veuillez agréer mes salutations distinguées.
+D: Bonne fin de journée et à demain !
+L: Stagiaire | Je dois écrire au directeur. Je commence par « Coucou » ? || Em phải viết cho giám đốc. Em mở đầu bằng « Coucou » ạ?
+L: Tutrice | Non, pas du tout ! « Bonjour Monsieur Leroy » ou « Monsieur, ». || Không, tuyệt đối không! « Bonjour Monsieur Leroy » hoặc « Monsieur, ».
+L: Stagiaire | Et pour finir ? « Bisous » ? || Còn kết thư? « Bisous » ạ?
+L: Tutrice | Jamais avec le directeur ! « Cordialement » ou « Bien cordialement ». || Không bao giờ với giám đốc! « Cordialement » hoặc « Bien cordialement ».
+L: Stagiaire | Et avec vous, je peux écrire « À bientôt » ? || Còn với chị, em có thể viết « À bientôt » không?
+L: Tutrice | Oui, avec moi, tu peux être plus amical. On se connaît bien ! || Được, với chị, em có thể thân thiện hơn. Chúng ta quen nhau rồi mà!
+LQ: À qui le stagiaire doit-il écrire ? | à sa tutrice | *au directeur | à un client | à un ami
+LQ: Quelle formule finale conseille la tutrice pour le directeur ? | Bisous | *Cordialement | À bientôt | Amitiés
+LQ: Avec la tutrice, le stagiaire peut… | écrire « Coucou » | *être plus amical | ne pas écrire | utiliser « Veuillez agréer »
+RA: Coucou ! Salut ! Bonjour Madame Martin ! Madame, Monsieur,
+RA: Bisous. Amitiés. Cordialement. Bien à vous.
+RA: Veuillez agréer mes salutations distinguées.
+SH: Je commence par « Coucou » ?
+SH: « Cordialement » ou « Bien cordialement ».
+SH: Avec moi, tu peux être plus amical.
+R.title: Trois messages, trois registres
+R: Message 1 : « Coucou Maman ! Je suis bien arrivée à Lyon. Je t'appelle ce soir. Gros bisous ! » || Tin 1: « Mẹ ơi! Con đã đến Lyon an toàn. Tối nay con gọi mẹ. Hôn mẹ thật nhiều! »
+R: Message 2 : « Salut Thomas ! Merci pour ton accueil ce week-end, c'était super. À bientôt, Mai. » || Tin 2: « Chào Thomas! Cảm ơn bạn đã đón tiếp cuối tuần này, tuyệt lắm. Hẹn sớm gặp lại, Mai. »
+R: Message 3 : « Bonjour Madame Roux, je vous confirme ma présence à la réunion de jeudi. Bien cordialement, Mai Nguyễn. » || Tin 3: « Chào bà Roux, tôi xác nhận sẽ có mặt trong cuộc họp thứ Năm. Trân trọng, Mai Nguyễn. »
+R: Le premier message est très familier : Mai écrit à sa mère. || Tin đầu tiên rất thân mật: Mai viết cho mẹ.
+R: Le deuxième est amical : elle écrit à un ami. || Tin thứ hai thân thiện: cô viết cho một người bạn.
+R: Le troisième est professionnel : elle écrit à une collègue de travail. || Tin thứ ba mang tính công việc: cô viết cho một đồng nghiệp.
+RQ: Où est arrivée Mai ? | à Paris | *à Lyon | à Nice | à Hanoï
+RQ: Pourquoi Mai remercie Thomas ? | pour un cadeau | *pour son accueil ce week-end | pour un livre | pour son aide au travail
+RQ: Quel est le registre du message 3 ? | familier | amical | *professionnel | très formel
+W.prompt: Écris le même message (tu annonces que tu seras en retard demain) à trois personnes différentes : ta sœur, un ami, ton chef. Adapte le registre et les formules. || Viết cùng một nội dung (bạn báo mai sẽ đến muộn) cho ba người khác nhau: chị/em gái, một người bạn, sếp của bạn. Điều chỉnh văn phong và công thức.
+W.min: 60
+W.must: bisous ; à bientôt ; cordialement
+W.check: Mỗi tin nhắn có mở đầu và kết thúc phù hợp
+W.check: tu cho chị/em và bạn, vous cho sếp
+W.check: Văn phong khác nhau rõ ràng
+W.model: Coucou Linh ! Demain, je vais arriver en retard pour le déjeuner chez Maman, vers treize heures. Gros bisous ! || Linh ơi! Mai chị sẽ đến muộn bữa trưa ở nhà mẹ, khoảng một giờ chiều. Hôn em thật nhiều!
+W.model: Salut Hugo ! Désolé, demain je vais être en retard au cinéma, j'ai un rendez-vous chez le médecin. Commence sans moi ! À bientôt ! || Chào Hugo! Xin lỗi, mai mình sẽ đến rạp muộn, mình có hẹn với bác sĩ. Bạn cứ xem trước đi! Hẹn gặp!
+W.model: Bonjour Monsieur Garnier, || Chào ông Garnier,
+W.model: Je vous informe que je vais arriver au bureau à dix heures demain matin, car j'ai un rendez-vous médical. || Tôi xin thông báo sáng mai tôi sẽ đến văn phòng lúc mười giờ, vì tôi có lịch khám bệnh.
+W.model: Je vais rattraper mes heures dans l'après-midi. || Tôi sẽ làm bù giờ vào buổi chiều.
+W.model: Bien cordialement, Trần Văn Khải || Trân trọng, Trần Văn Khải
+
+## 4 | Remercier et s'excuser
+G.title: Merci et pardon par écrit
+G.rule: Pour remercier, on utilise merci pour + nom, merci d'avoir + participe passé, ou je vous remercie de… Pour s'excuser, on utilise je suis désolé(e) de / pour…, excuse-moi / excusez-moi pour… et on peut donner une explication. || Để cảm ơn, ta dùng merci pour + danh từ, merci d'avoir + phân từ quá khứ, hoặc je vous remercie de… Để xin lỗi, ta dùng je suis désolé(e) de / pour…, excuse-moi / excusez-moi pour… và có thể đưa ra lời giải thích.
+G.note: Cảm ơn: Merci pour ton cadeau. Merci d'être venu(e) (cảm ơn đã đến — với être). Merci de m'avoir aidé (cảm ơn đã giúp tôi — với avoir). Mạnh hơn: Merci mille fois ! Un grand merci ! Je ne sais pas comment te remercier. Đáp lại: De rien. Je t'en prie / Je vous en prie. Avec plaisir. Xin lỗi: Je suis désolé(e) pour mon retard. Je suis désolé(e) de ne pas avoir répondu. Excusez-moi pour le dérangement. Đáp lại: Ce n'est pas grave. Ne t'inquiète pas. Il n'y a pas de problème.
+G.table: Fonction | Formule | Réponse
+G.row: remercier | Merci pour ton aide ! | De rien !
+G.row: remercier (passé) | Merci d'être venu ! | Avec plaisir !
+G.row: remercier (formel) | Je vous remercie de votre patience. | Je vous en prie.
+G.row: s'excuser | Je suis désolé pour mon retard. | Ce n'est pas grave.
+G.row: s'excuser (formel) | Veuillez m'excuser pour ce problème. | Il n'y a pas de problème.
+G.ex: Merci mille fois pour ce magnifique cadeau ! || Cảm ơn bạn ngàn lần vì món quà tuyệt đẹp này!
+G.ex: Merci de m'avoir aidé à déménager samedi. || Cảm ơn bạn đã giúp mình chuyển nhà hôm thứ Bảy.
+G.ex: Je suis vraiment désolée de ne pas être venue à ton anniversaire. || Mình thật sự xin lỗi vì đã không đến sinh nhật bạn.
+G.ex: Je vous prie de m'excuser pour ce retard de livraison. || Tôi xin ông/bà thứ lỗi vì sự chậm trễ giao hàng này.
+G.q: Merci ___ ton aide. | de | *pour | à | avec
+G.q: Merci d'___ venu ! | avoir | *être | été | es
+G.q: Réponse à « Merci beaucoup ! » : | Ce n'est pas grave. | *De rien ! | Je suis désolé. | Excusez-moi.
+G.q: Réponse à « Je suis désolé pour mon retard » : | De rien. | *Ce n'est pas grave. | Avec plaisir. | Merci.
+G.q: Merci ___ fois ! (ngàn lần) = mille
+V: remercier | /ʁə.mɛʁ.sje/ | verbe | cảm ơn | Je vous remercie. || Tôi cảm ơn ông/bà.
+V: de rien | /də ʁjɛ̃/ | expression | không có gì | Merci ! — De rien ! || Cảm ơn! — Không có gì!
+V: s'excuser | /sɛks.ky.ze/ | verbe | xin lỗi | Je m'excuse pour hier. || Tôi xin lỗi về chuyện hôm qua.
+V: désolé | /de.zɔ.le/ | adjectif | xin lỗi, lấy làm tiếc | Je suis désolé. || Tôi xin lỗi.
+V: le dérangement | /lə de.ʁɑ̃ʒ.mɑ̃/ | nom m. | sự làm phiền | Excusez-moi pour le dérangement. || Xin lỗi đã làm phiền.
+V: ce n'est pas grave | /sə nɛ pa ɡʁav/ | expression | không sao | Ce n'est pas grave, ça arrive. || Không sao, chuyện thường mà.
+V: mille fois | /mil fwa/ | expression | ngàn lần | Merci mille fois ! || Cảm ơn ngàn lần!
+V: la gentillesse | /la ʒɑ̃.ti.jɛs/ | nom f. | sự tử tế | Merci pour votre gentillesse. || Cảm ơn sự tử tế của ông/bà.
+V: l'oubli | /lu.bli/ | nom m. | sự quên | Désolé pour cet oubli. || Xin lỗi vì đã quên.
+V: l'aide | /lɛd/ | nom f. | sự giúp đỡ | Merci pour ton aide. || Cảm ơn bạn đã giúp.
+VQ: Réponse polie à « Merci » : | Pardon | *Je vous en prie | Désolé | Excusez-moi
+VQ: « Ce n'est pas grave » répond à… | un merci | *une excuse | une question | une invitation
+VQ: Le fait d'oublier quelque chose : | l'aide | *l'oubli | la gentillesse | le dérangement
+VQ: Une personne gentille montre de la… | patience | *gentillesse | dérangement | aide
+VQ: Merci ! — De ___ ! = rien
+D: Merci mille fois pour ce magnifique cadeau !
+D: Merci de m'avoir aidé à déménager.
+D: Je suis vraiment désolée de ne pas être venue.
+D: Excusez-moi pour le dérangement.
+L: Message de Phúc | Salut Léa ! Je suis vraiment désolé, j'ai oublié notre rendez-vous hier soir… || Chào Léa! Mình thật sự xin lỗi, mình đã quên cuộc hẹn tối qua…
+L: Message de Phúc | J'ai eu une réunion très tard et mon téléphone n'avait plus de batterie. || Mình có cuộc họp rất muộn và điện thoại hết pin.
+L: Message de Léa | Ce n'est pas grave, ne t'inquiète pas ! J'ai attendu un peu, puis je suis rentrée. || Không sao, đừng lo! Mình chờ một lúc rồi về.
+L: Message de Phúc | Pour m'excuser, je t'invite au restaurant samedi ? || Để xin lỗi, thứ Bảy mình mời bạn đi nhà hàng nhé?
+L: Message de Léa | Avec plaisir ! Et merci pour ton message, c'est gentil. || Rất sẵn lòng! Và cảm ơn tin nhắn của bạn, bạn thật tử tế.
+L: Message de Phúc | Merci à toi d'être si compréhensive ! À samedi ! || Cảm ơn bạn đã thông cảm! Hẹn thứ Bảy!
+LQ: Pourquoi Phúc s'excuse ? | il est arrivé en retard | *il a oublié le rendez-vous | il a cassé quelque chose | il a menti
+LQ: Quelle explication donne-t-il ? | il était malade | *réunion tardive et téléphone sans batterie | il a dormi | il a perdu son chemin
+LQ: Comment Phúc veut s'excuser ? | avec des fleurs | *il invite Léa au restaurant | avec un cadeau | il l'appelle
+RA: Merci pour ton aide ! Merci d'être venu !
+RA: Je suis désolé pour mon retard.
+RA: De rien. Je vous en prie. Ce n'est pas grave.
+SH: Je suis vraiment désolé, j'ai oublié notre rendez-vous.
+SH: Ce n'est pas grave, ne t'inquiète pas !
+SH: Merci à toi d'être si compréhensive !
+R.title: Lettre de remerciement
+R: Chère Madame Dubois, || Kính gửi bà Dubois,
+R: Je voulais vous remercier pour votre accueil pendant mon stage dans votre entreprise. || Tôi muốn cảm ơn bà vì sự đón tiếp trong thời gian tôi thực tập tại công ty của bà.
+R: Grâce à vous, j'ai beaucoup appris sur le métier et j'ai fait des progrès en français. || Nhờ bà, tôi đã học được rất nhiều về nghề và tiến bộ tiếng Pháp.
+R: Merci de m'avoir fait confiance et de m'avoir donné des missions intéressantes. || Cảm ơn bà đã tin tưởng tôi và giao cho tôi những nhiệm vụ thú vị.
+R: Je suis désolé de ne pas avoir pu dire au revoir à toute l'équipe le dernier jour. || Tôi xin lỗi vì đã không thể chào tạm biệt cả nhóm vào ngày cuối cùng.
+R: Je vous prie de transmettre mes remerciements à tous. Bien à vous, Quốc Bảo || Xin bà chuyển lời cảm ơn của tôi đến mọi người. Thân ái, Quốc Bảo
+RQ: Pourquoi Bảo remercie Madame Dubois ? | pour un cadeau | *pour son accueil pendant son stage | pour un dîner | pour un livre
+RQ: Pourquoi s'excuse-t-il ? | pour un retard | *il n'a pas dit au revoir à l'équipe | pour une erreur | pour son français
+RQ: Que demande-t-il à la fin ? | une lettre de recommandation | *de transmettre ses remerciements à tous | un emploi | une réponse
+W.prompt: Écris deux courts messages : un pour remercier quelqu'un qui t'a aidé, et un pour t'excuser d'un oubli ou d'un retard. Donne une explication et propose quelque chose. || Viết hai tin nhắn ngắn: một để cảm ơn người đã giúp bạn, và một để xin lỗi vì đã quên hoặc đến muộn. Đưa ra lời giải thích và đề xuất một điều gì đó.
+W.min: 55
+W.must: merci ; désolé ; pour
+W.check: merci pour + danh từ / merci d'avoir + phân từ
+W.check: Lời xin lỗi có giải thích
+W.check: Mỗi tin có mở đầu và kết thúc phù hợp
+W.model: Chère Hạnh, || Hạnh thân mến,
+W.model: Merci mille fois de m'avoir aidée à préparer mon entretien ! Grâce à tes conseils, j'ai eu le poste. Je t'invite à dîner pour fêter ça. Bisous, Ngân. || Cảm ơn bạn ngàn lần đã giúp mình chuẩn bị phỏng vấn! Nhờ lời khuyên của bạn, mình đã được nhận. Mình mời bạn ăn tối để ăn mừng nhé. Hôn bạn, Ngân.
+W.model: Bonjour Monsieur Lefort, || Chào ông Lefort,
+W.model: Je suis vraiment désolée de ne pas avoir répondu plus tôt à votre e-mail. || Tôi thật sự xin lỗi vì đã không trả lời e-mail của ông sớm hơn.
+W.model: J'étais en déplacement toute la semaine et je n'avais pas accès à mes messages. || Tôi đi công tác cả tuần và không truy cập được tin nhắn.
+W.model: Je vous envoie le document demandé en pièce jointe. Bien cordialement, Ngân Lê. || Tôi gửi ông tài liệu được yêu cầu trong tệp đính kèm. Trân trọng, Ngân Lê.
+
+## 5 | Accepter et refuser
+G.title: Répondre à une invitation
+G.rule: Pour accepter une invitation, on dit avec plaisir, volontiers, c'est une super idée. Pour refuser poliment, on remercie, on exprime son regret, on donne une raison et on propose une autre date. || Để nhận lời mời, ta nói avec plaisir (rất sẵn lòng), volontiers (sẵn lòng), c'est une super idée (ý hay quá). Để từ chối lịch sự, ta cảm ơn, bày tỏ sự tiếc nuối, đưa ra lý do và đề xuất ngày khác.
+G.note: Nhận lời: Avec plaisir ! Volontiers ! Bonne idée, je viens ! J'accepte avec joie. Từ chối (4 bước): (1) Cảm ơn: Merci pour l'invitation. (2) Tiếc: Malheureusement, je ne peux pas… / C'est dommage, mais… (3) Lý do: J'ai déjà quelque chose de prévu. Je dois travailler. (4) Đề xuất: Une autre fois ? On peut se voir la semaine prochaine ? Trang trọng: J'ai le regret de vous informer que je ne pourrai pas être présent(e)… Đừng chỉ nói "Non" — thiếu lịch sự!
+G.table: Étape | Exemple
+G.row: accepter | Avec plaisir ! Je viens avec mon mari.
+G.row: remercier | Merci beaucoup pour l'invitation.
+G.row: regret | Malheureusement, je ne peux pas venir.
+G.row: raison | J'ai déjà quelque chose de prévu.
+G.row: proposition | On peut se voir une autre fois ?
+G.ex: Merci pour ton invitation ! Avec plaisir, je viens samedi. || Cảm ơn lời mời của bạn! Rất sẵn lòng, thứ Bảy mình đến.
+G.ex: C'est gentil, mais malheureusement, je ne suis pas libre ce soir. || Bạn thật tốt, nhưng tiếc là tối nay mình không rảnh.
+G.ex: J'ai déjà quelque chose de prévu ce week-end. Une autre fois ? || Cuối tuần này mình có hẹn rồi. Để lần khác nhé?
+G.ex: Je vous remercie pour votre invitation, mais je ne pourrai pas être présent. || Cảm ơn lời mời của ông/bà, nhưng tôi sẽ không thể có mặt.
+G.q: Pour accepter : | Malheureusement… | *Volontiers ! | J'ai déjà quelque chose de prévu. | Une autre fois ?
+G.q: Pour refuser poliment, on commence par… | Non. | *Merci pour l'invitation, mais… | Je ne veux pas. | C'est nul.
+G.q: « J'ai déjà quelque chose de prévu » est… | une acceptation | *une raison pour refuser | une invitation | un remerciement
+G.q: Pour proposer une autre date : | Avec plaisir ! | *On peut se voir une autre fois ? | Malheureusement | Volontiers
+G.q: Pour accepter : Avec ___ ! = plaisir
+V: l'invitation | /lɛ̃.vi.ta.sjɔ̃/ | nom f. | lời mời | Merci pour l'invitation. || Cảm ơn lời mời.
+V: accepter | /ak.sɛp.te/ | verbe | chấp nhận, nhận lời | J'accepte avec plaisir. || Tôi rất sẵn lòng nhận lời.
+V: refuser | /ʁə.fy.ze/ | verbe | từ chối | Il a refusé l'invitation. || Anh ấy đã từ chối lời mời.
+V: volontiers | /vɔ.lɔ̃.tje/ | adverbe | sẵn lòng | Un café ? — Volontiers ! || Một ly cà phê nhé? — Sẵn lòng!
+V: malheureusement | /ma.lœ.ʁøz.mɑ̃/ | adverbe | tiếc là | Malheureusement, je ne peux pas. || Tiếc là tôi không thể.
+V: prévu | /pʁe.vy/ | adjectif | đã dự định | J'ai quelque chose de prévu. || Tôi có dự định rồi.
+V: le regret | /lə ʁə.ɡʁɛ/ | nom m. | sự tiếc nuối | J'ai le regret de refuser. || Tôi rất tiếc phải từ chối.
+V: présent | /pʁe.zɑ̃/ | adjectif | có mặt | Je serai présent. || Tôi sẽ có mặt.
+V: une autre fois | /yn otʁ fwa/ | expression | lần khác | On se voit une autre fois ! || Hẹn lần khác nhé!
+V: libre | /libʁ/ | adjectif | rảnh | Tu es libre samedi ? || Thứ Bảy bạn rảnh không?
+VQ: Le contraire de « accepter » : | inviter | *refuser | proposer | remercier
+VQ: Le contraire de « occupé » : | prévu | *libre | présent | absent
+VQ: Synonyme de « avec plaisir » : | malheureusement | *volontiers | une autre fois | dommage
+VQ: Le contraire de « absent » : | libre | *présent | prévu | invité
+VQ: Merci pour l'___ ! (lời mời) = invitation
+D: Merci pour ton invitation ! Avec plaisir.
+D: Malheureusement, je ne suis pas libre ce soir.
+D: J'ai déjà quelque chose de prévu. Une autre fois ?
+D: Je ne pourrai pas être présent.
+L: Message d'Emma | Salut Tú ! Je fais une crémaillère samedi soir dans mon nouvel appart. Tu viens ? || Chào Tú! Tối thứ Bảy mình làm tiệc tân gia ở căn hộ mới. Bạn đến không?
+L: Message de Tú | Merci pour l'invitation, c'est super gentil ! || Cảm ơn lời mời, bạn tốt quá!
+L: Message de Tú | Malheureusement, samedi, c'est l'anniversaire de ma mère, je dois aller chez mes parents. || Nhưng tiếc là thứ Bảy là sinh nhật mẹ mình, mình phải về nhà bố mẹ.
+L: Message d'Emma | Oh, dommage ! || Ôi, tiếc quá!
+L: Message de Tú | Mais je peux passer dimanche après-midi pour voir ton appart ? J'apporte un gâteau ! || Nhưng chiều Chủ Nhật mình qua xem căn hộ của bạn được không? Mình mang bánh đến!
+L: Message d'Emma | Volontiers ! Viens vers quinze heures. À dimanche ! || Sẵn lòng! Khoảng ba giờ chiều đến nhé. Hẹn Chủ Nhật!
+LQ: Pourquoi Emma fait une fête ? | son anniversaire | *elle a un nouvel appartement | Noël | son nouveau travail
+LQ: Pourquoi Tú ne peut pas venir samedi ? | il travaille | *c'est l'anniversaire de sa mère | il est malade | il part en voyage
+LQ: Quand Tú va-t-il passer ? | samedi soir | *dimanche après-midi | lundi | jamais
+RA: Avec plaisir ! Volontiers ! Bonne idée !
+RA: Merci pour l'invitation, mais malheureusement…
+RA: J'ai déjà quelque chose de prévu. Une autre fois ?
+SH: Merci pour l'invitation, c'est super gentil !
+SH: Malheureusement, je dois aller chez mes parents.
+SH: Volontiers ! Viens vers quinze heures.
+R.title: Invitation au mariage
+R: Lan et Pierre ont le plaisir de vous inviter à leur mariage le samedi 14 juin à quinze heures, à la mairie de Lyon. || Lan và Pierre hân hạnh mời quý khách đến dự đám cưới vào thứ Bảy ngày 14 tháng Sáu lúc ba giờ chiều, tại toà thị chính Lyon.
+R: La réception aura lieu ensuite au restaurant Le Jardin. || Tiệc chiêu đãi sẽ diễn ra sau đó tại nhà hàng Le Jardin.
+R: Merci de confirmer votre présence avant le 1er mai. || Xin vui lòng xác nhận sự có mặt trước ngày 1 tháng Năm.
+R: Réponse de Monsieur et Madame Morel : « Nous acceptons avec une grande joie et nous serons présents avec nos deux enfants. » || Phản hồi của ông bà Morel: « Chúng tôi rất vui mừng nhận lời và sẽ có mặt cùng hai con. »
+R: Réponse de Claire : « Merci beaucoup pour cette belle invitation. Malheureusement, je serai à l'étranger pour mon travail. Je vous souhaite une merveilleuse journée ! » || Phản hồi của Claire: « Cảm ơn rất nhiều vì lời mời đẹp này. Tiếc là tôi sẽ ở nước ngoài vì công việc. Chúc hai bạn một ngày tuyệt vời! »
+R: Lan et Pierre ont reçu soixante réponses positives ! || Lan và Pierre đã nhận được sáu mươi phản hồi nhận lời!
+RQ: Où a lieu le mariage ? | au restaurant | *à la mairie de Lyon | à l'église | à Paris
+RQ: Avant quelle date faut-il répondre ? | le 14 juin | *le 1er mai | le 15 mai | le 1er juin
+RQ: Pourquoi Claire refuse ? | elle est malade | *elle sera à l'étranger pour son travail | elle n'aime pas les mariages | elle n'est pas libre le soir
+W.prompt: Tu reçois deux invitations pour le même samedi (un dîner chez un ami et l'anniversaire d'une collègue). Écris une réponse pour accepter l'une et une réponse pour refuser l'autre poliment. || Bạn nhận hai lời mời vào cùng thứ Bảy (bữa tối ở nhà một người bạn và sinh nhật một đồng nghiệp). Viết một câu trả lời nhận lời và một câu trả lời từ chối lịch sự.
+W.min: 55
+W.must: avec plaisir ; malheureusement ; merci pour
+W.check: Lời từ chối có đủ 4 bước: cảm ơn, tiếc, lý do, đề xuất
+W.check: Văn phong phù hợp với người nhận
+W.check: Có mở đầu và kết thúc
+W.model: Salut Nam ! Merci pour ton invitation à dîner samedi. Avec plaisir ! || Chào Nam! Cảm ơn lời mời ăn tối thứ Bảy của bạn. Rất sẵn lòng!
+W.model: Je viens vers vingt heures et j'apporte le dessert. À samedi ! || Mình đến khoảng tám giờ tối và mang món tráng miệng. Hẹn thứ Bảy!
+W.model: Bonjour Sophie, || Chào Sophie,
+W.model: Merci beaucoup pour ton invitation à ton anniversaire, c'est très gentil. || Cảm ơn bạn rất nhiều vì đã mời mình dự sinh nhật, bạn thật tốt.
+W.model: Malheureusement, j'ai déjà quelque chose de prévu samedi soir avec un ami. || Tiếc là tối thứ Bảy mình đã có hẹn với một người bạn.
+W.model: Je te souhaite une très belle soirée ! On peut déjeuner ensemble lundi pour fêter ça ? À bientôt, Mai. || Chúc bạn một buổi tối thật vui! Thứ Hai mình đi ăn trưa cùng nhau để mừng sinh nhật nhé? Hẹn gặp, Mai.
