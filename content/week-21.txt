@@ -1,0 +1,383 @@
+@week 21
+@title Les pronoms COD
+@level A2
+
+## 1 | Le, la, l', les
+G.title: Remplacer un complément direct
+G.rule: Le pronom COD remplace un complément d'objet direct, c'est-à-dire un nom qui suit le verbe sans préposition : le (masculin), la (féminin), l' (devant une voyelle), les (pluriel). || Đại từ COD thay thế cho bổ ngữ trực tiếp, tức là danh từ đứng sau động từ không có giới từ: le (giống đực), la (giống cái), l' (trước nguyên âm), les (số nhiều).
+G.note: Cách nhận biết COD: hỏi "động từ + ai/cái gì?". Je regarde la télé → je regarde quoi ? → la télé = COD → Je la regarde. Đại từ COD đứng TRƯỚC động từ (khác tiếng Việt!). Tiếng Việt: "Tôi xem nó", tiếng Pháp: "Je la regarde" (Tôi nó xem). Ngôi khác: me (m'), te (t'), nous, vous: Il m'aime. Je t'appelle.
+G.table: Nom | Pronom | Exemple
+G.row: le film (m.) | le | Je le regarde.
+G.row: la télé (f.) | la | Je la regarde.
+G.row: l'ami (voyelle) | l' | Je l'appelle.
+G.row: les fleurs (pl.) | les | Je les achète.
+G.row: moi / toi | me / te | Tu m'aimes ? Je t'aime.
+G.ex: Tu connais Marc ? — Oui, je le connais bien. || Bạn biết Marc không? — Có, tôi biết anh ấy rõ.
+G.ex: Tu aimes la cuisine française ? — Oui, je l'adore ! || Bạn thích ẩm thực Pháp không? — Có, tôi rất thích!
+G.ex: Où sont mes clés ? Je les cherche partout. || Chìa khoá của tôi đâu? Tôi tìm chúng khắp nơi.
+G.ex: Je t'appelle ce soir. || Tối nay tôi gọi cho bạn.
+G.q: Tu regardes le match ? — Oui, je ___ regarde. | la | *le | les | lui
+G.q: Tu prends la voiture ? — Oui, je ___ prends. | le | *la | les | l'
+G.q: Tu achètes les tomates ? — Oui, je ___ achète. | la | le | *les | leur
+G.q: Tu aimes l'opéra ? — Oui, je ___ aime. | le | la | *l' | les
+G.q: Tu invites Sophie ? — Oui, je ___ invite. = l'
+V: le pronom | /lə pʁɔ.nɔ̃/ | nom m. | đại từ | « Le » est un pronom. || « Le » là một đại từ.
+V: remplacer | /ʁɑ̃.pla.se/ | verbe | thay thế | Le pronom remplace le nom. || Đại từ thay thế danh từ.
+V: connaître | /kɔ.nɛtʁ/ | verbe | biết (người, nơi) | Je le connais depuis dix ans. || Tôi biết anh ấy mười năm rồi.
+V: inviter | /ɛ̃.vi.te/ | verbe | mời | Je l'invite au restaurant. || Tôi mời cô ấy đi nhà hàng.
+V: aider | /e.de/ | verbe | giúp đỡ | Tu peux m'aider ? || Bạn giúp tôi được không?
+V: attendre | /a.tɑ̃dʁ/ | verbe | chờ đợi | Je t'attends devant la gare. || Tôi chờ bạn trước ga.
+V: écouter | /e.ku.te/ | verbe | nghe | Cette chanson, je l'écoute tous les jours. || Bài hát này, tôi nghe mỗi ngày.
+V: chercher | /ʃɛʁ.ʃe/ | verbe | tìm | Je cherche mes lunettes. Je les cherche partout ! || Tôi tìm kính. Tôi tìm nó khắp nơi!
+V: partout | /paʁ.tu/ | adverbe | khắp nơi | J'ai cherché partout. || Tôi đã tìm khắp nơi.
+V: adorer | /a.dɔ.ʁe/ | verbe | rất thích | Ce gâteau, je l'adore. || Chiếc bánh này, tôi rất thích.
+VQ: « Je t'attends » : qui attend ? | toi | *moi (je) | lui | nous
+VQ: Le contraire de « nulle part » : | ici | *partout | là-bas | loin
+VQ: Dans « Je regarde la télé », le COD est… | je | regarde | *la télé | rien
+VQ: « Je l'adore » veut dire… | je la déteste | *je l'aime beaucoup | je la cherche | je la connais
+VQ: Pronom COD de « les livres » : ___ = les
+D: Tu connais Marc ? Oui, je le connais bien.
+D: La cuisine française ? Je l'adore !
+D: Mes clés ? Je les cherche partout.
+D: Je t'appelle ce soir.
+L: Mère | Tu as tes clés ? || Con có cầm chìa khoá không?
+L: Fille | Oui, je les ai dans mon sac. || Có ạ, con để trong túi.
+L: Mère | Et ton téléphone ? Tu le prends ? || Còn điện thoại? Con có mang theo không?
+L: Fille | Oui, je le prends. Et je prends aussi la veste bleue. || Có ạ. Và con mang cả áo khoác xanh.
+L: Mère | La veste bleue ? Je la cherche depuis ce matin ! || Áo khoác xanh à? Mẹ tìm nó từ sáng đến giờ!
+L: Fille | Oups… Je te la rends ce soir, promis ! || Ối… Tối con trả mẹ nhé, con hứa!
+LQ: Où sont les clés ? | sur la table | *dans son sac | dans sa poche | elle les a perdues
+LQ: La fille prend… | le téléphone seulement | *le téléphone et la veste bleue | rien | la voiture
+LQ: Qui cherchait la veste bleue ? | la fille | *la mère | le père | personne
+RA: Je le regarde. Je la regarde. Je les regarde.
+RA: Je l'aime. Je l'appelle. Je l'attends.
+RA: Tu m'aides ? Je t'aide.
+SH: Tu as tes clés ?
+SH: Je les ai dans mon sac.
+SH: Je la cherche depuis ce matin !
+R.title: Mes objets préférés
+R: J'ai un vieux carnet en cuir : je l'ai toujours dans mon sac. || Tôi có một cuốn sổ da cũ: tôi luôn để nó trong túi.
+R: J'ai aussi une montre de mon grand-père. Je la porte tous les jours. || Tôi còn có một chiếc đồng hồ của ông. Tôi đeo nó mỗi ngày.
+R: Mes livres de poésie, je les relis souvent le soir. || Những cuốn thơ của tôi, tôi thường đọc lại chúng vào buổi tối.
+R: Et ma guitare ? Je l'adore, mais je ne la joue pas assez ! || Còn cây đàn ghi-ta? Tôi rất yêu nó, nhưng tôi chơi không đủ nhiều!
+R: Mon téléphone, par contre, je le déteste un peu : je le regarde trop souvent. || Còn điện thoại thì tôi hơi ghét nó: tôi nhìn nó quá thường xuyên.
+R: Ces objets me racontent mon histoire. || Những đồ vật này kể câu chuyện của tôi.
+RQ: Où est toujours le carnet ? | sur son bureau | *dans son sac | dans sa chambre | chez son grand-père
+RQ: À qui était la montre ? | à sa mère | *à son grand-père | à son père | à un ami
+RQ: Pourquoi il déteste un peu son téléphone ? | il est vieux | *il le regarde trop souvent | il est cassé | il est cher
+W.prompt: Présente quatre objets importants pour toi. Pour chaque objet, utilise un pronom COD (le, la, l', les) pour dire ce que tu en fais. || Giới thiệu bốn đồ vật quan trọng với bạn. Với mỗi đồ vật, dùng một đại từ COD (le, la, l', les) để nói bạn làm gì với nó.
+W.min: 45
+W.must: je le ; je la ; je les
+W.check: Đại từ COD đứng trước động từ
+W.check: le / la / les chọn đúng theo giống và số
+W.check: l' trước nguyên âm hoặc h câm
+W.model: Mon objet le plus important est mon vélo. Je le prends tous les jours. || Đồ vật quan trọng nhất của tôi là chiếc xe đạp. Tôi đi nó mỗi ngày.
+W.model: J'ai aussi une tasse de ma mère : je l'utilise chaque matin pour le café. || Tôi còn có một chiếc cốc của mẹ: tôi dùng nó mỗi sáng để uống cà phê.
+W.model: Ma plante verte est sur mon balcon. Je l'arrose le dimanche. || Cây xanh của tôi ở ngoài ban công. Tôi tưới nó vào Chủ Nhật.
+W.model: Mes photos de famille, je les garde dans un album. || Ảnh gia đình, tôi giữ chúng trong một cuốn album.
+W.model: Je les regarde quand ma famille me manque. || Tôi xem chúng khi nhớ gia đình.
+W.model: Ces objets sont simples, mais je les aime beaucoup. || Những đồ vật này đơn giản, nhưng tôi rất yêu chúng.
+
+## 2 | La place du pronom
+G.title: Avant le verbe, même à la négation
+G.rule: Le pronom COD se place devant le verbe conjugué. À la forme négative, ne se place avant le pronom et pas après le verbe. Avec un infinitif, le pronom se place devant l'infinitif. || Đại từ COD đứng trước động từ chia. Ở dạng phủ định, ne đứng trước đại từ và pas đứng sau động từ. Với động từ nguyên mẫu, đại từ đứng trước động từ nguyên mẫu.
+G.note: Khẳng định: Je le regarde. Phủ định: Je ne le regarde pas. Với cấu trúc động từ + nguyên mẫu (vouloir, pouvoir, devoir, aller + inf.): đại từ đứng trước nguyên mẫu: Je vais le regarder. Je veux la voir. Je ne peux pas les aider. Lỗi hay gặp: "Je le vais regarder" ✗.
+G.table: Forme | Exemple
+G.row: affirmative | Je le prends.
+G.row: négative | Je ne le prends pas.
+G.row: futur proche | Je vais le prendre.
+G.row: verbe + infinitif | Je veux le prendre.
+G.row: négative + infinitif | Je ne veux pas le prendre.
+G.ex: Ce film ? Je ne le connais pas. || Bộ phim đó à? Tôi không biết nó.
+G.ex: Ta sœur ? Je vais l'appeler demain. || Chị gái bạn à? Mai tôi sẽ gọi cho chị ấy.
+G.ex: Les enfants ? Je peux les garder samedi. || Bọn trẻ à? Thứ Bảy tôi có thể trông chúng.
+G.ex: Cette robe, je ne veux pas la mettre. || Chiếc váy này, tôi không muốn mặc nó.
+G.q: Négation : Je ___ regarde ___. (le) | ne… le pas | *ne le… pas | le ne… pas | pas le… ne
+G.q: Futur proche : Je ___ appeler demain. | l'vais | *vais l' | le vais | vais le a
+G.q: Je veux ___ voir. (la ville) | le | *la | les | l'
+G.q: Ils ___ aident ___. (nous, négation) | ne… nous pas | *ne nous… pas | nous ne… pas | pas… nous ne
+G.q: Complétez : Je ne ___ connais pas. (Marc) = le
+V: garder | /ɡaʁ.de/ | verbe | giữ; trông (trẻ) | Je peux garder ton chien. || Tôi có thể trông chó cho bạn.
+V: appeler | /a.ple/ | verbe | gọi | Je vais t'appeler. || Tôi sẽ gọi cho bạn.
+V: vouloir | /vu.lwaʁ/ | verbe | muốn | Je veux le voir. || Tôi muốn gặp anh ấy.
+V: pouvoir | /pu.vwaʁ/ | verbe | có thể | Je peux t'aider. || Tôi có thể giúp bạn.
+V: devoir | /də.vwaʁ/ | verbe | phải | Je dois la rappeler. || Tôi phải gọi lại cho cô ấy.
+V: rappeler | /ʁa.ple/ | verbe | gọi lại | Rappelle-moi plus tard. || Gọi lại cho tôi sau nhé.
+V: rencontrer | /ʁɑ̃.kɔ̃.tʁe/ | verbe | gặp | Je veux la rencontrer. || Tôi muốn gặp cô ấy.
+V: réparer | /ʁe.pa.ʁe/ | verbe | sửa | Je vais le réparer. || Tôi sẽ sửa nó.
+V: jeter | /ʒə.te/ | verbe | vứt | Ne le jette pas ! || Đừng vứt nó!
+V: la robe | /la ʁɔb/ | nom f. | váy | Je l'adore, cette robe ! || Tôi rất thích chiếc váy này!
+VQ: « Garder des enfants » veut dire… | les jeter | *s'occuper d'eux | les appeler | les inviter
+VQ: Le contraire de « garder » (un objet) : | réparer | *jeter | appeler | porter
+VQ: Mon vélo est cassé, je dois le… | jeter toujours | *réparer | appeler | rencontrer
+VQ: « Rappeler » quelqu'un, c'est… | l'appeler la première fois | *l'appeler une nouvelle fois | l'oublier | le voir
+VQ: Je vais ___ appeler. (toi) = t'
+D: Ce film ? Je ne le connais pas.
+D: Ta sœur ? Je vais l'appeler demain.
+D: Les enfants ? Je peux les garder samedi.
+D: Cette robe, je ne veux pas la mettre.
+L: Collègue | Tu as le rapport pour la réunion ? || Bạn có bản báo cáo cho cuộc họp không?
+L: Quang | Non, je ne l'ai pas. Je dois le finir cet après-midi. || Không, mình chưa có. Mình phải hoàn thành nó chiều nay.
+L: Collègue | Le directeur veut le lire avant quatre heures. || Giám đốc muốn đọc nó trước bốn giờ.
+L: Quang | Je sais… Tu peux m'aider ? || Mình biết… Bạn giúp mình được không?
+L: Collègue | Désolée, je ne peux pas t'aider : j'ai mes clients à appeler. Je dois les appeler avant trois heures. || Xin lỗi, mình không giúp bạn được: mình phải gọi cho khách hàng. Mình phải gọi họ trước ba giờ.
+L: Quang | Pas de problème, je vais le terminer seul ! || Không sao, mình sẽ tự hoàn thành nó!
+LQ: Quang a le rapport ? | oui | *non, il doit le finir | il l'a perdu | il l'a envoyé
+LQ: Le directeur veut le lire avant… | trois heures | *quatre heures | midi | ce soir
+LQ: Pourquoi la collègue ne peut pas aider ? | elle est malade | *elle doit appeler ses clients | elle part en vacances | elle n'aime pas Quang
+RA: Je le prends. Je ne le prends pas.
+RA: Je vais le prendre. Je ne veux pas le prendre.
+RA: Tu peux m'aider ? Je ne peux pas t'aider.
+SH: Je ne l'ai pas. Je dois le finir cet après-midi.
+SH: Le directeur veut le lire avant quatre heures.
+SH: Je vais le terminer seul !
+R.title: Le grand ménage
+R: Ce week-end, Thu fait un grand ménage dans son appartement. || Cuối tuần này, Thu tổng vệ sinh căn hộ của mình.
+R: Ses vieux magazines ? Elle ne les lit plus, alors elle va les recycler. || Những tạp chí cũ? Cô không đọc chúng nữa, nên cô sẽ đem tái chế.
+R: Sa vieille lampe est cassée, mais elle ne veut pas la jeter : elle va la réparer. || Chiếc đèn cũ bị hỏng, nhưng cô không muốn vứt nó: cô sẽ sửa nó.
+R: Les vêtements trop petits, elle peut les donner à sa cousine. || Những bộ quần áo quá nhỏ, cô có thể cho em họ.
+R: Et le canapé ? Il est trop lourd ! Elle ne peut pas le bouger seule. || Còn chiếc ghế sofa? Nó quá nặng! Cô không thể tự di chuyển nó.
+R: Alors elle appelle son frère : il va l'aider demain. || Thế là cô gọi anh trai: ngày mai anh sẽ giúp cô.
+RQ: Que va-t-elle faire des magazines ? | les lire | *les recycler | les garder | les vendre
+RQ: Pourquoi elle ne jette pas la lampe ? | elle est belle | *elle va la réparer | c'est un cadeau | elle est neuve
+RQ: Qui va l'aider à bouger le canapé ? | sa cousine | *son frère | un voisin | personne
+W.prompt: Tu fais du rangement. Décris ce que tu fais de tes objets : tu les gardes, tu les jettes, tu les donnes, tu vas les réparer… Utilise la négation et le futur proche avec les pronoms. || Bạn đang dọn dẹp. Miêu tả bạn làm gì với đồ đạc: giữ, vứt, cho đi, sẽ sửa… Dùng phủ định và tương lai gần với đại từ.
+W.min: 50
+W.must: je vais le ; je ne les ; pas
+W.check: ne + đại từ + động từ + pas
+W.check: Với nguyên mẫu: đại từ trước nguyên mẫu (je vais le réparer)
+W.check: Đại từ đúng giống và số
+W.model: Aujourd'hui, je range ma chambre. || Hôm nay, tôi dọn phòng.
+W.model: Mes vieux cahiers d'école ? Je ne les utilise plus, mais je vais les garder : ce sont des souvenirs. || Những quyển vở cũ thời đi học? Tôi không dùng nữa, nhưng tôi sẽ giữ chúng: đó là kỷ niệm.
+W.model: Mon ancien téléphone ne marche pas. Je ne peux pas le réparer, alors je vais le recycler. || Chiếc điện thoại cũ không chạy nữa. Tôi không sửa được, nên tôi sẽ đem tái chế.
+W.model: Ces chaussures sont trop petites. Je vais les donner à mon neveu. || Đôi giày này quá chật. Tôi sẽ cho cháu trai.
+W.model: Ma guitare est vieille, mais je ne veux pas la vendre. || Cây đàn của tôi cũ rồi, nhưng tôi không muốn bán nó.
+W.model: Je vais la faire réparer et recommencer à jouer ! || Tôi sẽ mang nó đi sửa và chơi lại!
+
+## 3 | Le COD au passé composé
+G.title: Le pronom avant l'auxiliaire
+G.rule: Au passé composé, le pronom COD se place devant l'auxiliaire. Avec avoir, le participe passé s'accorde avec le COD placé avant : la robe ? Je l'ai achetée. Les livres ? Je les ai lus. || Ở passé composé, đại từ COD đứng trước trợ động từ. Với avoir, phân từ quá khứ hợp với COD đứng trước: la robe ? Je l'ai achetée. Les livres ? Je les ai lus.
+G.note: Cấu trúc: chủ ngữ + (ne) + đại từ + avoir + (pas) + phân từ. Je l'ai vu. Je ne l'ai pas vu. Quy tắc hợp: COD đứng trước → phân từ hợp với COD (thêm -e, -s, -es). Thường không nghe được (vu = vue = vus), trừ một số phân từ: mis → mise, pris → prise, fait → faite, écrit → écrite. Ta lettre ? Je l'ai écrite /e.kʁit/. Đây là điểm ngữ pháp khó — ở A2 cần nhận biết là đủ.
+G.table: COD | Passé composé
+G.row: le film (m.) | Je l'ai vu.
+G.row: la série (f.) | Je l'ai vue.
+G.row: les films (m. pl.) | Je les ai vus.
+G.row: les photos (f. pl.) | Je les ai prises.
+G.row: négation | Je ne l'ai pas vu.
+G.ex: Tu as vu Marie ? — Oui, je l'ai vue hier. || Bạn gặp Marie chưa? — Rồi, tôi gặp cô ấy hôm qua.
+G.ex: Mes clés ? Je les ai trouvées sous le canapé. || Chìa khoá của tôi à? Tôi đã tìm thấy chúng dưới ghế sofa.
+G.ex: Ce livre, je ne l'ai pas encore lu. || Cuốn sách này, tôi vẫn chưa đọc.
+G.ex: La lettre ? Je l'ai écrite ce matin. || Lá thư à? Tôi đã viết nó sáng nay.
+G.q: Le film ? Je ___ vu. | le ai | *l'ai | ai le | les ai
+G.q: La pizza ? Je l'ai ___. | mangé | *mangée | mangés | mangées
+G.q: Les photos ? Je les ai ___. | pris | prise | *prises | prendre
+G.q: Négation : Le gâteau ? Je ___. | ne l'ai mangé pas | *ne l'ai pas mangé | l'ai ne pas mangé | ne pas l'ai mangé
+G.q: Les clés ? Je les ai ___ (trouver). = trouvées
+V: la série | /la se.ʁi/ | nom f. | phim bộ | J'ai regardé toute la série. || Tôi đã xem hết bộ phim.
+V: trouver | /tʁu.ve/ | verbe | tìm thấy | Je l'ai trouvé ! || Tôi tìm thấy nó rồi!
+V: le canapé | /lə ka.na.pe/ | nom m. | ghế sofa | Il dort sur le canapé. || Anh ấy ngủ trên ghế sofa.
+V: envoyer | /ɑ̃.vwa.je/ | verbe | gửi | Je l'ai envoyé hier. || Tôi đã gửi nó hôm qua.
+V: recevoir | /ʁə.sə.vwaʁ/ | verbe | nhận | Tu as reçu mon message ? || Bạn nhận được tin nhắn của tôi chưa?
+V: oublier | /u.bli.je/ | verbe | quên | Je l'ai oublié à la maison. || Tôi để quên nó ở nhà.
+V: acheter | /aʃ.te/ | verbe | mua | Je l'ai achetée en solde. || Tôi mua nó lúc giảm giá.
+V: en solde | /ɑ̃ sɔld/ | expression | giảm giá | Ces chaussures étaient en solde. || Đôi giày này đang giảm giá.
+V: ranger | /ʁɑ̃.ʒe/ | verbe | cất, dọn | Je les ai rangés dans l'armoire. || Tôi đã cất chúng vào tủ.
+V: l'armoire | /laʁ.mwaʁ/ | nom f. | tủ quần áo | L'armoire est pleine. || Tủ quần áo đầy rồi.
+VQ: Un meuble pour ranger les vêtements : | un canapé | *une armoire | une table | un lit
+VQ: « En solde » veut dire… | plus cher | *moins cher que d'habitude | gratuit | vendu
+VQ: Le contraire de « envoyer » : | oublier | *recevoir | ranger | trouver
+VQ: Le contraire de « se souvenir » : | trouver | *oublier | recevoir | ranger
+VQ: Un long programme télé en plusieurs épisodes : une ___. = série
+D: Tu as vu Marie ? Oui, je l'ai vue hier.
+D: Mes clés ? Je les ai trouvées sous le canapé.
+D: Ce livre, je ne l'ai pas encore lu.
+D: La lettre ? Je l'ai écrite ce matin.
+L: Mari | Chérie, tu as vu mes lunettes ? || Em yêu, em có thấy kính của anh không?
+L: Femme | Oui, je les ai rangées dans le tiroir. || Có, em cất chúng vào ngăn kéo rồi.
+L: Mari | Merci ! Et la facture d'électricité, tu l'as payée ? || Cảm ơn em! Còn hoá đơn tiền điện, em trả chưa?
+L: Femme | Non, je ne l'ai pas payée. C'est toi qui la paies d'habitude ! || Chưa, em chưa trả. Bình thường anh trả mà!
+L: Mari | Oh non… Je l'ai oubliée. Je vais la payer en ligne tout de suite. || Ôi không… Anh quên mất. Anh sẽ trả online ngay.
+L: Femme | Et n'oublie pas les poubelles : tu ne les as pas sorties hier ! || Và đừng quên thùng rác: hôm qua anh chưa đem ra!
+LQ: Où sont les lunettes ? | sur la table | *dans le tiroir | dans la voiture | perdues
+LQ: Qui a payé la facture ? | la femme | le mari | *personne | la banque
+LQ: Qu'est-ce que le mari n'a pas fait hier ? | les courses | *sortir les poubelles | la vaisselle | payer le loyer
+RA: Je l'ai vu. Je l'ai vue. Je les ai vus.
+RA: Je ne l'ai pas encore lu.
+RA: Je les ai trouvées sous le canapé.
+SH: Tu as vu mes lunettes ?
+SH: Je les ai rangées dans le tiroir.
+SH: Je vais la payer en ligne tout de suite.
+R.title: La valise perdue
+R: Le mois dernier, j'ai pris l'avion pour Paris avec une grande valise rouge. || Tháng trước, tôi đi máy bay sang Paris với một chiếc va li lớn màu đỏ.
+R: À l'arrivée, je l'ai attendue pendant une heure, mais je ne l'ai pas vue. || Khi đến nơi, tôi chờ nó suốt một tiếng, nhưng không thấy nó.
+R: La compagnie aérienne l'a envoyée à Rome par erreur ! || Hãng hàng không đã gửi nhầm nó sang Rome!
+R: Mes vêtements étaient dans la valise, alors j'ai acheté un jean et deux tee-shirts. || Quần áo của tôi ở trong va li, nên tôi đã mua một chiếc quần jean và hai áo phông.
+R: Trois jours plus tard, un employé m'a appelé : il l'a retrouvée. || Ba ngày sau, một nhân viên gọi cho tôi: anh ấy đã tìm lại được nó.
+R: Il me l'a livrée à l'hôtel. Quel soulagement ! || Anh ấy giao nó đến khách sạn cho tôi. Thật nhẹ cả người!
+RQ: De quelle couleur était la valise ? | bleue | *rouge | noire | verte
+RQ: Où était la valise ? | à Paris | *à Rome | à Hanoï | à Londres
+RQ: Comment a-t-il récupéré la valise ? | il est allé à l'aéroport | *un employé l'a livrée à l'hôtel | à Rome | il ne l'a jamais récupérée
+W.prompt: Raconte ce que tu as fait hier avec des objets ou des personnes en utilisant des pronoms COD au passé composé (je l'ai vu, je les ai achetés, je ne l'ai pas fini…). || Kể những gì bạn đã làm hôm qua với đồ vật hoặc con người, dùng đại từ COD ở passé composé (je l'ai vu, je les ai achetés, je ne l'ai pas fini…).
+W.min: 45
+W.must: je l'ai ; je les ai
+W.check: Đại từ đứng trước trợ động từ avoir
+W.check: Phân từ hợp với COD đứng trước (je l'ai vue, je les ai prises)
+W.check: Phủ định: je ne l'ai pas…
+W.model: Hier, j'avais beaucoup de choses à faire. || Hôm qua tôi có rất nhiều việc phải làm.
+W.model: Le matin, j'ai reçu un colis de ma mère. Je l'ai ouvert tout de suite. || Buổi sáng, tôi nhận được một bưu kiện của mẹ. Tôi mở nó ngay.
+W.model: Il y avait des gâteaux de lune : je les ai mangés avec mes colocataires. || Có bánh trung thu: tôi ăn chúng cùng các bạn cùng nhà.
+W.model: L'après-midi, j'ai vu ma professeure de français. Je l'ai rencontrée au café. || Buổi chiều, tôi gặp cô giáo tiếng Pháp. Tôi gặp cô ở quán cà phê.
+W.model: Elle m'a donné un livre, mais je ne l'ai pas encore lu. || Cô cho tôi một cuốn sách, nhưng tôi chưa đọc.
+W.model: Le soir, j'ai écrit une lettre à ma mère et je l'ai envoyée. || Buổi tối, tôi viết thư cho mẹ và gửi đi.
+
+## 4 | Le COD à l'impératif
+G.title: Prends-le ! Ne le prends pas !
+G.rule: À l'impératif affirmatif, le pronom COD se place après le verbe avec un trait d'union : prends-le, regarde-la. Me devient moi. À l'impératif négatif, le pronom reste devant le verbe : ne le prends pas. || Ở mệnh lệnh thức khẳng định, đại từ COD đứng sau động từ, nối bằng gạch ngang: prends-le, regarde-la. Me thành moi. Ở mệnh lệnh thức phủ định, đại từ vẫn đứng trước động từ: ne le prends pas.
+G.note: Khẳng định: Mange-le ! Appelle-la ! Achète-les ! Aide-moi ! Écoutez-nous ! Phủ định: Ne le mange pas ! Ne l'appelle pas ! Ne m'aide pas ! (me trở lại dạng thường). Lưu ý phát âm: "Prends-le" đọc /pʁɑ̃.lə/, chữ "le" đọc rõ. Mẫu thường dùng: Attends-moi ! (Chờ tôi với!), Laisse-moi tranquille ! (Để tôi yên!), Excusez-moi.
+G.table: Affirmatif | Négatif
+G.row: Prends-le ! | Ne le prends pas !
+G.row: Regarde-la ! | Ne la regarde pas !
+G.row: Achète-les ! | Ne les achète pas !
+G.row: Aide-moi ! | Ne m'aide pas !
+G.row: Écoutez-nous ! | Ne nous écoutez pas !
+G.ex: Ce pull est joli. Achète-le ! || Chiếc áo len này đẹp. Mua nó đi!
+G.ex: Ne le mange pas, il est trop chaud ! || Đừng ăn, nó nóng quá!
+G.ex: Attends-moi, j'arrive ! || Chờ tôi với, tôi đến ngay!
+G.ex: Tes devoirs ? Fais-les maintenant ! || Bài tập của con à? Làm ngay đi!
+G.q: Impératif : Tu prends le parapluie → ___ ! | Le prends | *Prends-le | Prends-la | Le prend
+G.q: Impératif de « tu m'aides » : | Aide-me | *Aide-moi | M'aide | Moi aide
+G.q: Négatif : ___ ! (les acheter) | N'achète-les pas | *Ne les achète pas | Achète-les pas | Ne achète les pas
+G.q: Tu invites Lan → ___ ! | L'invite | *Invite-la | Invite-le | Invite-l'
+G.q: Impératif : Tu attends moi → ___-moi ! = Attends
+V: le trait d'union | /lə tʁɛ dy.njɔ̃/ | nom m. | dấu gạch nối | « Prends-le » a un trait d'union. || « Prends-le » có dấu gạch nối.
+V: laisser | /le.se/ | verbe | để, để lại | Laisse-moi tranquille ! || Để tôi yên!
+V: tranquille | /tʁɑ̃.kil/ | adjectif | yên tĩnh | Je veux être tranquille. || Tôi muốn được yên tĩnh.
+V: goûter | /ɡu.te/ | verbe | nếm | Goûte-le, c'est délicieux ! || Nếm thử đi, ngon lắm!
+V: essayer | /e.se.je/ | verbe | thử | Essaie-la, cette robe ! || Thử chiếc váy này đi!
+V: toucher | /tu.ʃe/ | verbe | chạm | Ne le touche pas ! || Đừng chạm vào nó!
+V: prévenir | /pʁev.niʁ/ | verbe | báo trước | Préviens-moi si tu es en retard. || Báo tôi nếu bạn đến muộn.
+V: réveiller | /ʁe.ve.je/ | verbe | đánh thức | Réveille-moi à sept heures. || Đánh thức tôi lúc bảy giờ nhé.
+V: déranger | /de.ʁɑ̃.ʒe/ | verbe | làm phiền | Ne le dérange pas, il travaille. || Đừng làm phiền anh ấy, anh ấy đang làm việc.
+V: le pull | /lə pyl/ | nom m. | áo len | Mets-le, il fait froid ! || Mặc vào đi, trời lạnh!
+VQ: « Ne me dérange pas » veut dire… | aide-moi | *laisse-moi tranquille | réveille-moi | appelle-moi
+VQ: Avant d'acheter un vêtement, on l'… | goûte | *essaie | touche seulement | jette
+VQ: Pour savoir si un plat est bon, on le… | essaie | *goûte | touche | range
+VQ: « Préviens-moi » veut dire… | oublie-moi | *dis-le-moi avant | réveille-moi | aide-moi
+VQ: Impératif : Tu me réveilles → ___-moi ! = Réveille
+D: Ce pull est joli. Achète-le !
+D: Ne le mange pas, il est trop chaud !
+D: Attends-moi, j'arrive !
+D: Tes devoirs ? Fais-les maintenant !
+L: Mère | Ta soupe, mange-la, elle va refroidir ! || Bát canh của con, ăn đi, nguội mất bây giờ!
+L: Fils | Je n'aime pas les carottes… || Con không thích cà rốt…
+L: Mère | Goûte-les au moins ! Elles sont bonnes pour la santé. || Ít nhất cũng nếm thử đi! Nó tốt cho sức khoẻ.
+L: Fils | D'accord… Et après, je peux regarder la télé ? || Vâng… Rồi sau đó con xem TV được không?
+L: Mère | Non, ne la regarde pas ce soir. Tu as un examen demain. Révise tes leçons ! || Không, tối nay đừng xem. Mai con có bài kiểm tra. Ôn bài đi!
+L: Fils | Bon… Alors réveille-moi tôt demain, s'il te plaît ! || Vâng… Vậy mai mẹ đánh thức con sớm nhé!
+LQ: Qu'est-ce que le fils n'aime pas ? | la soupe | *les carottes | la télé | les examens
+LQ: Pourquoi il ne peut pas regarder la télé ? | elle est cassée | *il a un examen demain | il est tard | son père dort
+LQ: Que demande le fils à la fin ? | de l'aider | *de le réveiller tôt | de regarder la télé | un dessert
+RA: Prends-le ! Ne le prends pas !
+RA: Aide-moi ! Ne m'aide pas !
+RA: Achète-les ! Ne les achète pas !
+SH: Goûte-les au moins !
+SH: Ne la regarde pas ce soir.
+SH: Réveille-moi tôt demain, s'il te plaît !
+R.title: Petits conseils pour vos plantes
+R: Vous avez des plantes à la maison ? Voici quelques conseils. || Bạn có cây trong nhà? Đây là vài lời khuyên.
+R: Votre plante est dans un coin sombre ? Mettez-la près d'une fenêtre ! || Cây của bạn ở góc tối? Hãy đặt nó gần cửa sổ!
+R: Ne l'arrosez pas tous les jours : une ou deux fois par semaine, c'est suffisant. || Đừng tưới mỗi ngày: một hoặc hai lần mỗi tuần là đủ.
+R: Les feuilles jaunes ? Coupez-les avec des ciseaux propres. || Lá vàng? Hãy cắt chúng bằng kéo sạch.
+R: Si vous partez en vacances, ne les oubliez pas : demandez à un voisin de les arroser. || Nếu đi nghỉ, đừng quên chúng: nhờ hàng xóm tưới giúp.
+R: Et surtout, parlez-leur ! Certaines personnes disent que ça les aide à grandir. || Và nhất là, hãy nói chuyện với chúng! Một số người nói điều đó giúp cây lớn.
+RQ: Où faut-il mettre une plante dans un coin sombre ? | dans la salle de bains | *près d'une fenêtre | dehors | dans la cuisine
+RQ: Combien de fois faut-il arroser ? | tous les jours | *une ou deux fois par semaine | une fois par mois | jamais
+RQ: Que faire avec les feuilles jaunes ? | les laisser | *les couper | les arroser | les peindre
+W.prompt: Écris des conseils à un ami qui part vivre seul pour la première fois (le ménage, la cuisine, l'argent). Utilise l'impératif avec des pronoms COD, à la forme affirmative et négative. || Viết lời khuyên cho một người bạn lần đầu sống một mình (dọn nhà, nấu ăn, tiền bạc). Dùng mệnh lệnh thức với đại từ COD, ở cả dạng khẳng định và phủ định.
+W.min: 50
+W.must: ne les ; -le ; -la
+W.check: Khẳng định: động từ + gạch nối + đại từ (prends-le)
+W.check: Phủ định: ne + đại từ + động từ + pas
+W.check: me → moi ở khẳng định (aide-moi)
+W.model: Bravo pour ton nouvel appartement ! Voici quelques conseils. || Chúc mừng căn hộ mới của bạn! Đây là vài lời khuyên.
+W.model: Ta vaisselle, fais-la tout de suite après le repas. Ne la laisse pas dans l'évier ! || Bát đĩa, rửa ngay sau bữa ăn. Đừng để chúng trong bồn rửa!
+W.model: Tes factures, paie-les à l'heure et garde-les dans un dossier. || Hoá đơn, trả đúng hạn và giữ chúng trong một tập hồ sơ.
+W.model: Les légumes, achète-les au marché : ils sont moins chers. || Rau, mua ở chợ: rẻ hơn.
+W.model: Ton argent, ne le dépense pas pour des choses inutiles. || Tiền của bạn, đừng tiêu cho những thứ vô ích.
+W.model: Et si tu as un problème, appelle-moi ! || Và nếu có vấn đề gì, gọi cho mình nhé!
+
+## 5 | Exercices de synthèse
+G.title: Tous les COD ensemble
+G.rule: Pour bien utiliser les pronoms COD, il faut identifier le COD, choisir le bon pronom selon le genre et le nombre, puis le placer correctement selon le temps et la forme de la phrase. || Để dùng đúng đại từ COD, cần xác định COD, chọn đúng đại từ theo giống và số, rồi đặt đúng vị trí theo thì và dạng câu.
+G.note: Quy trình 3 bước: (1) Tìm COD: động từ + quoi/qui ? không có giới từ. (2) Chọn đại từ: le, la, l', les, me, te, nous, vous. (3) Đặt vị trí: trước động từ chia (présent, imparfait), trước trợ động từ (passé composé), trước nguyên mẫu (aller/vouloir + inf.), sau động từ ở mệnh lệnh khẳng định. Lưu ý: Không dùng COD cho động từ có "à" (parler à quelqu'un) — đó là COI, học tuần sau.
+G.table: Temps | Exemple
+G.row: présent | Je le vois.
+G.row: passé composé | Je l'ai vu.
+G.row: futur proche | Je vais le voir.
+G.row: imparfait | Je le voyais souvent.
+G.row: impératif | Regarde-le ! / Ne le regarde pas !
+G.ex: Ce professeur ? Je le voyais tous les jours quand j'étais étudiant. || Thầy giáo đó à? Hồi sinh viên ngày nào tôi cũng gặp thầy.
+G.ex: Ton cadeau ? Je l'ai acheté et je vais te le donner demain. || Quà của bạn à? Tôi đã mua rồi và mai tôi sẽ đưa bạn.
+G.ex: Les enfants ? Ne les réveille pas, ils dorment ! || Bọn trẻ à? Đừng đánh thức chúng, chúng đang ngủ!
+G.ex: Vous nous attendez ? Nous arrivons dans cinq minutes. || Các bạn đang chờ chúng tôi à? Năm phút nữa chúng tôi đến.
+G.q: Quand j'étais petit, ma grand-mère ___ gardait. | le | *me | moi | m'a
+G.q: Tu as fini tes devoirs ? — Oui, je ___ ai finis. | le | la | *les | l'
+G.q: Elle veut ___ inviter, ton frère. | le | *l' | la | les
+G.q: Impératif : Tu nous écoutes → ___ ! | Nous écoute | *Écoute-nous | Écoute-moi | Nous écoutes
+G.q: Le gâteau ? Ne ___ mange pas ! = le
+V: identifier | /i.dɑ̃.ti.fje/ | verbe | xác định | Identifie le COD. || Hãy xác định COD.
+V: le genre | /lə ʒɑ̃ʁ/ | nom m. | giống (ngữ pháp) | Le genre de ce nom est féminin. || Giống của danh từ này là giống cái.
+V: le nombre | /lə nɔ̃bʁ/ | nom m. | số (ngữ pháp); con số | Singulier ou pluriel, c'est le nombre. || Số ít hay số nhiều, đó là số.
+V: la phrase | /la fʁaz/ | nom f. | câu | Écris une phrase. || Viết một câu.
+V: correctement | /kɔ.ʁɛk.tə.mɑ̃/ | adverbe | một cách chính xác | Tu l'as fait correctement. || Bạn làm đúng rồi.
+V: le cadeau | /lə ka.do/ | nom m. | món quà | Je l'ai emballé, ton cadeau. || Tôi đã gói quà của bạn rồi.
+V: emballer | /ɑ̃.ba.le/ | verbe | gói | Vous pouvez l'emballer ? || Anh có thể gói nó lại không?
+V: voir | /vwaʁ/ | verbe | gặp, thấy | Je vais te voir ce soir. || Tối nay tôi sẽ gặp bạn.
+V: la synthèse | /la sɛ̃.tɛz/ | nom f. | sự tổng hợp | C'est une leçon de synthèse. || Đây là bài tổng hợp.
+V: le singulier | /lə sɛ̃.ɡy.lje/ | nom m. | số ít | « Le » est au singulier. || « Le » ở số ít.
+VQ: Le contraire de « pluriel » : | féminin | *singulier | masculin | nombre
+VQ: Avant d'offrir un cadeau, on l'… | essaie | *emballe | goûte | jette
+VQ: Masculin ou féminin, c'est le… | nombre | *genre | pronom | temps
+VQ: « Correctement » veut dire… | vite | *sans erreur | lentement | souvent
+VQ: Une suite de mots avec un sens complet : une ___. = phrase
+D: Ce professeur ? Je le voyais tous les jours.
+D: Ton cadeau ? Je l'ai acheté.
+D: Ne les réveille pas, ils dorment !
+D: Vous nous attendez ?
+L: Vendeuse | Vous aimez ce parfum ? Sentez-le ! || Chị có thích nước hoa này không? Ngửi thử đi!
+L: Cliente | Mmm, il est délicieux. Je le prends pour ma mère. || Ừm, thơm quá. Tôi lấy nó cho mẹ tôi.
+L: Vendeuse | Je vous l'emballe ? || Tôi gói lại cho chị nhé?
+L: Cliente | Oui, emballez-le, s'il vous plaît. C'est pour son anniversaire. || Vâng, gói lại giúp tôi. Quà sinh nhật mẹ.
+L: Vendeuse | Et la carte de fidélité, vous l'avez ? || Còn thẻ thành viên, chị có không?
+L: Cliente | Non, je l'ai oubliée à la maison. Ce n'est pas grave ! || Không, tôi để quên ở nhà. Không sao đâu!
+LQ: Pour qui est le parfum ? | pour la cliente | *pour sa mère | pour sa sœur | pour une amie
+LQ: Pourquoi elle l'achète ? | pour Noël | *pour l'anniversaire de sa mère | pour la fête des mères | pour elle
+LQ: Où est la carte de fidélité ? | dans son sac | *à la maison | perdue | elle n'en a pas
+RA: Je le vois. Je l'ai vu. Je vais le voir.
+RA: Regarde-le ! Ne le regarde pas !
+RA: Je l'ai oubliée à la maison.
+SH: Sentez-le !
+SH: Je vous l'emballe ?
+SH: Emballez-le, s'il vous plaît.
+R.title: La lettre de Bà Nội
+R: Ma grand-mère m'a écrit une longue lettre. Je l'ai reçue hier. || Bà nội viết cho tôi một lá thư dài. Tôi đã nhận được hôm qua.
+R: Je l'ai lue trois fois, et chaque fois, j'ai pleuré un peu. || Tôi đã đọc nó ba lần, và mỗi lần, tôi lại khóc một chút.
+R: Elle parle de mon grand-père : elle l'aimait beaucoup et elle pense à lui tous les jours. || Bà kể về ông: bà rất yêu ông và ngày nào cũng nghĩ đến ông.
+R: Elle me demande des photos de Paris. Je vais les imprimer et je vais les envoyer cette semaine. || Bà xin ảnh Paris. Tôi sẽ in và gửi cho bà trong tuần này.
+R: À la fin, elle écrit : « Ne m'oublie pas, et appelle-moi plus souvent ! » || Cuối thư, bà viết: « Đừng quên bà, và gọi cho bà thường xuyên hơn nhé! »
+R: Je vais l'appeler ce soir, c'est promis. || Tối nay tôi sẽ gọi cho bà, tôi hứa.
+RQ: Combien de fois a-t-il lu la lettre ? | une fois | deux fois | *trois fois | il ne l'a pas lue
+RQ: Que demande la grand-mère ? | de l'argent | *des photos de Paris | un cadeau | une visite
+RQ: Que va-t-il faire ce soir ? | écrire une lettre | *l'appeler | imprimer les photos | pleurer
+W.prompt: Écris un petit texte sur une personne ou un objet que tu aimes beaucoup, en utilisant des pronoms COD au présent, à l'imparfait, au passé composé, au futur proche et à l'impératif. || Viết một đoạn ngắn về một người hoặc một đồ vật bạn rất yêu quý, dùng đại từ COD ở hiện tại, imparfait, passé composé, tương lai gần và mệnh lệnh thức.
+W.min: 60
+W.must: je l'ai ; je vais le ; je le
+W.check: Đại từ COD ở ít nhất bốn thì/dạng khác nhau
+W.check: Vị trí đại từ đúng ở mỗi thì
+W.check: Phân từ hợp với COD đứng trước (nếu cần)
+W.model: Ma meilleure amie s'appelle Hương. Je la connais depuis l'école primaire. || Bạn thân nhất của tôi tên là Hương. Tôi biết cô ấy từ hồi tiểu học.
+W.model: Quand nous étions petites, je la voyais tous les jours. || Hồi nhỏ, ngày nào tôi cũng gặp cô ấy.
+W.model: Maintenant, elle habite à Singapour, alors je ne la vois pas souvent. || Giờ cô ấy sống ở Singapore, nên tôi không gặp cô ấy thường xuyên.
+W.model: Je l'ai appelée hier pour son anniversaire. || Hôm qua tôi đã gọi cho cô ấy nhân sinh nhật.
+W.model: Le mois prochain, je vais la voir à Singapour ! || Tháng sau, tôi sẽ sang Singapore gặp cô ấy!
+W.model: Elle m'a dit : « Attends-moi à l'aéroport, je vais te montrer toute la ville ! » || Cô ấy nói: « Đợi mình ở sân bay nhé, mình sẽ dẫn bạn đi khắp thành phố! »

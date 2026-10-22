@@ -1907,3 +1907,26 @@ l'écriture | nom f. | chữ viết, việc viết
 l'égalité | nom f. | sự bằng nhau
 élevé | adjectif | cao
 nul | adjectif | bằng không, dở (nulle part: không nơi nào)
+nulle | adjectif | (nulle part) không nơi nào
+@er arroser | tưới
+aérien | adjectif | trên không (compagnie aérienne: hãng hàng không)
+les ciseaux | nom m. pl. | cái kéo
+la compagnie | nom f. | công ty; sự bầu bạn
+le complément | nom m. | bổ ngữ
+l'erreur | nom f. | lỗi, sai lầm
+la fidélité | nom f. | sự trung thành (carte de fidélité: thẻ thành viên)
+l'opéra | nom m. | nhạc kịch, nhà hát opera
+la plante | nom f. | cây (trồng)
+la poubelle | nom f. | thùng rác
+la poésie | nom f. | thơ ca
+le rangement | nom m. | việc dọn dẹp
+@er recycler | tái chế
+@ir refroidir | làm nguội, nguội đi
+@er récupérer | lấy lại
+selon | préposition | theo
+le soulagement | nom m. | sự nhẹ nhõm
+suffisant | adjectif | đủ
+le tiroir | nom m. | ngăn kéo
+le trait | nom m. | nét (trait d'union: gạch nối)
+l'union | nom f. | sự liên kết
+l'épisode | nom m. | tập (phim)
