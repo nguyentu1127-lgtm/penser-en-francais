@@ -1,0 +1,384 @@
+@week 26
+@title Donner son avis
+@level A2
+
+## 1 | Je pense que, je trouve que
+G.title: Exprimer son opinion
+G.rule: Pour donner son avis, on utilise je pense que, je trouve que, je crois que, à mon avis, pour moi, selon moi. Après « que », on met une phrase complète à l'indicatif. || Để nêu ý kiến, ta dùng je pense que (tôi nghĩ rằng), je trouve que (tôi thấy rằng), je crois que (tôi tin rằng), à mon avis (theo ý tôi), pour moi (với tôi), selon moi (theo tôi). Sau « que », ta dùng một mệnh đề đầy đủ ở thức trình bày.
+G.note: "Je trouve que" dùng cho đánh giá cá nhân (đẹp, hay, đắt…): Je trouve que ce film est ennuyeux. "Je pense que / je crois que" dùng cho suy nghĩ, niềm tin: Je pense qu'il va pleuvoir. "que" + nguyên âm → "qu'". "À mon avis / pour moi / selon moi" + câu (không có que): À mon avis, c'est trop cher. Hỏi ý kiến: Qu'est-ce que tu en penses ? Tu trouves ça comment ? Quel est ton avis ? Lưu ý: "Je ne pense pas que…" cần thức giả định (B1) — ở A2, dùng "Je pense que… ne… pas".
+G.table: Expression | Exemple
+G.row: je pense que | Je pense que c'est une bonne idée.
+G.row: je trouve que | Je trouve que ce livre est passionnant.
+G.row: je crois que | Je crois qu'il a raison.
+G.row: à mon avis | À mon avis, c'est trop cher.
+G.row: selon moi / pour moi | Pour moi, la santé est plus importante.
+G.ex: Je trouve que ce restaurant est un peu cher. || Tôi thấy nhà hàng này hơi đắt.
+G.ex: Je pense qu'apprendre une langue ouvre l'esprit. || Tôi nghĩ rằng học một ngoại ngữ giúp mở mang đầu óc.
+G.ex: À mon avis, il faut plus de pistes cyclables en ville. || Theo ý tôi, thành phố cần nhiều làn đường cho xe đạp hơn.
+G.ex: Qu'est-ce que tu en penses ? || Bạn nghĩ sao về chuyện đó?
+G.q: Je pense ___ c'est une bonne idée. | de | *que | qui | à
+G.q: À mon avis, ___ trop cher. | que c'est | *c'est | de c'est | qu'est
+G.q: Pour donner un jugement sur un film, on dit souvent… | je pense de | *je trouve que | je suis que | à mon trouve
+G.q: Pour demander l'opinion de quelqu'un : | Où es-tu ? | *Qu'est-ce que tu en penses ? | Tu as quel âge ? | Tu pars quand ?
+G.q: Je pense ___ il a raison. (élision) = qu'
+V: l'avis | /la.vi/ | nom m. | ý kiến | À mon avis, c'est vrai. || Theo ý tôi, điều đó đúng.
+V: penser | /pɑ̃.se/ | verbe | nghĩ | Je pense que tu as raison. || Tôi nghĩ bạn đúng.
+V: trouver | /tʁu.ve/ | verbe | thấy (đánh giá) | Je trouve ça génial. || Tôi thấy điều đó tuyệt vời.
+V: croire | /kʁwaʁ/ | verbe | tin | Je crois que oui. || Tôi tin là có.
+V: avoir raison | /a.vwaʁ ʁɛ.zɔ̃/ | expression | đúng | Tu as raison. || Bạn đúng.
+V: avoir tort | /a.vwaʁ tɔʁ/ | expression | sai | Il a tort. || Anh ấy sai.
+V: selon | /sə.lɔ̃/ | préposition | theo | Selon moi, c'est faux. || Theo tôi, điều đó sai.
+V: l'esprit | /lɛs.pʁi/ | nom m. | tinh thần, đầu óc | Les voyages ouvrent l'esprit. || Du lịch giúp mở mang đầu óc.
+V: la piste cyclable | /la pist si.klabl/ | nom f. | làn đường xe đạp | Il n'y a pas assez de pistes cyclables. || Không có đủ làn đường xe đạp.
+V: ennuyeux | /ɑ̃.nɥi.jø/ | adjectif | nhàm chán | Ce film est ennuyeux. || Bộ phim này nhàm chán.
+VQ: Le contraire de « avoir raison » : | avoir envie | *avoir tort | avoir peur | avoir besoin
+VQ: Le contraire de « passionnant » : | génial | *ennuyeux | intéressant | drôle
+VQ: Synonyme de « à mon avis » : | à mon âge | *selon moi | à ma place | pour toi
+VQ: « Qu'est-ce que tu en penses ? » demande… | une information | *une opinion | un prix | une direction
+VQ: Tu as ___ : c'est exactement ça ! (đúng) = raison
+D: Je trouve que ce restaurant est un peu cher.
+D: Je pense qu'apprendre une langue ouvre l'esprit.
+D: À mon avis, il faut plus de pistes cyclables.
+D: Qu'est-ce que tu en penses ?
+L: Marie | Tu as vu le nouveau film de science-fiction ? Qu'est-ce que tu en penses ? || Bạn xem bộ phim khoa học viễn tưởng mới chưa? Bạn nghĩ sao?
+L: Phong | Je trouve que les effets spéciaux sont incroyables. || Mình thấy hiệu ứng đặc biệt rất ấn tượng.
+L: Marie | Oui, mais à mon avis, l'histoire est un peu ennuyeuse. || Ừ, nhưng theo ý mình, cốt truyện hơi nhàm chán.
+L: Phong | Tu as raison, c'est un peu long. Mais je pense que les acteurs sont excellents. || Bạn đúng, nó hơi dài. Nhưng mình nghĩ các diễn viên rất xuất sắc.
+L: Marie | Pour moi, le meilleur film de l'année reste le film d'animation japonais. || Với mình, bộ phim hay nhất năm vẫn là phim hoạt hình Nhật.
+L: Phong | Je crois que je suis d'accord avec toi ! || Mình nghĩ là mình đồng ý với bạn!
+LQ: Qu'est-ce que Phong aime dans le film ? | l'histoire | *les effets spéciaux | la musique | la fin
+LQ: Selon Marie, l'histoire est… | passionnante | *un peu ennuyeuse | drôle | triste
+LQ: Pour Marie, le meilleur film de l'année est… | le film de science-fiction | *le film d'animation japonais | une comédie française | un documentaire
+RA: Je pense que… Je trouve que… Je crois que…
+RA: À mon avis, c'est trop cher.
+RA: Qu'est-ce que tu en penses ?
+SH: Qu'est-ce que tu en penses ?
+SH: À mon avis, l'histoire est un peu ennuyeuse.
+SH: Je crois que je suis d'accord avec toi !
+R.title: Courrier des lecteurs : les devoirs à la maison
+R: Le magazine a demandé à ses lecteurs : « Faut-il supprimer les devoirs à la maison ? » || Tạp chí đã hỏi độc giả: « Có nên bỏ bài tập về nhà không? »
+R: Anne, mère de deux enfants : « Je pense que les enfants travaillent déjà assez à l'école. Le soir, ils ont besoin de jouer. » || Anne, mẹ của hai con: « Tôi nghĩ trẻ con đã học đủ ở trường. Buổi tối, chúng cần được chơi. »
+R: Paul, professeur : « À mon avis, un peu de devoirs, c'est utile pour répéter la leçon. » || Paul, giáo viên: « Theo ý tôi, một chút bài tập là hữu ích để ôn lại bài. »
+R: Lina, quatorze ans : « Je trouve que les devoirs sont stressants, surtout le week-end ! » || Lina, mười bốn tuổi: « Em thấy bài tập gây căng thẳng, nhất là vào cuối tuần! »
+R: Marc, grand-père : « Selon moi, le problème, c'est la quantité. Vingt minutes par jour, ça suffit. » || Marc, ông nội: « Theo tôi, vấn đề là khối lượng. Hai mươi phút mỗi ngày là đủ. »
+R: Et vous, qu'est-ce que vous en pensez ? || Còn bạn, bạn nghĩ sao?
+RQ: Selon Anne, le soir, les enfants ont besoin de… | travailler | *jouer | dormir tôt | regarder la télé
+RQ: Paul pense que les devoirs sont… | inutiles | *utiles en petite quantité | stressants | trop longs
+RQ: Selon Marc, combien de temps par jour suffit ? | une heure | *vingt minutes | dix minutes | deux heures
+W.prompt: Donne ton avis sur une question : « Faut-il apprendre une langue étrangère à l'école primaire ? » Utilise au moins quatre expressions d'opinion différentes. || Nêu ý kiến của bạn về câu hỏi: « Có nên học ngoại ngữ từ tiểu học không? » Dùng ít nhất bốn cách diễn đạt ý kiến khác nhau.
+W.min: 55
+W.must: je pense que ; à mon avis ; je trouve que
+W.check: Sau que là mệnh đề đầy đủ (chủ ngữ + động từ)
+W.check: À mon avis / selon moi không có que
+W.check: Có lý do cho ý kiến
+W.model: À mon avis, c'est une excellente idée d'apprendre une langue étrangère à l'école primaire. || Theo ý tôi, học ngoại ngữ từ tiểu học là một ý tưởng tuyệt vời.
+W.model: Je pense que les enfants apprennent très vite quand ils sont petits. || Tôi nghĩ trẻ con học rất nhanh khi còn nhỏ.
+W.model: Je trouve que leur prononciation est souvent meilleure que celle des adultes. || Tôi thấy phát âm của chúng thường tốt hơn người lớn.
+W.model: Je crois aussi qu'une langue étrangère ouvre l'esprit et aide à comprendre d'autres cultures. || Tôi cũng tin rằng ngoại ngữ giúp mở mang đầu óc và hiểu các nền văn hoá khác.
+W.model: Selon moi, il faut surtout des cours amusants, avec des chansons et des jeux. || Theo tôi, quan trọng nhất là các tiết học thú vị, với bài hát và trò chơi.
+W.model: Pour moi, la langue doit être un plaisir, pas un stress ! || Với tôi, ngôn ngữ phải là niềm vui, không phải áp lực!
+
+## 2 | D'accord, pas d'accord
+G.title: Exprimer l'accord et le désaccord
+G.rule: Pour réagir à l'opinion de quelqu'un, on exprime l'accord (Je suis d'accord avec toi, Tout à fait, Exactement) ou le désaccord (Je ne suis pas d'accord, Je ne pense pas, Au contraire). On peut aussi nuancer : Oui, mais… / C'est vrai, mais… || Để phản hồi ý kiến của ai đó, ta bày tỏ sự đồng ý (Je suis d'accord avec toi — Tôi đồng ý với bạn, Tout à fait — Hoàn toàn đúng, Exactement — Chính xác) hoặc không đồng ý (Je ne suis pas d'accord — Tôi không đồng ý, Je ne pense pas — Tôi không nghĩ vậy, Au contraire — Ngược lại). Cũng có thể dung hoà: Oui, mais… / C'est vrai, mais…
+G.note: Mức độ: Hoàn toàn đồng ý: Tout à fait ! Absolument ! Je suis complètement d'accord. Đồng ý một phần: Oui, mais… / Tu as peut-être raison, mais… / C'est vrai, mais d'un autre côté… Không đồng ý lịch sự: Je ne suis pas tout à fait d'accord. Je vois les choses autrement. Không đồng ý mạnh: Pas du tout ! Absolument pas ! "Moi aussi" (đồng ý câu khẳng định) / "Moi non plus" (đồng ý câu phủ định): Je n'aime pas le froid. — Moi non plus.
+G.table: Niveau | Expression
+G.row: accord total | Tout à fait ! Exactement !
+G.row: accord | Je suis d'accord avec toi.
+G.row: nuance | Oui, mais… / C'est vrai, mais…
+G.row: désaccord poli | Je ne suis pas tout à fait d'accord.
+G.row: désaccord fort | Pas du tout ! Au contraire !
+G.ex: Je suis tout à fait d'accord avec vous. || Tôi hoàn toàn đồng ý với anh.
+G.ex: C'est vrai, mais d'un autre côté, c'est très cher. || Đúng vậy, nhưng mặt khác, nó rất đắt.
+G.ex: Je ne suis pas d'accord : au contraire, je pense que c'est utile. || Tôi không đồng ý: ngược lại, tôi nghĩ nó hữu ích.
+G.ex: Je n'aime pas le froid. — Moi non plus ! || Tôi không thích lạnh. — Tôi cũng vậy!
+G.q: Pour un accord total : | Oui, mais… | *Tout à fait ! | Pas du tout ! | Je ne pense pas.
+G.q: Je n'aime pas les épinards. — Moi ___. | aussi | *non plus | si | pas
+G.q: Pour nuancer : | Exactement ! | *C'est vrai, mais… | Absolument pas ! | Au contraire !
+G.q: Désaccord poli : | Tu dis n'importe quoi ! | *Je ne suis pas tout à fait d'accord. | Non ! | Tais-toi !
+G.q: J'adore la mer. — Moi ___ ! = aussi
+V: d'accord | /da.kɔʁ/ | expression | đồng ý | Je suis d'accord avec toi. || Tôi đồng ý với bạn.
+V: le désaccord | /lə de.za.kɔʁ/ | nom m. | sự bất đồng | Il y a un désaccord entre nous. || Giữa chúng ta có bất đồng.
+V: tout à fait | /tu.t‿a fɛ/ | expression | hoàn toàn | Tout à fait d'accord ! || Hoàn toàn đồng ý!
+V: exactement | /ɛɡ.zak.tə.mɑ̃/ | adverbe | chính xác | Exactement ! C'est ça ! || Chính xác! Đúng thế!
+V: au contraire | /o kɔ̃.tʁɛʁ/ | expression | ngược lại | Au contraire, c'est très facile. || Ngược lại, nó rất dễ.
+V: autrement | /o.tʁə.mɑ̃/ | adverbe | khác đi | Je vois les choses autrement. || Tôi nhìn sự việc theo cách khác.
+V: d'un autre côté | /dœ̃.n‿otʁ ko.te/ | expression | mặt khác | D'un autre côté, c'est pratique. || Mặt khác, nó tiện lợi.
+V: moi non plus | /mwa nɔ̃ ply/ | expression | tôi cũng không | Je ne fume pas. — Moi non plus. || Tôi không hút thuốc. — Tôi cũng không.
+V: absolument | /ap.sɔ.ly.mɑ̃/ | adverbe | tuyệt đối | Absolument pas ! || Tuyệt đối không!
+V: nuancer | /nɥɑ̃.se/ | verbe | dung hoà, làm rõ sắc thái | Il faut nuancer cette opinion. || Cần làm rõ sắc thái ý kiến này.
+VQ: Le contraire de « accord » : | avis | *désaccord | contraire | côté
+VQ: Je ne bois pas d'alcool. — Moi ___. | aussi | *non plus | oui | si
+VQ: « Je vois les choses autrement » exprime… | un accord | *un désaccord poli | une surprise | une question
+VQ: « Absolument pas ! » exprime… | un accord fort | *un désaccord fort | une hésitation | un doute
+VQ: Pour un accord total : « ___ ! » (chính xác) = Exactement
+D: Je suis tout à fait d'accord avec vous.
+D: C'est vrai, mais c'est très cher.
+D: Au contraire, je pense que c'est utile.
+D: Je n'aime pas le froid. Moi non plus !
+L: Linh | Je pense qu'on devrait interdire les voitures dans le centre-ville. || Mình nghĩ nên cấm ô tô ở trung tâm thành phố.
+L: Antoine | Je suis d'accord ! Il y a trop de pollution. || Mình đồng ý! Ô nhiễm quá nhiều.
+L: Camille | Oui, mais d'un autre côté, comment font les personnes âgées ou handicapées ? || Đúng, nhưng mặt khác, người già hoặc người khuyết tật thì làm thế nào?
+L: Linh | C'est vrai. Il faut plus de bus et de taxis électriques. || Đúng vậy. Cần thêm xe buýt và taxi điện.
+L: Antoine | Exactement ! Et plus de pistes cyclables. || Chính xác! Và thêm làn đường xe đạp.
+L: Camille | Là, je suis tout à fait d'accord avec vous ! || Điểm này thì mình hoàn toàn đồng ý với các bạn!
+LQ: Que propose Linh ? | plus de voitures | *interdire les voitures dans le centre-ville | des parkings | des autoroutes
+LQ: Quelle est l'objection de Camille ? | le prix | *les personnes âgées ou handicapées | les commerçants | la météo
+LQ: Sur quoi sont-ils tous d'accord à la fin ? | interdire les vélos | *plus de bus, taxis électriques et pistes cyclables | rien | plus de voitures
+RA: Je suis d'accord. Je ne suis pas d'accord.
+RA: Tout à fait ! Exactement ! Au contraire !
+RA: Moi aussi. Moi non plus.
+SH: Je suis d'accord ! Il y a trop de pollution.
+SH: Oui, mais d'un autre côté…
+SH: Là, je suis tout à fait d'accord avec vous !
+R.title: Le débat du dimanche
+R: Chaque dimanche, ma famille discute d'un sujet pendant le déjeuner. || Mỗi Chủ Nhật, gia đình tôi thảo luận một chủ đề trong bữa trưa.
+R: Hier, le sujet était : « Les enfants doivent-ils avoir un téléphone à dix ans ? » || Hôm qua, chủ đề là: « Trẻ em có nên có điện thoại từ năm mười tuổi không? »
+R: Mon frère a dit : « Oui, c'est pratique pour appeler les parents. » Ma mère n'était pas d'accord du tout. || Anh trai tôi nói: « Có, rất tiện để gọi bố mẹ. » Mẹ tôi hoàn toàn không đồng ý.
+R: Selon elle, les enfants passent déjà trop de temps devant les écrans. || Theo mẹ, trẻ em đã dành quá nhiều thời gian trước màn hình.
+R: Mon père a nuancé : « C'est vrai, mais on peut donner un téléphone simple, sans Internet. » || Bố tôi dung hoà: « Đúng vậy, nhưng có thể cho một chiếc điện thoại đơn giản, không có Internet. »
+R: Finalement, tout le monde était d'accord avec mon père. Comme toujours ! || Cuối cùng, mọi người đều đồng ý với bố tôi. Như mọi khi!
+RQ: Quel était le sujet ? | les devoirs | *le téléphone pour les enfants de dix ans | la télé | les vacances
+RQ: Pourquoi la mère n'est pas d'accord ? | c'est trop cher | *les enfants passent déjà trop de temps devant les écrans | c'est dangereux | les enfants le perdent
+RQ: Quelle est la proposition du père ? | pas de téléphone | *un téléphone simple sans Internet | un smartphone | une tablette
+W.prompt: Imagine une discussion entre trois amis sur un sujet (le télétravail, les animaux en appartement, le fast-food…). Chaque personne exprime un accord, un désaccord ou une nuance. || Hình dung một cuộc thảo luận giữa ba người bạn về một chủ đề (làm việc từ xa, nuôi thú trong căn hộ, đồ ăn nhanh…). Mỗi người bày tỏ đồng ý, không đồng ý hoặc dung hoà.
+W.min: 55
+W.must: d'accord ; mais ; au contraire
+W.check: Có cả đồng ý, không đồng ý và dung hoà
+W.check: Mỗi ý kiến có lý do
+W.check: moi aussi / moi non plus dùng đúng
+W.model: Hà : Je pense que le télétravail, c'est génial. On ne perd pas de temps dans les transports. || Hà: Mình nghĩ làm việc từ xa thật tuyệt. Không mất thời gian đi lại.
+W.model: Lucas : Je suis tout à fait d'accord ! Et on peut travailler en pyjama ! || Lucas: Mình hoàn toàn đồng ý! Và có thể làm việc trong bộ đồ ngủ!
+W.model: Sarah : Je ne suis pas d'accord. Au contraire, je trouve que c'est triste de travailler seul. || Sarah: Mình không đồng ý. Ngược lại, mình thấy làm việc một mình rất buồn.
+W.model: Hà : C'est vrai, mais on peut aller au bureau deux jours par semaine. || Hà: Đúng vậy, nhưng có thể đến văn phòng hai ngày một tuần.
+W.model: Sarah : Oui, là, je suis d'accord. Je n'aime pas être seule tous les jours. || Sarah: Ừ, điểm đó thì mình đồng ý. Mình không thích ở một mình mỗi ngày.
+W.model: Lucas : Moi non plus. Deux ou trois jours, c'est parfait ! || Lucas: Mình cũng không. Hai hoặc ba ngày là hoàn hảo!
+
+## 3 | Parce que, car, donc
+G.title: Cause et conséquence
+G.rule: Pour justifier son avis, on exprime la cause avec parce que, car, comme, à cause de, grâce à, et la conséquence avec donc, alors, c'est pourquoi. || Để chứng minh ý kiến, ta diễn tả nguyên nhân bằng parce que (vì), car (bởi vì), comme (vì — đầu câu), à cause de (tại vì — tiêu cực), grâce à (nhờ có — tích cực), và kết quả bằng donc (do đó), alors (vậy nên), c'est pourquoi (đó là lý do tại sao).
+G.note: Nguyên nhân: "parce que" thông dụng, trả lời câu hỏi pourquoi. "car" trang trọng hơn, dùng trong văn viết, không đứng đầu câu. "comme" đứng đầu câu: Comme il pleut, je reste à la maison. "à cause de" + danh từ (kết quả xấu): à cause de la pluie. "grâce à" + danh từ (kết quả tốt): grâce à toi. Kết quả: "donc" (logic), "alors" (văn nói), "c'est pourquoi" (giải thích). Ví dụ: Il pleut, donc je reste à la maison.
+G.table: Fonction | Mot | Exemple
+G.row: cause | parce que | Je reste parce qu'il pleut.
+G.row: cause (écrit) | car | Je reste, car il pleut.
+G.row: cause (début) | comme | Comme il pleut, je reste.
+G.row: cause négative | à cause de | Je suis en retard à cause des bouchons.
+G.row: cause positive | grâce à | J'ai réussi grâce à toi.
+G.row: conséquence | donc / alors | Il pleut, donc je reste.
+G.ex: Je n'aime pas les réseaux sociaux parce qu'ils prennent trop de temps. || Tôi không thích mạng xã hội vì chúng tốn quá nhiều thời gian.
+G.ex: Comme il fait beau, on va pique-niquer. || Vì trời đẹp, chúng ta sẽ đi dã ngoại.
+G.ex: Le vol est annulé à cause de la tempête. || Chuyến bay bị huỷ vì cơn bão.
+G.ex: J'ai trouvé du travail grâce à mon français. C'est pourquoi j'adore cette langue ! || Tôi tìm được việc nhờ tiếng Pháp. Đó là lý do tôi yêu ngôn ngữ này!
+G.q: Je suis malade ___ la pollution. | grâce à | *à cause de | parce que | donc
+G.q: ___ il est tard, je rentre. (début de phrase) | Car | *Comme | Donc | À cause de
+G.q: J'ai réussi ___ mon professeur. | à cause de | *grâce à | car | donc
+G.q: Il n'a pas d'argent, ___ il ne part pas en vacances. | parce que | *donc | car | comme
+G.q: Pourquoi tu pleures ? — ___ j'ai perdu mon chat. = Parce que
+V: parce que | /paʁs kə/ | conjonction | vì | Je reste parce que je suis fatigué. || Tôi ở nhà vì tôi mệt.
+V: car | /kaʁ/ | conjonction | bởi vì | Il est absent, car il est malade. || Anh ấy vắng mặt, bởi vì anh ấy ốm.
+V: comme | /kɔm/ | conjonction | vì (đầu câu) | Comme il pleut, je prends un taxi. || Vì trời mưa, tôi đi taxi.
+V: à cause de | /a koz də/ | préposition | tại vì | À cause de la grève, je suis en retard. || Tại cuộc đình công, tôi đến muộn.
+V: grâce à | /ɡʁas a/ | préposition | nhờ có | Grâce à toi, j'ai compris. || Nhờ có bạn, tôi đã hiểu.
+V: donc | /dɔ̃k/ | conjonction | do đó | Je pense, donc je suis. || Tôi tư duy, nên tôi tồn tại.
+V: c'est pourquoi | /sɛ puʁ.kwa/ | expression | đó là lý do tại sao | C'est pourquoi je suis venu. || Đó là lý do tôi đến.
+V: la tempête | /la tɑ̃.pɛt/ | nom f. | cơn bão | La tempête a cassé des arbres. || Cơn bão làm gãy cây.
+V: le réseau social | /lə ʁe.zo so.sjal/ | nom m. | mạng xã hội | Je suis sur les réseaux sociaux. || Tôi dùng mạng xã hội.
+V: la cause | /la koz/ | nom f. | nguyên nhân | Quelle est la cause du problème ? || Nguyên nhân của vấn đề là gì?
+VQ: Le contraire de « conséquence » : | raison donc | *cause | effet | résultat
+VQ: « Grâce à » s'utilise pour un résultat… | négatif | *positif | neutre | futur
+VQ: « Car » est plus utilisé… | à l'oral entre amis | *à l'écrit | en chanson | jamais
+VQ: Un orage très fort avec beaucoup de vent : | un nuage | *une tempête | une pluie fine | un brouillard
+VQ: Synonyme de « donc » à l'oral : ___ = alors
+D: Je n'aime pas les réseaux sociaux parce qu'ils prennent trop de temps.
+D: Comme il fait beau, on va pique-niquer.
+D: Le vol est annulé à cause de la tempête.
+D: J'ai trouvé du travail grâce à mon français.
+L: Journaliste | Pourquoi avez-vous quitté Paris pour la campagne ? || Tại sao anh rời Paris về nông thôn?
+L: Vincent | Parce que j'étais trop stressé. Je travaillais dix heures par jour. || Vì tôi quá căng thẳng. Tôi làm việc mười tiếng mỗi ngày.
+L: Journaliste | Et maintenant ? || Còn bây giờ?
+L: Vincent | Grâce à Internet, je travaille à la maison. Donc j'ai plus de temps pour ma famille. || Nhờ Internet, tôi làm việc ở nhà. Vì vậy tôi có nhiều thời gian hơn cho gia đình.
+L: Journaliste | Il y a des inconvénients ? || Có bất lợi gì không?
+L: Vincent | Oui. À cause de la distance, je vois moins mes amis de Paris. C'est pourquoi je les invite souvent ici ! || Có. Vì khoảng cách, tôi ít gặp bạn bè ở Paris hơn. Đó là lý do tôi hay mời họ về đây!
+LQ: Pourquoi Vincent a quitté Paris ? | il a perdu son travail | *il était trop stressé | il n'aimait pas Paris | sa femme voulait partir
+LQ: Grâce à quoi peut-il travailler à la maison ? | à son patron | *à Internet | à sa voiture | à sa famille
+LQ: Quel est l'inconvénient ? | il gagne moins | *il voit moins ses amis de Paris | il s'ennuie | il n'y a pas d'Internet
+RA: parce que, car, comme, donc, alors.
+RA: À cause de la pluie. Grâce à toi.
+RA: C'est pourquoi j'adore cette langue.
+SH: Parce que j'étais trop stressé.
+SH: Grâce à Internet, je travaille à la maison.
+SH: C'est pourquoi je les invite souvent ici !
+R.title: Pourquoi j'apprends le français
+R: J'ai commencé à apprendre le français il y a six mois, et voici pourquoi. || Tôi bắt đầu học tiếng Pháp cách đây sáu tháng, và đây là lý do.
+R: D'abord, je l'apprends parce que je veux faire un master en France. || Đầu tiên, tôi học vì tôi muốn học thạc sĩ ở Pháp.
+R: Comme les études sont presque gratuites là-bas, c'est une grande chance. || Vì học phí ở đó gần như miễn phí, đây là một cơ hội lớn.
+R: Ensuite, j'adore la cuisine française, donc je veux comprendre les recettes originales ! || Tiếp theo, tôi rất thích ẩm thực Pháp, nên tôi muốn hiểu các công thức gốc!
+R: Au début, c'était difficile à cause de la prononciation. || Lúc đầu, rất khó vì cách phát âm.
+R: Mais grâce à cette application, je fais des progrès chaque jour. C'est pourquoi je continue ! || Nhưng nhờ ứng dụng này, tôi tiến bộ mỗi ngày. Đó là lý do tôi tiếp tục!
+RQ: Pourquoi veut-il aller en France ? | pour travailler | *pour faire un master | pour voyager | pour sa famille
+RQ: Qu'est-ce qui était difficile au début ? | la grammaire | *la prononciation | le vocabulaire | l'écriture
+RQ: Grâce à quoi fait-il des progrès ? | à un professeur | *à une application | à des amis français | à la télé
+W.prompt: Explique pourquoi tu apprends le français (ou une autre activité importante pour toi). Donne au moins trois raisons et leurs conséquences. || Giải thích tại sao bạn học tiếng Pháp (hoặc một hoạt động quan trọng khác). Đưa ra ít nhất ba lý do và kết quả.
+W.min: 55
+W.must: parce que ; grâce à ; donc
+W.check: Phân biệt à cause de (xấu) / grâce à (tốt)
+W.check: comme đứng đầu câu
+W.check: Ít nhất ba từ nối nguyên nhân – kết quả khác nhau
+W.model: J'apprends le français pour trois raisons. || Tôi học tiếng Pháp vì ba lý do.
+W.model: D'abord, je l'apprends parce que mon entreprise travaille avec des clients en France. || Đầu tiên, tôi học vì công ty tôi làm việc với khách hàng ở Pháp.
+W.model: Comme je parle un peu français, mon chef me donne des projets plus intéressants. || Vì tôi nói được chút tiếng Pháp, sếp giao cho tôi những dự án thú vị hơn.
+W.model: Ensuite, mon grand-père parlait français, donc c'est aussi une langue de famille pour moi. || Tiếp theo, ông tôi từng nói tiếng Pháp, vì vậy đó cũng là ngôn ngữ của gia đình đối với tôi.
+W.model: Enfin, j'aime les chansons françaises, car elles sont poétiques. || Cuối cùng, tôi thích các bài hát Pháp, bởi vì chúng giàu chất thơ.
+W.model: Au début, j'ai presque abandonné à cause de la grammaire, mais grâce à ma patience, je progresse ! || Lúc đầu, tôi suýt bỏ cuộc vì ngữ pháp, nhưng nhờ sự kiên nhẫn, tôi đang tiến bộ!
+
+## 4 | Les médias et les réseaux
+G.title: Parler des médias
+G.rule: Pour parler des médias, on utilise un vocabulaire spécifique (la presse, la radio, la télévision, les réseaux sociaux, une information, une fausse information) et on compare leurs avantages et leurs inconvénients. || Để nói về truyền thông, ta dùng từ vựng chuyên biệt (báo chí, radio, truyền hình, mạng xã hội, một thông tin, một tin giả) và so sánh ưu điểm và nhược điểm của chúng.
+G.note: Cấu trúc trình bày ưu/nhược điểm: L'avantage de…, c'est que… (Ưu điểm của… là…). L'inconvénient, c'est que… (Nhược điểm là…). D'un côté… de l'autre… (Một mặt… mặt khác…). Từ vựng: s'informer (cập nhật thông tin), suivre l'actualité (theo dõi thời sự), un abonné (người theo dõi), publier (đăng), partager (chia sẻ), liker (thích — văn nói), une fake news / une fausse information (tin giả), vérifier une source (kiểm tra nguồn).
+G.table: Média | Avantage | Inconvénient
+G.row: la presse écrite | informations sérieuses | payante
+G.row: la radio | pratique en voiture | pas d'images
+G.row: la télévision | images, direct | beaucoup de publicité
+G.row: les réseaux sociaux | rapides, gratuits | fausses informations
+G.ex: Je m'informe surtout sur Internet et à la radio. || Tôi cập nhật thông tin chủ yếu trên Internet và radio.
+G.ex: L'avantage des réseaux sociaux, c'est qu'ils sont rapides. || Ưu điểm của mạng xã hội là chúng nhanh.
+G.ex: L'inconvénient, c'est qu'il y a beaucoup de fausses informations. || Nhược điểm là có rất nhiều tin giả.
+G.ex: Il faut toujours vérifier la source avant de partager. || Luôn cần kiểm tra nguồn trước khi chia sẻ.
+G.q: Une information qui n'est pas vraie : | une actualité | *une fausse information | une source | un abonné
+G.q: « L'inconvénient, c'est que… » présente… | un avantage | *un point négatif | une solution | une question
+G.q: Mettre une photo sur Instagram, c'est la… | lire | *publier | vérifier | télécharger
+G.q: Avant de partager une information, il faut vérifier la… | publicité | *source | radio | presse
+G.q: Les journaux et les magazines, c'est la ___ écrite. = presse
+V: les médias | /le me.dja/ | nom m. pl. | truyền thông | Les médias ont beaucoup d'influence. || Truyền thông có ảnh hưởng lớn.
+V: la presse | /la pʁɛs/ | nom f. | báo chí | Je lis la presse le matin. || Tôi đọc báo buổi sáng.
+V: s'informer | /sɛ̃.fɔʁ.me/ | verbe | cập nhật thông tin | Comment tu t'informes ? || Bạn cập nhật thông tin bằng cách nào?
+V: l'actualité | /lak.tɥa.li.te/ | nom f. | thời sự | Je suis l'actualité tous les jours. || Tôi theo dõi thời sự mỗi ngày.
+V: publier | /py.bli.je/ | verbe | đăng, xuất bản | Elle publie des photos chaque jour. || Cô ấy đăng ảnh mỗi ngày.
+V: partager | /paʁ.ta.ʒe/ | verbe | chia sẻ | Ne partage pas cette vidéo ! || Đừng chia sẻ video này!
+V: la source | /la suʁs/ | nom f. | nguồn | Quelle est la source ? || Nguồn là gì?
+V: l'avantage | /la.vɑ̃.taʒ/ | nom m. | ưu điểm | C'est un grand avantage. || Đó là một ưu điểm lớn.
+V: l'inconvénient | /lɛ̃.kɔ̃.ve.njɑ̃/ | nom m. | nhược điểm | Quel est l'inconvénient ? || Nhược điểm là gì?
+V: l'abonné | /la.bɔ.ne/ | nom m. | người theo dõi | Elle a dix mille abonnés. || Cô ấy có mười nghìn người theo dõi.
+VQ: Le contraire de « avantage » : | source | *inconvénient | actualité | abonné
+VQ: Les nouvelles du jour, c'est l'… | avantage | *actualité | abonné | presse
+VQ: Une personne qui suit un compte sur un réseau social : | un journaliste | *un abonné | un lecteur de presse | un auditeur
+VQ: « Partager » une vidéo, c'est… | la supprimer | *l'envoyer à d'autres | la regarder | la filmer
+VQ: Les journaux, la radio, la télé et Internet sont des ___. = médias
+D: Je m'informe surtout sur Internet et à la radio.
+D: L'avantage des réseaux sociaux, c'est qu'ils sont rapides.
+D: Il y a beaucoup de fausses informations.
+D: Il faut toujours vérifier la source.
+L: Enquêteur | Bonjour, comment est-ce que vous vous informez ? || Xin chào, anh/chị cập nhật thông tin bằng cách nào?
+L: Femme | Moi, j'écoute la radio le matin dans la voiture. C'est pratique. || Tôi nghe radio buổi sáng trên xe. Rất tiện.
+L: Étudiant | Moi, je m'informe uniquement sur les réseaux sociaux. C'est rapide et gratuit. || Còn em chỉ cập nhật thông tin trên mạng xã hội. Nhanh và miễn phí.
+L: Enquêteur | Vous ne craignez pas les fausses informations ? || Em không sợ tin giả sao?
+L: Étudiant | Si, un peu. C'est pourquoi je vérifie les sources importantes sur des sites de journaux. || Có, một chút. Vì vậy em kiểm tra các nguồn quan trọng trên trang web của báo chí.
+L: Homme âgé | Moi, je lis le journal papier. Je trouve que c'est plus sérieux ! || Còn tôi đọc báo giấy. Tôi thấy nó nghiêm túc hơn!
+LQ: Quand la femme écoute-t-elle la radio ? | le soir | *le matin dans la voiture | au travail | jamais
+LQ: Pourquoi l'étudiant aime les réseaux sociaux ? | ils sont sérieux | *ils sont rapides et gratuits | il n'a pas de télé | ses amis y sont
+LQ: Que lit l'homme âgé ? | des magazines | *le journal papier | des livres | Internet
+RA: la presse, la radio, la télévision, les réseaux sociaux.
+RA: L'avantage, c'est que… L'inconvénient, c'est que…
+RA: Il faut toujours vérifier la source.
+SH: Comment est-ce que vous vous informez ?
+SH: C'est rapide et gratuit.
+SH: Je trouve que c'est plus sérieux !
+R.title: Les jeunes et l'information
+R: Selon une étude récente, soixante-dix pour cent des jeunes Français s'informent principalement sur les réseaux sociaux. || Theo một nghiên cứu gần đây, bảy mươi phần trăm giới trẻ Pháp cập nhật thông tin chủ yếu trên mạng xã hội.
+R: L'avantage, c'est qu'ils suivent l'actualité en temps réel. || Ưu điểm là họ theo dõi thời sự theo thời gian thực.
+R: Mais l'inconvénient, c'est que beaucoup d'informations ne sont pas vérifiées. || Nhưng nhược điểm là nhiều thông tin không được kiểm chứng.
+R: Seulement quinze pour cent des jeunes lisent un journal papier. || Chỉ mười lăm phần trăm giới trẻ đọc báo giấy.
+R: C'est pourquoi beaucoup d'écoles proposent maintenant des cours d'éducation aux médias. || Vì vậy nhiều trường học hiện nay có các tiết giáo dục về truyền thông.
+R: Les élèves y apprennent à reconnaître une fausse information et à vérifier une source. || Học sinh học ở đó cách nhận biết tin giả và kiểm tra nguồn.
+RQ: Combien de jeunes s'informent sur les réseaux sociaux ? | quinze pour cent | *soixante-dix pour cent | cinquante pour cent | tous
+RQ: Quel est l'inconvénient des réseaux sociaux ? | ils sont lents | *beaucoup d'informations ne sont pas vérifiées | ils sont payants | ils sont ennuyeux
+RQ: Qu'apprennent les élèves en éducation aux médias ? | à publier des vidéos | *à reconnaître une fausse information | à écrire des articles | à faire de la radio
+W.prompt: Comment est-ce que tu t'informes ? Présente les médias que tu utilises, leurs avantages et leurs inconvénients, et donne ton avis sur les réseaux sociaux. || Bạn cập nhật thông tin bằng cách nào? Giới thiệu các phương tiện truyền thông bạn dùng, ưu nhược điểm của chúng, và nêu ý kiến về mạng xã hội.
+W.min: 60
+W.must: l'avantage ; l'inconvénient ; je pense que
+W.check: Có ít nhất hai phương tiện truyền thông
+W.check: Có cả ưu điểm và nhược điểm
+W.check: Kết luận bằng ý kiến cá nhân
+W.model: Je m'informe surtout sur mon téléphone, avec des applications de journaux vietnamiens et français. || Tôi cập nhật thông tin chủ yếu trên điện thoại, với các ứng dụng báo Việt Nam và Pháp.
+W.model: L'avantage, c'est que je peux lire l'actualité partout, dans le bus ou au café. || Ưu điểm là tôi có thể đọc thời sự ở mọi nơi, trên xe buýt hay ở quán cà phê.
+W.model: J'écoute aussi des podcasts en français : c'est pratique et c'est bon pour mon écoute ! || Tôi cũng nghe podcast tiếng Pháp: tiện lợi và tốt cho kỹ năng nghe!
+W.model: Je ne regarde presque jamais la télévision, car il y a trop de publicité. || Tôi gần như không bao giờ xem TV, vì có quá nhiều quảng cáo.
+W.model: Je pense que les réseaux sociaux sont utiles pour rester en contact avec ses amis. || Tôi nghĩ mạng xã hội hữu ích để giữ liên lạc với bạn bè.
+W.model: Mais l'inconvénient, c'est qu'ils prennent beaucoup de temps, et il faut toujours vérifier les informations. || Nhưng nhược điểm là chúng tốn nhiều thời gian, và luôn phải kiểm tra thông tin.
+
+## 5 | Un petit débat
+G.title: Organiser ses arguments
+G.rule: Dans un débat, on présente son opinion, on donne des arguments organisés (d'abord, ensuite, de plus, enfin), on répond aux arguments des autres et on conclut (en conclusion, pour conclure). || Trong một cuộc tranh luận, ta trình bày ý kiến, đưa ra các lập luận có tổ chức (d'abord — đầu tiên, ensuite — tiếp theo, de plus — hơn nữa, enfin — cuối cùng), phản hồi lập luận của người khác và kết luận (en conclusion, pour conclure).
+G.note: Cấu trúc một bài phát biểu ngắn: (1) Giới thiệu chủ đề và ý kiến: Je vais parler de… / Je suis pour / contre… (2) Lập luận: D'abord… Ensuite… De plus… (Hơn nữa…) Par exemple… (3) Phản biện: Certains pensent que…, mais… (Một số người nghĩ rằng… nhưng…). (4) Kết luận: En conclusion / Pour conclure, je pense que… "Être pour / contre" = ủng hộ / phản đối: Je suis pour l'uniforme scolaire.
+G.table: Étape | Expression
+G.row: position | Je suis pour / contre…
+G.row: argument 1 | D'abord…
+G.row: argument 2 | Ensuite… / De plus…
+G.row: exemple | Par exemple…
+G.row: objection | Certains pensent que…, mais…
+G.row: conclusion | En conclusion, … / Pour conclure, …
+G.ex: Je suis contre l'uniforme scolaire. || Tôi phản đối đồng phục học sinh.
+G.ex: D'abord, les élèves doivent pouvoir exprimer leur personnalité. || Đầu tiên, học sinh cần được thể hiện cá tính của mình.
+G.ex: Certains pensent que l'uniforme réduit les différences sociales, mais je ne suis pas d'accord. || Một số người nghĩ đồng phục giảm khác biệt xã hội, nhưng tôi không đồng ý.
+G.ex: En conclusion, je pense que chaque école doit choisir. || Kết luận, tôi nghĩ mỗi trường nên tự lựa chọn.
+G.q: Pour dire qu'on soutient une idée : | Je suis contre. | *Je suis pour. | Je suis sur. | Je suis avec que.
+G.q: Pour ajouter un argument : | En conclusion | *De plus | Certains pensent | D'abord seulement
+G.q: Pour présenter l'avis contraire : | Je suis pour… | *Certains pensent que…, mais… | De plus… | Enfin…
+G.q: Pour terminer un débat : | D'abord | *En conclusion | Ensuite | Par exemple
+G.q: Pour donner un exemple : Par ___, … = exemple
+V: le débat | /lə de.ba/ | nom m. | cuộc tranh luận | Le débat était intéressant. || Cuộc tranh luận rất thú vị.
+V: l'argument | /laʁ.ɡy.mɑ̃/ | nom m. | lập luận | C'est un bon argument. || Đó là một lập luận tốt.
+V: être pour | /ɛtʁ puʁ/ | expression | ủng hộ | Je suis pour cette idée. || Tôi ủng hộ ý tưởng này.
+V: être contre | /ɛtʁ kɔ̃tʁ/ | expression | phản đối | Il est contre la réforme. || Anh ấy phản đối cải cách.
+V: de plus | /də plys/ | expression | hơn nữa | De plus, c'est gratuit. || Hơn nữa, nó miễn phí.
+V: en conclusion | /ɑ̃ kɔ̃.kly.zjɔ̃/ | expression | kết luận | En conclusion, c'est une bonne idée. || Kết luận, đó là một ý tưởng tốt.
+V: certains | /sɛʁ.tɛ̃/ | pronom | một số người | Certains pensent le contraire. || Một số người nghĩ ngược lại.
+V: l'uniforme | /ly.ni.fɔʁm/ | nom m. | đồng phục | Les élèves portent un uniforme. || Học sinh mặc đồng phục.
+V: réduire | /ʁe.dɥiʁ/ | verbe | giảm | Il faut réduire la pollution. || Cần giảm ô nhiễm.
+V: convaincre | /kɔ̃.vɛ̃kʁ/ | verbe | thuyết phục | Tu m'as convaincu ! || Bạn đã thuyết phục được tôi!
+VQ: Le contraire de « être pour » : | être d'accord | *être contre | être avec | être sûr
+VQ: « De plus » sert à… | conclure | *ajouter un argument | donner un exemple | s'opposer
+VQ: Faire changer l'opinion de quelqu'un, c'est le… | réduire | *convaincre | débattre seulement | partager
+VQ: Le contraire de « augmenter » : | convaincre | *réduire | ajouter | publier
+VQ: Une discussion organisée où on défend des opinions : un ___. = débat
+D: Je suis contre l'uniforme scolaire.
+D: D'abord, les élèves doivent exprimer leur personnalité.
+D: Certains pensent que l'uniforme réduit les différences, mais je ne suis pas d'accord.
+D: En conclusion, chaque école doit choisir.
+L: Animatrice | Aujourd'hui, notre débat : faut-il interdire les téléphones à l'école ? Inès ? || Hôm nay, chủ đề tranh luận: có nên cấm điện thoại ở trường không? Inès?
+L: Inès | Je suis pour. D'abord, les élèves sont plus concentrés sans téléphone. De plus, ils parlent plus entre eux pendant les pauses. || Tôi ủng hộ. Đầu tiên, học sinh tập trung hơn khi không có điện thoại. Hơn nữa, họ nói chuyện với nhau nhiều hơn trong giờ ra chơi.
+L: Animatrice | Et vous, Tiến ? || Còn anh, Tiến?
+L: Tiến | Je suis plutôt contre. Certains pensent que le téléphone est seulement une distraction, mais c'est aussi un outil pour apprendre. || Tôi thì phản đối. Một số người nghĩ điện thoại chỉ là thứ gây xao nhãng, nhưng nó cũng là công cụ để học.
+L: Tiến | Par exemple, on peut utiliser un dictionnaire ou une application de langue en classe. || Ví dụ, có thể dùng từ điển hay ứng dụng học ngôn ngữ trong lớp.
+L: Animatrice | En conclusion, peut-être qu'on peut les autoriser seulement en classe, pour travailler ? || Kết luận, có lẽ có thể chỉ cho phép dùng trong lớp, để học?
+LQ: Inès est… | contre | *pour l'interdiction | sans opinion | d'accord avec Tiến
+LQ: Selon Inès, sans téléphone, les élèves… | s'ennuient | *sont plus concentrés et parlent plus | travaillent moins | sont stressés
+LQ: Quel exemple donne Tiến ? | jouer à des jeux | *utiliser un dictionnaire ou une application de langue | appeler ses parents | prendre des photos
+RA: Je suis pour. Je suis contre.
+RA: D'abord… De plus… Par exemple… En conclusion…
+RA: Certains pensent que…, mais…
+SH: Je suis pour. D'abord, les élèves sont plus concentrés.
+SH: Certains pensent que le téléphone est une distraction, mais…
+SH: Par exemple, on peut utiliser un dictionnaire.
+R.title: Pour ou contre les animaux au zoo ?
+R: Les zoos sont-ils une bonne chose ? Les opinions sont très partagées. || Vườn thú có phải là điều tốt? Ý kiến rất khác nhau.
+R: Les défenseurs des zoos disent d'abord qu'ils protègent les espèces en danger. || Những người ủng hộ vườn thú trước hết nói rằng chúng bảo vệ các loài có nguy cơ tuyệt chủng.
+R: De plus, ils permettent aux enfants de découvrir les animaux et de les respecter. || Hơn nữa, chúng giúp trẻ em khám phá động vật và tôn trọng chúng.
+R: Les opposants, au contraire, pensent que les animaux sont malheureux dans des cages. || Ngược lại, những người phản đối cho rằng động vật bất hạnh trong lồng.
+R: Par exemple, un éléphant marche des dizaines de kilomètres par jour dans la nature. || Ví dụ, một con voi đi bộ hàng chục cây số mỗi ngày trong tự nhiên.
+R: En conclusion, beaucoup de gens préfèrent les grands parcs naturels, où les animaux ont plus d'espace. || Kết luận, nhiều người thích các công viên tự nhiên rộng lớn hơn, nơi động vật có nhiều không gian hơn.
+RQ: Selon les défenseurs, les zoos… | sont amusants | *protègent les espèces en danger | sont bon marché | sont modernes
+RQ: Quel exemple donnent les opposants ? | un lion | *un éléphant qui marche des dizaines de kilomètres | un oiseau | un singe
+RQ: Que préfèrent beaucoup de gens ? | les petits zoos | *les grands parcs naturels | les cirques | les aquariums
+W.prompt: Choisis un sujet de débat (l'uniforme scolaire, la viande, le télétravail, les zoos…). Écris un petit discours : ta position, deux arguments avec un exemple, une objection et une conclusion. || Chọn một chủ đề tranh luận (đồng phục, ăn thịt, làm việc từ xa, vườn thú…). Viết một bài phát biểu ngắn: quan điểm của bạn, hai lập luận kèm ví dụ, một phản biện và một kết luận.
+W.min: 70
+W.must: je suis ; d'abord ; de plus ; en conclusion
+W.check: Có đủ: quan điểm, hai lập luận, ví dụ, phản biện, kết luận
+W.check: Từ nối rõ ràng giữa các phần
+W.check: Kết luận nhắc lại quan điểm
+W.model: Aujourd'hui, je vais parler des devoirs à la maison. Je suis contre les devoirs à l'école primaire. || Hôm nay tôi sẽ nói về bài tập về nhà. Tôi phản đối bài tập về nhà ở bậc tiểu học.
+W.model: D'abord, les enfants passent déjà sept heures par jour à l'école. Le soir, ils ont besoin de jouer et de se reposer. || Đầu tiên, trẻ em đã ở trường bảy tiếng mỗi ngày. Buổi tối, chúng cần chơi và nghỉ ngơi.
+W.model: De plus, les devoirs créent des inégalités : par exemple, certains parents peuvent aider leurs enfants, d'autres non. || Hơn nữa, bài tập về nhà tạo ra sự bất bình đẳng: ví dụ, một số phụ huynh có thể giúp con, những người khác thì không.
+W.model: Certains pensent que les devoirs sont nécessaires pour répéter la leçon. || Một số người nghĩ bài tập cần thiết để ôn bài.
+W.model: C'est vrai, mais on peut faire ces exercices en classe, avec le professeur. || Đúng vậy, nhưng có thể làm các bài tập này trên lớp, cùng giáo viên.
+W.model: En conclusion, je pense que l'école doit rester à l'école, et la maison doit être un lieu de repos ! || Kết luận, tôi nghĩ việc học nên ở trường, và nhà phải là nơi nghỉ ngơi!

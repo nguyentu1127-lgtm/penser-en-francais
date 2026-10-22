@@ -2051,3 +2051,70 @@ soulagé | adjectif | nhẹ nhõm
 tellement | adverbe | quá, rất
 tranquillement | adverbe | yên tĩnh, thong thả
 @v vaincre | chiến thắng | vaincs,vaincs,vainc,vainquons,vainquez,vainquent | vaincu | vainqu | vaincr
+amusant | adjectif | thú vị, vui
+l'application | nom f. | ứng dụng
+l'aquarium | nom m. | bể cá, thuỷ cung
+l'auditeur | nom m. | thính giả
+la cage | nom f. | cái lồng
+le cirque | nom m. | rạp xiếc
+la comédie | nom f. | phim/vở hài
+concentré | adjectif | tập trung
+@v conclure | kết luận | conclus,conclus,conclut,concluons,concluez,concluent | conclu | conclu | conclur
+la conclusion | nom f. | kết luận
+@v convaincre | thuyết phục | convaincs,convaincs,convainc,convainquons,convainquez,convainquent | convaincu | convainqu | convaincr
+cyclable | adjectif | dành cho xe đạp
+le danger | nom m. | nguy hiểm
+le discours | nom m. | bài phát biểu
+la discussion | nom f. | cuộc thảo luận
+la distance | nom f. | khoảng cách
+la distraction | nom f. | sự xao nhãng, giải trí
+la dizaine | nom f. | chục
+@re débattre | tranh luận
+le défenseur | nom m. | người bảo vệ, ủng hộ
+l'effet | nom m. | hiệu ứng, tác dụng
+faux | adjectif | sai, giả
+fausse | adjectif | sai, giả (giống cái)
+@er filmer | quay phim
+handicapé | adjectif | khuyết tật
+l'hésitation | nom f. | sự do dự
+l'image | nom f. | hình ảnh
+l'indicatif | nom m. | thức trình bày
+l'influence | nom f. | ảnh hưởng
+le jugement | nom m. | sự đánh giá
+le lecteur | nom m. | độc giả
+le lion | nom m. | sư tử
+malheureux | adjectif | bất hạnh
+la nature | nom f. | thiên nhiên
+naturel | adjectif | tự nhiên
+neutre | adjectif | trung lập
+l'objection | nom f. | sự phản đối
+l'opposant | nom m. | người phản đối
+@er opposer | đối lập
+l'outil | nom m. | công cụ
+payant | adjectif | phải trả tiền
+la personnalité | nom f. | cá tính
+@er pique-niquer | đi dã ngoại
+la piste | nom f. | đường (piste cyclable: làn xe đạp)
+plutôt | adverbe | đúng hơn là, khá là
+la pollution | nom f. | ô nhiễm
+principalement | adverbe | chủ yếu
+réel | adjectif | thực
+la réforme | nom f. | cải cách
+la science-fiction | nom f. | khoa học viễn tưởng
+scolaire | adjectif | thuộc trường học
+le singe | nom m. | con khỉ
+le smartphone | nom m. | điện thoại thông minh
+@v soutenir | ủng hộ | soutiens,soutiens,soutient,soutenons,soutenez,soutiennent | soutenu | souten | soutiendr
+spécifique | adjectif | cụ thể, chuyên biệt
+stressant | adjectif | gây căng thẳng
+@er supprimer | xoá bỏ
+le tort | nom m. | lỗi (avoir tort: sai)
+total | adjectif | toàn bộ
+@er télécharger | tải xuống
+le télétravail | nom m. | làm việc từ xa
+uniquement | adverbe | chỉ, duy nhất
+le zoo | nom m. | vườn thú
+l'éducation | nom f. | giáo dục
+électrique | adjectif | điện
+l'éléphant | nom m. | con voi
+l'étude | nom f. | nghiên cứu; việc học
