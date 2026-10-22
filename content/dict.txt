@@ -2007,7 +2007,7 @@ le passager | nom m. | hành khách
 la perte | nom f. | sự mất mát
 la photocopie | nom f. | bản photo
 la précision | nom f. | sự chính xác
-@er prévoir | dự kiến
+@v prévoir | dự kiến | prévois,prévois,prévoit,prévoyons,prévoyez,prévoient | prévu | prévoy | prévoir
 prévu | adjectif | được dự kiến
 le retour | nom m. | sự trở về
 le réceptionniste | nom | nhân viên lễ tân
