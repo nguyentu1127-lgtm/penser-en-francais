@@ -1,0 +1,383 @@
+@week 18
+@title L'imparfait
+@level A2
+
+## 1 | La formation de l'imparfait
+G.title: Radical de « nous » + terminaisons
+G.rule: Pour former l'imparfait, on prend le radical de « nous » au présent, on enlève -ons et on ajoute les terminaisons -ais, -ais, -ait, -ions, -iez, -aient. || Để tạo thì imparfait, ta lấy gốc của « nous » ở hiện tại, bỏ -ons và thêm các đuôi -ais, -ais, -ait, -ions, -iez, -aient.
+G.note: nous parlons → parl- → je parlais. nous finissons → finiss- → je finissais. nous prenons → pren- → je prenais. nous faisons → fais- → je faisais (đọc /fə.zɛ/). Ngoại lệ duy nhất: être → ét- : j'étais, tu étais, il était… Đuôi -ais, -ait, -aient đọc giống nhau /ɛ/. Động từ -ger, -cer: nous mangeons → je mangeais, nous commençons → je commençais.
+G.table: Pronom | Parler | Être
+G.row: je | parlais | étais
+G.row: tu | parlais | étais
+G.row: il / elle | parlait | était
+G.row: nous | parlions | étions
+G.row: vous | parliez | étiez
+G.row: ils / elles | parlaient | étaient
+G.ex: Avant, je parlais seulement vietnamien. || Trước đây tôi chỉ nói tiếng Việt.
+G.ex: Il faisait très chaud ce jour-là. || Hôm đó trời rất nóng.
+G.ex: Nous habitions à Đà Lạt quand j'étais petit. || Chúng tôi sống ở Đà Lạt khi tôi còn nhỏ.
+G.ex: Ils prenaient le bus tous les matins. || Họ đi xe buýt mỗi sáng.
+G.q: Imparfait de « finir » avec « je » : | je finais | *je finissais | je finirais | je finissai
+G.q: Imparfait de « être » avec « il » : | il êtait | *il était | il étais | il sait
+G.q: Nous ___ (avoir) un chien. | avons | *avions | avaient | avez
+G.q: Ils ___ (manger) au restaurant. | mangaient | *mangeaient | mangeait | mangions
+G.q: Imparfait de « faire » avec « tu » : tu ___ = faisais
+V: l'imparfait | /lɛ̃.paʁ.fɛ/ | nom m. | thì quá khứ chưa hoàn thành | L'imparfait décrit le passé. || Thì imparfait miêu tả quá khứ.
+V: avant | /a.vɑ̃/ | adverbe | trước đây | Avant, j'habitais à Hué. || Trước đây tôi sống ở Huế.
+V: autrefois | /o.tʁə.fwa/ | adverbe | ngày xưa | Autrefois, la ville était petite. || Ngày xưa thành phố nhỏ.
+V: à cette époque | /a sɛt e.pɔk/ | expression | vào thời đó | À cette époque, il n'y avait pas Internet. || Vào thời đó chưa có Internet.
+V: le radical | /lə ʁa.di.kal/ | nom m. | gốc từ | Le radical de « parler » est « parl- ». || Gốc của « parler » là « parl- ».
+V: la terminaison | /la tɛʁ.mi.nɛ.zɔ̃/ | nom f. | đuôi (động từ) | Les terminaisons de l'imparfait sont faciles. || Các đuôi của thì imparfait dễ.
+V: ce jour-là | /sə ʒuʁ.la/ | expression | hôm đó | Ce jour-là, il pleuvait. || Hôm đó trời mưa.
+V: l'époque | /le.pɔk/ | nom f. | thời kỳ | C'était une belle époque. || Đó là một thời đẹp.
+V: maintenant | /mɛ̃t.nɑ̃/ | adverbe | bây giờ | Avant je fumais, maintenant non. || Trước tôi hút thuốc, giờ thì không.
+V: d'habitude | /da.bi.tyd/ | expression | thường thường | D'habitude, je me lève tôt. || Thường thì tôi dậy sớm.
+VQ: Le contraire de « maintenant » (pour le passé) : | demain | *autrefois | bientôt | toujours
+VQ: « À cette époque » parle… | du futur | *d'une période du passé | d'aujourd'hui | d'une heure précise
+VQ: Dans « parlions », la terminaison est… | parl | *-ions | -ons | -ais
+VQ: « D'habitude » veut dire… | jamais | *normalement | une fois | rarement
+VQ: Imparfait de « avoir » avec « je » : j'___ = avais
+D: Avant, je parlais seulement vietnamien.
+D: Il faisait très chaud ce jour-là.
+D: Nous habitions à Đà Lạt.
+D: Ils prenaient le bus tous les matins.
+L: Petite-fille | Grand-père, comment c'était, Saïgon, avant ? || Ông ơi, Sài Gòn ngày xưa thế nào ạ?
+L: Grand-père | Oh, c'était très différent ! Il y avait beaucoup moins de motos. || Ồ, khác lắm! Ít xe máy hơn nhiều.
+L: Petite-fille | Et vous habitiez où ? || Thế ông bà sống ở đâu ạ?
+L: Grand-père | Nous habitions dans une petite maison près du marché Bến Thành. || Ông bà sống trong một ngôi nhà nhỏ gần chợ Bến Thành.
+L: Petite-fille | Vous travailliez où ? || Ông làm việc ở đâu ạ?
+L: Grand-père | J'étais professeur. J'allais à l'école à vélo tous les jours. || Ông là giáo viên. Ngày nào ông cũng đạp xe đến trường.
+LQ: Avant, à Saïgon, il y avait… | plus de motos | *moins de motos | autant de motos | pas de rues
+LQ: Où habitait le grand-père ? | près de la rivière | *près du marché Bến Thành | à la campagne | dans un appartement
+LQ: Comment allait-il à l'école ? | à pied | en moto | *à vélo | en bus
+RA: je parlais, tu parlais, il parlait.
+RA: nous parlions, vous parliez, ils parlaient.
+RA: j'étais, tu étais, il était, nous étions.
+SH: Comment c'était, Saïgon, avant ?
+SH: Nous habitions dans une petite maison.
+SH: J'allais à l'école à vélo tous les jours.
+R.title: Les années quatre-vingt-dix
+R: Dans les années quatre-vingt-dix, ma mère était étudiante à Hanoï. || Vào những năm chín mươi, mẹ tôi là sinh viên ở Hà Nội.
+R: Elle habitait dans une petite chambre avec trois amies. || Mẹ sống trong một căn phòng nhỏ với ba người bạn.
+R: Elles n'avaient pas de téléphone portable et elles écrivaient des lettres à leur famille. || Họ không có điện thoại di động và viết thư cho gia đình.
+R: Le soir, elles étudiaient à la lumière d'une petite lampe. || Buổi tối, họ học bài dưới ánh sáng của một ngọn đèn nhỏ.
+R: Le week-end, elles faisaient du vélo autour du lac de l'Ouest. || Cuối tuần, họ đạp xe quanh Hồ Tây.
+R: La vie était simple, mais ma mère dit que c'était la plus belle époque de sa vie. || Cuộc sống đơn giản, nhưng mẹ tôi nói đó là thời đẹp nhất trong đời mẹ.
+RQ: Avec qui habitait la mère ? | avec ses parents | *avec trois amies | seule | avec son mari
+RQ: Comment communiquaient-elles avec leur famille ? | par téléphone | *par lettre | par e-mail | elles ne communiquaient pas
+RQ: Qu'est-ce qu'elles faisaient le week-end ? | du shopping | *du vélo autour du lac | du sport à l'université | elles travaillaient
+W.prompt: Décris la vie d'une personne âgée de ta famille quand elle était jeune : où elle habitait, ce qu'elle faisait, comment était la vie. Utilise l'imparfait. || Miêu tả cuộc sống của một người lớn tuổi trong gia đình bạn khi còn trẻ: sống ở đâu, làm gì, cuộc sống thế nào. Dùng thì imparfait.
+W.min: 50
+W.must: habitait ; était ; avait
+W.check: Gốc của nous + đuôi -ais, -ait, -aient
+W.check: être → ét- (était, étaient)
+W.check: Có từ chỉ thời gian quá khứ (avant, à cette époque)
+W.model: Quand mon grand-père était jeune, il habitait dans un village près de Nam Định. || Khi ông tôi còn trẻ, ông sống ở một ngôi làng gần Nam Định.
+W.model: Sa famille était pauvre et ils avaient une petite rizière. || Gia đình ông nghèo và có một thửa ruộng nhỏ.
+W.model: Il se levait à cinq heures pour aider ses parents. || Ông dậy lúc năm giờ để giúp bố mẹ.
+W.model: À cette époque, il n'y avait pas d'électricité dans le village. || Vào thời đó, trong làng chưa có điện.
+W.model: Le soir, les enfants écoutaient les histoires des grands-parents. || Buổi tối, trẻ con nghe ông bà kể chuyện.
+W.model: Il dit que la vie était dure, mais que les gens étaient très solidaires. || Ông nói cuộc sống vất vả, nhưng mọi người rất đoàn kết.
+
+## 2 | Décrire le passé
+G.title: L'imparfait pour décrire
+G.rule: On utilise l'imparfait pour décrire le décor, les personnes, le temps, les sentiments et les situations dans le passé : il faisait beau, la maison était grande, j'avais peur. || Ta dùng thì imparfait để miêu tả bối cảnh, con người, thời tiết, cảm xúc và tình huống trong quá khứ: trời đẹp, ngôi nhà lớn, tôi sợ.
+G.note: Imparfait như một "bức ảnh" của quá khứ: không có điểm bắt đầu hay kết thúc rõ ràng. Dùng để miêu tả: ngoại hình (il était grand, il avait les yeux noirs), tính cách (elle était gentille), địa điểm (la rue était étroite), thời tiết (il pleuvait), cảm xúc (j'étais heureux), tuổi (j'avais dix ans). Cụm "il y avait" = đã có (quá khứ của il y a).
+G.table: Description | Exemple
+G.row: lieu | La maison était petite et jolie.
+G.row: personne | Il avait les cheveux longs.
+G.row: temps | Il faisait froid et il neigeait.
+G.row: sentiment | J'étais très heureux.
+G.row: âge | J'avais dix ans.
+G.row: existence | Il y avait un grand arbre.
+G.ex: La rue était étroite et il y avait beaucoup de monde. || Con phố hẹp và có rất nhiều người.
+G.ex: Ma première maîtresse était douce et patiente. || Cô giáo đầu tiên của tôi dịu dàng và kiên nhẫn.
+G.ex: Il pleuvait et j'avais froid. || Trời mưa và tôi thấy lạnh.
+G.ex: Il y avait un grand arbre devant notre maison. || Có một cái cây lớn trước nhà chúng tôi.
+G.q: Pour décrire le temps dans le passé : | il a fait beau | *il faisait beau | il fait beau | il fera beau
+G.q: Quand j'___ dix ans, j'habitais à Huế. | ai eu | *avais | aurai | ai
+G.q: Passé de « il y a » (description) : | il y a eu | *il y avait | il avait | il y était
+G.q: L'imparfait est comme… | une action rapide | *une photo du passé | un ordre | un projet
+G.q: Complétez : Il ___ (pleuvoir) toute la journée. = pleuvait
+V: étroit | /e.tʁwa/ | adjectif | hẹp | La rue était étroite. || Con phố hẹp.
+V: doux | /du/ | adjectif | dịu dàng, êm | Elle avait une voix douce. || Cô ấy có giọng nói dịu dàng.
+V: patient | /pa.sjɑ̃/ | adjectif | kiên nhẫn | Mon père était très patient. || Bố tôi rất kiên nhẫn.
+V: l'arbre | /laʁbʁ/ | nom m. | cái cây | Il y avait un arbre dans la cour. || Có một cái cây trong sân.
+V: la cour | /la kuʁ/ | nom f. | sân | Les enfants jouaient dans la cour. || Bọn trẻ chơi trong sân.
+V: la maîtresse | /la mɛ.tʁɛs/ | nom f. | cô giáo (tiểu học) | La maîtresse était gentille. || Cô giáo rất hiền.
+V: les cheveux | /le ʃə.vø/ | nom m. pl. | tóc | Elle avait les cheveux longs. || Cô ấy có mái tóc dài.
+V: la voix | /la vwa/ | nom f. | giọng nói | Il avait une belle voix. || Anh ấy có giọng hát hay.
+V: le monde | /lə mɔ̃d/ | nom m. | thế giới; mọi người (beaucoup de monde: đông người) | Il y avait beaucoup de monde. || Có rất đông người.
+V: le décor | /lə de.kɔʁ/ | nom m. | khung cảnh | Le décor était magnifique. || Khung cảnh tuyệt đẹp.
+VQ: Le contraire de « large » : | long | *étroit | grand | haut
+VQ: Une personne qui attend sans s'énerver est… | doux | *patiente | étroite | pressée
+VQ: « Il y avait beaucoup de monde » veut dire… | le monde entier | *beaucoup de personnes | beaucoup de pays | rien
+VQ: L'espace devant une école où jouent les enfants : | *la cour | le jardin public | la rue | le décor
+VQ: Le contraire de « dur » : ___ = doux
+D: La rue était étroite.
+D: Ma première maîtresse était douce et patiente.
+D: Il pleuvait et j'avais froid.
+D: Il y avait un grand arbre devant notre maison.
+L: Policier | Vous avez vu l'homme ? Comment il était ? || Chị có thấy người đàn ông đó không? Ông ta trông thế nào?
+L: Témoin | Il était grand et mince. Il avait les cheveux courts et noirs. || Ông ta cao và gầy. Tóc ngắn, màu đen.
+L: Policier | Il portait quoi ? || Ông ta mặc gì?
+L: Témoin | Il portait un manteau gris et il avait un grand sac noir. || Ông ta mặc một chiếc áo khoác xám và mang một cái túi đen to.
+L: Policier | Il était seul ? || Ông ta có đi một mình không?
+L: Témoin | Non, il y avait une femme avec lui. Elle avait l'air nerveuse. || Không, có một người phụ nữ đi cùng. Bà ấy trông có vẻ lo lắng.
+LQ: Comment était l'homme ? | petit et gros | *grand et mince | âgé | blond
+LQ: Qu'est-ce qu'il portait ? | un pull rouge | *un manteau gris | une veste noire | un costume
+LQ: La femme avait l'air… | contente | *nerveuse | fatiguée | triste
+RA: Il était grand. Il avait les cheveux courts.
+RA: Il faisait froid et il neigeait.
+RA: Il y avait beaucoup de monde dans la rue.
+SH: Comment il était ?
+SH: Il portait un manteau gris.
+SH: Elle avait l'air nerveuse.
+R.title: La maison de mon enfance
+R: Quand j'étais enfant, nous habitions dans une vieille maison à Hội An. || Hồi nhỏ, chúng tôi sống trong một ngôi nhà cổ ở Hội An.
+R: Les murs étaient jaunes et les fenêtres étaient bleues. || Tường màu vàng và cửa sổ màu xanh.
+R: Il y avait une petite cour avec un grand arbre et des fleurs. || Có một khoảng sân nhỏ với một cái cây lớn và hoa.
+R: La cuisine était sombre, mais elle sentait toujours bon. || Nhà bếp tối, nhưng lúc nào cũng thơm.
+R: Ma grand-mère était toujours là, assise dans son fauteuil en bois. || Bà tôi lúc nào cũng ở đó, ngồi trên chiếc ghế bành bằng gỗ.
+R: Pendant la saison des pluies, l'eau entrait parfois dans la maison ! || Vào mùa mưa, đôi khi nước tràn vào nhà!
+RQ: De quelle couleur étaient les murs ? | bleus | *jaunes | blancs | verts
+RQ: Comment était la cuisine ? | grande et claire | *sombre, mais elle sentait bon | moderne | sale
+RQ: Qu'est-ce qui arrivait pendant la saison des pluies ? | il faisait froid | *l'eau entrait dans la maison | la grand-mère partait | rien
+W.prompt: Décris un lieu de ton enfance (une maison, une école, un village) : comment il était, ce qu'il y avait, l'atmosphère. || Miêu tả một nơi trong tuổi thơ của bạn (ngôi nhà, trường học, ngôi làng): nó trông thế nào, có gì, bầu không khí ra sao.
+W.min: 50
+W.must: il y avait ; était
+W.check: Dùng imparfait để miêu tả (không dùng passé composé)
+W.check: Tính từ hợp giống, số
+W.check: Có ít nhất ba chi tiết giác quan (màu sắc, mùi, âm thanh)
+W.model: Mon école primaire était au bord d'une rivière. || Trường tiểu học của tôi nằm bên bờ sông.
+W.model: Le bâtiment était vieux et les murs étaient blancs. || Toà nhà cũ và tường màu trắng.
+W.model: Il y avait une grande cour avec deux flamboyants. || Có một sân rộng với hai cây phượng.
+W.model: En été, les fleurs étaient rouges et les cigales chantaient. || Vào mùa hè, hoa đỏ rực và ve sầu kêu.
+W.model: Notre classe était petite, mais elle était toujours propre. || Lớp chúng tôi nhỏ, nhưng lúc nào cũng sạch sẽ.
+W.model: Ça sentait la craie et le papier. || Có mùi phấn và mùi giấy.
+
+## 3 | Les habitudes passées
+G.title: Avant, je… tous les jours
+G.rule: L'imparfait exprime aussi les habitudes et les actions répétées dans le passé, souvent avec : tous les jours, chaque été, le dimanche, souvent, d'habitude, toujours. || Thì imparfait còn diễn tả thói quen và hành động lặp lại trong quá khứ, thường đi kèm: tous les jours (mỗi ngày), chaque été (mỗi mùa hè), le dimanche (vào các ngày Chủ Nhật), souvent (thường), d'habitude (thường lệ), toujours (luôn luôn).
+G.note: So sánh: "Le dimanche, j'allais chez ma grand-mère" (Chủ Nhật nào tôi cũng đến nhà bà — thói quen, imparfait) và "Dimanche, je suis allé chez ma grand-mère" (Chủ Nhật vừa rồi tôi đã đến nhà bà — một lần, passé composé). Mạo từ "le" trước ngày = mỗi (le lundi = mỗi thứ Hai). Đối lập quá khứ/hiện tại: Avant, je fumais. Maintenant, je fais du sport.
+G.table: Habitude (imparfait) | Une fois (passé composé)
+G.row: Le dimanche, j'allais au marché. | Dimanche, je suis allé au marché.
+G.row: Chaque été, nous partions à la mer. | Cet été, nous sommes partis à la mer.
+G.row: Il jouait souvent au foot. | Il a joué au foot hier.
+G.ex: Chaque été, nous allions à la plage de Vũng Tàu. || Mùa hè nào chúng tôi cũng đi biển Vũng Tàu.
+G.ex: Le samedi, mon père préparait des phở pour toute la famille. || Thứ Bảy nào bố tôi cũng nấu phở cho cả nhà.
+G.ex: Avant, je buvais trois cafés par jour. || Trước đây tôi uống ba cốc cà phê mỗi ngày.
+G.ex: Nous regardions toujours les dessins animés après l'école. || Chúng tôi luôn xem phim hoạt hình sau giờ học.
+G.q: « Le lundi, je travaillais » exprime… | une seule fois | *une habitude | le futur | un ordre
+G.q: Chaque été, nous ___ à la mer. | sommes allés | *allions | irons | allons hier
+G.q: Hier, je ___ au cinéma. (une fois) | allais | *suis allé | vais | irai
+G.q: « Le dimanche » veut dire… | ce dimanche seulement | *tous les dimanches | dimanche prochain | jamais le dimanche
+G.q: Complétez : Avant, il ___ (fumer), maintenant il fait du sport. = fumait
+V: chaque | /ʃak/ | adjectif | mỗi | Chaque matin, je courais. || Mỗi sáng tôi đều chạy bộ.
+V: souvent | /su.vɑ̃/ | adverbe | thường | Nous allions souvent au parc. || Chúng tôi thường đi công viên.
+V: parfois | /paʁ.fwa/ | adverbe | đôi khi | Parfois, il pleuvait toute la journée. || Đôi khi trời mưa cả ngày.
+V: rarement | /ʁaʁ.mɑ̃/ | adverbe | hiếm khi | Je sortais rarement le soir. || Tôi hiếm khi ra ngoài buổi tối.
+V: l'habitude | /la.bi.tyd/ | nom f. | thói quen | C'est une bonne habitude. || Đó là một thói quen tốt.
+V: le dessin animé | /lə de.sɛ̃ a.ni.me/ | nom m. | phim hoạt hình | J'adorais les dessins animés. || Tôi rất thích phim hoạt hình.
+V: jouer | /ʒwe/ | verbe | chơi | Nous jouions au foot dans la rue. || Chúng tôi chơi bóng đá ngoài đường.
+V: fumer | /fy.me/ | verbe | hút thuốc | Mon grand-père fumait la pipe. || Ông tôi hút tẩu.
+V: le goûter | /lə ɡu.te/ | nom m. | bữa ăn nhẹ buổi chiều | Après l'école, on prenait le goûter. || Sau giờ học, chúng tôi ăn nhẹ.
+V: la colonie de vacances | /la kɔ.lɔ.ni də va.kɑ̃s/ | nom f. | trại hè | Chaque été, j'allais en colonie de vacances. || Mùa hè nào tôi cũng đi trại hè.
+VQ: Le contraire de « souvent » : | toujours | *rarement | parfois | chaque
+VQ: Un petit repas à quatre heures de l'après-midi : | le dîner | *le goûter | le déjeuner | le petit-déjeuner
+VQ: Un film avec des dessins pour enfants : | un documentaire | *un dessin animé | un journal | une série
+VQ: « Parfois » veut dire… | jamais | *de temps en temps | toujours | tous les jours
+VQ: Une chose qu'on fait régulièrement, c'est une ___. = habitude
+D: Chaque été, nous allions à la plage.
+D: Le samedi, mon père préparait des phở.
+D: Avant, je buvais trois cafés par jour.
+D: Nous regardions toujours les dessins animés.
+L: Journaliste | Vous êtes champion de tennis. Quand vous étiez jeune, vous vous entraîniez beaucoup ? || Anh là nhà vô địch quần vợt. Hồi trẻ, anh có tập luyện nhiều không?
+L: Champion | Oui ! Je m'entraînais tous les jours après l'école. || Có! Ngày nào tôi cũng tập sau giờ học.
+L: Journaliste | Et le week-end ? || Còn cuối tuần?
+L: Champion | Le samedi, je jouais des matchs, et le dimanche, je me reposais avec ma famille. || Thứ Bảy, tôi đấu các trận, và Chủ Nhật, tôi nghỉ ngơi với gia đình.
+L: Journaliste | Vous sortiez avec vos amis ? || Anh có đi chơi với bạn bè không?
+L: Champion | Rarement. Je me couchais toujours à neuf heures ! || Hiếm khi. Tôi luôn đi ngủ lúc chín giờ!
+LQ: Quand s'entraînait-il ? | le matin | *tous les jours après l'école | seulement le samedi | le soir
+LQ: Le dimanche, il… | jouait des matchs | *se reposait avec sa famille | sortait avec ses amis | s'entraînait
+LQ: À quelle heure se couchait-il ? | à dix heures | *à neuf heures | à minuit | à huit heures
+RA: Chaque été, nous allions à la mer.
+RA: Le samedi, je jouais au foot.
+RA: Avant, je buvais beaucoup de café.
+SH: Je m'entraînais tous les jours après l'école.
+SH: Le dimanche, je me reposais avec ma famille.
+SH: Je me couchais toujours à neuf heures !
+R.title: Avant et maintenant
+R: Il y a dix ans, Marc avait une vie très différente. || Mười năm trước, Marc có một cuộc sống rất khác.
+R: Il travaillait dans une banque à Paris et il rentrait chez lui à vingt-et-une heures. || Anh ấy làm ở một ngân hàng ở Paris và về nhà lúc chín giờ tối.
+R: Il mangeait souvent des sandwichs devant son ordinateur et il dormait mal. || Anh ấy thường ăn bánh mì kẹp trước máy tính và ngủ không ngon.
+R: Le week-end, il était toujours fatigué. || Cuối tuần, anh ấy lúc nào cũng mệt.
+R: Maintenant, il habite à la campagne et il fabrique du fromage. || Bây giờ, anh ấy sống ở nông thôn và làm phô mai.
+R: Il gagne moins d'argent, mais il dit qu'il est beaucoup plus heureux. || Anh ấy kiếm ít tiền hơn, nhưng nói rằng mình hạnh phúc hơn nhiều.
+RQ: Où travaillait Marc avant ? | dans une ferme | *dans une banque | dans un restaurant | à l'école
+RQ: Comment était-il le week-end ? | heureux | *toujours fatigué | malade | occupé
+RQ: Qu'est-ce qu'il fait maintenant ? | il travaille à Paris | *il fabrique du fromage | il est banquier | il voyage
+W.prompt: Compare ta vie d'avant (enfant ou étudiant) et ta vie maintenant : tes habitudes, tes activités, tes goûts. Utilise l'imparfait pour le passé et le présent pour aujourd'hui. || So sánh cuộc sống trước đây (lúc nhỏ hoặc lúc là sinh viên) với bây giờ: thói quen, hoạt động, sở thích. Dùng imparfait cho quá khứ và hiện tại cho bây giờ.
+W.min: 55
+W.must: avant ; maintenant ; tous les
+W.check: Thói quen quá khứ dùng imparfait
+W.check: Hiện tại dùng présent
+W.check: Có từ chỉ tần suất (souvent, toujours, chaque…)
+W.model: Quand j'étais étudiant, je me couchais très tard. || Hồi là sinh viên, tôi đi ngủ rất muộn.
+W.model: Je mangeais souvent des nouilles instantanées et je buvais beaucoup de café. || Tôi thường ăn mì tôm và uống rất nhiều cà phê.
+W.model: Le week-end, je sortais avec mes amis ou je jouais aux jeux vidéo. || Cuối tuần, tôi đi chơi với bạn hoặc chơi điện tử.
+W.model: Maintenant, je travaille et je me lève tous les jours à six heures. || Bây giờ, tôi đi làm và dậy lúc sáu giờ mỗi ngày.
+W.model: Je cuisine des repas sains et je fais du sport trois fois par semaine. || Tôi nấu những bữa ăn lành mạnh và tập thể thao ba lần một tuần.
+W.model: Ma vie est plus calme, mais parfois, je regrette un peu mes années d'étudiant ! || Cuộc sống của tôi yên bình hơn, nhưng đôi khi tôi hơi tiếc những năm sinh viên!
+
+## 4 | Quand j'étais petit(e)...
+G.title: Raconter son enfance
+G.rule: Pour parler de son enfance, on utilise « quand j'étais petit(e) » ou « quand j'avais… ans » suivi de l'imparfait pour décrire ses rêves, ses jeux, ses peurs et ses goûts. || Để nói về tuổi thơ, ta dùng « quand j'étais petit(e) » hoặc « quand j'avais… ans » rồi dùng imparfait để miêu tả ước mơ, trò chơi, nỗi sợ và sở thích.
+G.note: Các cấu trúc hữu ích: Quand j'étais petit(e)… (Hồi tôi còn nhỏ…), Quand j'avais sept ans… (Khi tôi bảy tuổi…), Je voulais devenir… (Tôi muốn trở thành…), J'avais peur de… (Tôi sợ…), J'adorais… / Je détestais… (Tôi rất thích / ghét…), Mon jeu préféré était… (Trò chơi tôi thích nhất là…). Lưu ý "petite" nếu người nói là nữ.
+G.table: Thème | Phrase
+G.row: rêve | Je voulais devenir pilote.
+G.row: peur | J'avais peur du noir.
+G.row: goût | J'adorais les bonbons.
+G.row: jeu | Je jouais à cache-cache.
+G.row: ami | Mon meilleur ami s'appelait Tuấn.
+G.ex: Quand j'étais petite, je voulais devenir chanteuse. || Hồi nhỏ, tôi muốn trở thành ca sĩ.
+G.ex: J'avais peur des chiens. || Tôi sợ chó.
+G.ex: Je détestais les légumes, surtout les épinards ! || Tôi ghét rau, nhất là rau chân vịt!
+G.ex: Avec mes cousins, nous jouions à cache-cache dans le jardin. || Với các anh chị em họ, chúng tôi chơi trốn tìm trong vườn.
+G.q: Une fille dit : « Quand j'étais ___… » | petit | *petite | petits | petites
+G.q: « Je voulais devenir pilote » exprime… | une action finie | *un rêve d'enfance | un ordre | le futur
+G.q: J'avais peur ___ chiens. | de | du | *des | les
+G.q: Quand j'___ sept ans, j'habitais à Huế. | ai | *avais | étais | suis
+G.q: Imparfait de « vouloir » avec « je » : je ___ = voulais
+V: petit | /pə.ti/ | adjectif | nhỏ (quand j'étais petit: hồi nhỏ) | Quand j'étais petit, j'étais timide. || Hồi nhỏ, tôi nhút nhát.
+V: le rêve | /lə ʁɛv/ | nom m. | ước mơ, giấc mơ | Mon rêve était de voyager. || Ước mơ của tôi là đi du lịch.
+V: la peur | /la pœʁ/ | nom f. | nỗi sợ | J'avais peur du noir. || Tôi sợ bóng tối.
+V: le bonbon | /lə bɔ̃.bɔ̃/ | nom m. | kẹo | J'adorais les bonbons. || Tôi rất thích kẹo.
+V: cache-cache | /kaʃ.kaʃ/ | nom m. | trò trốn tìm | On jouait à cache-cache. || Chúng tôi chơi trốn tìm.
+V: détester | /de.tɛs.te/ | verbe | ghét | Je détestais l'école. || Tôi ghét đi học.
+V: timide | /ti.mid/ | adjectif | nhút nhát | Elle était très timide. || Cô ấy rất nhút nhát.
+V: le jeu | /lə ʒø/ | nom m. | trò chơi | C'était mon jeu préféré. || Đó là trò chơi tôi thích nhất.
+V: la poupée | /la pu.pe/ | nom f. | búp bê | Ma sœur avait une poupée. || Chị tôi có một con búp bê.
+V: le cerf-volant | /lə sɛʁ.vɔ.lɑ̃/ | nom m. | cái diều | Nous faisions voler des cerfs-volants. || Chúng tôi thả diều.
+VQ: Le contraire de « adorer » : | aimer | *détester | préférer | vouloir
+VQ: Une personne qui n'ose pas parler est… | bavarde | *timide | courageuse | drôle
+VQ: Un jeu où on se cache et un autre cherche : | le football | *cache-cache | la poupée | le cerf-volant
+VQ: Un objet qui vole dans le ciel avec le vent : | une poupée | *un cerf-volant | un bonbon | un ballon de foot
+VQ: J'avais ___ du noir. (nỗi sợ) = peur
+D: Quand j'étais petite, je voulais devenir chanteuse.
+D: J'avais peur des chiens.
+D: Je détestais les légumes.
+D: Nous jouions à cache-cache dans le jardin.
+L: Lucas | Quand tu étais petite, tu voulais faire quel métier ? || Hồi nhỏ, cậu muốn làm nghề gì?
+L: Ngọc | Je voulais devenir astronaute ! Je regardais les étoiles tous les soirs. || Mình muốn làm phi hành gia! Tối nào mình cũng ngắm sao.
+L: Lucas | C'est drôle ! Moi, je voulais être pompier. || Buồn cười thật! Còn mình thì muốn làm lính cứu hoả.
+L: Ngọc | Et tu avais peur de quelque chose ? || Thế cậu có sợ cái gì không?
+L: Lucas | Oui, j'avais très peur de l'eau. Je ne savais pas nager avant dix ans. || Có, mình rất sợ nước. Đến mười tuổi mình mới biết bơi.
+L: Ngọc | Moi, j'avais peur des orages. Je me cachais sous le lit ! || Còn mình sợ giông bão. Mình hay trốn dưới gầm giường!
+LQ: Quel métier voulait faire Ngọc ? | pompier | *astronaute | professeure | chanteuse
+LQ: De quoi Lucas avait-il peur ? | des orages | *de l'eau | du noir | des chiens
+LQ: Que faisait Ngọc pendant les orages ? | elle pleurait | *elle se cachait sous le lit | elle regardait les étoiles | elle dormait
+RA: Quand j'étais petit, je voulais devenir pilote.
+RA: J'avais peur du noir et des orages.
+RA: Je jouais à cache-cache avec mes cousins.
+SH: Quand tu étais petite, tu voulais faire quel métier ?
+SH: Je regardais les étoiles tous les soirs.
+SH: J'avais très peur de l'eau.
+R.title: Souvenirs d'enfance à la campagne
+R: Quand j'étais petit, je passais toutes mes vacances chez mes grands-parents, à la campagne. || Hồi nhỏ, tôi dành mọi kỳ nghỉ ở nhà ông bà dưới quê.
+R: Le matin, je me levais avec les poules et j'aidais mon grand-père dans les champs. || Buổi sáng, tôi dậy cùng lũ gà và giúp ông ngoài đồng.
+R: L'après-midi, avec les enfants du village, nous nagions dans la rivière ou nous faisions voler des cerfs-volants. || Buổi chiều, cùng lũ trẻ trong làng, chúng tôi bơi dưới sông hoặc thả diều.
+R: J'avais un peu peur des buffles, mais j'adorais monter sur leur dos ! || Tôi hơi sợ trâu, nhưng lại rất thích cưỡi trên lưng chúng!
+R: Le soir, ma grand-mère nous racontait des légendes vietnamiennes. || Buổi tối, bà kể cho chúng tôi nghe những truyền thuyết Việt Nam.
+R: C'étaient les plus beaux moments de mon enfance. || Đó là những khoảnh khắc đẹp nhất trong tuổi thơ tôi.
+RQ: Où passait-il ses vacances ? | à la mer | *chez ses grands-parents à la campagne | en ville | à l'étranger
+RQ: De quel animal avait-il un peu peur ? | des chiens | *des buffles | des poules | des serpents
+RQ: Que faisait la grand-mère le soir ? | elle cuisinait | *elle racontait des légendes | elle chantait | elle travaillait
+W.prompt: Raconte ton enfance : où tu habitais, tes jeux préférés, tes peurs, ton rêve de métier. || Kể về tuổi thơ của bạn: bạn sống ở đâu, trò chơi yêu thích, nỗi sợ, nghề nghiệp mơ ước.
+W.min: 55
+W.must: quand j'étais ; j'avais peur ; je voulais
+W.check: Imparfait cho toàn bộ phần miêu tả
+W.check: petit / petite hợp với người viết
+W.check: avoir peur de + du/des
+W.model: Quand j'étais petite, j'habitais à Cần Thơ, près du marché flottant. || Hồi nhỏ, tôi sống ở Cần Thơ, gần chợ nổi.
+W.model: J'étais une enfant très curieuse et un peu timide. || Tôi là một đứa trẻ rất tò mò và hơi nhút nhát.
+W.model: Mon jeu préféré était l'élastique : je jouais avec mes voisines tous les après-midis. || Trò chơi tôi thích nhất là nhảy dây thun: chiều nào tôi cũng chơi với các bạn hàng xóm.
+W.model: J'avais peur des fantômes et je dormais toujours avec la lumière. || Tôi sợ ma và luôn ngủ bật đèn.
+W.model: Je voulais devenir médecin, comme ma tante. || Tôi muốn trở thành bác sĩ, giống dì tôi.
+W.model: Finalement, je suis devenue pharmacienne : ce n'est pas très loin ! || Cuối cùng tôi trở thành dược sĩ: cũng không xa lắm!
+
+## 5 | La météo d'hier
+G.title: Le temps qu'il faisait
+G.rule: Pour parler du temps dans le passé, on utilise l'imparfait : il faisait beau, il faisait chaud, il pleuvait, il neigeait, il y avait du vent, le ciel était gris. || Để nói về thời tiết trong quá khứ, ta dùng imparfait: il faisait beau (trời đẹp), il faisait chaud (trời nóng), il pleuvait (trời mưa), il neigeait (có tuyết), il y avait du vent (có gió), le ciel était gris (trời xám xịt).
+G.note: Hiện tại → imparfait: il fait → il faisait, il pleut → il pleuvait, il neige → il neigeait, il y a du soleil → il y avait du soleil. Nhưng nếu thời tiết là một sự kiện bất ngờ hoặc có giới hạn rõ ràng → passé composé: Tout à coup, il a plu (bỗng nhiên trời mưa). Hier, il a plu toute la journée (cả ngày hôm qua mưa — xem như một khối). Ở A2, dùng imparfait cho bối cảnh là an toàn nhất.
+G.table: Présent | Imparfait
+G.row: il fait beau | il faisait beau
+G.row: il pleut | il pleuvait
+G.row: il neige | il neigeait
+G.row: il y a du vent | il y avait du vent
+G.row: le ciel est gris | le ciel était gris
+G.ex: Hier matin, il faisait frais et le ciel était bleu. || Sáng hôm qua trời mát và bầu trời xanh.
+G.ex: Il pleuvait quand je suis sorti du bureau. || Trời đang mưa khi tôi ra khỏi văn phòng.
+G.ex: À Noël, il neigeait et il faisait moins cinq degrés. || Vào Giáng sinh, tuyết rơi và nhiệt độ âm năm độ.
+G.ex: Il y avait beaucoup de vent sur la plage. || Trên bãi biển có rất nhiều gió.
+G.q: Imparfait de « il pleut » : | il pleutait | *il pleuvait | il plouvait | il a plu toujours
+G.q: Imparfait de « il fait beau » : | il faitait beau | *il faisait beau | il fasait beau | il fit beau
+G.q: Imparfait de « il y a du soleil » : | il y a eu du soleil | *il y avait du soleil | il avait du soleil | il y était du soleil
+G.q: Pour décrire le temps (décor), on utilise… | le passé composé | *l'imparfait | le futur | l'impératif
+G.q: Imparfait de « il neige » : ___ = il neigeait
+V: la météo | /la me.te.o/ | nom f. | dự báo thời tiết | Tu as regardé la météo ? || Bạn đã xem dự báo thời tiết chưa?
+V: frais | /fʁɛ/ | adjectif | mát | Il faisait frais le matin. || Buổi sáng trời mát.
+V: le ciel | /lə sjɛl/ | nom m. | bầu trời | Le ciel était gris. || Bầu trời xám xịt.
+V: le vent | /lə vɑ̃/ | nom m. | gió | Il y avait beaucoup de vent. || Có rất nhiều gió.
+V: l'orage | /lɔ.ʁaʒ/ | nom m. | giông bão | Il y avait un orage. || Có giông.
+V: le nuage | /lə nɥaʒ/ | nom m. | mây | Il y avait des nuages. || Có mây.
+V: le degré | /lə də.ɡʁe/ | nom m. | độ | Il faisait trente-cinq degrés. || Nhiệt độ ba mươi lăm độ.
+V: humide | /y.mid/ | adjectif | ẩm | L'air était très humide. || Không khí rất ẩm.
+V: le brouillard | /lə bʁu.jaʁ/ | nom m. | sương mù | Il y avait du brouillard sur la route. || Có sương mù trên đường.
+V: la température | /la tɑ̃.pe.ʁa.tyʁ/ | nom f. | nhiệt độ | La température était agréable. || Nhiệt độ dễ chịu.
+VQ: Un temps avec de la pluie, des éclairs et du tonnerre : | un nuage | *un orage | du brouillard | du vent
+VQ: On ne voit rien à cause du… | soleil | *brouillard | vent | degré
+VQ: Le contraire de « sec » (air) : | chaud | *humide | frais | gris
+VQ: Ni chaud ni froid, un peu froid : il fait… | brûlant | *frais | humide | orageux
+VQ: Le ciel est gris quand il y a beaucoup de ___. = nuages
+D: Hier matin, il faisait frais.
+D: Il pleuvait quand je suis sorti.
+D: À Noël, il neigeait.
+D: Il y avait beaucoup de vent sur la plage.
+L: Collègue | Alors, ce week-end à la mer ? || Thế, cuối tuần ở biển thế nào?
+L: Vy | Pas terrible… Samedi, il pleuvait toute la journée. || Không ổn lắm… Thứ Bảy, trời mưa suốt cả ngày.
+L: Collègue | Oh non ! Et dimanche ? || Ôi không! Còn Chủ Nhật?
+L: Vy | Dimanche, il faisait beau, mais il y avait beaucoup de vent. || Chủ Nhật trời đẹp, nhưng gió rất to.
+L: Collègue | Vous vous êtes baignés quand même ? || Thế mọi người có tắm biển không?
+L: Vy | Non, l'eau était trop froide. Nous avons mangé des fruits de mer au restaurant ! || Không, nước lạnh quá. Bọn mình ăn hải sản ở nhà hàng!
+LQ: Quel temps faisait-il samedi ? | beau | *il pleuvait | il neigeait | il faisait chaud
+LQ: Dimanche, il y avait… | de la pluie | *beaucoup de vent | du brouillard | un orage
+LQ: Pourquoi ils ne se sont pas baignés ? | il pleuvait | *l'eau était trop froide | la plage était fermée | il y avait des requins
+RA: il faisait beau, il faisait chaud, il faisait froid.
+RA: il pleuvait, il neigeait, il y avait du vent.
+RA: Le ciel était gris et il y avait des nuages.
+SH: Samedi, il pleuvait toute la journée.
+SH: Il faisait beau, mais il y avait beaucoup de vent.
+SH: L'eau était trop froide.
+R.title: Le jour de mon mariage
+R: Le jour de notre mariage, le temps était incroyable. || Ngày cưới của chúng tôi, thời tiết thật khó tin.
+R: Le matin, il y avait du brouillard et il faisait très frais. || Buổi sáng có sương mù và trời rất mát.
+R: À midi, il faisait beau et le ciel était tout bleu. || Buổi trưa trời đẹp và bầu trời xanh ngắt.
+R: Mais l'après-midi, des nuages noirs sont arrivés. || Nhưng buổi chiều, những đám mây đen kéo đến.
+R: Pendant la photo de groupe, il pleuvait et tout le monde courait sous les arbres ! || Trong lúc chụp ảnh tập thể, trời mưa và mọi người chạy dưới tán cây!
+R: Le soir, il y avait un arc-en-ciel magnifique. C'était un signe de chance ! || Buổi tối, có một cầu vồng tuyệt đẹp. Đó là một dấu hiệu may mắn!
+RQ: Comment était le temps le matin ? | il pleuvait | *il y avait du brouillard | il faisait chaud | il neigeait
+RQ: Quand est-ce qu'il pleuvait ? | le matin | à midi | *pendant la photo de groupe | le soir
+RQ: Qu'est-ce qu'il y avait le soir ? | un orage | *un arc-en-ciel | du vent | de la neige
+W.prompt: Décris le temps qu'il faisait pendant un jour important pour toi (un voyage, une fête, un examen) et raconte ce qui s'est passé. || Miêu tả thời tiết trong một ngày quan trọng với bạn (chuyến đi, bữa tiệc, kỳ thi) và kể chuyện gì đã xảy ra.
+W.min: 50
+W.must: il faisait ; il y avait
+W.check: Thời tiết làm bối cảnh dùng imparfait
+W.check: Sự kiện dùng passé composé
+W.check: Có ít nhất bốn từ vựng thời tiết
+W.model: Le jour de mon examen de fin d'études, il faisait très chaud. || Ngày thi tốt nghiệp của tôi, trời rất nóng.
+W.model: Il faisait trente-huit degrés et l'air était humide. || Nhiệt độ ba mươi tám độ và không khí ẩm.
+W.model: Il n'y avait pas de vent et le ciel était blanc. || Không có gió và bầu trời trắng đục.
+W.model: Dans la salle, il n'y avait pas de climatisation ! || Trong phòng thi không có điều hoà!
+W.model: Après l'examen, il y a eu un gros orage et je suis rentrée sous la pluie. || Sau kỳ thi, có một trận giông lớn và tôi về nhà dưới mưa.
+W.model: Mais j'étais heureuse : l'examen était facile ! || Nhưng tôi rất vui: bài thi dễ!

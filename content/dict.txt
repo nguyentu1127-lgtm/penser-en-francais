@@ -1740,3 +1740,41 @@ publique | adjectif | công cộng (giống cái của public)
 celle | pronom | cái/người đó (giống cái)
 celui | pronom | cái/người đó (giống đực)
 ceux | pronom | những cái/người đó
+l'astronaute | nom | phi hành gia
+l'atmosphère | nom f. | bầu không khí
+autant | adverbe | nhiều như, bằng
+le ballon | nom m. | quả bóng
+le banquier | nom m. | nhân viên/chủ ngân hàng
+le buffle | nom m. | con trâu
+@er cacher | giấu; (se cacher) trốn
+le champion | nom m. | nhà vô địch
+le champ | nom m. | cánh đồng
+la chanteuse | nom f. | nữ ca sĩ
+la colonie | nom f. | thuộc địa; trại (colonie de vacances: trại hè)
+@er communiquer | giao tiếp, liên lạc
+courageux | adjectif | dũng cảm
+le documentaire | nom m. | phim tài liệu
+dur | adjectif | cứng; vất vả
+@er entraîner | huấn luyện; (s'entraîner) tập luyện
+l'espace | nom m. | không gian, khoảng trống
+@er fabriquer | sản xuất, làm ra
+le foot | nom m. | bóng đá
+le groupe | nom m. | nhóm
+incroyable | adjectif | khó tin
+la légende | nom f. | truyền thuyết
+orageux | adjectif | có giông
+@er oser | dám
+la pipe | nom f. | cái tẩu
+le pompier | nom m. | lính cứu hoả
+la poule | nom f. | con gà mái
+le requin | nom m. | cá mập
+régulièrement | adverbe | đều đặn
+le sentiment | nom m. | cảm xúc
+le serpent | nom m. | con rắn
+terrible | adjectif | khủng khiếp (pas terrible: không hay lắm)
+le tonnerre | nom m. | sấm
+âgé | adjectif | lớn tuổi
+l'éclair | nom m. | tia chớp
+l'épinard | nom m. | rau chân vịt
+l'étoile | nom f. | ngôi sao
+les cerfs-volants | nom m. pl. | những cái diều

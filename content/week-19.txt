@@ -1,0 +1,381 @@
+@week 19
+@title Imparfait ou passé composé ?
+@level A2
+
+## 1 | Action et décor
+G.title: Le décor et l'événement
+G.rule: Dans un récit, l'imparfait décrit le décor et les circonstances, tandis que le passé composé raconte les événements, les actions terminées qui font avancer l'histoire. || Trong một câu chuyện, imparfait miêu tả bối cảnh và hoàn cảnh, còn passé composé kể các sự kiện, những hành động đã hoàn thành giúp câu chuyện tiến lên.
+G.note: Hình dung một bộ phim: imparfait = phông nền, khung cảnh (trời mưa, phố vắng, tôi mệt). Passé composé = các hành động chính (tôi bước vào, tôi nhìn thấy anh ấy, tôi hét lên). Câu hỏi kiểm tra: "Rồi chuyện gì xảy ra?" → passé composé. "Lúc đó như thế nào?" → imparfait. Ví dụ: Il faisait nuit (bối cảnh). J'ai entendu un bruit (sự kiện).
+G.table: Imparfait (décor) | Passé composé (événement)
+G.row: Il faisait nuit. | J'ai entendu un bruit.
+G.row: La rue était vide. | Un chat a traversé.
+G.row: J'étais fatigué. | Je me suis couché.
+G.row: Il pleuvait. | Nous sommes rentrés.
+G.ex: Il faisait beau, alors nous sommes allés au parc. || Trời đẹp nên chúng tôi đã đi công viên.
+G.ex: J'avais faim, donc j'ai acheté un bánh mì. || Tôi đói nên tôi đã mua một ổ bánh mì.
+G.ex: La salle était pleine quand le concert a commencé. || Hội trường kín người khi buổi hoà nhạc bắt đầu.
+G.ex: Elle était malade, mais elle est venue au travail. || Cô ấy ốm nhưng vẫn đến chỗ làm.
+G.q: Pour le décor d'une histoire, on utilise… | le passé composé | *l'imparfait | le présent | le futur
+G.q: Il ___ nuit quand je suis arrivé. | a fait | *faisait | fait | fera
+G.q: J'avais soif, donc j'___ un verre d'eau. | buvais | *ai bu | bois | boirai
+G.q: « Un chat a traversé la rue » est… | un décor | *un événement | une description | une habitude
+G.q: Complétez : La rue ___ (être) vide. = était
+V: le décor | /lə de.kɔʁ/ | nom m. | bối cảnh | Le décor était parfait. || Bối cảnh thật hoàn hảo.
+V: l'événement | /le.ven.mɑ̃/ | nom m. | sự kiện | C'était un grand événement. || Đó là một sự kiện lớn.
+V: le récit | /lə ʁe.si/ | nom m. | câu chuyện kể | Le récit est au passé. || Câu chuyện được kể ở thì quá khứ.
+V: la nuit | /la nɥi/ | nom f. | đêm | Il faisait nuit. || Trời đã tối.
+V: vide | /vid/ | adjectif | trống | La rue était vide. || Con phố vắng tanh.
+V: plein | /plɛ̃/ | adjectif | đầy | Le bus était plein. || Xe buýt đầy người.
+V: le bruit | /lə bʁɥi/ | nom m. | tiếng động | J'ai entendu un bruit bizarre. || Tôi nghe một tiếng động lạ.
+V: donc | /dɔ̃k/ | conjonction | vì vậy | J'étais fatigué, donc je suis resté. || Tôi mệt nên đã ở nhà.
+V: alors | /a.lɔʁ/ | adverbe | thế nên, lúc đó | Il pleuvait, alors j'ai pris un taxi. || Trời mưa nên tôi đi taxi.
+V: la circonstance | /la siʁ.kɔ̃s.tɑ̃s/ | nom f. | hoàn cảnh | Dans ces circonstances, c'était difficile. || Trong hoàn cảnh đó, thật khó khăn.
+VQ: Le contraire de « plein » : | lourd | *vide | grand | fermé
+VQ: « Il faisait nuit » veut dire… | il faisait chaud | *il était tard, sans lumière du soleil | il pleuvait | il dormait
+VQ: Un son qu'on entend, parfois désagréable : | une voix | *un bruit | une musique | un silence
+VQ: « Donc » exprime… | une cause | *une conséquence | une opposition | un temps
+VQ: Une histoire racontée, c'est un ___. = récit
+D: Il faisait beau, alors nous sommes allés au parc.
+D: J'avais faim, donc j'ai acheté un bánh mì.
+D: La salle était pleine quand le concert a commencé.
+D: Elle était malade, mais elle est venue.
+L: Amie | Tu as vu le match hier soir ? || Bạn có xem trận đấu tối qua không?
+L: Khoa | Oui, j'étais au stade ! Il y avait quarante mille personnes. || Có, mình ở sân vận động! Có bốn mươi nghìn người.
+L: Amie | Et l'ambiance ? || Không khí thế nào?
+L: Khoa | Incroyable ! Tout le monde chantait. À la dernière minute, Lyon a marqué un but ! || Không thể tin được! Mọi người đều hát. Phút cuối cùng, Lyon đã ghi một bàn!
+L: Amie | Tu étais content ? || Bạn có vui không?
+L: Khoa | Pas du tout, j'étais avec les supporters de Marseille ! || Chẳng vui tí nào, mình ngồi cùng cổ động viên Marseille!
+LQ: Où était Khoa ? | devant la télé | *au stade | dans un bar | chez son amie
+LQ: Combien de personnes il y avait ? | quatre mille | *quarante mille | quatre cent mille | quatorze mille
+LQ: Pourquoi Khoa n'était pas content ? | il pleuvait | *il était avec les supporters de Marseille | il n'a rien vu | il est arrivé en retard
+RA: Il faisait nuit. J'ai entendu un bruit.
+RA: La rue était vide. Un chat a traversé.
+RA: J'étais fatigué, donc je me suis couché.
+SH: Il y avait quarante mille personnes.
+SH: Tout le monde chantait.
+SH: À la dernière minute, Lyon a marqué un but !
+R.title: Une soirée au restaurant
+R: C'était samedi soir et le restaurant était plein. || Đó là tối thứ Bảy và nhà hàng kín chỗ.
+R: Les serveurs couraient partout et la musique était forte. || Bồi bàn chạy khắp nơi và nhạc mở to.
+R: Nous attendions nos plats depuis quarante minutes. || Chúng tôi đã chờ món ăn bốn mươi phút.
+R: Tout à coup, un serveur est tombé avec trois assiettes de spaghettis ! || Bỗng nhiên, một bồi bàn ngã cùng ba đĩa mì Ý!
+R: Tout le monde a regardé, puis tout le monde a applaudi. || Mọi người nhìn, rồi mọi người vỗ tay.
+R: Le patron est venu s'excuser et il nous a offert le dessert. || Ông chủ đến xin lỗi và tặng chúng tôi món tráng miệng.
+RQ: Comment était le restaurant ? | vide | *plein | fermé | calme
+RQ: Qu'est-ce qui s'est passé tout à coup ? | la musique s'est arrêtée | *un serveur est tombé | le patron est arrivé | il y a eu un incendie
+RQ: Qu'est-ce que le patron a offert ? | le repas | *le dessert | une boisson | rien
+W.prompt: Raconte une petite scène vécue (dans un bus, un café, une rue) : d'abord le décor à l'imparfait, puis ce qui s'est passé au passé composé. || Kể một cảnh nhỏ bạn đã trải qua (trên xe buýt, ở quán cà phê, ngoài phố): đầu tiên là bối cảnh ở imparfait, rồi những gì đã xảy ra ở passé composé.
+W.min: 50
+W.must: il y avait ; tout à coup
+W.check: Bối cảnh (thời tiết, nơi chốn, cảm xúc) ở imparfait
+W.check: Các hành động chính ở passé composé
+W.check: Có từ nối (alors, donc, puis)
+W.model: Hier matin, j'étais dans le bus pour aller au travail. || Sáng hôm qua, tôi ở trên xe buýt để đi làm.
+W.model: Il pleuvait et le bus était plein. || Trời mưa và xe buýt đầy người.
+W.model: Une vieille dame était debout à côté de moi. || Một bà cụ đứng cạnh tôi.
+W.model: Alors, je me suis levé et je lui ai donné ma place. || Thế là tôi đứng dậy và nhường chỗ cho bà.
+W.model: Elle a souri et elle m'a donné un bonbon ! || Bà mỉm cười và cho tôi một viên kẹo!
+W.model: J'étais content toute la journée. || Tôi vui cả ngày.
+
+## 2 | Pendant que, soudain
+G.title: Une action interrompue
+G.rule: Quand une action en cours est interrompue par une autre action, la première est à l'imparfait et la seconde au passé composé : Je dormais quand le téléphone a sonné. || Khi một hành động đang diễn ra bị một hành động khác cắt ngang, hành động thứ nhất ở imparfait và hành động thứ hai ở passé composé: Je dormais quand le téléphone a sonné (Tôi đang ngủ thì điện thoại reo).
+G.note: Các từ nối quan trọng: pendant que + imparfait (trong khi đang…), quand + passé composé (thì, khi), soudain / tout à coup + passé composé (bỗng nhiên). Mẫu câu: "J'étais en train de cuisiner quand…" — "être en train de" ở imparfait nhấn mạnh hành động đang diễn ra. Hai hành động song song cùng ở imparfait: Pendant que je lisais, mon frère jouait.
+G.table: En cours (imparfait) | Interruption (passé composé)
+G.row: Je dormais | quand le téléphone a sonné.
+G.row: Pendant que je cuisinais, | quelqu'un a frappé.
+G.row: Nous marchions | quand soudain il a commencé à pleuvoir.
+G.row: J'étais en train de lire | quand la lumière s'est éteinte.
+G.ex: Je prenais ma douche quand l'eau est devenue froide. || Tôi đang tắm thì nước trở lạnh.
+G.ex: Pendant que nous dînions, il y a eu une coupure d'électricité. || Trong lúc chúng tôi đang ăn tối thì bị cúp điện.
+G.ex: Elle traversait la rue quand une voiture a klaxonné. || Cô ấy đang băng qua đường thì một chiếc ô tô bấm còi.
+G.ex: J'étais en train de travailler quand mon chef est entré. || Tôi đang làm việc thì sếp bước vào.
+G.q: Je ___ quand tu as appelé. | ai dormi | *dormais | dors | dormirai
+G.q: Pendant que je cuisinais, quelqu'un ___. | frappait toujours | *a frappé | frappe | frappera
+G.q: « Pendant que » est suivi en général de… | passé composé | *imparfait | futur | impératif
+G.q: Deux actions en même temps, en cours : | j'ai lu, il a joué | *je lisais, il jouait | je lisais, il a joué | je lis, il jouait
+G.q: Complétez : J'étais en ___ de lire quand la lumière s'est éteinte. = train
+V: pendant que | /pɑ̃.dɑ̃ kə/ | conjonction | trong khi | Pendant que je lisais, il dormait. || Trong khi tôi đọc sách, anh ấy ngủ.
+V: soudain | /su.dɛ̃/ | adverbe | bỗng nhiên | Soudain, la porte s'est ouverte. || Bỗng nhiên, cánh cửa mở ra.
+V: être en train de | /ɛtʁ ɑ̃ tʁɛ̃ də/ | expression | đang (làm gì) | J'étais en train de manger. || Tôi đang ăn.
+V: sonner | /sɔ.ne/ | verbe | reo, kêu | Le téléphone a sonné. || Điện thoại đã reo.
+V: frapper | /fʁa.pe/ | verbe | gõ (cửa), đánh | Quelqu'un a frappé à la porte. || Ai đó đã gõ cửa.
+V: s'éteindre | /se.tɛ̃dʁ/ | verbe | tắt | La lumière s'est éteinte. || Đèn đã tắt.
+V: la coupure | /la ku.pyʁ/ | nom f. | sự cắt (coupure d'électricité: cúp điện) | Il y a eu une coupure de courant. || Đã có một lần mất điện.
+V: klaxonner | /klak.sɔ.ne/ | verbe | bấm còi | Le taxi a klaxonné. || Taxi đã bấm còi.
+V: interrompre | /ɛ̃.te.ʁɔ̃pʁ/ | verbe | cắt ngang | Le bruit a interrompu la réunion. || Tiếng ồn đã cắt ngang cuộc họp.
+V: la douche | /la duʃ/ | nom f. | vòi sen, việc tắm | Je prenais ma douche. || Tôi đang tắm.
+VQ: « Soudain » veut dire… | lentement | *tout à coup | toujours | ensuite
+VQ: Le contraire de « s'allumer » : | s'ouvrir | *s'éteindre | sonner | frapper
+VQ: Pour entrer poliment, on ___ à la porte. | sonne au téléphone | *frappe | klaxonne | interrompt
+VQ: Une voiture fait du bruit avec son klaxon : elle… | sonne | *klaxonne | frappe | crie
+VQ: J'étais en train de prendre ma ___. (tắm) = douche
+D: Je prenais ma douche quand l'eau est devenue froide.
+D: Pendant que nous dînions, il y a eu une coupure d'électricité.
+D: Elle traversait la rue quand une voiture a klaxonné.
+D: J'étais en train de travailler quand mon chef est entré.
+L: Ami | Pourquoi tu n'as pas répondu hier soir ? || Sao tối qua bạn không trả lời?
+L: Nhung | Désolée ! Quand tu as appelé, j'étais en train de faire un gâteau. || Xin lỗi nhé! Lúc bạn gọi, mình đang làm bánh.
+L: Ami | Ah, d'accord. Il était bon ? || À, ra vậy. Bánh có ngon không?
+L: Nhung | Pas vraiment… Pendant que je parlais avec ma sœur, il a brûlé ! || Không hẳn… Trong lúc mình nói chuyện với chị gái thì bánh bị cháy!
+L: Ami | Oh non ! || Ôi không!
+L: Nhung | Et soudain, l'alarme incendie a sonné. Tous les voisins sont sortis ! || Rồi bỗng nhiên chuông báo cháy reo. Tất cả hàng xóm chạy ra ngoài!
+LQ: Que faisait Nhung quand son ami a appelé ? | elle dormait | *elle faisait un gâteau | elle parlait au téléphone | elle était sortie
+LQ: Pourquoi le gâteau a brûlé ? | le four était cassé | *elle parlait avec sa sœur | elle dormait | elle était au téléphone avec son ami
+LQ: Qu'est-ce qui a sonné ? | le téléphone | *l'alarme incendie | la porte | le réveil
+RA: Je dormais quand le téléphone a sonné.
+RA: Pendant que je cuisinais, quelqu'un a frappé.
+RA: Soudain, la lumière s'est éteinte.
+SH: Quand tu as appelé, j'étais en train de faire un gâteau.
+SH: Pendant que je parlais avec ma sœur, il a brûlé !
+SH: Soudain, l'alarme incendie a sonné.
+R.title: Le jour où j'ai rencontré mon idole
+R: L'été dernier, je faisais du shopping à Paris avec ma cousine. || Mùa hè năm ngoái, tôi đang đi mua sắm ở Paris với em họ.
+R: Pendant que nous regardions des vêtements, ma cousine a crié : « Regarde ! » || Trong lúc chúng tôi đang xem quần áo, em họ tôi hét lên: « Nhìn kìa! »
+R: Mon chanteur préféré était là, juste devant nous ! || Ca sĩ yêu thích của tôi đang ở đó, ngay trước mặt chúng tôi!
+R: Il essayait une veste et il parlait au téléphone. || Anh ấy đang thử một chiếc áo khoác và nói chuyện điện thoại.
+R: J'ai pris mon courage et je lui ai demandé une photo. || Tôi lấy hết can đảm và xin chụp một tấm ảnh.
+R: Il a accepté avec un grand sourire. Je tremblais comme une feuille ! || Anh ấy đồng ý với một nụ cười tươi. Tôi run như cầy sấy!
+RQ: Que faisait l'auteur à Paris ? | il travaillait | *il faisait du shopping | il visitait un musée | il chantait
+RQ: Que faisait le chanteur ? | il chantait | *il essayait une veste et parlait au téléphone | il faisait du shopping avec sa femme | il signait des autographes
+RQ: Comment a réagi le chanteur ? | il a refusé | *il a accepté avec un grand sourire | il est parti | il a crié
+W.prompt: Raconte un moment où tu as été interrompu (par un appel, une visite, un bruit, une panne). Utilise pendant que, quand et soudain. || Kể một lúc bạn bị cắt ngang (bởi cuộc gọi, khách đến, tiếng động, sự cố). Dùng pendant que, quand và soudain.
+W.min: 50
+W.must: pendant que ; quand ; soudain
+W.check: Hành động đang diễn ra ở imparfait
+W.check: Hành động cắt ngang ở passé composé
+W.check: Câu chuyện có kết thúc
+W.model: Samedi soir, je regardais un film d'horreur seule dans mon appartement. || Tối thứ Bảy, tôi đang xem một bộ phim kinh dị một mình trong căn hộ.
+W.model: Il était minuit et tout était silencieux. || Lúc đó là nửa đêm và mọi thứ im ắng.
+W.model: Pendant que je mangeais du pop-corn, j'ai entendu un bruit dans la cuisine. || Trong lúc tôi đang ăn bỏng ngô, tôi nghe thấy một tiếng động trong bếp.
+W.model: Soudain, la lumière s'est éteinte ! || Bỗng nhiên, đèn tắt!
+W.model: J'avais très peur, alors j'ai pris mon téléphone pour appeler mon frère. || Tôi rất sợ nên đã cầm điện thoại để gọi anh trai.
+W.model: Quand la lumière est revenue, j'ai vu mon chat sur la table de la cuisine. || Khi đèn sáng lại, tôi thấy con mèo của mình trên bàn bếp.
+
+## 3 | Raconter une histoire (1)
+G.title: Le début d'une histoire
+G.rule: Une histoire commence souvent par une situation initiale à l'imparfait (qui, où, quand, comment c'était), puis un élément déclencheur au passé composé change la situation. || Một câu chuyện thường bắt đầu bằng tình huống ban đầu ở imparfait (ai, ở đâu, khi nào, như thế nào), rồi một yếu tố khởi đầu ở passé composé làm thay đổi tình huống.
+G.note: Các câu mở đầu truyện: Il était une fois… (Ngày xửa ngày xưa…), C'était un jour d'été… (Đó là một ngày hè…), Ce matin-là… (Sáng hôm đó…). Yếu tố khởi đầu thường đi với: un jour (một ngày nọ), soudain, mais ce jour-là (nhưng hôm đó). Ví dụ: Tous les jours, Paul prenait le même bus (thói quen). Mais un jour, il a raté le bus (sự kiện).
+G.table: Partie | Temps | Exemple
+G.row: situation initiale | imparfait | Il était une fois une petite fille qui habitait près d'une forêt.
+G.row: habitude | imparfait | Tous les jours, elle allait chez sa grand-mère.
+G.row: élément déclencheur | passé composé | Mais un jour, elle a rencontré un loup.
+G.ex: Il était une fois un pêcheur très pauvre. || Ngày xửa ngày xưa, có một người đánh cá rất nghèo.
+G.ex: Tous les matins, il allait pêcher sur la rivière. || Mỗi sáng, ông ra sông câu cá.
+G.ex: Mais un jour, il a attrapé un poisson qui parlait ! || Nhưng một ngày nọ, ông bắt được một con cá biết nói!
+G.ex: Ce matin-là, il faisait froid et le ciel était gris. || Sáng hôm đó, trời lạnh và bầu trời xám xịt.
+G.q: « Il était une fois » commence… | une recette | *un conte | une lettre | un dialogue
+G.q: L'élément déclencheur est au… | imparfait | *passé composé | présent | futur
+G.q: Tous les jours, il ___ au travail à pied. | est allé | *allait | va hier | ira
+G.q: Mais un jour, il ___ le bus. | ratait | *a raté | rate | ratera
+G.q: Complétez : Il ___ une fois une princesse… = était
+V: il était une fois | /il e.tɛ.t‿yn fwa/ | expression | ngày xửa ngày xưa | Il était une fois un roi. || Ngày xửa ngày xưa có một vị vua.
+V: le conte | /lə kɔ̃t/ | nom m. | truyện cổ tích | J'aime les contes de fées. || Tôi thích truyện cổ tích.
+V: le pêcheur | /lə pɛ.ʃœʁ/ | nom m. | người đánh cá | Le pêcheur était pauvre. || Người đánh cá rất nghèo.
+V: pauvre | /povʁ/ | adjectif | nghèo | Ils étaient pauvres. || Họ nghèo.
+V: riche | /ʁiʃ/ | adjectif | giàu | Le roi était très riche. || Vua rất giàu.
+V: la forêt | /la fɔ.ʁɛ/ | nom f. | khu rừng | Ils habitaient dans la forêt. || Họ sống trong rừng.
+V: le loup | /lə lu/ | nom m. | con sói | Le loup avait faim. || Con sói đói.
+V: attraper | /a.tʁa.pe/ | verbe | bắt được | Il a attrapé un poisson. || Ông bắt được một con cá.
+V: rater | /ʁa.te/ | verbe | lỡ, trượt | J'ai raté mon train. || Tôi đã lỡ chuyến tàu.
+V: le roi | /lə ʁwa/ | nom m. | vua | Le roi avait une fille. || Nhà vua có một người con gái.
+VQ: Le contraire de « riche » : | malade | *pauvre | vieux | gentil
+VQ: Une histoire pour enfants avec de la magie : | un roman policier | *un conte | un journal | un récit de voyage
+VQ: Un animal sauvage qui ressemble à un chien : | un renard | *un loup | un buffle | un chat
+VQ: « J'ai raté le bus » veut dire… | j'ai pris le bus | *je suis arrivé trop tard pour le bus | j'ai cassé le bus | j'ai aimé le bus
+VQ: La femme du roi est la ___. = reine
+D: Il était une fois un pêcheur très pauvre.
+D: Tous les matins, il allait pêcher.
+D: Mais un jour, il a attrapé un poisson qui parlait !
+D: Ce matin-là, il faisait froid.
+L: Enfant | Maman, tu me racontes une histoire ? || Mẹ ơi, mẹ kể chuyện cho con nghe nhé?
+L: Mère | D'accord. Il était une fois une petite tortue qui habitait dans un lac. || Được. Ngày xửa ngày xưa, có một chú rùa nhỏ sống trong một cái hồ.
+L: Mère | Elle était très lente, et les autres animaux se moquaient d'elle. || Rùa rất chậm, và các con vật khác hay chế giễu rùa.
+L: Enfant | Les pauvres… et après ? || Tội nghiệp… rồi sao nữa ạ?
+L: Mère | Un jour, le lièvre a proposé une course à la tortue. || Một ngày nọ, thỏ rủ rùa chạy thi.
+L: Enfant | Je connais la fin ! C'est la tortue qui a gagné ! || Con biết đoạn kết! Rùa thắng!
+LQ: Où habitait la tortue ? | dans une forêt | *dans un lac | dans la mer | dans un jardin
+LQ: Pourquoi les animaux se moquaient d'elle ? | elle était petite | *elle était très lente | elle était laide | elle parlait trop
+LQ: Qui a proposé la course ? | la tortue | *le lièvre | l'enfant | le loup
+RA: Il était une fois une petite tortue.
+RA: Tous les jours, elle allait au lac.
+RA: Mais un jour, le lièvre a proposé une course.
+SH: Tu me racontes une histoire ?
+SH: Il était une fois une petite tortue qui habitait dans un lac.
+SH: Un jour, le lièvre a proposé une course.
+R.title: Le chat qui voulait voyager
+R: Il était une fois un chat qui s'appelait Pompon. || Ngày xửa ngày xưa, có một chú mèo tên là Pompon.
+R: Il habitait chez une vieille dame, dans un petit village de Provence. || Chú sống với một bà cụ, trong một ngôi làng nhỏ ở vùng Provence.
+R: Tous les jours, il dormait au soleil et il regardait les trains qui passaient. || Ngày nào chú cũng ngủ dưới nắng và nhìn những đoàn tàu chạy qua.
+R: Pompon rêvait de voyager, mais il avait peur de quitter sa maison. || Pompon mơ được đi du lịch, nhưng chú sợ rời khỏi nhà.
+R: Un matin, la vieille dame a ouvert la porte et elle a posé une valise devant lui. || Một buổi sáng, bà cụ mở cửa và đặt một chiếc va li trước mặt chú.
+R: « Nous partons à Paris ! », a-t-elle dit. || « Chúng ta đi Paris! », bà nói.
+RQ: Où habitait Pompon ? | à Paris | *dans un village de Provence | dans une gare | dans une forêt
+RQ: Que faisait-il tous les jours ? | il voyageait | *il dormait et regardait les trains | il chassait les souris | il jouait avec des enfants
+RQ: Quel est l'élément déclencheur ? | Pompon dort | *la vieille dame pose une valise | les trains passent | Pompon a peur
+W.prompt: Écris le début d'un conte : une situation initiale (personnage, lieu, habitudes) à l'imparfait, puis un événement qui change tout au passé composé. || Viết phần mở đầu một câu chuyện cổ tích: tình huống ban đầu (nhân vật, nơi chốn, thói quen) ở imparfait, rồi một sự kiện làm thay đổi tất cả ở passé composé.
+W.min: 55
+W.must: il était une fois ; tous les ; un jour
+W.check: Tình huống ban đầu ở imparfait
+W.check: Yếu tố khởi đầu ở passé composé
+W.check: Có nhân vật, địa điểm, thói quen rõ ràng
+W.model: Il était une fois une jeune fille qui s'appelait Tấm. || Ngày xửa ngày xưa, có một cô gái tên là Tấm.
+W.model: Elle habitait avec sa belle-mère et sa demi-sœur Cám. || Cô sống với mẹ kế và em gái cùng cha khác mẹ là Cám.
+W.model: Tous les jours, Tấm travaillait du matin au soir. || Ngày nào Tấm cũng làm việc từ sáng đến tối.
+W.model: Cám ne faisait rien et la belle-mère était toujours méchante. || Cám không làm gì cả và mẹ kế lúc nào cũng độc ác.
+W.model: Un jour, les deux filles sont allées pêcher dans la rivière. || Một ngày nọ, hai cô gái đi bắt cá dưới sông.
+W.model: Cám a volé le panier de Tấm, et Tấm a commencé à pleurer. || Cám lấy trộm giỏ của Tấm, và Tấm bắt đầu khóc.
+
+## 4 | Raconter une histoire (2)
+G.title: Le développement et la fin
+G.rule: Après l'élément déclencheur, les péripéties s'enchaînent au passé composé avec des connecteurs (ensuite, alors, à ce moment-là), puis l'histoire se termine par une situation finale. || Sau yếu tố khởi đầu, các tình tiết nối tiếp nhau ở passé composé với các từ nối (ensuite, alors, à ce moment-là), rồi câu chuyện kết thúc bằng một tình huống cuối.
+G.note: Từ nối cho diễn biến: alors (thế là), à ce moment-là (đúng lúc đó), ensuite, après. Từ nối cho kết thúc: finalement, enfin, à la fin. Kết thúc cổ tích: Ils vécurent heureux… (thì passé simple — chỉ cần nhận biết, chưa cần dùng). Ở A2, kết thúc bằng: Depuis ce jour, … (Từ hôm đó…) + imparfait/présent. Trong diễn biến, vẫn dùng imparfait để miêu tả cảm xúc: Elle avait peur, mais elle a continué.
+G.table: Connecteur | Fonction
+G.row: alors | conséquence
+G.row: à ce moment-là | moment précis
+G.row: ensuite / après | suite
+G.row: heureusement | bonne surprise
+G.row: malheureusement | mauvaise surprise
+G.row: finalement / depuis ce jour | fin
+G.ex: Alors, le pêcheur a libéré le poisson. || Thế là người đánh cá thả con cá đi.
+G.ex: À ce moment-là, une fée est apparue. || Đúng lúc đó, một bà tiên xuất hiện.
+G.ex: Malheureusement, la femme du pêcheur voulait toujours plus. || Thật không may, vợ người đánh cá lúc nào cũng muốn nhiều hơn.
+G.ex: Depuis ce jour, il habite dans une belle maison. || Từ hôm đó, ông sống trong một ngôi nhà đẹp.
+G.q: Pour une bonne surprise, on dit… | malheureusement | *heureusement | alors | ensuite
+G.q: « Depuis ce jour » sert à… | commencer | *finir l'histoire | décrire | poser une question
+G.q: Elle ___ peur, mais elle a continué. | a eu toujours | *avait | a | aura
+G.q: À ce moment-là, une fée ___. | apparaissait | *est apparue | apparaît | apparaîtra
+G.q: Le contraire de « heureusement » : ___ = malheureusement
+V: alors | /a.lɔʁ/ | adverbe | thế là | Alors, il est parti. || Thế là anh ấy bỏ đi.
+V: heureusement | /œ.ʁøz.mɑ̃/ | adverbe | may mắn thay | Heureusement, personne n'était blessé. || May mắn thay, không ai bị thương.
+V: malheureusement | /ma.lœ.ʁøz.mɑ̃/ | adverbe | thật không may | Malheureusement, il était trop tard. || Thật không may, đã quá muộn.
+V: la fée | /la fe/ | nom f. | bà tiên | La fée avait une baguette magique. || Bà tiên có một cây đũa thần.
+V: apparaître | /a.pa.ʁɛtʁ/ | verbe | xuất hiện | Un oiseau est apparu. || Một con chim xuất hiện.
+V: libérer | /li.be.ʁe/ | verbe | thả, giải phóng | Il a libéré le poisson. || Ông thả con cá.
+V: le souhait | /lə swɛ/ | nom m. | điều ước | Elle a fait trois souhaits. || Cô ấy đã ước ba điều.
+V: méchant | /me.ʃɑ̃/ | adjectif | độc ác | La sorcière était méchante. || Mụ phù thuỷ độc ác.
+V: la fin | /la fɛ̃/ | nom f. | phần kết | J'aime la fin de l'histoire. || Tôi thích phần kết câu chuyện.
+V: la morale | /la mɔ.ʁal/ | nom f. | bài học đạo đức | Quelle est la morale de ce conte ? || Bài học của câu chuyện này là gì?
+VQ: Le contraire de « gentil » : | timide | *méchant | pauvre | lent
+VQ: Le contraire de « disparaître » : | partir | *apparaître | libérer | tomber
+VQ: Le contraire de « le début » : | le milieu | *la fin | la morale | le souhait
+VQ: La leçon d'une histoire, c'est la… | fin | *morale | fée | souhait
+VQ: Une femme magique dans les contes : une ___. = fée
+D: Alors, le pêcheur a libéré le poisson.
+D: À ce moment-là, une fée est apparue.
+D: Malheureusement, il était trop tard.
+D: Depuis ce jour, il habite dans une belle maison.
+L: Mère | La course a commencé. Le lièvre courait très vite. || Cuộc đua bắt đầu. Thỏ chạy rất nhanh.
+L: Enfant | Et la tortue ? || Còn rùa thì sao ạ?
+L: Mère | Elle avançait lentement, mais elle ne s'arrêtait jamais. || Rùa đi chậm rãi, nhưng không bao giờ dừng lại.
+L: Mère | Le lièvre était sûr de gagner, alors il a fait une sieste sous un arbre. || Thỏ chắc chắn thắng, nên nó ngủ một giấc dưới gốc cây.
+L: Mère | Quand il s'est réveillé, la tortue était déjà sur la ligne d'arrivée ! || Khi thỏ thức dậy, rùa đã ở vạch đích rồi!
+L: Enfant | La morale, c'est : rien ne sert de courir, il faut partir à point ! || Bài học là: chạy nhanh chẳng ích gì, phải xuất phát đúng lúc!
+LQ: Comment avançait la tortue ? | vite | *lentement, sans s'arrêter | en dormant | avec le lièvre
+LQ: Pourquoi le lièvre a fait une sieste ? | il était malade | *il était sûr de gagner | il avait faim | il pleuvait
+LQ: Où était la tortue quand le lièvre s'est réveillé ? | derrière lui | *sur la ligne d'arrivée | sous l'arbre | dans le lac
+RA: Alors, il a fait une sieste sous un arbre.
+RA: Heureusement, la tortue ne s'arrêtait jamais.
+RA: Rien ne sert de courir, il faut partir à point.
+SH: Le lièvre courait très vite.
+SH: Elle avançait lentement, mais elle ne s'arrêtait jamais.
+SH: La tortue était déjà sur la ligne d'arrivée !
+R.title: Le voyage de Pompon (suite)
+R: Dans le train, Pompon regardait par la fenêtre : les paysages étaient magnifiques. || Trên tàu, Pompon nhìn qua cửa sổ: phong cảnh thật tuyệt đẹp.
+R: À Paris, la vieille dame a ouvert la valise et Pompon est sorti. || Ở Paris, bà cụ mở va li và Pompon chui ra.
+R: Malheureusement, il y avait beaucoup de bruit et Pompon a eu peur. || Thật không may, có rất nhiều tiếng ồn và Pompon sợ hãi.
+R: Il a couru dans la rue et il s'est perdu ! || Chú chạy ra đường và bị lạc!
+R: Heureusement, une petite fille l'a trouvé et elle a lu l'adresse sur son collier. || May mắn thay, một bé gái tìm thấy chú và đọc địa chỉ trên vòng cổ.
+R: Depuis ce jour, Pompon et la petite fille sont les meilleurs amis du monde. || Từ hôm đó, Pompon và cô bé là đôi bạn thân nhất trên đời.
+RQ: Comment étaient les paysages ? | tristes | *magnifiques | gris | on ne sait pas
+RQ: Pourquoi Pompon a eu peur ? | il avait faim | *il y avait beaucoup de bruit | il a vu un chien | la dame est partie
+RQ: Comment la petite fille a trouvé l'adresse ? | elle a demandé à la police | *elle a lu le collier | elle connaissait la dame | sur Internet
+W.prompt: Écris la suite et la fin du conte que tu as commencé hier (ou d'une nouvelle histoire). Utilise alors, à ce moment-là, heureusement, malheureusement, finalement. || Viết phần tiếp theo và kết thúc của câu chuyện bạn bắt đầu hôm qua (hoặc một câu chuyện mới). Dùng alors, à ce moment-là, heureusement, malheureusement, finalement.
+W.min: 60
+W.must: alors ; heureusement ; finalement
+W.check: Các tình tiết nối tiếp ở passé composé
+W.check: Cảm xúc và miêu tả ở imparfait
+W.check: Có kết thúc rõ ràng (finalement, depuis ce jour)
+W.model: Tấm pleurait au bord de la rivière. || Tấm ngồi khóc bên bờ sông.
+W.model: À ce moment-là, un Bouddha est apparu et il lui a donné un petit poisson magique. || Đúng lúc đó, Bụt hiện lên và cho cô một con cá bống nhỏ có phép.
+W.model: Malheureusement, la belle-mère a découvert le poisson et elle l'a mangé. || Thật không may, mẹ kế phát hiện ra con cá và ăn thịt nó.
+W.model: Alors, Tấm a enterré les arêtes du poisson sous son lit. || Thế là Tấm chôn xương cá dưới gầm giường.
+W.model: Heureusement, grâce aux arêtes, elle a reçu une belle robe et des chaussures. || May mắn thay, nhờ xương cá, cô nhận được một bộ váy đẹp và đôi giày.
+W.model: Finalement, elle a rencontré le roi et elle est devenue reine. || Cuối cùng, cô gặp nhà vua và trở thành hoàng hậu.
+
+## 5 | Un fait divers
+G.title: Lire et raconter un fait divers
+G.rule: Un fait divers est un petit article de journal qui raconte un événement étonnant. Il répond aux questions : qui ? quoi ? où ? quand ? comment ? pourquoi ? Les circonstances sont à l'imparfait et les faits au passé composé. || Một tin vặt là một bài báo ngắn kể về một sự kiện đáng ngạc nhiên. Nó trả lời các câu hỏi: ai? cái gì? ở đâu? khi nào? như thế nào? tại sao? Hoàn cảnh ở imparfait và sự việc ở passé composé.
+G.note: Cấu trúc tin vặt: (1) Tiêu đề ngắn, gây chú ý. (2) Câu đầu tiên tóm tắt (ai, cái gì, ở đâu, khi nào). (3) Chi tiết hoàn cảnh (imparfait) và diễn biến (passé composé). (4) Kết quả hoặc lời của nhân chứng. Từ vựng báo chí: un témoin (nhân chứng), la police, un voleur (kẻ trộm), un accident, blessé (bị thương), sain et sauf (bình an vô sự).
+G.table: Question | Exemple
+G.row: Qui ? | Un homme de 45 ans
+G.row: Quoi ? | a retrouvé son portefeuille
+G.row: Où ? | dans un parc de Nantes
+G.row: Quand ? | mardi dernier
+G.row: Comment ? | grâce à un chien
+G.row: Pourquoi ? | il l'a perdu il y a dix ans
+G.ex: Mardi dernier, un voleur est entré dans une boulangerie de Lille. || Thứ Ba vừa rồi, một tên trộm đã vào một tiệm bánh ở Lille.
+G.ex: Il était trois heures du matin et la rue était déserte. || Lúc đó là ba giờ sáng và con phố vắng tanh.
+G.ex: Il a mangé dix croissants, mais il n'a pas pris d'argent ! || Hắn ăn mười cái bánh sừng bò, nhưng không lấy tiền!
+G.ex: La police l'a retrouvé grâce aux caméras. || Cảnh sát tìm ra hắn nhờ camera.
+G.q: Un fait divers est… | un roman | *un petit article sur un événement étonnant | une publicité | une lettre
+G.q: Les circonstances d'un fait divers sont à… | passé composé | *imparfait | futur | impératif
+G.q: Une personne qui a vu l'événement : | un voleur | *un témoin | un policier | un journaliste
+G.q: « Sain et sauf » veut dire… | malade | *sans blessure | mort | perdu
+G.q: Une personne qui vole est un ___. = voleur
+V: le fait divers | /lə fɛ di.vɛʁ/ | nom m. | tin vặt | J'ai lu un fait divers étonnant. || Tôi đã đọc một tin vặt đáng kinh ngạc.
+V: le voleur | /lə vɔ.lœʁ/ | nom m. | kẻ trộm | Le voleur est parti avec la caisse. || Tên trộm đã bỏ đi cùng két tiền.
+V: voler | /vɔ.le/ | verbe | lấy trộm; bay | On m'a volé mon vélo. || Tôi bị trộm xe đạp.
+V: le témoin | /lə te.mwɛ̃/ | nom m. | nhân chứng | Un témoin a appelé la police. || Một nhân chứng đã gọi cảnh sát.
+V: blessé | /ble.se/ | adjectif | bị thương | Deux personnes ont été blessées. || Hai người bị thương.
+V: sain et sauf | /sɛ̃ e sof/ | expression | bình an vô sự | L'enfant est sain et sauf. || Đứa trẻ bình an vô sự.
+V: étonnant | /e.tɔ.nɑ̃/ | adjectif | đáng ngạc nhiên | C'est une histoire étonnante. || Đó là một câu chuyện đáng ngạc nhiên.
+V: désert | /de.zɛʁ/ | adjectif | vắng vẻ | La rue était déserte. || Con phố vắng tanh.
+V: grâce à | /ɡʁɑs a/ | préposition | nhờ có | Grâce à son chien, il a retrouvé son chemin. || Nhờ con chó, ông đã tìm được đường về.
+V: l'article | /laʁ.tikl/ | nom m. | bài báo | J'ai lu un article sur ce sujet. || Tôi đã đọc một bài báo về chủ đề này.
+VQ: Une rue sans personne est… | pleine | *déserte | étroite | blessée
+VQ: « Grâce à » introduit… | une mauvaise cause | *une cause positive | un lieu | un temps
+VQ: Après un accident, une personne qui a mal est… | sauve | *blessée | désertée | étonnée
+VQ: « Étonnant » veut dire… | normal | *surprenant | ennuyeux | triste
+VQ: Un texte dans un journal, c'est un ___. = article
+D: Mardi dernier, un voleur est entré dans une boulangerie.
+D: Il était trois heures du matin.
+D: Il a mangé dix croissants !
+D: La police l'a retrouvé grâce aux caméras.
+L: Journaliste | Madame, vous êtes témoin de l'accident. Qu'est-ce qui s'est passé ? || Thưa bà, bà là nhân chứng của vụ tai nạn. Chuyện gì đã xảy ra?
+L: Témoin | Il était huit heures. Il pleuvait beaucoup et la route était glissante. || Lúc đó là tám giờ. Trời mưa to và đường trơn.
+L: Témoin | Une voiture roulait trop vite. Elle n'a pas vu le feu rouge. || Một chiếc ô tô chạy quá nhanh. Nó không thấy đèn đỏ.
+L: Témoin | Elle a percuté un camion de livraison. || Nó đâm vào một chiếc xe tải giao hàng.
+L: Journaliste | Il y a des blessés ? || Có ai bị thương không?
+L: Témoin | Heureusement, non. Le conducteur est sain et sauf, mais il avait très peur. || May mắn là không. Tài xế bình an vô sự, nhưng ông ấy rất sợ.
+LQ: Quel temps faisait-il ? | il faisait beau | *il pleuvait beaucoup | il neigeait | il y avait du brouillard
+LQ: Pourquoi y a-t-il eu un accident ? | le camion roulait trop vite | *la voiture roulait trop vite et n'a pas vu le feu | le feu était cassé | un piéton traversait
+LQ: Il y a des blessés ? | oui, deux | *non | oui, le conducteur | on ne sait pas
+RA: Il était huit heures et il pleuvait.
+RA: La route était glissante.
+RA: Heureusement, le conducteur est sain et sauf.
+SH: Qu'est-ce qui s'est passé ?
+SH: Une voiture roulait trop vite.
+SH: Elle n'a pas vu le feu rouge.
+R.title: Un perroquet sauve une famille
+R: Dimanche soir, à Bordeaux, un perroquet a sauvé une famille d'un incendie. || Tối Chủ Nhật, ở Bordeaux, một con vẹt đã cứu một gia đình khỏi đám cháy.
+R: Il était deux heures du matin et toute la famille dormait. || Lúc đó là hai giờ sáng và cả nhà đang ngủ.
+R: Dans la cuisine, un vieux grille-pain a pris feu. || Trong bếp, một chiếc máy nướng bánh cũ đã bốc cháy.
+R: Le perroquet, Coco, a commencé à crier : « Au secours ! Au secours ! » || Con vẹt Coco bắt đầu kêu: « Cứu với! Cứu với! »
+R: Le père s'est réveillé et il a fait sortir sa femme et ses enfants. || Người cha thức dậy và đưa vợ con ra ngoài.
+R: Tout le monde est sain et sauf, et Coco est maintenant le héros du quartier ! || Mọi người đều bình an vô sự, và Coco giờ là người hùng của khu phố!
+RQ: Qu'est-ce qui a pris feu ? | le four | *un vieux grille-pain | une bougie | la télé
+RQ: Que faisait la famille ? | elle dînait | *elle dormait | elle regardait la télé | elle n'était pas là
+RQ: Qu'est-ce que Coco a crié ? | Bonjour ! | *Au secours ! | Au feu ! | Papa !
+W.prompt: Écris un fait divers (vrai ou inventé) avec un titre. Réponds aux questions qui, quoi, où, quand, comment. Circonstances à l'imparfait, faits au passé composé. || Viết một tin vặt (có thật hoặc tự nghĩ ra) có tiêu đề. Trả lời các câu hỏi ai, cái gì, ở đâu, khi nào, như thế nào. Hoàn cảnh ở imparfait, sự việc ở passé composé.
+W.min: 60
+W.must: il était ; heureusement
+W.check: Có tiêu đề và câu mở đầu tóm tắt
+W.check: Hoàn cảnh ở imparfait, sự việc ở passé composé
+W.check: Trả lời đủ: qui, quoi, où, quand, comment
+W.model: Un chien retrouve sa famille après trois ans. || Một chú chó tìm lại gia đình sau ba năm.
+W.model: Samedi dernier, à Đà Nẵng, un chien a retrouvé sa famille trois ans après sa disparition. || Thứ Bảy vừa rồi, ở Đà Nẵng, một chú chó đã tìm lại gia đình ba năm sau khi mất tích.
+W.model: Il était midi et il faisait très chaud sur la plage. || Lúc đó là giữa trưa và trời rất nóng trên bãi biển.
+W.model: La famille Trần mangeait dans un restaurant quand un chien maigre est arrivé. || Gia đình ông Trần đang ăn trong một nhà hàng thì một chú chó gầy gò xuất hiện.
+W.model: La petite fille a crié : « C'est Mực ! » et le chien a sauté dans ses bras. || Cô bé hét lên: « Là Mực! » và chú chó nhảy vào lòng cô.
+W.model: Heureusement, le chien était en bonne santé. Toute la famille pleurait de joie ! || May mắn thay, chú chó vẫn khoẻ mạnh. Cả nhà khóc vì vui sướng!
