@@ -1,0 +1,382 @@
+@week 27
+@title Le travail et les études
+@level A2
+
+## 1 | Les métiers
+G.title: Masculin et féminin des métiers
+G.rule: Pour dire sa profession, on utilise être + métier sans article : Je suis infirmière. Avec un adjectif, on ajoute un article : C'est une infirmière très gentille. Beaucoup de métiers ont une forme masculine et une forme féminine. || Để nói nghề nghiệp, ta dùng être + nghề, không có mạo từ: Je suis infirmière. Khi có tính từ, ta thêm mạo từ: C'est une infirmière très gentille. Nhiều nghề có dạng giống đực và giống cái.
+G.note: Quy tắc giống cái: -eur → -euse (vendeur → vendeuse, coiffeur → coiffeuse); -teur → -trice (acteur → actrice, directeur → directrice); -ier → -ière (infirmier → infirmière, boulanger → boulangère); -ien → -ienne (informaticien → informaticienne); không đổi: journaliste, architecte, médecin, professeur(e), ingénieur(e). Hỏi nghề: Qu'est-ce que vous faites dans la vie ? / Quel est votre métier ? Nơi làm việc: travailler dans un hôpital, dans une entreprise, à la mairie, à son compte (tự kinh doanh).
+G.table: Masculin | Féminin | Lieu
+G.row: infirmier | infirmière | à l'hôpital
+G.row: vendeur | vendeuse | dans un magasin
+G.row: directeur | directrice | dans une entreprise
+G.row: informaticien | informaticienne | dans un bureau
+G.row: journaliste | journaliste | dans un journal
+G.ex: Qu'est-ce que vous faites dans la vie ? — Je suis comptable. || Anh làm nghề gì? — Tôi là kế toán.
+G.ex: Ma sœur est infirmière dans un grand hôpital. || Chị tôi là y tá ở một bệnh viện lớn.
+G.ex: C'est un architecte très célèbre. || Đó là một kiến trúc sư rất nổi tiếng.
+G.ex: Mon père travaille à son compte : il est plombier. || Bố tôi tự làm chủ: ông là thợ sửa ống nước.
+G.q: Je suis ___ médecin. | un | *(rien) | le | de
+G.q: Féminin de « vendeur » : | vendrice | *vendeuse | vendeure | vendière
+G.q: Féminin de « directeur » : | directeuse | *directrice | directière | directeure
+G.q: Avec un adjectif : C'est ___ professeur excellent. | (rien) | *un | le | de
+G.q: Féminin de « infirmier » : ___ = infirmière
+V: le métier | /lə me.tje/ | nom m. | nghề nghiệp | J'aime mon métier. || Tôi yêu nghề của mình.
+V: l'infirmier | /lɛ̃.fiʁ.mje/ | nom m. | y tá | L'infirmière est très gentille. || Cô y tá rất hiền.
+V: le comptable | /lə kɔ̃.tabl/ | nom m. | kế toán | Je suis comptable. || Tôi là kế toán.
+V: l'architecte | /laʁ.ʃi.tɛkt/ | nom | kiến trúc sư | Elle est architecte. || Cô ấy là kiến trúc sư.
+V: l'informaticien | /lɛ̃.fɔʁ.ma.ti.sjɛ̃/ | nom m. | kỹ sư tin học | Il est informaticien. || Anh ấy là kỹ sư tin học.
+V: le plombier | /lə plɔ̃.bje/ | nom m. | thợ sửa ống nước | Le plombier arrive demain. || Thợ sửa ống nước mai sẽ đến.
+V: le cuisinier | /lə kɥi.zi.nje/ | nom m. | đầu bếp | Mon oncle est cuisinier. || Chú tôi là đầu bếp.
+V: le coiffeur | /lə kwa.fœʁ/ | nom m. | thợ cắt tóc | Je vais chez le coiffeur. || Tôi đi cắt tóc.
+V: à son compte | /a sɔ̃ kɔ̃t/ | expression | tự kinh doanh | Elle travaille à son compte. || Cô ấy tự kinh doanh.
+V: l'avocat | /la.vɔ.ka/ | nom m. | luật sư | L'avocat défend son client. || Luật sư bảo vệ thân chủ.
+VQ: La personne qui coupe les cheveux : | le cuisinier | *le coiffeur | le plombier | l'avocat
+VQ: La personne qui dessine des maisons et des bâtiments : | le comptable | *l'architecte | l'infirmier | le vendeur
+VQ: La personne qui défend quelqu'un au tribunal : | le médecin | *l'avocat | le journaliste | le directeur
+VQ: La personne qui répare les tuyaux d'eau : | le coiffeur | *le plombier | le cuisinier | l'architecte
+VQ: Féminin de « coiffeur » : ___ = coiffeuse
+D: Qu'est-ce que vous faites dans la vie ? Je suis comptable.
+D: Ma sœur est infirmière dans un grand hôpital.
+D: C'est un architecte très célèbre.
+D: Mon père travaille à son compte.
+L: Invitée | Et vous, qu'est-ce que vous faites dans la vie ? || Còn anh, anh làm nghề gì?
+L: Long | Je suis informaticien dans une banque. Et vous ? || Tôi là kỹ sư tin học ở một ngân hàng. Còn chị?
+L: Invitée | Moi, je suis journaliste. J'écris pour un magazine de voyage. || Tôi là nhà báo. Tôi viết cho một tạp chí du lịch.
+L: Long | Ça doit être passionnant ! Vous voyagez souvent ? || Chắc là thú vị lắm! Chị có đi du lịch thường xuyên không?
+L: Invitée | Oui, une semaine par mois. Mais mon mari est boulanger, donc on ne se voit pas beaucoup : il se lève à trois heures du matin ! || Có, một tuần mỗi tháng. Nhưng chồng tôi là thợ làm bánh, nên chúng tôi ít gặp nhau: anh ấy dậy lúc ba giờ sáng!
+L: Long | Ah oui, ce sont deux métiers difficiles à combiner ! || À vâng, đó là hai nghề khó kết hợp!
+LQ: Où travaille Long ? | dans un hôpital | *dans une banque | dans un magazine | à son compte
+LQ: Quel est le métier de l'invitée ? | boulangère | *journaliste | informaticienne | professeure
+LQ: Pourquoi elle ne voit pas beaucoup son mari ? | il voyage | *il se lève à trois heures du matin | il travaille le soir | il habite loin
+RA: infirmier, infirmière ; vendeur, vendeuse.
+RA: directeur, directrice ; informaticien, informaticienne.
+RA: Qu'est-ce que vous faites dans la vie ?
+SH: Qu'est-ce que vous faites dans la vie ?
+SH: Je suis informaticien dans une banque.
+SH: Ce sont deux métiers difficiles à combiner !
+R.title: Les métiers préférés des Français
+R: Selon un sondage, les Français admirent surtout les métiers de la santé. || Theo một cuộc thăm dò, người Pháp ngưỡng mộ nhất các nghề trong ngành y tế.
+R: Les médecins, les infirmières et les pompiers sont en tête de la liste. || Bác sĩ, y tá và lính cứu hoả đứng đầu danh sách.
+R: Les professeurs sont aussi très respectés, mais beaucoup pensent qu'ils ne sont pas assez payés. || Giáo viên cũng rất được tôn trọng, nhưng nhiều người nghĩ họ không được trả lương đủ.
+R: Chez les jeunes, les métiers à la mode sont développeur, designer et créateur de contenu. || Ở giới trẻ, các nghề thịnh hành là lập trình viên, nhà thiết kế và người sáng tạo nội dung.
+R: Beaucoup de jeunes rêvent aussi de travailler à leur compte. || Nhiều bạn trẻ cũng mơ được tự kinh doanh.
+R: Et les artisans, comme les boulangers, restent très populaires en France ! || Và những người thợ thủ công, như thợ làm bánh, vẫn rất được yêu thích ở Pháp!
+RQ: Quels métiers les Français admirent-ils surtout ? | les métiers de l'art | *les métiers de la santé | les métiers de la banque | les métiers du sport
+RQ: Quel est le problème pour les professeurs ? | ils travaillent trop peu | *ils ne sont pas assez payés | ils ne sont pas respectés | ils sont trop nombreux
+RQ: De quoi rêvent beaucoup de jeunes ? | de devenir médecin | *de travailler à leur compte | d'être pompier | de partir à l'étranger
+W.prompt: Présente le métier de trois personnes de ton entourage : ce qu'elles font, où elles travaillent, ce qu'elles aiment ou n'aiment pas dans leur travail. || Giới thiệu nghề nghiệp của ba người xung quanh bạn: họ làm gì, làm ở đâu, họ thích hay không thích gì trong công việc.
+W.min: 55
+W.must: est ; travaille ; dans
+W.check: Không có mạo từ sau être + nghề (elle est infirmière)
+W.check: Dạng giống cái của nghề viết đúng
+W.check: Mỗi người có nơi làm việc và một nhận xét
+W.model: Mon père est cuisinier dans un restaurant à Đà Lạt. || Bố tôi là đầu bếp ở một nhà hàng tại Đà Lạt.
+W.model: Il adore son métier, mais il travaille tard le soir et le week-end. || Bố rất yêu nghề, nhưng bố làm việc muộn buổi tối và cuối tuần.
+W.model: Ma mère est infirmière dans une clinique. Elle aime aider les gens, mais son travail est fatigant. || Mẹ tôi là y tá ở một phòng khám. Mẹ thích giúp đỡ mọi người, nhưng công việc của mẹ mệt mỏi.
+W.model: Ma cousine Vy est développeuse dans une start-up. || Em họ tôi là Vy làm lập trình viên ở một công ty khởi nghiệp.
+W.model: Elle travaille souvent à la maison et elle a des horaires flexibles. || Em ấy thường làm việc ở nhà và có giờ giấc linh hoạt.
+W.model: Moi, je suis étudiante, mais je voudrais devenir architecte ! || Còn tôi là sinh viên, nhưng tôi muốn trở thành kiến trúc sư!
+
+## 2 | Mon parcours
+G.title: Raconter ses études et son expérience
+G.rule: Pour raconter son parcours, on utilise le passé composé pour les étapes (j'ai fait des études de…, j'ai obtenu un diplôme, j'ai travaillé chez…) et l'imparfait pour les descriptions (je voulais devenir…, c'était passionnant). || Để kể về quá trình học tập và làm việc, ta dùng passé composé cho các giai đoạn (j'ai fait des études de… — tôi đã học ngành…, j'ai obtenu un diplôme — tôi đã lấy bằng, j'ai travaillé chez… — tôi đã làm việc ở…) và imparfait cho miêu tả (je voulais devenir… — tôi muốn trở thành…, c'était passionnant — điều đó rất thú vị).
+G.note: Từ vựng học tập: faire des études de droit / de commerce / de médecine (học luật / thương mại / y), obtenir un diplôme / une licence / un master (lấy bằng / cử nhân / thạc sĩ), le lycée (trung học phổ thông), le bac (bằng tú tài), l'université / la fac. Công việc: faire un stage (thực tập), être embauché(e) (được tuyển dụng), travailler chez + công ty / pour + công ty, être promu(e) (được thăng chức), changer de travail, démissionner (nghỉ việc), être au chômage (thất nghiệp).
+G.table: Étape | Expression
+G.row: études | J'ai fait des études de commerce.
+G.row: diplôme | J'ai obtenu mon master en 2020.
+G.row: stage | J'ai fait un stage chez Air France.
+G.row: embauche | J'ai été embauché(e) dans une banque.
+G.row: changement | J'ai changé de travail l'année dernière.
+G.ex: Après le bac, j'ai fait des études d'économie à Hanoï. || Sau khi tốt nghiệp phổ thông, tôi học ngành kinh tế ở Hà Nội.
+G.ex: J'ai obtenu ma licence en 2019. || Tôi lấy bằng cử nhân năm 2019.
+G.ex: Ensuite, j'ai fait un stage de six mois dans une agence de voyages. || Sau đó, tôi thực tập sáu tháng ở một công ty du lịch.
+G.ex: J'ai été embauchée chez eux, et maintenant je suis responsable marketing. || Tôi được họ tuyển dụng, và giờ tôi là trưởng phòng marketing.
+G.q: Pour les étapes de son parcours, on utilise surtout… | l'imparfait | *le passé composé | le futur | l'impératif
+G.q: J'ai ___ mon diplôme en 2021. | fait | *obtenu | été | eu fait
+G.q: Quitter volontairement son travail : | être embauché | *démissionner | être promu | faire un stage
+G.q: Le diplôme de fin de lycée en France : | la licence | *le bac | le master | le stage
+G.q: J'ai fait des ___ de droit. (học) = études
+V: le parcours | /lə paʁ.kuʁ/ | nom m. | quá trình, con đường | Parle-moi de ton parcours. || Kể tôi nghe về quá trình của bạn.
+V: les études | /le.z‿e.tyd/ | nom f. pl. | việc học | J'ai fait des études de droit. || Tôi đã học luật.
+V: obtenir | /ɔp.tə.niʁ/ | verbe | đạt được | Il a obtenu son diplôme. || Anh ấy đã lấy được bằng.
+V: la licence | /la li.sɑ̃s/ | nom f. | bằng cử nhân | J'ai une licence d'anglais. || Tôi có bằng cử nhân tiếng Anh.
+V: le stage | /lə staʒ/ | nom m. | kỳ thực tập | Je fais un stage de trois mois. || Tôi thực tập ba tháng.
+V: embaucher | /ɑ̃.bo.ʃe/ | verbe | tuyển dụng | Ils m'ont embauché ! || Họ đã tuyển tôi!
+V: démissionner | /de.mi.sjɔ.ne/ | verbe | nghỉ việc | Elle a démissionné. || Cô ấy đã nghỉ việc.
+V: le chômage | /lə ʃo.maʒ/ | nom m. | thất nghiệp | Il est au chômage. || Anh ấy đang thất nghiệp.
+V: le lycée | /lə li.se/ | nom m. | trường trung học phổ thông | Au lycée, j'étais bon en maths. || Hồi cấp ba, tôi giỏi toán.
+V: le responsable | /lə ʁɛs.pɔ̃.sabl/ | nom m. | người phụ trách | Je suis responsable des ventes. || Tôi phụ trách bán hàng.
+VQ: Le contraire de « démissionner » : | travailler | *être embauché | être promu | faire un stage
+VQ: Une personne sans travail est… | en stage | *au chômage | à son compte | responsable
+VQ: Une courte période de travail pour apprendre un métier : | un diplôme | *un stage | un lycée | une licence
+VQ: Le diplôme après trois ans d'université en France : | le bac | *la licence | le master | le doctorat
+VQ: Raconte-moi ton ___ professionnel. (quá trình) = parcours
+D: Après le bac, j'ai fait des études d'économie.
+D: J'ai obtenu ma licence en 2019.
+D: J'ai fait un stage de six mois.
+D: J'ai été embauchée chez eux.
+L: Recruteuse | Parlez-moi de votre parcours. || Hãy kể tôi nghe về quá trình của anh.
+L: Thắng | J'ai fait des études d'informatique à l'université de Đà Nẵng. || Tôi đã học ngành tin học ở trường đại học Đà Nẵng.
+L: Thắng | Après ma licence, j'ai fait un stage de six mois dans une start-up française. || Sau khi có bằng cử nhân, tôi thực tập sáu tháng ở một công ty khởi nghiệp của Pháp.
+L: Recruteuse | Et ensuite ? || Rồi sau đó?
+L: Thắng | Ils m'ont embauché comme développeur. J'y ai travaillé trois ans. C'était très formateur. || Họ tuyển tôi làm lập trình viên. Tôi đã làm ở đó ba năm. Rất bổ ích.
+L: Thắng | L'année dernière, j'ai démissionné pour faire un master en France. || Năm ngoái, tôi nghỉ việc để học thạc sĩ ở Pháp.
+LQ: Où Thắng a-t-il fait ses études ? | à Hanoï | *à Đà Nẵng | en France | à Huế
+LQ: Combien de temps a-t-il travaillé dans la start-up ? | six mois | un an | *trois ans | cinq ans
+LQ: Pourquoi a-t-il démissionné ? | il n'aimait pas son travail | *pour faire un master en France | pour se marier | il était malade
+RA: J'ai fait des études d'informatique.
+RA: J'ai obtenu ma licence. J'ai fait un stage.
+RA: Ils m'ont embauché. J'ai démissionné.
+SH: Parlez-moi de votre parcours.
+SH: Après ma licence, j'ai fait un stage de six mois.
+SH: C'était très formateur.
+R.title: Une reconversion réussie
+R: Isabelle a quarante-deux ans. Pendant quinze ans, elle était avocate à Paris. || Isabelle bốn mươi hai tuổi. Trong mười lăm năm, bà là luật sư ở Paris.
+R: Elle gagnait bien sa vie, mais elle était stressée et elle ne voyait pas ses enfants. || Bà kiếm được nhiều tiền, nhưng bà căng thẳng và không có thời gian gặp con.
+R: Il y a trois ans, elle a décidé de changer complètement de vie. || Ba năm trước, bà quyết định thay đổi hoàn toàn cuộc sống.
+R: Elle a démissionné et elle a suivi une formation de pâtissière pendant un an. || Bà nghỉ việc và theo học một khoá làm bánh ngọt trong một năm.
+R: Ensuite, elle a ouvert sa propre pâtisserie dans un petit village de Bretagne. || Sau đó, bà mở tiệm bánh ngọt của riêng mình ở một ngôi làng nhỏ vùng Bretagne.
+R: Elle gagne moins, mais elle dit : « Je n'ai jamais été aussi heureuse ! » || Bà kiếm ít tiền hơn, nhưng bà nói: « Tôi chưa bao giờ hạnh phúc như vậy! »
+RQ: Quel était le premier métier d'Isabelle ? | médecin | *avocate | professeure | journaliste
+RQ: Pourquoi a-t-elle changé de vie ? | elle a perdu son travail | *elle était stressée et ne voyait pas ses enfants | elle voulait plus d'argent | elle était malade
+RQ: Qu'a-t-elle ouvert ? | un restaurant | *une pâtisserie | un cabinet d'avocat | un hôtel
+W.prompt: Raconte ton parcours scolaire et professionnel (réel ou imaginé) : tes études, tes diplômes, tes stages, tes emplois, et ce que tu fais aujourd'hui. || Kể về quá trình học tập và làm việc của bạn (thật hoặc tưởng tượng): việc học, bằng cấp, thực tập, công việc, và hiện tại bạn làm gì.
+W.min: 60
+W.must: j'ai fait ; j'ai obtenu ; aujourd'hui
+W.check: Các giai đoạn ở passé composé
+W.check: Miêu tả và cảm xúc ở imparfait
+W.check: Có mốc thời gian (en 2018, après…, pendant…)
+W.model: Après le bac, j'ai fait des études de langues étrangères à Hô Chi Minh-Ville. || Sau khi tốt nghiệp phổ thông, tôi học ngành ngoại ngữ ở Thành phố Hồ Chí Minh.
+W.model: J'étudiais l'anglais et le chinois, et j'adorais ça. || Tôi học tiếng Anh và tiếng Trung, và tôi rất thích.
+W.model: J'ai obtenu ma licence en 2018, puis j'ai fait un stage dans un hôtel cinq étoiles. || Tôi lấy bằng cử nhân năm 2018, rồi thực tập ở một khách sạn năm sao.
+W.model: Ils m'ont embauchée comme réceptionniste. J'y ai travaillé quatre ans. || Họ tuyển tôi làm lễ tân. Tôi làm ở đó bốn năm.
+W.model: C'était intéressant, mais les horaires étaient difficiles. || Công việc thú vị, nhưng giờ giấc vất vả.
+W.model: Aujourd'hui, je suis guide touristique et j'apprends le français pour travailler avec des groupes francophones. || Hiện nay, tôi là hướng dẫn viên du lịch và tôi học tiếng Pháp để làm việc với các đoàn khách nói tiếng Pháp.
+
+## 3 | Depuis, il y a, pendant
+G.title: Exprimer la durée
+G.rule: Depuis + durée indique une action qui continue jusqu'à maintenant (avec le présent). Il y a + durée indique un moment dans le passé (avec le passé composé). Pendant + durée indique une durée complète et terminée. || Depuis + thời lượng chỉ hành động vẫn tiếp diễn đến hiện tại (dùng thì hiện tại). Il y a + thời lượng chỉ một thời điểm trong quá khứ (dùng passé composé). Pendant + thời lượng chỉ một khoảng thời gian trọn vẹn đã kết thúc.
+G.note: So sánh: J'habite à Paris depuis trois ans (tôi sống ở Paris được ba năm — vẫn đang sống). Je suis arrivé à Paris il y a trois ans (tôi đến Paris cách đây ba năm — thời điểm). J'ai habité à Lyon pendant deux ans (tôi đã sống ở Lyon hai năm — đã kết thúc). Lỗi hay gặp của người Việt: "J'ai habité à Paris depuis trois ans" ✗ — với depuis, dùng thì hiện tại! Depuis + mốc thời gian: depuis 2020, depuis lundi. Hỏi: Depuis quand ? Depuis combien de temps ? Il y a combien de temps ?
+G.table: Mot | Temps du verbe | Exemple
+G.row: depuis | présent | Je travaille ici depuis deux ans.
+G.row: il y a | passé composé | J'ai commencé il y a deux ans.
+G.row: pendant | passé composé (fini) | J'ai travaillé à Lyon pendant deux ans.
+G.row: depuis + date | présent | J'apprends le français depuis janvier.
+G.ex: J'apprends le français depuis six mois. || Tôi học tiếng Pháp được sáu tháng rồi.
+G.ex: J'ai commencé à apprendre le français il y a six mois. || Tôi bắt đầu học tiếng Pháp cách đây sáu tháng.
+G.ex: J'ai vécu au Japon pendant deux ans, puis je suis rentré. || Tôi đã sống ở Nhật hai năm, rồi trở về.
+G.ex: Depuis combien de temps vous travaillez dans cette entreprise ? || Anh làm việc ở công ty này được bao lâu rồi?
+G.q: Je travaille ici ___ 2019. | il y a | *depuis | pendant | dans
+G.q: Je suis arrivé en France ___ deux ans. | depuis | *il y a | pendant | dans
+G.q: J'ai étudié à Lyon ___ trois ans, puis je suis parti. | depuis | il y a | *pendant | dans
+G.q: J'habite ici depuis cinq ans. → | J'ai habité (fini) | *J'habite toujours ici | Je vais habiter | J'habitais avant
+G.q: ___ combien de temps tu apprends le français ? = Depuis
+V: depuis | /də.pɥi/ | préposition | từ, được (đến nay) | J'habite ici depuis 2020. || Tôi sống ở đây từ năm 2020.
+V: il y a | /il.j‿a/ | expression | cách đây | Je suis arrivé il y a un an. || Tôi đến cách đây một năm.
+V: pendant | /pɑ̃.dɑ̃/ | préposition | trong suốt | J'ai dormi pendant dix heures. || Tôi đã ngủ suốt mười tiếng.
+V: la durée | /la dy.ʁe/ | nom f. | khoảng thời gian | Quelle est la durée du stage ? || Kỳ thực tập kéo dài bao lâu?
+V: commencer | /kɔ.mɑ̃.se/ | verbe | bắt đầu | J'ai commencé il y a un mois. || Tôi bắt đầu cách đây một tháng.
+V: vivre | /vivʁ/ | verbe | sống | J'ai vécu à Rome pendant un an. || Tôi đã sống ở Rome một năm.
+V: l'ancienneté | /lɑ̃.sjɛn.te/ | nom f. | thâm niên | Il a dix ans d'ancienneté. || Anh ấy có mười năm thâm niên.
+V: le contrat | /lə kɔ̃.tʁa/ | nom m. | hợp đồng | Mon contrat dure un an. || Hợp đồng của tôi kéo dài một năm.
+V: durer | /dy.ʁe/ | verbe | kéo dài | Le cours dure deux heures. || Tiết học kéo dài hai tiếng.
+V: l'entreprise | /lɑ̃.tʁə.pʁiz/ | nom f. | công ty | Je travaille dans une grande entreprise. || Tôi làm ở một công ty lớn.
+VQ: « Depuis » s'utilise avec… | le passé composé | *le présent (action qui continue) | le futur | l'impératif
+VQ: « Il y a deux ans » indique… | une durée qui continue | *un moment dans le passé | le futur | une habitude
+VQ: Le document qui fixe les conditions d'un emploi : | le stage | *le contrat | le diplôme | l'ancienneté
+VQ: Le nombre d'années dans une entreprise : | la durée du stage | *l'ancienneté | le contrat | le salaire
+VQ: Le film ___ deux heures. (kéo dài) = dure
+D: J'apprends le français depuis six mois.
+D: J'ai commencé il y a six mois.
+D: J'ai vécu au Japon pendant deux ans.
+D: Depuis combien de temps vous travaillez ici ?
+L: Collègue | Tu travailles ici depuis combien de temps ? || Bạn làm ở đây được bao lâu rồi?
+L: Thơ | Depuis deux ans. Je suis arrivée en septembre 2022. || Được hai năm. Mình đến vào tháng Chín năm 2022.
+L: Collègue | Et avant ? || Còn trước đó?
+L: Thơ | Avant, j'ai travaillé dans une banque pendant cinq ans. || Trước đó, mình làm ở một ngân hàng năm năm.
+L: Collègue | Et tu es en France depuis quand ? || Thế bạn ở Pháp từ bao giờ?
+L: Thơ | Je suis arrivée il y a sept ans, pour mes études. || Mình đến cách đây bảy năm, để đi học.
+LQ: Depuis combien de temps Thơ travaille ici ? | cinq ans | *deux ans | sept ans | un an
+LQ: Combien de temps a-t-elle travaillé dans une banque ? | deux ans | *cinq ans | sept ans | dix ans
+LQ: Quand est-elle arrivée en France ? | il y a deux ans | il y a cinq ans | *il y a sept ans | en 2022
+RA: Je travaille ici depuis deux ans.
+RA: Je suis arrivée il y a sept ans.
+RA: J'ai travaillé dans une banque pendant cinq ans.
+SH: Tu travailles ici depuis combien de temps ?
+SH: J'ai travaillé dans une banque pendant cinq ans.
+SH: Je suis arrivée il y a sept ans, pour mes études.
+R.title: Portrait : Monsieur Bernard, facteur
+R: Monsieur Bernard est facteur dans notre village depuis vingt-cinq ans. || Ông Bernard làm người đưa thư ở làng chúng tôi được hai mươi lăm năm.
+R: Il a commencé ce travail il y a vingt-cinq ans, à l'âge de trente ans. || Ông bắt đầu công việc này cách đây hai mươi lăm năm, khi ba mươi tuổi.
+R: Avant, il a été boulanger pendant dix ans, mais il n'aimait pas se lever la nuit. || Trước đó, ông làm thợ bánh mì mười năm, nhưng ông không thích dậy ban đêm.
+R: Depuis tout ce temps, il connaît tous les habitants et toutes les histoires du village. || Suốt thời gian đó, ông biết tất cả cư dân và mọi câu chuyện của làng.
+R: Il y a un mois, il a appris qu'il va partir à la retraite en décembre. || Một tháng trước, ông được biết ông sẽ nghỉ hưu vào tháng Mười Hai.
+R: Tout le village prépare une grande fête pour lui dire merci ! || Cả làng đang chuẩn bị một bữa tiệc lớn để cảm ơn ông!
+RQ: Depuis combien de temps est-il facteur ? | dix ans | trente ans | *vingt-cinq ans | quinze ans
+RQ: Pendant combien de temps a-t-il été boulanger ? | cinq ans | *dix ans | vingt ans | deux ans
+RQ: Quand va-t-il partir à la retraite ? | dans un mois | *en décembre | l'année prochaine | il y a un mois
+W.prompt: Présente ta situation actuelle et ton passé avec depuis, il y a et pendant : depuis quand tu habites ici, quand tu as commencé ton travail ou tes études, combien de temps tu as fait autre chose avant. || Giới thiệu hoàn cảnh hiện tại và quá khứ của bạn với depuis, il y a và pendant: bạn sống ở đây từ bao giờ, bắt đầu công việc hoặc việc học khi nào, trước đó bạn đã làm việc khác bao lâu.
+W.min: 50
+W.must: depuis ; il y a ; pendant
+W.check: depuis + hiện tại (hành động tiếp diễn)
+W.check: il y a + passé composé (thời điểm)
+W.check: pendant + passé composé (đã kết thúc)
+W.model: J'habite à Hà Nội depuis huit ans. || Tôi sống ở Hà Nội được tám năm.
+W.model: Je suis arrivé ici il y a huit ans pour mes études à l'université. || Tôi đến đây cách đây tám năm để học đại học.
+W.model: J'ai étudié la gestion pendant quatre ans. || Tôi đã học quản trị bốn năm.
+W.model: Ensuite, j'ai travaillé dans une agence de publicité pendant deux ans. || Sau đó, tôi làm ở một công ty quảng cáo hai năm.
+W.model: Je travaille dans une entreprise française depuis 2022. || Tôi làm ở một công ty Pháp từ năm 2022.
+W.model: J'ai commencé le français il y a six mois, et maintenant je peux écrire ce texte ! || Tôi bắt đầu học tiếng Pháp cách đây sáu tháng, và bây giờ tôi có thể viết đoạn văn này!
+
+## 4 | L'entretien d'embauche
+G.title: Se présenter et répondre aux questions
+G.rule: Pendant un entretien d'embauche, on vouvoie le recruteur, on présente son expérience, ses qualités et sa motivation, et on pose des questions sur le poste. || Trong buổi phỏng vấn xin việc, ta xưng hô "vous" với nhà tuyển dụng, trình bày kinh nghiệm, phẩm chất và động lực của mình, và đặt câu hỏi về vị trí công việc.
+G.note: Câu hỏi thường gặp: Présentez-vous. (Hãy giới thiệu bản thân.) Pourquoi voulez-vous travailler chez nous ? Quelles sont vos qualités / vos défauts ? Où vous voyez-vous dans cinq ans ? Trả lời: Je suis quelqu'un de sérieux / organisé / dynamique. J'ai de l'expérience dans… Je suis motivé(e) par… Mon point faible, c'est que… mais je travaille dessus. Câu hỏi nên hỏi lại: Quelles sont les missions du poste ? Quels sont les horaires ? Quand est-ce que je peux commencer ?
+G.table: Question du recruteur | Exemple de réponse
+G.row: Présentez-vous. | Je m'appelle Lan, j'ai 27 ans, je suis comptable.
+G.row: Quelles sont vos qualités ? | Je suis organisée et rigoureuse.
+G.row: Et vos défauts ? | Je suis un peu perfectionniste.
+G.row: Pourquoi ce poste ? | Je suis passionnée par le tourisme.
+G.row: Vous avez des questions ? | Quels sont les horaires de travail ?
+G.ex: Je suis quelqu'un de très organisé et j'aime le travail en équipe. || Tôi là người rất ngăn nắp và thích làm việc nhóm.
+G.ex: J'ai trois ans d'expérience dans la vente. || Tôi có ba năm kinh nghiệm bán hàng.
+G.ex: Mon point faible, c'est que je parle trop vite, mais je fais des efforts. || Điểm yếu của tôi là nói quá nhanh, nhưng tôi đang cố gắng.
+G.ex: Quelles sont les missions principales du poste ? || Nhiệm vụ chính của vị trí này là gì?
+G.q: Dans un entretien, on dit au recruteur… | tu | *vous | toi | on
+G.q: Une qualité : | paresseux | *organisé | impatient | désordonné
+G.q: Pour présenter un défaut positivement : | Je n'ai pas de défaut. | *Mon point faible, c'est…, mais je fais des efforts. | Je suis nul. | Je ne sais pas.
+G.q: Une bonne question à poser au recruteur : | Je peux partir tôt ? | *Quelles sont les missions du poste ? | Vous êtes marié ? | C'est obligatoire de travailler ?
+G.q: J'ai trois ans d'___ dans la vente. = expérience
+V: l'entretien d'embauche | /lɑ̃.tʁə.tjɛ̃ dɑ̃.boʃ/ | nom m. | phỏng vấn xin việc | J'ai un entretien d'embauche lundi. || Thứ Hai tôi có phỏng vấn xin việc.
+V: le recruteur | /lə ʁə.kʁy.tœʁ/ | nom m. | nhà tuyển dụng | Le recruteur m'a posé beaucoup de questions. || Nhà tuyển dụng hỏi tôi nhiều câu.
+V: le poste | /lə pɔst/ | nom m. | vị trí công việc | Je suis candidat pour ce poste. || Tôi ứng tuyển vị trí này.
+V: la qualité | /la ka.li.te/ | nom f. | phẩm chất, ưu điểm | Quelles sont vos qualités ? || Ưu điểm của anh là gì?
+V: le défaut | /lə de.fo/ | nom m. | khuyết điểm | Mon défaut ? Je suis impatient. || Khuyết điểm của tôi? Tôi thiếu kiên nhẫn.
+V: organisé | /ɔʁ.ɡa.ni.ze/ | adjectif | ngăn nắp, có tổ chức | Elle est très organisée. || Cô ấy rất ngăn nắp.
+V: la motivation | /la mɔ.ti.va.sjɔ̃/ | nom f. | động lực | Quelle est votre motivation ? || Động lực của anh là gì?
+V: la mission | /la mi.sjɔ̃/ | nom f. | nhiệm vụ | Quelles sont les missions ? || Nhiệm vụ là gì?
+V: le travail en équipe | /lə tʁa.vaj ɑ̃.n‿e.kip/ | expression | làm việc nhóm | J'aime le travail en équipe. || Tôi thích làm việc nhóm.
+V: le salaire | /lə sa.lɛʁ/ | nom m. | lương | Quel est le salaire ? || Mức lương là bao nhiêu?
+VQ: Le contraire de « qualité » (d'une personne) : | mission | *défaut | poste | salaire
+VQ: L'argent qu'on reçoit chaque mois pour son travail : | le loyer | *le salaire | le contrat | l'impôt
+VQ: Une personne qui cherche de nouveaux employés : | un candidat | *un recruteur | un client | un collègue
+VQ: Le contraire de « désordonné » : | dynamique | *organisé | sérieux | motivé
+VQ: Les tâches d'un poste, ce sont les ___. = missions
+D: Je suis quelqu'un de très organisé.
+D: J'ai trois ans d'expérience dans la vente.
+D: Mon point faible, c'est que je parle trop vite.
+D: Quelles sont les missions principales du poste ?
+L: Recruteur | Bonjour, asseyez-vous. Présentez-vous, s'il vous plaît. || Chào chị, mời chị ngồi. Chị hãy giới thiệu bản thân.
+L: Ngọc | Je m'appelle Ngọc, j'ai vingt-huit ans. Je suis guide touristique depuis cinq ans. || Tôi tên Ngọc, hai mươi tám tuổi. Tôi làm hướng dẫn viên du lịch được năm năm.
+L: Recruteur | Pourquoi voulez-vous travailler dans notre agence ? || Tại sao chị muốn làm việc ở công ty chúng tôi?
+L: Ngọc | Parce que vous organisez des voyages culturels, et je suis passionnée par l'histoire. || Vì công ty tổ chức các chuyến du lịch văn hoá, và tôi đam mê lịch sử.
+L: Recruteur | Quelles sont vos qualités ? || Ưu điểm của chị là gì?
+L: Ngọc | Je suis patiente, organisée et je parle trois langues. J'ai une question : quand est-ce que le poste commence ? || Tôi kiên nhẫn, ngăn nắp và nói được ba thứ tiếng. Tôi có một câu hỏi: khi nào vị trí này bắt đầu?
+LQ: Depuis combien de temps Ngọc est-elle guide ? | trois ans | *cinq ans | deux ans | huit ans
+LQ: Pourquoi veut-elle travailler dans cette agence ? | le salaire est bon | *elle est passionnée par l'histoire | c'est près de chez elle | elle connaît le directeur
+LQ: Combien de langues parle-t-elle ? | deux | *trois | quatre | une
+RA: Présentez-vous, s'il vous plaît.
+RA: Je suis quelqu'un d'organisé et de patient.
+RA: Quelles sont les missions du poste ?
+SH: Je suis guide touristique depuis cinq ans.
+SH: Je suis passionnée par l'histoire.
+SH: Quand est-ce que le poste commence ?
+R.title: Cinq conseils pour réussir un entretien
+R: Premièrement, renseignez-vous sur l'entreprise avant l'entretien : son histoire, ses produits, ses valeurs. || Thứ nhất, hãy tìm hiểu về công ty trước buổi phỏng vấn: lịch sử, sản phẩm, giá trị của công ty.
+R: Deuxièmement, arrivez dix minutes en avance et habillez-vous de façon professionnelle. || Thứ hai, hãy đến sớm mười phút và ăn mặc chuyên nghiệp.
+R: Troisièmement, préparez des exemples concrets pour montrer vos qualités. || Thứ ba, chuẩn bị các ví dụ cụ thể để thể hiện ưu điểm của bạn.
+R: Quatrièmement, ne critiquez jamais votre ancien employeur. || Thứ tư, đừng bao giờ chỉ trích chủ cũ.
+R: Enfin, posez des questions sur le poste : cela montre votre motivation. || Cuối cùng, hãy đặt câu hỏi về vị trí công việc: điều đó cho thấy động lực của bạn.
+R: Et surtout, souriez et restez naturel ! || Và quan trọng nhất, hãy mỉm cười và giữ sự tự nhiên!
+RQ: Combien de minutes en avance faut-il arriver ? | cinq | *dix | quinze | trente
+RQ: Que ne faut-il jamais faire ? | sourire | *critiquer son ancien employeur | poser des questions | arriver en avance
+RQ: Poser des questions montre… | votre timidité | *votre motivation | votre âge | votre salaire
+W.prompt: Prépare tes réponses pour un entretien : présente-toi, explique ton expérience, donne deux qualités et un défaut, dis pourquoi tu veux ce poste et pose deux questions. || Chuẩn bị câu trả lời cho buổi phỏng vấn: giới thiệu bản thân, giải thích kinh nghiệm, nêu hai ưu điểm và một khuyết điểm, nói tại sao bạn muốn vị trí này và đặt hai câu hỏi.
+W.min: 65
+W.must: je suis ; expérience ; qualités ; pourquoi
+W.check: Dùng vous khi hỏi nhà tuyển dụng
+W.check: Khuyết điểm được trình bày tích cực
+W.check: Có hai câu hỏi về vị trí công việc
+W.model: Bonjour, je m'appelle Hiếu et j'ai trente ans. || Xin chào, tôi tên Hiếu, ba mươi tuổi.
+W.model: Je suis comptable depuis six ans et j'ai de l'expérience dans les entreprises internationales. || Tôi làm kế toán được sáu năm và có kinh nghiệm ở các công ty quốc tế.
+W.model: Mes qualités principales sont la rigueur et la patience : je ne fais presque jamais d'erreurs dans les chiffres. || Ưu điểm chính của tôi là sự cẩn thận và kiên nhẫn: tôi gần như không bao giờ sai số liệu.
+W.model: Mon point faible, c'est que je suis un peu timide, mais je fais des efforts : je prends des cours de prise de parole. || Điểm yếu của tôi là hơi nhút nhát, nhưng tôi đang cố gắng: tôi theo học một khoá kỹ năng nói trước đám đông.
+W.model: Je veux travailler chez vous parce que votre entreprise travaille avec la France, et j'adore la culture française. || Tôi muốn làm việc ở công ty vì công ty làm việc với Pháp, và tôi rất yêu văn hoá Pháp.
+W.model: J'ai deux questions : quelles sont les missions principales du poste ? Et est-ce qu'il y a des formations ? || Tôi có hai câu hỏi: nhiệm vụ chính của vị trí này là gì? Và công ty có các khoá đào tạo không?
+
+## 5 | Le CV
+G.title: Rédiger un CV simple
+G.rule: Un CV français présente clairement les informations personnelles, la formation, l'expérience professionnelle, les compétences (langues, informatique) et les centres d'intérêt. On utilise des phrases courtes ou des noms, souvent sans verbe conjugué. || Một CV kiểu Pháp trình bày rõ ràng thông tin cá nhân, học vấn, kinh nghiệm làm việc, kỹ năng (ngôn ngữ, tin học) và sở thích. Ta dùng câu ngắn hoặc danh từ, thường không có động từ chia.
+G.note: Các mục của CV: (1) État civil / Coordonnées: nom, adresse, téléphone, e-mail. (2) Formation: các bằng cấp, từ gần nhất đến xa nhất. (3) Expérience professionnelle: thời gian, vị trí, công ty, nhiệm vụ (dùng danh từ: gestion de…, accueil des clients…). (4) Compétences: Langues (vietnamien : langue maternelle, anglais : courant, français : niveau A2), Informatique. (5) Centres d'intérêt: voyages, cuisine, photographie… Kèm theo CV thường có "lettre de motivation" (thư xin việc).
+G.table: Rubrique | Exemple
+G.row: Formation | 2018 : Licence de gestion, Université de Huế
+G.row: Expérience | 2019-2023 : Assistante commerciale, société ABC
+G.row: Langues | Anglais : courant ; français : niveau A2
+G.row: Informatique | Word, Excel, PowerPoint
+G.row: Centres d'intérêt | Photographie, randonnée, cuisine
+G.ex: Formation : 2020, master de commerce international, Université de Lyon. || Học vấn: 2020, thạc sĩ thương mại quốc tế, Đại học Lyon.
+G.ex: Missions : accueil des clients, gestion des réservations, préparation des factures. || Nhiệm vụ: đón tiếp khách hàng, quản lý đặt chỗ, lập hoá đơn.
+G.ex: Langues : vietnamien (langue maternelle), anglais (courant), français (niveau A2). || Ngôn ngữ: tiếng Việt (tiếng mẹ đẻ), tiếng Anh (thành thạo), tiếng Pháp (trình độ A2).
+G.ex: Centres d'intérêt : voyages, cuisine asiatique, badminton. || Sở thích: du lịch, ẩm thực châu Á, cầu lông.
+G.q: Dans la rubrique « Formation », on met… | ses hobbies | *ses diplômes | ses anciens emplois | son adresse
+G.q: La langue qu'on parle depuis la naissance : | la langue courante | *la langue maternelle | la langue étrangère | la langue officielle
+G.q: Dans un CV, on écrit souvent… | de longues phrases | *des phrases courtes ou des noms | des poèmes | des questions
+G.q: La lettre qui accompagne le CV : | la lettre d'amour | *la lettre de motivation | la carte postale | la facture
+G.q: Les hobbies sont les centres d'___. = intérêt
+V: le CV | /lə se.ve/ | nom m. | sơ yếu lý lịch | J'envoie mon CV. || Tôi gửi CV.
+V: la formation | /la fɔʁ.ma.sjɔ̃/ | nom f. | học vấn, đào tạo | Quelle est votre formation ? || Học vấn của anh là gì?
+V: la compétence | /la kɔ̃.pe.tɑ̃s/ | nom f. | kỹ năng, năng lực | Ses compétences sont excellentes. || Năng lực của cô ấy rất xuất sắc.
+V: la langue maternelle | /la lɑ̃ɡ ma.tɛʁ.nɛl/ | nom f. | tiếng mẹ đẻ | Ma langue maternelle est le vietnamien. || Tiếng mẹ đẻ của tôi là tiếng Việt.
+V: les centres d'intérêt | /le sɑ̃tʁ dɛ̃.te.ʁɛ/ | nom m. pl. | sở thích | Quels sont vos centres d'intérêt ? || Sở thích của anh là gì?
+V: la lettre de motivation | /la lɛtʁ də mɔ.ti.va.sjɔ̃/ | nom f. | thư xin việc | J'ai écrit une lettre de motivation. || Tôi đã viết thư xin việc.
+V: la gestion | /la ʒɛs.tjɔ̃/ | nom f. | quản lý | Il s'occupe de la gestion de l'équipe. || Anh ấy phụ trách quản lý nhóm.
+V: l'accueil | /la.kœj/ | nom m. | sự đón tiếp | Je m'occupe de l'accueil des clients. || Tôi phụ trách đón tiếp khách hàng.
+V: la candidature | /la kɑ̃.di.da.tyʁ/ | nom f. | đơn ứng tuyển | J'ai envoyé ma candidature. || Tôi đã gửi đơn ứng tuyển.
+V: postuler | /pɔs.ty.le/ | verbe | ứng tuyển | Je postule pour ce poste. || Tôi ứng tuyển vị trí này.
+VQ: Envoyer son CV pour un poste, c'est… | démissionner | *postuler | embaucher | recruter
+VQ: Les diplômes et les études, c'est la… | compétence | *formation | candidature | gestion
+VQ: Savoir utiliser Excel est une… | formation | *compétence | candidature | motivation
+VQ: Le dossier envoyé pour un emploi (CV + lettre) : | la gestion | *la candidature | l'accueil | la formation
+VQ: Ma langue ___ est le vietnamien. (mẹ đẻ) = maternelle
+D: Formation : master de commerce international.
+D: Missions : accueil des clients, gestion des réservations.
+D: Langues : vietnamien, anglais, français.
+D: Centres d'intérêt : voyages, cuisine asiatique.
+L: Amie | Tu as fini ton CV pour l'offre d'emploi ? || Bạn làm xong CV cho tin tuyển dụng chưa?
+L: Duy | Presque. J'ai mis ma formation et mon expérience. || Gần xong. Mình đã ghi học vấn và kinh nghiệm.
+L: Amie | Et tes compétences ? Tu parles anglais couramment, il faut le mettre ! || Còn kỹ năng? Bạn nói tiếng Anh lưu loát, phải ghi vào chứ!
+L: Duy | Oui, et j'ai ajouté « français : niveau A2 ». Tu penses que c'est utile ? || Ừ, và mình đã thêm « tiếng Pháp: trình độ A2 ». Bạn nghĩ có hữu ích không?
+L: Amie | Bien sûr ! C'est une entreprise française. Et tes centres d'intérêt ? || Tất nhiên! Đó là công ty Pháp mà. Còn sở thích của bạn?
+L: Duy | Football et photographie. Maintenant, je dois écrire la lettre de motivation… c'est le plus difficile ! || Bóng đá và nhiếp ảnh. Giờ mình phải viết thư xin việc… đó là phần khó nhất!
+LQ: Qu'est-ce que Duy a déjà mis dans son CV ? | ses hobbies | *sa formation et son expérience | sa photo | ses défauts
+LQ: Pourquoi le français est utile ? | Duy va en France | *c'est une entreprise française | c'est obligatoire | son chef est français
+LQ: Qu'est-ce qui est le plus difficile pour Duy ? | le CV | *la lettre de motivation | l'entretien | les compétences
+RA: Formation, expérience, compétences, centres d'intérêt.
+RA: Vietnamien : langue maternelle. Anglais : courant.
+RA: J'ai envoyé ma candidature et ma lettre de motivation.
+SH: Tu as fini ton CV ?
+SH: J'ai ajouté « français : niveau A2 ».
+SH: Je dois écrire la lettre de motivation.
+R.title: Offre d'emploi
+R: Agence de voyages à Hô Chi Minh-Ville recherche un conseiller ou une conseillère clientèle francophone. || Công ty du lịch tại Thành phố Hồ Chí Minh tuyển nhân viên tư vấn khách hàng nói tiếng Pháp.
+R: Missions : accueil des clients français, organisation des circuits, réservation des hôtels. || Nhiệm vụ: đón tiếp khách Pháp, tổ chức các tour, đặt phòng khách sạn.
+R: Profil : licence en tourisme ou en langues, une première expérience dans le tourisme. || Yêu cầu: bằng cử nhân du lịch hoặc ngoại ngữ, có kinh nghiệm bước đầu trong ngành du lịch.
+R: Compétences : français niveau B1 minimum, anglais courant, bonne maîtrise d'Excel. || Kỹ năng: tiếng Pháp tối thiểu trình độ B1, tiếng Anh lưu loát, thành thạo Excel.
+R: Qualités : dynamique, souriant, organisé. || Phẩm chất: năng động, tươi cười, ngăn nắp.
+R: Envoyez votre CV et votre lettre de motivation avant le 30 juin. || Gửi CV và thư xin việc trước ngày 30 tháng Sáu.
+RQ: Quel poste propose l'agence ? | guide | *conseiller clientèle francophone | comptable | chauffeur
+RQ: Quel niveau de français faut-il ? | A2 | *B1 minimum | C1 | aucun
+RQ: Avant quelle date faut-il envoyer sa candidature ? | le 1er juin | *le 30 juin | le 30 juillet | le 15 juin
+W.prompt: Écris ton CV en français (vrai ou imaginaire) avec les rubriques : coordonnées, formation, expérience, langues, informatique, centres d'intérêt. Utilise des phrases courtes ou des noms. || Viết CV của bạn bằng tiếng Pháp (thật hoặc tưởng tượng) với các mục: thông tin liên lạc, học vấn, kinh nghiệm, ngôn ngữ, tin học, sở thích. Dùng câu ngắn hoặc danh từ.
+W.min: 50
+W.must: formation ; expérience ; langues
+W.check: Có đủ các mục chính
+W.check: Nhiệm vụ diễn đạt bằng danh từ (accueil, gestion…)
+W.check: Ngôn ngữ có ghi trình độ
+W.model: Trần Thị Mai, 26 ans, Hô Chi Minh-Ville. E-mail : mai.tran@exemple.com. || Trần Thị Mai, 26 tuổi, Thành phố Hồ Chí Minh. E-mail: mai.tran@exemple.com.
+W.model: Formation : 2020, licence de langue anglaise, Université de Sciences sociales et humaines. || Học vấn: 2020, cử nhân ngôn ngữ Anh, Trường Đại học Khoa học Xã hội và Nhân văn.
+W.model: Expérience : 2020-2024, réceptionniste à l'hôtel Lotus. Missions : accueil des clients, gestion des réservations. || Kinh nghiệm: 2020-2024, lễ tân tại khách sạn Lotus. Nhiệm vụ: đón tiếp khách hàng, quản lý đặt phòng.
+W.model: Langues : vietnamien (langue maternelle), anglais (courant), français (niveau A2). || Ngôn ngữ: tiếng Việt (tiếng mẹ đẻ), tiếng Anh (lưu loát), tiếng Pháp (trình độ A2).
+W.model: Informatique : Word, Excel, logiciels de réservation. || Tin học: Word, Excel, phần mềm đặt phòng.
+W.model: Centres d'intérêt : voyages, photographie, cuisine française. || Sở thích: du lịch, nhiếp ảnh, ẩm thực Pháp.

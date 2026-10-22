@@ -2118,3 +2118,63 @@ l'éducation | nom f. | giáo dục
 électrique | adjectif | điện
 l'éléphant | nom m. | con voi
 l'étude | nom f. | nghiên cứu; việc học
+@v obtenir | đạt được | obtiens,obtiens,obtient,obtenons,obtenez,obtiennent | obtenu | obten | obtiendr
+promu | adjectif | được thăng chức
+l'agence | nom f. | công ty (dịch vụ), đại lý
+l'art | nom m. | nghệ thuật
+l'artisan | nom m. | thợ thủ công
+asiatique | adjectif | châu Á
+le bac | nom m. | bằng tú tài
+le candidat | nom m. | ứng viên
+le circuit | nom m. | tour du lịch
+la clientèle | nom f. | khách hàng (tập thể)
+concret | adjectif | cụ thể
+la condition | nom f. | điều kiện
+@er critiquer | chỉ trích
+le créateur | nom m. | người sáng tạo
+culturel | adjectif | văn hoá
+le designer | nom m. | nhà thiết kế
+le doctorat | nom m. | bằng tiến sĩ
+désordonné | adjectif | bừa bộn
+le développeur | nom m. | lập trình viên
+l'effort | nom m. | sự cố gắng
+l'employeur | nom m. | chủ, người sử dụng lao động
+l'entourage | nom m. | những người xung quanh
+la façon | nom f. | cách
+formateur | adjectif | bổ ích, mang tính đào tạo
+francophone | adjectif | nói tiếng Pháp
+le hobby | nom m. | sở thích
+les horaires | nom m. pl. | giờ giấc
+imaginaire | adjectif | tưởng tượng
+l'intérêt | nom m. | sự quan tâm, lợi ích
+le marketing | nom m. | marketing
+maternel | adjectif | thuộc về mẹ (langue maternelle: tiếng mẹ đẻ)
+la maîtrise | nom f. | sự thành thạo
+le minimum | nom m. | tối thiểu
+motivé | adjectif | có động lực
+l'organisation | nom f. | sự tổ chức
+passionné | adjectif | đam mê
+perfectionniste | adjectif | cầu toàn
+personnel | adjectif | cá nhân
+positivement | adverbe | một cách tích cực
+le poème | nom m. | bài thơ
+professionnel | adjectif | chuyên nghiệp
+la préparation | nom f. | sự chuẩn bị
+la pâtisserie | nom f. | tiệm bánh ngọt
+la pâtissière | nom f. | thợ làm bánh ngọt
+la recherche | nom f. | sự tìm kiếm; nghiên cứu
+@er rechercher | tìm kiếm
+@er recruter | tuyển dụng
+rigoureux | adjectif | cẩn thận, nghiêm ngặt
+la rubrique | nom f. | mục
+la société | nom f. | công ty; xã hội
+le sondage | nom m. | cuộc thăm dò
+la start-up | nom f. | công ty khởi nghiệp
+la timidité | nom f. | sự nhút nhát
+touristique | adjectif | du lịch
+le tribunal | nom m. | toà án
+le tuyau | nom m. | ống
+volontairement | adverbe | tự nguyện, cố ý
+@er vouvoyer | xưng "vous"
+vouvoie | verbe | xưng "vous" (vouvoyer)
+l'étape | nom f. | giai đoạn
