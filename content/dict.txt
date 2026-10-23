@@ -2278,3 +2278,63 @@ le trésor | nom m. | kho báu
 l'utilité | nom f. | sự hữu ích
 @ir vieillir | già đi
 l'électroménager | nom m. | đồ điện gia dụng
+administratif | adjectif | hành chính
+ailleurs | adverbe | ở nơi khác (d'ailleurs: vả lại)
+l'amende | nom f. | tiền phạt
+l'artifice | nom m. | (feu d'artifice) pháo hoa
+l'assistant | nom m. | trợ lý
+le bal | nom m. | buổi khiêu vũ
+la bise | nom f. | cái hôn má (faire la bise)
+la bouillabaisse | nom f. | súp cá Marseille
+le brunch | nom m. | bữa sáng muộn
+la bûche | nom f. | khúc gỗ; bánh khúc cây
+le canard | nom m. | con vịt
+le cassoulet | nom m. | món hầm đậu trắng Toulouse
+la choucroute | nom f. | dưa cải muối Alsace
+le chêne | nom m. | cây sồi
+@er citer | trích dẫn, kể tên
+démocratique | adjectif | dân chủ
+effrayant | adjectif | đáng sợ
+l'emballage | nom m. | bao bì
+européen | adjectif | thuộc châu Âu
+@er exploser | nổ
+le foie | nom m. | gan (foie gras: gan ngỗng béo)
+la galette | nom f. | bánh galette
+gastronomique | adjectif | thuộc ẩm thực
+grillé | adjectif | nướng
+l'huître | nom f. | con hàu
+identique | adjectif | giống hệt
+@er imposer | áp đặt, bắt buộc
+le jazz | nom m. | nhạc jazz
+le justificatif | nom m. | giấy tờ chứng minh
+le domicile | nom m. | nơi cư trú
+la dinde | nom f. | gà tây
+le lardon | nom m. | thịt ba chỉ thái hạt lựu
+la loi | nom f. | luật
+lorrain | adjectif | thuộc vùng Lorraine
+lunaire | adjectif | thuộc mặt trăng (calendrier lunaire: âm lịch)
+légal | adjectif | hợp pháp
+le macaron | nom m. | bánh macaron
+la majorité | nom f. | đa số
+niçois | adjectif | thuộc Nice
+l'olive | nom f. | quả ô liu
+originaire | adjectif | có nguồn gốc
+le palmier | nom m. | cây cọ
+le patrimoine | nom m. | di sản
+potable | adjectif | uống được
+poétique | adjectif | giàu chất thơ
+la procédure | nom f. | thủ tục
+@v produire | sản xuất | produis,produis,produit,produisons,produisez,produisent | produit | produis | produir
+la préférence | nom f. | sở thích, sự ưu tiên
+la quiche | nom f. | bánh quiche
+québécois | adjectif | thuộc Québec
+le rap | nom m. | nhạc rap
+le refrain | nom m. | điệp khúc
+le réveillon | nom m. | bữa tiệc đêm Giáng sinh/giao thừa
+savoyard | adjectif | thuộc vùng Savoie
+@er serrer | siết (serrer la main: bắt tay)
+la star | nom f. | ngôi sao
+@er stationner | đỗ xe
+varié | adjectif | đa dạng
+@v valoir | có giá trị (il vaut mieux: tốt hơn là) | vaux,vaux,vaut,valons,valez,valent | valu | val | vaudr
+l'obligation | nom f. | nghĩa vụ, sự bắt buộc

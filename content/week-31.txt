@@ -1,0 +1,383 @@
+@week 31
+@title Culture et société
+@level A2
+
+## 1 | Les fêtes françaises
+G.title: Le pronom « on » pour parler des traditions
+G.rule: Pour parler des traditions, on utilise souvent le pronom on (= les gens en général) avec le présent : En France, on mange de la galette le 6 janvier. Le verbe se conjugue comme avec il ou elle. || Để nói về truyền thống, ta thường dùng đại từ on (= mọi người nói chung) với thì hiện tại: Ở Pháp, người ta ăn bánh galette vào ngày 6 tháng Một. Động từ chia giống như với il hoặc elle.
+G.note: "On" rất thông dụng trong tiếng Pháp nói: (1) = người ta nói chung: On parle français au Québec. (2) = chúng tôi (văn nói, thay cho nous): On va au cinéma ? Động từ luôn chia ngôi thứ ba số ít: on mange, on fait, on va. Ngày lễ: le jour de l'An (1/1), la Chandeleur (2/2, ăn crêpe), Pâques (Phục sinh), la fête du Travail (1/5, tặng hoa linh lan), la fête nationale (14/7), la Toussaint (1/11), Noël (25/12). Câu chúc: Bonne année ! Joyeux Noël ! Joyeuses Pâques ! Bonne fête !
+G.table: Date | Fête | Tradition
+G.row: 1er janvier | le jour de l'An | On dit « Bonne année ! »
+G.row: 2 février | la Chandeleur | On mange des crêpes.
+G.row: 1er mai | la fête du Travail | On offre du muguet.
+G.row: 14 juillet | la fête nationale | On regarde les feux d'artifice.
+G.row: 25 décembre | Noël | On décore un sapin.
+G.ex: En France, on fête la fête nationale le 14 juillet. || Ở Pháp, người ta mừng quốc khánh vào ngày 14 tháng Bảy.
+G.ex: À la Chandeleur, on mange des crêpes en famille. || Vào lễ Chandeleur, người ta ăn bánh crêpe cùng gia đình.
+G.ex: Le 1er mai, on offre du muguet pour porter bonheur. || Ngày 1 tháng Năm, người ta tặng hoa linh lan để mang lại may mắn.
+G.ex: Le soir du 14 juillet, il y a des feux d'artifice dans toutes les villes. || Tối 14 tháng Bảy, có pháo hoa ở mọi thành phố.
+G.q: En France, on ___ des crêpes à la Chandeleur. | mangeons | *mange | mangent | manger
+G.q: La fête nationale française est le… | 1er mai | *14 juillet | 25 décembre | 1er novembre
+G.q: Le 1er mai, on offre… | des roses | *du muguet | des chocolats | des crêpes
+G.q: « On va au cinéma ? » veut dire… | Les gens vont au cinéma ? | *Nous allons au cinéma ? | Il va au cinéma ? | Vous allez au cinéma ?
+G.q: Le 25 décembre, on dit : « Joyeux ___ ! » = Noël
+V: la fête | /la fɛt/ | nom f. | ngày lễ | C'est une fête importante. || Đó là một ngày lễ quan trọng.
+V: la tradition | /la tʁa.di.sjɔ̃/ | nom f. | truyền thống | C'est une vieille tradition. || Đó là một truyền thống lâu đời.
+V: fêter | /fe.te/ | verbe | ăn mừng | On fête Noël en famille. || Người ta mừng Giáng sinh cùng gia đình.
+V: le muguet | /lə my.ɡɛ/ | nom m. | hoa linh lan | Le muguet porte bonheur. || Hoa linh lan mang lại may mắn.
+V: les feux d'artifice | /le fø daʁ.ti.fis/ | nom m. pl. | pháo hoa | Les feux d'artifice sont magnifiques. || Pháo hoa thật lộng lẫy.
+V: le sapin | /lə sa.pɛ̃/ | nom m. | cây thông | On décore le sapin. || Người ta trang trí cây thông.
+V: décorer | /de.kɔ.ʁe/ | verbe | trang trí | Les enfants décorent la maison. || Bọn trẻ trang trí nhà.
+V: le bonheur | /lə bɔ.nœʁ/ | nom m. | hạnh phúc, may mắn | Je vous souhaite beaucoup de bonheur. || Chúc bạn nhiều hạnh phúc.
+V: national | /na.sjɔ.nal/ | adjectif | quốc gia | La fête nationale. || Ngày quốc khánh.
+V: le défilé | /lə de.fi.le/ | nom m. | cuộc diễu hành | Il y a un défilé sur les Champs-Élysées. || Có một cuộc diễu hành trên đại lộ Champs-Élysées.
+VQ: L'arbre qu'on décore à Noël : | le muguet | *le sapin | le palmier | le chêne
+VQ: Des lumières de couleur qui explosent dans le ciel : | un défilé | *des feux d'artifice | des bougies | des lanternes
+VQ: « Porter bonheur » veut dire… | être triste | *apporter de la chance | coûter cher | être lourd
+VQ: Une marche organisée dans la rue avec de la musique : | une fête | *un défilé | un sapin | une tradition
+VQ: Le 1er janvier, on dit : « Bonne ___ ! » = année
+D: En France, on fête la fête nationale le 14 juillet.
+D: À la Chandeleur, on mange des crêpes.
+D: Le 1er mai, on offre du muguet.
+D: Le soir, il y a des feux d'artifice.
+L: Julie | Au Viêt Nam, quelle est la fête la plus importante ? || Ở Việt Nam, ngày lễ quan trọng nhất là gì?
+L: Hưng | C'est le Têt, le Nouvel An lunaire. On rentre dans sa famille, on nettoie la maison et on prépare des plats traditionnels. || Đó là Tết, Tết Nguyên đán. Người ta về nhà, dọn dẹp nhà cửa và chuẩn bị các món truyền thống.
+L: Julie | C'est un peu comme Noël chez nous ! || Hơi giống Giáng sinh ở chỗ bọn mình!
+L: Hưng | Oui. Et en France, qu'est-ce que vous faites le 14 juillet ? || Ừ. Còn ở Pháp, các bạn làm gì vào ngày 14 tháng Bảy?
+L: Julie | Le matin, on regarde le défilé à la télé, et le soir, on va voir les feux d'artifice. Il y a aussi des bals populaires ! || Buổi sáng, bọn mình xem diễu hành trên TV, và buổi tối, đi xem pháo hoa. Còn có cả những buổi khiêu vũ đường phố nữa!
+L: Hưng | Cette année, je vais fêter le 14 juillet à Paris. J'ai hâte ! || Năm nay, mình sẽ đón 14 tháng Bảy ở Paris. Mình nóng lòng quá!
+LQ: Quelle est la fête la plus importante au Viêt Nam ? | Noël | *le Têt | le 14 juillet | Pâques
+LQ: Que font les Français le soir du 14 juillet ? | ils mangent des crêpes | *ils vont voir les feux d'artifice | ils décorent un sapin | ils dorment
+LQ: Où Hưng va-t-il fêter le 14 juillet ? | à Lyon | *à Paris | au Viêt Nam | à Nice
+RA: Bonne année ! Joyeux Noël ! Joyeuses Pâques !
+RA: En France, on mange des crêpes à la Chandeleur.
+RA: Le 14 juillet, on regarde les feux d'artifice.
+SH: Quelle est la fête la plus importante ?
+SH: On rentre dans sa famille et on prépare des plats traditionnels.
+SH: Le soir, on va voir les feux d'artifice.
+R.title: Noël en France
+R: Noël est une des fêtes préférées des Français. || Giáng sinh là một trong những ngày lễ người Pháp yêu thích nhất.
+R: Début décembre, on décore la maison et on installe un sapin dans le salon. || Đầu tháng Mười Hai, người ta trang trí nhà và dựng một cây thông trong phòng khách.
+R: Dans beaucoup de villes, il y a des marchés de Noël, comme le célèbre marché de Strasbourg. || Ở nhiều thành phố có chợ Giáng sinh, như chợ nổi tiếng ở Strasbourg.
+R: Le soir du 24 décembre, on fait un grand repas en famille, le réveillon. || Tối 24 tháng Mười Hai, người ta ăn một bữa lớn cùng gia đình, gọi là réveillon.
+R: Au menu, il y a souvent du foie gras, des huîtres, de la dinde et, comme dessert, une bûche de Noël. || Thực đơn thường có gan ngỗng, hàu, gà tây, và món tráng miệng là bánh khúc cây Giáng sinh.
+R: Le matin du 25, les enfants ouvrent les cadeaux que le père Noël a mis sous le sapin. || Sáng 25, trẻ em mở quà mà ông già Noel đã đặt dưới gốc cây thông.
+RQ: Où se trouve un célèbre marché de Noël ? | à Paris | *à Strasbourg | à Marseille | à Lyon
+RQ: Comment s'appelle le repas du 24 décembre ? | le goûter | *le réveillon | le brunch | le défilé
+RQ: Quel est le dessert de Noël ? | une crêpe | *une bûche de Noël | une galette | un macaron
+W.prompt: Présente une fête importante de ton pays à un ami français : la date, ce qu'on fait, ce qu'on mange, ce qu'on dit. Utilise le pronom « on ». || Giới thiệu một ngày lễ quan trọng của đất nước bạn cho một người bạn Pháp: ngày nào, người ta làm gì, ăn gì, nói gì. Dùng đại từ « on ».
+W.min: 60
+W.must: on ; fête ; tradition
+W.check: on + động từ chia ngôi thứ ba số ít
+W.check: Có ngày, hoạt động, món ăn, lời chúc
+W.check: Có so sánh với một ngày lễ của Pháp
+W.model: Au Viêt Nam, la fête la plus importante est le Têt, le Nouvel An lunaire. || Ở Việt Nam, ngày lễ quan trọng nhất là Tết, Tết Nguyên đán.
+W.model: Il a lieu en janvier ou en février, selon le calendrier lunaire. || Tết diễn ra vào tháng Một hoặc tháng Hai, theo âm lịch.
+W.model: Avant le Têt, on nettoie la maison et on achète des fleurs de pêcher ou d'abricotier. || Trước Tết, người ta dọn dẹp nhà cửa và mua hoa đào hoặc hoa mai.
+W.model: On prépare le bánh chưng, un gâteau de riz carré avec de la viande et des haricots. || Người ta gói bánh chưng, một loại bánh gạo vuông có thịt và đậu xanh.
+W.model: On offre des enveloppes rouges aux enfants et on dit « Chúc mừng năm mới ! », c'est-à-dire « Bonne année ! ». || Người ta lì xì cho trẻ em và chúc « Chúc mừng năm mới! », tức là « Bonne année! ».
+W.model: C'est un peu comme Noël en France : c'est le moment où toute la famille se retrouve. || Tết hơi giống Giáng sinh ở Pháp: đó là lúc cả gia đình sum họp.
+
+## 2 | La francophonie
+G.title: Les prépositions devant les pays
+G.rule: Pour dire où on habite ou où on va, on utilise en devant les pays féminins (en France), au devant les pays masculins (au Canada), aux devant les pays pluriels (aux États-Unis) et à devant les villes (à Montréal). || Để nói nơi mình sống hoặc nơi mình đến, ta dùng en trước tên nước giống cái (en France), au trước tên nước giống đực (au Canada), aux trước tên nước số nhiều (aux États-Unis) và à trước tên thành phố (à Montréal).
+G.note: Phần lớn tên nước kết thúc bằng -e là giống cái: la France, la Belgique, la Suisse → en France, en Belgique, en Suisse. Ngoại lệ: le Mexique, le Cambodge → au Mexique, au Cambodge. Tên nước giống đực: le Canada, le Viêt Nam, le Sénégal, le Maroc → au. Tên nước bắt đầu bằng nguyên âm luôn dùng "en": en Iran, en Haïti. Số nhiều: les États-Unis → aux États-Unis. Francophonie = cộng đồng các nước nói tiếng Pháp: khoảng 320 triệu người trên năm châu lục.
+G.table: Pays | Genre | Préposition
+G.row: la France, la Belgique, la Suisse | féminin | en
+G.row: le Canada, le Sénégal, le Viêt Nam | masculin | au
+G.row: les États-Unis | pluriel | aux
+G.row: Montréal, Dakar, Genève | ville | à
+G.row: l'Iran, Haïti | voyelle | en
+G.ex: On parle français en France, en Belgique, en Suisse et au Canada. || Người ta nói tiếng Pháp ở Pháp, Bỉ, Thuỵ Sĩ và Canada.
+G.ex: Au Sénégal, le français est la langue officielle. || Ở Senegal, tiếng Pháp là ngôn ngữ chính thức.
+G.ex: Mon cousin habite à Montréal, au Québec. || Anh họ tôi sống ở Montréal, thuộc Québec.
+G.ex: Il y a environ trois cent vingt millions de francophones dans le monde. || Có khoảng ba trăm hai mươi triệu người nói tiếng Pháp trên thế giới.
+G.q: J'habite ___ Belgique. | au | *en | à | aux
+G.q: Il travaille ___ Canada. | en | *au | à | aux
+G.q: Nous allons ___ États-Unis. | en | au | *aux | à
+G.q: Elle est née ___ Genève. | en | au | *à | aux
+G.q: On parle français ___ Sénégal. = au
+V: la francophonie | /la fʁɑ̃.kɔ.fɔ.ni/ | nom f. | cộng đồng Pháp ngữ | La francophonie est très diverse. || Cộng đồng Pháp ngữ rất đa dạng.
+V: francophone | /fʁɑ̃.kɔ.fɔn/ | adjectif | nói tiếng Pháp | Le Québec est francophone. || Québec nói tiếng Pháp.
+V: la langue officielle | /la lɑ̃ɡ ɔ.fi.sjɛl/ | nom f. | ngôn ngữ chính thức | Le français est une langue officielle. || Tiếng Pháp là một ngôn ngữ chính thức.
+V: le continent | /lə kɔ̃.ti.nɑ̃/ | nom m. | châu lục | Il y a cinq continents. || Có năm châu lục.
+V: l'Afrique | /la.fʁik/ | nom f. | châu Phi | On parle français en Afrique. || Người ta nói tiếng Pháp ở châu Phi.
+V: le Québec | /lə ke.bɛk/ | nom m. | Québec | Au Québec, on dit « bonjour » même le soir. || Ở Québec, người ta nói « bonjour » kể cả buổi tối.
+V: la Belgique | /la bɛl.ʒik/ | nom f. | nước Bỉ | La Belgique a trois langues officielles. || Bỉ có ba ngôn ngữ chính thức.
+V: la Suisse | /la sɥis/ | nom f. | Thuỵ Sĩ | En Suisse, on parle aussi allemand. || Ở Thuỵ Sĩ, người ta cũng nói tiếng Đức.
+V: l'accent | /lak.sɑ̃/ | nom m. | giọng | Il a un accent québécois. || Anh ấy có giọng Québec.
+V: divers | /di.vɛʁ/ | adjectif | đa dạng | Les cultures francophones sont diverses. || Các nền văn hoá Pháp ngữ rất đa dạng.
+VQ: Une personne qui parle français est… | française seulement | *francophone | belge | officielle
+VQ: L'Afrique, l'Europe, l'Asie sont des… | pays | *continents | villes | langues
+VQ: La façon de prononcer typique d'une région : | la langue | *l'accent | la grammaire | le mot
+VQ: Le contraire de « identique » : | officiel | *divers | francophone | national
+VQ: On parle français ___ Québec. = au
+D: On parle français en France, en Belgique et au Canada.
+D: Au Sénégal, le français est la langue officielle.
+D: Mon cousin habite à Montréal, au Québec.
+D: Il y a environ trois cent vingt millions de francophones.
+L: Professeure | Qui peut citer des pays francophones ? || Ai có thể kể tên các nước nói tiếng Pháp?
+L: Étudiant 1 | La France, la Belgique, la Suisse… et le Canada ! || Pháp, Bỉ, Thuỵ Sĩ… và Canada!
+L: Étudiante 2 | Il y a aussi beaucoup de pays en Afrique : au Sénégal, au Maroc, en Côte d'Ivoire… || Còn rất nhiều nước ở châu Phi: Senegal, Maroc, Bờ Biển Ngà…
+L: Professeure | Très bien. Et en Asie ? || Rất tốt. Còn ở châu Á?
+L: Étudiant 1 | Au Viêt Nam, au Cambodge et au Laos, certaines personnes âgées parlent encore français. || Ở Việt Nam, Campuchia và Lào, một số người lớn tuổi vẫn còn nói tiếng Pháp.
+L: Professeure | Exactement. Le Viêt Nam est d'ailleurs membre de l'Organisation internationale de la Francophonie. || Chính xác. Việt Nam còn là thành viên của Tổ chức Quốc tế Pháp ngữ.
+LQ: Quel pays d'Afrique est cité ? | l'Égypte | *le Sénégal | le Kenya | le Nigeria
+LQ: En Asie, qui parle encore français ? | les enfants | *certaines personnes âgées | tout le monde | personne
+LQ: Le Viêt Nam est membre de… | l'Union européenne | *l'Organisation internationale de la Francophonie | l'ONU seulement | rien
+RA: en France, en Belgique, en Suisse.
+RA: au Canada, au Sénégal, au Viêt Nam.
+RA: aux États-Unis, à Montréal, à Genève.
+SH: Qui peut citer des pays francophones ?
+SH: Il y a aussi beaucoup de pays en Afrique.
+SH: Certaines personnes âgées parlent encore français.
+R.title: Le français dans le monde
+R: Le français est parlé sur les cinq continents. || Tiếng Pháp được nói trên cả năm châu lục.
+R: C'est la langue officielle d'environ trente pays, et la cinquième langue la plus parlée dans le monde. || Đó là ngôn ngữ chính thức của khoảng ba mươi quốc gia, và là ngôn ngữ được nói nhiều thứ năm trên thế giới.
+R: Aujourd'hui, la majorité des francophones habitent en Afrique, par exemple en République démocratique du Congo ou en Côte d'Ivoire. || Ngày nay, phần lớn người nói tiếng Pháp sống ở châu Phi, ví dụ ở Cộng hoà Dân chủ Congo hoặc Bờ Biển Ngà.
+R: Au Québec, on défend beaucoup la langue française : on dit « courriel » au lieu de « e-mail ». || Ở Québec, người ta rất bảo vệ tiếng Pháp: họ nói « courriel » thay vì « e-mail ».
+R: Chaque pays a son accent et ses mots : en Belgique, on dit « septante » pour soixante-dix. || Mỗi nước có giọng và từ ngữ riêng: ở Bỉ, người ta nói « septante » thay cho soixante-dix.
+R: Le 20 mars, c'est la Journée internationale de la Francophonie. || Ngày 20 tháng Ba là Ngày Quốc tế Pháp ngữ.
+RQ: Sur combien de continents parle-t-on français ? | trois | *cinq | deux | sept
+RQ: Où habite la majorité des francophones ? | en France | *en Afrique | au Canada | en Europe
+RQ: Comment dit-on « soixante-dix » en Belgique ? | soixante-dix | *septante | huitante | octante
+W.prompt: Choisis un pays francophone (autre que la France) et présente-le : où il se trouve, quelles langues on y parle, une ville importante, une spécialité. Utilise les bonnes prépositions. || Chọn một quốc gia nói tiếng Pháp (khác Pháp) và giới thiệu: nằm ở đâu, nói những ngôn ngữ gì, một thành phố quan trọng, một đặc sản. Dùng đúng giới từ.
+W.min: 55
+W.must: on parle ; en ; au
+W.check: en / au / aux / à dùng đúng
+W.check: Có vị trí, ngôn ngữ, thành phố, đặc sản
+W.check: Dùng on cho thông tin chung
+W.model: Je vais présenter le Québec, une province francophone qui se trouve au Canada. || Tôi sẽ giới thiệu Québec, một tỉnh nói tiếng Pháp nằm ở Canada.
+W.model: Au Québec, on parle français, mais beaucoup de personnes parlent aussi anglais. || Ở Québec, người ta nói tiếng Pháp, nhưng nhiều người cũng nói tiếng Anh.
+W.model: La plus grande ville est Montréal, et la capitale est la ville de Québec. || Thành phố lớn nhất là Montréal, còn thủ phủ là thành phố Québec.
+W.model: En hiver, il fait très froid : parfois moins trente degrés ! || Vào mùa đông, trời rất lạnh: đôi khi âm ba mươi độ!
+W.model: La spécialité la plus célèbre est la poutine : des frites avec du fromage et une sauce brune. || Đặc sản nổi tiếng nhất là poutine: khoai tây chiên với phô mai và nước sốt nâu.
+W.model: J'aimerais aller à Montréal pour faire mes études, parce que les universités sont excellentes. || Tôi muốn đến Montréal để học, vì các trường đại học ở đó rất xuất sắc.
+
+## 3 | La cuisine régionale
+G.title: Les spécialités et l'origine
+G.rule: Pour parler d'une spécialité, on indique son origine avec de (une spécialité de Bretagne), on décrit les ingrédients avec à base de ou avec, et la manière de le manger. || Để nói về một đặc sản, ta chỉ nguồn gốc bằng de (une spécialité de Bretagne — đặc sản Bretagne), miêu tả nguyên liệu bằng à base de (làm từ) hoặc avec (với), và cách ăn.
+G.note: Cấu trúc hữu ích: C'est une spécialité de… / C'est un plat originaire de… (món có nguồn gốc từ…), C'est fait à base de… (làm từ), On le mange avec… / On le sert chaud / froid. "à la" + phong cách: à la provençale (kiểu Provence), à la vietnamienne. Mạo từ bộ phận khi nói nguyên liệu: du fromage, de la crème, des pommes de terre. Một số đặc sản: la crêpe (Bretagne), la bouillabaisse (Marseille), la choucroute (Alsace), la quiche lorraine (Lorraine), le cassoulet (Toulouse), la fondue (Savoie).
+G.table: Région | Spécialité | À base de…
+G.row: la Bretagne | la crêpe | farine, œufs, lait
+G.row: Marseille | la bouillabaisse | poissons
+G.row: l'Alsace | la choucroute | chou, saucisses
+G.row: la Lorraine | la quiche lorraine | œufs, crème, lardons
+G.row: la Savoie | la fondue | fromage fondu
+G.ex: La bouillabaisse est une spécialité de Marseille, à base de poissons. || Bouillabaisse là đặc sản của Marseille, làm từ cá.
+G.ex: En Alsace, on mange de la choucroute avec des saucisses. || Ở Alsace, người ta ăn dưa cải muối với xúc xích.
+G.ex: La fondue savoyarde est faite à base de fromage fondu. || Món fondue Savoie được làm từ phô mai tan chảy.
+G.ex: On sert la quiche lorraine chaude, avec une salade verte. || Người ta dọn bánh quiche lorraine nóng, ăn kèm salad xanh.
+G.q: La crêpe est une spécialité ___ Bretagne. | en | *de | à | au
+G.q: La bouillabaisse est à base de… | fromage | *poissons | chou | œufs
+G.q: La choucroute vient… | de Bretagne | *d'Alsace | de Marseille | de Savoie
+G.q: La fondue est faite avec… | du poisson | *du fromage fondu | de la crème | des crêpes
+G.q: C'est fait à ___ de lait et d'œufs. = base
+V: la spécialité | /la spe.sja.li.te/ | nom f. | đặc sản | C'est une spécialité régionale. || Đó là một đặc sản vùng.
+V: régional | /ʁe.ʒjɔ.nal/ | adjectif | thuộc vùng | La cuisine régionale est variée. || Ẩm thực vùng miền rất đa dạng.
+V: à base de | /a baz də/ | expression | làm từ | C'est à base de riz. || Món này làm từ gạo.
+V: l'ingrédient | /lɛ̃.ɡʁe.djɑ̃/ | nom m. | nguyên liệu | Quels sont les ingrédients ? || Nguyên liệu là gì?
+V: la farine | /la fa.ʁin/ | nom f. | bột mì | Il faut de la farine. || Cần bột mì.
+V: le chou | /lə ʃu/ | nom m. | bắp cải | La choucroute est faite avec du chou. || Dưa cải muối làm từ bắp cải.
+V: la saucisse | /la so.sis/ | nom f. | xúc xích | Des saucisses grillées. || Xúc xích nướng.
+V: fondu | /fɔ̃.dy/ | adjectif | tan chảy | Du fromage fondu. || Phô mai tan chảy.
+V: originaire de | /ɔ.ʁi.ʒi.nɛʁ də/ | expression | có nguồn gốc từ | Ce plat est originaire du Sud. || Món này có nguồn gốc từ miền Nam.
+V: servir | /sɛʁ.viʁ/ | verbe | dọn (món ăn) | On le sert froid. || Người ta dọn món này nguội.
+VQ: Ce qu'on utilise pour préparer un plat : | les spécialités | *les ingrédients | les régions | les recettes seulement
+VQ: Pour faire du pain ou des crêpes, il faut de la… | crème | *farine | saucisse | choucroute
+VQ: Un légume rond et vert qu'on utilise pour la choucroute : | la carotte | *le chou | la tomate | la salade
+VQ: « Originaire de » indique… | le prix | *l'origine | la couleur | le goût
+VQ: Un plat typique d'une ville ou d'une région, c'est une ___. = spécialité
+D: La bouillabaisse est une spécialité de Marseille.
+D: En Alsace, on mange de la choucroute.
+D: La fondue est faite à base de fromage fondu.
+D: On sert la quiche lorraine chaude.
+L: Serveuse | Vous avez choisi ? || Anh chị đã chọn món chưa?
+L: Touriste | Pas encore. Qu'est-ce que c'est, le cassoulet ? || Chưa. Món cassoulet là gì vậy?
+L: Serveuse | C'est une spécialité de Toulouse, à base de haricots blancs, de saucisses et de canard. || Đó là đặc sản của Toulouse, làm từ đậu trắng, xúc xích và vịt.
+L: Touriste | Ça a l'air un peu lourd… || Nghe có vẻ hơi nặng bụng…
+L: Serveuse | C'est vrai, c'est un plat d'hiver. Si vous préférez quelque chose de léger, je vous conseille la salade niçoise. || Đúng vậy, đó là món mùa đông. Nếu anh thích món gì nhẹ hơn, tôi khuyên anh dùng salad Nice.
+L: Touriste | Parfait, je prends la salade niçoise. Et pour mon mari, le cassoulet ! || Tuyệt, tôi lấy salad Nice. Còn chồng tôi thì món cassoulet!
+LQ: Le cassoulet est une spécialité de… | Nice | *Toulouse | Lyon | Paris
+LQ: Quels sont les ingrédients du cassoulet ? | du poisson et du riz | *des haricots, des saucisses et du canard | du fromage et des œufs | du chou et du porc
+LQ: Que prend la touriste ? | le cassoulet | *la salade niçoise | une crêpe | une soupe
+RA: C'est une spécialité de Toulouse.
+RA: C'est à base de haricots blancs et de canard.
+RA: On la sert chaude, avec une salade verte.
+SH: Qu'est-ce que c'est, le cassoulet ?
+SH: C'est une spécialité de Toulouse.
+SH: Je vous conseille la salade niçoise.
+R.title: La France à table
+R: La France est célèbre pour sa gastronomie, et chaque région a ses spécialités. || Nước Pháp nổi tiếng với nền ẩm thực, và mỗi vùng có đặc sản riêng.
+R: Dans le Nord, où il fait froid, on cuisine beaucoup avec du beurre et de la crème. || Ở miền Bắc, nơi trời lạnh, người ta nấu ăn nhiều với bơ và kem.
+R: Dans le Sud, au contraire, on utilise de l'huile d'olive, des tomates et des herbes de Provence. || Ngược lại, ở miền Nam, người ta dùng dầu ô liu, cà chua và thảo mộc Provence.
+R: Il existe plus de mille fromages différents : on dit qu'on peut manger un fromage différent chaque jour de l'année ! || Có hơn một nghìn loại phô mai khác nhau: người ta nói có thể ăn một loại phô mai khác nhau mỗi ngày trong năm!
+R: En 2010, le repas gastronomique des Français est entré au patrimoine mondial de l'UNESCO. || Năm 2010, bữa ăn ẩm thực của người Pháp đã được UNESCO công nhận là di sản thế giới.
+R: Pour les Français, un bon repas, c'est d'abord un moment de partage. || Với người Pháp, một bữa ăn ngon trước hết là khoảnh khắc sẻ chia.
+RQ: Dans le Nord, on cuisine avec… | de l'huile d'olive | *du beurre et de la crème | des tomates | du poisson
+RQ: Combien de fromages existe-t-il en France ? | cent | *plus de mille | cinquante | dix mille
+RQ: Qu'est-ce qui est entré au patrimoine de l'UNESCO en 2010 ? | la baguette | *le repas gastronomique des Français | le fromage | la tour Eiffel
+W.prompt: Présente une spécialité régionale de ton pays : son origine, ses ingrédients, comment on la mange et quand. Compare-la avec un plat français. || Giới thiệu một đặc sản vùng miền của đất nước bạn: nguồn gốc, nguyên liệu, cách ăn và thời điểm ăn. So sánh với một món Pháp.
+W.min: 55
+W.must: spécialité ; à base de ; on
+W.check: Mạo từ bộ phận cho nguyên liệu (du, de la, des)
+W.check: Có nguồn gốc, nguyên liệu, cách ăn
+W.check: Có một câu so sánh
+W.model: Le bún chả est une spécialité de Hanoï. || Bún chả là đặc sản của Hà Nội.
+W.model: C'est un plat à base de vermicelles de riz, de porc grillé et d'herbes fraîches. || Đó là món làm từ bún, thịt lợn nướng và rau thơm.
+W.model: On mange le porc dans une sauce un peu sucrée, avec de l'ail et du piment. || Người ta ăn thịt trong nước chấm hơi ngọt, có tỏi và ớt.
+W.model: Traditionnellement, on le mange à midi, dans de petits restaurants de rue. || Theo truyền thống, người ta ăn vào buổi trưa, ở những quán nhỏ ven đường.
+W.model: Le président Obama en a mangé à Hanoï en 2016 ! || Tổng thống Obama đã ăn món này ở Hà Nội năm 2016!
+W.model: C'est un peu comme le barbecue en France, mais plus parfumé et plus léger. || Món này hơi giống đồ nướng ở Pháp, nhưng thơm hơn và nhẹ hơn.
+
+## 4 | Le cinéma et la musique
+G.title: Parler de ses goûts culturels
+G.rule: Pour parler de ses goûts culturels, on utilise des verbes de préférence (adorer, aimer, préférer, ne pas supporter) suivis d'un nom ou d'un infinitif, et on justifie avec des adjectifs (émouvant, drôle, ennuyeux). || Để nói về sở thích văn hoá, ta dùng các động từ chỉ sở thích (adorer — rất thích, aimer — thích, préférer — thích hơn, ne pas supporter — không chịu được) theo sau là danh từ hoặc nguyên mẫu, và giải thích bằng tính từ (émouvant — cảm động, drôle — hài hước, ennuyeux — nhàm chán).
+G.note: Sau động từ chỉ sở thích, dùng mạo từ xác định: J'aime le cinéma, j'adore la musique classique, je déteste les films d'horreur (không dùng "du"!). Thể loại phim: une comédie, un drame, un film d'action, un film d'horreur, un dessin animé, un documentaire. Âm nhạc: le rap, le rock, le jazz, la chanson française, la pop. Cụm hữu ích: Ça me fait rire / pleurer. C'est mon film préféré. Mon chanteur préféré, c'est… Ça parle de… (Phim nói về…).
+G.table: Verbe | Exemple
+G.row: adorer | J'adore les comédies françaises.
+G.row: aimer bien | J'aime bien le jazz.
+G.row: préférer | Je préfère les films d'action.
+G.row: ne pas aimer | Je n'aime pas le rap.
+G.row: ne pas supporter | Je ne supporte pas les films d'horreur.
+G.ex: J'adore le cinéma français, surtout les comédies. || Tôi rất thích điện ảnh Pháp, nhất là phim hài.
+G.ex: Ce film parle d'une famille qui part vivre à la campagne. || Bộ phim này nói về một gia đình chuyển về nông thôn sống.
+G.ex: La fin est très émouvante : j'ai pleuré ! || Đoạn kết rất cảm động: tôi đã khóc!
+G.ex: Je ne supporte pas les films d'horreur, ils me font trop peur. || Tôi không chịu được phim kinh dị, chúng làm tôi sợ quá.
+G.q: J'aime ___ musique classique. | de la | *la | une | du
+G.q: Un film qui fait rire est… | émouvant | *drôle | ennuyeux | effrayant
+G.q: Un film qui fait pleurer est souvent… | drôle | *émouvant | ennuyeux | rapide
+G.q: « Ça parle de… » présente… | l'acteur | *le sujet | le prix | la durée
+G.q: Je ne ___ pas les films d'horreur. (không chịu được) = supporte
+V: le cinéma | /lə si.ne.ma/ | nom m. | điện ảnh, rạp phim | J'adore le cinéma. || Tôi rất thích điện ảnh.
+V: la comédie | /la kɔ.me.di/ | nom f. | phim hài | C'est une comédie très drôle. || Đó là một bộ phim hài rất vui.
+V: le drame | /lə dʁam/ | nom m. | phim chính kịch | C'est un drame triste. || Đó là một phim chính kịch buồn.
+V: émouvant | /e.mu.vɑ̃/ | adjectif | cảm động | Une histoire émouvante. || Một câu chuyện cảm động.
+V: drôle | /dʁol/ | adjectif | hài hước | Ce film est très drôle. || Bộ phim này rất hài hước.
+V: supporter | /sy.pɔʁ.te/ | verbe | chịu đựng | Je ne supporte pas le bruit. || Tôi không chịu được tiếng ồn.
+V: le chanteur | /lə ʃɑ̃.tœʁ/ | nom m. | ca sĩ | Mon chanteur préféré est Stromae. || Ca sĩ tôi thích nhất là Stromae.
+V: les paroles | /le pa.ʁɔl/ | nom f. pl. | lời bài hát | Les paroles sont poétiques. || Lời bài hát rất thơ.
+V: le réalisateur | /lə ʁe.a.li.za.tœʁ/ | nom m. | đạo diễn | Qui est le réalisateur ? || Đạo diễn là ai?
+V: le festival | /lə fɛs.ti.val/ | nom m. | liên hoan | Le festival de Cannes est célèbre. || Liên hoan phim Cannes rất nổi tiếng.
+VQ: Le contraire de « drôle » : | amusant | *triste | émouvant | célèbre
+VQ: La personne qui dirige un film : | l'acteur | *le réalisateur | le chanteur | le spectateur
+VQ: Les mots d'une chanson : | la musique | *les paroles | le rythme | le refrain seulement
+VQ: Un film qui présente la réalité (nature, histoire…) : | une comédie | *un documentaire | un drame | un film d'horreur
+VQ: Le plus célèbre festival de cinéma français : le festival de ___. = Cannes
+D: J'adore le cinéma français, surtout les comédies.
+D: Ce film parle d'une famille qui part vivre à la campagne.
+D: La fin est très émouvante : j'ai pleuré !
+D: Je ne supporte pas les films d'horreur.
+L: Kim | Tu as vu « Intouchables » ? || Bạn đã xem phim « Intouchables » chưa?
+L: Lucas | Oui, c'est mon film français préféré ! Ça parle d'un homme riche et handicapé et de son assistant. || Rồi, đó là phim Pháp mình thích nhất! Phim nói về một người đàn ông giàu có bị khuyết tật và người trợ lý của ông.
+L: Kim | Je l'ai trouvé à la fois drôle et émouvant. || Mình thấy phim vừa hài hước vừa cảm động.
+L: Lucas | Exactement. Et la musique est magnifique. Tu aimes la musique française ? || Chính xác. Và nhạc phim tuyệt vời. Bạn có thích nhạc Pháp không?
+L: Kim | J'adore Stromae ! Ses paroles sont profondes, et on peut danser en même temps. || Mình rất thích Stromae! Lời bài hát của anh ấy sâu sắc, và vẫn có thể nhảy theo.
+L: Lucas | Stromae est belge, tu sais ! Mais on l'adore aussi en France. || Stromae là người Bỉ đấy! Nhưng ở Pháp mọi người cũng rất yêu anh ấy.
+LQ: De quoi parle « Intouchables » ? | d'une famille à la campagne | *d'un homme riche et handicapé et de son assistant | d'un chanteur | d'une histoire d'amour
+LQ: Comment Kim a-t-elle trouvé le film ? | ennuyeux | *drôle et émouvant | effrayant | trop long
+LQ: De quelle nationalité est Stromae ? | français | *belge | suisse | canadien
+RA: J'adore les comédies. Je préfère les drames.
+RA: Ça parle d'un homme riche et de son assistant.
+RA: Je ne supporte pas les films d'horreur.
+SH: C'est mon film français préféré !
+SH: Je l'ai trouvé à la fois drôle et émouvant.
+SH: Ses paroles sont profondes.
+R.title: Les Français et la culture
+R: Les Français vont beaucoup au cinéma : c'est le pays d'Europe où on vend le plus de billets. || Người Pháp đi xem phim rất nhiều: đó là nước châu Âu bán được nhiều vé xem phim nhất.
+R: Le cinéma français est soutenu par l'État, ce qui permet de produire environ deux cents films par an. || Điện ảnh Pháp được nhà nước hỗ trợ, nhờ đó sản xuất khoảng hai trăm bộ phim mỗi năm.
+R: Chaque année en mai, le festival de Cannes accueille les stars du monde entier. || Mỗi năm vào tháng Năm, liên hoan phim Cannes đón tiếp các ngôi sao từ khắp thế giới.
+R: Côté musique, le 21 juin, c'est la fête de la Musique : on joue de la musique gratuitement dans les rues. || Về âm nhạc, ngày 21 tháng Sáu là Ngày hội Âm nhạc: người ta chơi nhạc miễn phí trên đường phố.
+R: À la radio, une loi impose un minimum de chansons en français. || Trên radio, một đạo luật yêu cầu tỷ lệ tối thiểu bài hát bằng tiếng Pháp.
+R: Des chanteurs comme Édith Piaf ou Charles Aznavour sont encore très populaires aujourd'hui. || Những ca sĩ như Édith Piaf hay Charles Aznavour đến nay vẫn rất được yêu thích.
+RQ: Les Français vont… au cinéma. | rarement | *beaucoup | jamais | seulement l'été
+RQ: Quand a lieu le festival de Cannes ? | en juin | *en mai | en juillet | en décembre
+RQ: Que se passe-t-il le 21 juin ? | le festival de Cannes | *la fête de la Musique | la fête nationale | Noël
+W.prompt: Parle de tes goûts en cinéma et en musique : ton film préféré (de quoi il parle, pourquoi tu l'aimes), ton chanteur préféré, ce que tu ne supportes pas. || Nói về sở thích điện ảnh và âm nhạc của bạn: bộ phim yêu thích (nói về gì, tại sao bạn thích), ca sĩ yêu thích, điều bạn không chịu được.
+W.min: 60
+W.must: mon film préféré ; ça parle ; j'adore
+W.check: Mạo từ xác định sau động từ sở thích (j'aime le…)
+W.check: Có nội dung phim và lý do
+W.check: Tính từ đánh giá phù hợp
+W.model: Mon film préféré est « Mùi đu đủ xanh », « L'Odeur de la papaye verte » en français. || Bộ phim tôi thích nhất là « Mùi đu đủ xanh », tiếng Pháp là « L'Odeur de la papaye verte ».
+W.model: C'est un film de Trần Anh Hùng, un réalisateur vietnamien qui vit en France. || Đó là phim của Trần Anh Hùng, một đạo diễn người Việt sống ở Pháp.
+W.model: Ça parle d'une jeune fille qui travaille comme servante dans une famille à Saïgon. || Phim nói về một cô gái trẻ làm người giúp việc cho một gia đình ở Sài Gòn.
+W.model: Je l'adore parce que les images sont très belles et le film est calme et poétique. || Tôi rất thích vì hình ảnh rất đẹp và bộ phim nhẹ nhàng, giàu chất thơ.
+W.model: En musique, j'adore la chanson française, surtout Édith Piaf. Ses chansons me font pleurer ! || Về âm nhạc, tôi rất thích nhạc Pháp, nhất là Édith Piaf. Những bài hát của bà làm tôi khóc!
+W.model: Par contre, je ne supporte pas les films d'horreur : après, je ne peux pas dormir. || Ngược lại, tôi không chịu được phim kinh dị: xem xong tôi không ngủ được.
+
+## 5 | Vivre en France
+G.title: Comprendre la vie quotidienne
+G.rule: Pour comprendre et expliquer la vie quotidienne en France, on utilise des expressions d'obligation (il faut, on doit), de permission (on peut) et d'interdiction (il est interdit de, on ne doit pas). || Để hiểu và giải thích cuộc sống hằng ngày ở Pháp, ta dùng các cách diễn đạt sự bắt buộc (il faut, on doit — phải), sự cho phép (on peut — có thể) và sự cấm đoán (il est interdit de, on ne doit pas — cấm, không được).
+G.note: Bắt buộc: Il faut + nguyên mẫu (Il faut faire la bise). On doit + nguyên mẫu. Cho phép: On peut + nguyên mẫu. Cấm: Il est interdit de fumer. On ne doit pas… / Il ne faut pas… (Không nên/không được). Khuyên: Il vaut mieux + nguyên mẫu (Tốt hơn là…). Văn hoá Pháp: faire la bise (chào bằng má), dire « bonjour » en entrant dans un magasin, le vouvoiement (dùng "vous"), les repas sont longs, beaucoup de magasins sont fermés le dimanche.
+G.table: Fonction | Expression | Exemple
+G.row: obligation | il faut / on doit | Il faut dire bonjour au vendeur.
+G.row: permission | on peut | On peut boire l'eau du robinet.
+G.row: interdiction | il est interdit de | Il est interdit de fumer au restaurant.
+G.row: conseil | il vaut mieux | Il vaut mieux réserver le week-end.
+G.row: conseil négatif | il ne faut pas | Il ne faut pas être en retard.
+G.ex: En France, il faut dire « bonjour » quand on entre dans un magasin. || Ở Pháp, phải nói « bonjour » khi bước vào cửa hàng.
+G.ex: On peut boire l'eau du robinet sans problème. || Có thể uống nước máy mà không có vấn đề gì.
+G.ex: Il est interdit de fumer dans les lieux publics. || Cấm hút thuốc ở nơi công cộng.
+G.ex: Le dimanche, il vaut mieux faire ses courses le matin : beaucoup de magasins sont fermés l'après-midi. || Vào Chủ Nhật, tốt hơn là đi mua sắm buổi sáng: nhiều cửa hàng đóng cửa buổi chiều.
+G.q: Pour une obligation : | On peut… | *Il faut… | Il vaut mieux… | J'aime…
+G.q: Il est interdit ___ fumer. | à | *de | que | pour
+G.q: « Il vaut mieux réserver » est… | une interdiction | *un conseil | une obligation légale | une question
+G.q: En entrant dans un magasin en France, on dit… | rien | *« Bonjour » | « Au revoir » | « Merci »
+G.q: On ___ boire l'eau du robinet. (có thể) = peut
+V: la vie quotidienne | /la vi kɔ.ti.djɛn/ | nom f. | cuộc sống hằng ngày | La vie quotidienne en France est agréable. || Cuộc sống hằng ngày ở Pháp dễ chịu.
+V: il faut | /il fo/ | expression | cần phải | Il faut être poli. || Cần phải lịch sự.
+V: il vaut mieux | /il vo mjø/ | expression | tốt hơn là | Il vaut mieux partir tôt. || Tốt hơn là đi sớm.
+V: interdit | /ɛ̃.tɛʁ.di/ | adjectif | bị cấm | Il est interdit de stationner ici. || Cấm đỗ xe ở đây.
+V: faire la bise | /fɛʁ la biz/ | expression | chào bằng má | En France, on fait la bise. || Ở Pháp, người ta chào bằng cách chạm má.
+V: le robinet | /lə ʁɔ.bi.nɛ/ | nom m. | vòi nước | L'eau du robinet est potable. || Nước máy uống được.
+V: le vouvoiement | /lə vu.vwa.mɑ̃/ | nom m. | cách xưng "vous" | Le vouvoiement est important au travail. || Việc xưng "vous" quan trọng ở chỗ làm.
+V: la sécurité sociale | /la se.ky.ʁi.te sɔ.sjal/ | nom f. | bảo hiểm xã hội | La sécurité sociale rembourse les médicaments. || Bảo hiểm xã hội hoàn tiền thuốc.
+V: la mairie | /la mɛ.ʁi/ | nom f. | toà thị chính | Il faut s'inscrire à la mairie. || Phải đăng ký ở toà thị chính.
+V: les démarches | /le de.maʁʃ/ | nom f. pl. | thủ tục hành chính | Les démarches administratives sont longues. || Các thủ tục hành chính rất lâu.
+VQ: Le contraire de « autorisé » : | possible | *interdit | obligatoire | gratuit
+VQ: L'eau qui sort du robinet et qu'on peut boire est… | interdite | *potable | chère | salée
+VQ: Les papiers et procédures avec l'administration : | les courses | *les démarches | les fêtes | les bises
+VQ: « Il vaut mieux » sert à donner… | un ordre | *un conseil | une permission | une date
+VQ: En France, pour saluer des amis, on fait la ___. = bise
+D: Il faut dire bonjour quand on entre dans un magasin.
+D: On peut boire l'eau du robinet.
+D: Il est interdit de fumer dans les lieux publics.
+D: Il vaut mieux faire ses courses le matin.
+L: Linh | Je viens d'arriver en France. Tu as des conseils pour moi ? || Mình vừa mới đến Pháp. Bạn có lời khuyên nào cho mình không?
+L: Camille | D'abord, il faut toujours dire « bonjour » et « au revoir » dans les magasins. C'est très important ! || Đầu tiên, phải luôn nói « bonjour » và « au revoir » trong cửa hàng. Điều đó rất quan trọng!
+L: Linh | D'accord. Et pour saluer les gens ? || Được rồi. Còn chào hỏi mọi người thì sao?
+L: Camille | Avec les amis, on fait la bise. Au travail, il vaut mieux serrer la main et vouvoyer au début. || Với bạn bè thì chạm má. Ở chỗ làm, tốt hơn là bắt tay và xưng "vous" lúc đầu.
+L: Linh | Et pour les papiers ? || Còn giấy tờ thì sao?
+L: Camille | Il faut être patiente : les démarches administratives sont longues ! Et n'oublie pas de t'inscrire à la sécurité sociale. || Phải kiên nhẫn: thủ tục hành chính rất lâu! Và đừng quên đăng ký bảo hiểm xã hội.
+LQ: Que faut-il dire dans les magasins ? | merci seulement | *bonjour et au revoir | rien | excusez-moi
+LQ: Au travail, au début, il vaut mieux… | faire la bise | *serrer la main et vouvoyer | tutoyer | ne rien dire
+LQ: Selon Camille, les démarches administratives sont… | rapides | *longues | gratuites | faciles
+RA: Il faut dire bonjour. On peut boire l'eau du robinet.
+RA: Il est interdit de fumer. Il vaut mieux réserver.
+RA: Avec les amis, on fait la bise.
+SH: Tu as des conseils pour moi ?
+SH: Il faut toujours dire « bonjour » et « au revoir ».
+SH: Il faut être patiente : les démarches sont longues !
+R.title: Guide pour les nouveaux arrivants
+R: Bienvenue en France ! Voici quelques informations pratiques. || Chào mừng đến Pháp! Đây là một số thông tin thực tế.
+R: Pour ouvrir un compte bancaire, il faut un passeport, un justificatif de domicile et parfois un titre de séjour. || Để mở tài khoản ngân hàng, cần hộ chiếu, giấy tờ chứng minh nơi ở và đôi khi là thẻ cư trú.
+R: Pour vous soigner, vous devez choisir un médecin traitant et vous inscrire à la sécurité sociale. || Để khám chữa bệnh, bạn phải chọn một bác sĩ gia đình và đăng ký bảo hiểm xã hội.
+R: Dans les transports, il est interdit de voyager sans ticket : l'amende peut être de cinquante euros ! || Trên phương tiện công cộng, cấm đi mà không có vé: tiền phạt có thể lên tới năm mươi euro!
+R: On doit trier ses déchets : le jaune pour les emballages, le vert pour le verre. || Phải phân loại rác: thùng vàng cho bao bì, thùng xanh lá cho thuỷ tinh.
+R: Enfin, il vaut mieux apprendre quelques mots de français : les Français apprécient beaucoup cet effort ! || Cuối cùng, tốt hơn là học vài từ tiếng Pháp: người Pháp rất trân trọng nỗ lực đó!
+RQ: Que faut-il pour ouvrir un compte bancaire ? | un diplôme | *un passeport et un justificatif de domicile | une voiture | un contrat de travail seulement
+RQ: Quelle est l'amende sans ticket ? | dix euros | *jusqu'à cinquante euros | cent euros | rien
+RQ: Le bac vert est pour… | le papier | *le verre | les emballages | la nourriture
+W.prompt: Écris un petit guide pour un Français qui vient vivre dans ton pays : ce qu'il faut faire, ce qu'on peut faire, ce qui est interdit et tes conseils. || Viết một hướng dẫn ngắn cho một người Pháp sắp đến sống ở đất nước bạn: những gì phải làm, có thể làm, bị cấm và lời khuyên của bạn.
+W.min: 60
+W.must: il faut ; on peut ; il vaut mieux
+W.check: il faut / on doit / on peut / il est interdit de + nguyên mẫu
+W.check: Có cả bắt buộc, cho phép, cấm và lời khuyên
+W.check: Thông tin văn hoá cụ thể
+W.model: Bienvenue au Viêt Nam ! Voici quelques conseils pour bien vivre ici. || Chào mừng đến Việt Nam! Đây là vài lời khuyên để sống tốt ở đây.
+W.model: D'abord, il faut faire attention en traversant la rue : il y a beaucoup de motos ! Marchez lentement et régulièrement. || Đầu tiên, phải cẩn thận khi băng qua đường: có rất nhiều xe máy! Hãy đi chậm và đều.
+W.model: On peut manger dans la rue pour pas cher : c'est délicieux et c'est la meilleure façon de découvrir la cuisine. || Có thể ăn đồ ăn đường phố với giá rẻ: rất ngon và đó là cách tốt nhất để khám phá ẩm thực.
+W.model: Il vaut mieux ne pas boire l'eau du robinet : achetez de l'eau en bouteille. || Tốt hơn là không uống nước máy: hãy mua nước đóng chai.
+W.model: Dans les pagodes, il est interdit de porter des shorts et il faut enlever ses chaussures. || Ở chùa, cấm mặc quần soóc và phải cởi giày.
+W.model: Enfin, quand on vous invite, apportez des fruits ou un petit cadeau : c'est la tradition ! || Cuối cùng, khi được mời, hãy mang hoa quả hoặc một món quà nhỏ: đó là truyền thống!
