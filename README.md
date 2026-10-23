@@ -1,42 +1,54 @@
 # Penser en Français — PWA học tiếng Pháp A1 → A2 (32 tuần)
 
-Ứng dụng web cài được lên điện thoại (PWA), chạy offline, không cần build.
+Ứng dụng web cài được lên điện thoại (PWA), chạy offline, **không cần AI, không cần khoá API**, không cần build.
 
 ## Cấu trúc
 
 ```
 index.html, styles.css, app.js   ← giao diện + logic (vanilla JS)
 sw.js, manifest.json, icons/     ← PWA: cài lên màn hình chính, chạy offline
-api/ai.js, api/_gemini.js        ← hàm Vercel gọi Gemini (chấm bài, tra từ, nhập vai, dịch câu, soạn bài)
+content/week-01.txt … week-32.txt← NỘI DUNG GỐC (dễ sửa) — mỗi tuần 5 ngày học
+content/dict.txt                 ← từ điển gốc (từ + động từ chia)
+tools/build.py, tools/build_dict.py ← chuyển content/*.txt → data/*.json + kiểm tra lỗi
 data/curriculum.json             ← lộ trình 32 tuần (tên tuần + 5 chủ đề/ngày)
-data/weeks/week-01.json …        ← nội dung bài học từng tuần
-data/dict.json                   ← từ điển bỏ túi offline (từ chia → nguyên thể + nghĩa)
+data/weeks/week-XX.json          ← bài học đã build (app đọc file này)
+data/dict.json                   ← từ điển offline đã build
 ```
 
-## Cải tiến bài học (quy trình hằng ngày)
+## Sửa / cải tiến bài học
 
-1. Sửa/thêm file trong `data/weeks/` trên GitHub (bấm ✏️ ngay trên web GitHub).
-2. Commit → Vercel tự deploy trong ~30 giây → mọi điện thoại thấy bài mới ở lần mở kế tiếp.
+1. Sửa file `content/week-XX.txt` (hoặc `content/dict.txt`).
+2. Chạy `python3 tools/build.py` → tạo lại `data/weeks/*.json` và `data/dict.json`, đồng thời báo lỗi
+   (thiếu bản dịch, câu hỏi trắc nghiệm sai định dạng…).
+3. Commit & push lên GitHub → Vercel tự deploy → điện thoại thấy bài mới ở lần mở kế tiếp.
 
-Tuần chưa có file: trong app bấm **✨ Tạo bằng AI** cho từng ngày → kiểm tra nội dung → **Tải JSON tuần này** → đưa file lên `data/weeks/week-XX.json`.
-Muốn xem trước bản sửa trên máy mình trước khi commit: Cài đặt → **Nhập JSON tuần**.
+### Định dạng `content/week-XX.txt` (rút gọn)
+```
+@week 15 / @title … / @level A2
+## 1 | Tên ngày
+G.title / G.rule: câu Pháp || bản dịch / G.note / G.table / G.row / G.ex: … || … / G.q: …
+V: từ | ipa | loại | nghĩa | ví dụ || dịch       VQ: câu hỏi từ vựng
+D: câu chính tả   L: Người nói | câu || dịch   LQ: câu hỏi nghe
+RA: đọc to   SH: nói đuổi   R.title / R: câu đọc || dịch   RQ: câu hỏi đọc
+W.prompt: … || …   W.min: 50   W.must: từ1 ; từ2   W.check: …   W.model: câu mẫu || dịch
+```
+Câu hỏi: trắc nghiệm `Câu hỏi | lựa chọn | *đáp án đúng | …`, hoặc tự điền `Câu hỏi = đáp án / đáp án khác`.
 
-### Schema 1 ngày học
-`grammar {title, rule, note_vi, table{head,rows}, examples[], quiz[]}`, `vocab[{fr, ipa, pos, vi, ex}]`, `vocabQuiz[]`,
-`listening {dictee[], dialogue[{s,t}], questions[]}`, `speaking {readAloud[], shadowing[], roleplay{scenario, aiRole, starter, goal}}`,
-`reading {title, text, questions[]}`, `writing {prompt, minWords}`.
-Câu hỏi: trắc nghiệm `{"q","options":[…],"answer":index}` hoặc tự điền `{"q","answer":["đáp án 1","đáp án 2"]}`.
+### Từ điển `content/dict.txt`
+- Từ thường: `le mot | nom m. | nghĩa`
+- Động từ đều: `@er parler | nói`, `@ir finir | …`, `@re vendre | …`
+- Động từ bất quy tắc: `@v venir | đến | viens,viens,vient,venons,venez,viennent | venu | ven | viendr`
+  (6 dạng hiện tại | phân từ | gốc imparfait | gốc futur) — app tự sinh mọi dạng chia khi tra từ.
 
-## Biến môi trường trên Vercel
-
-| Tên | Bắt buộc | Ghi chú |
-|---|---|---|
-| `GEMINI_API_KEY` | có | Lấy miễn phí tại https://aistudio.google.com/apikey |
-| `GEMINI_MODEL` | không | Mặc định `gemini-flash-latest` |
-| `APP_ACCESS_CODE` | nên đặt | Mã bí mật để người lạ không dùng hết quota AI; nhập mã trong app ở Cài đặt |
+## Tính năng (tất cả offline)
+- Lộ trình 32 tuần, mỗi ngày 6 bước: Ngữ pháp, Từ vựng, Nghe, Nói, Đọc, Viết; thứ Bảy kiểm tra (≥80% mở tuần sau), Chủ nhật ôn nhẹ.
+- Chạm vào từ bất kỳ để tra (nguyên thể, loại từ, nghĩa, ví dụ, phát âm); nút dịch câu dùng bản dịch soạn sẵn.
+- Flashcard SRS 3 mức: đỏ 5 phút, vàng 24 giờ, xanh 72 giờ.
+- Phát âm giọng Pháp của trình duyệt (0.75× / 1.0×); luyện nói dùng nhận dạng giọng nói của trình duyệt.
+- Viết: tự kiểm tra (số từ, từ bắt buộc, gợi ý lỗi thường gặp) + bài mẫu + danh sách tự chấm.
 
 ## Lưu trữ
-Tiến độ, flashcard, lỗi sai, bài viết lưu trong trình duyệt của máy (localStorage) — dùng offline được.
+Tiến độ, flashcard, lỗi sai, bài viết lưu trong trình duyệt (localStorage).
 Đổi máy: Cài đặt → Xuất sao lưu / Nhập sao lưu.
 
 ## Cài lên điện thoại

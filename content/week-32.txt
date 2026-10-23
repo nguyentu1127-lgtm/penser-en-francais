@@ -1,0 +1,386 @@
+@week 32
+@title Révision finale A2
+@level A2
+
+## 1 | Révision : les temps du passé
+G.title: Passé composé, imparfait, passé récent
+G.rule: Pour raconter au passé, on choisit : le passé composé pour les actions terminées et les événements, l'imparfait pour les descriptions, les habitudes et les actions en cours, et venir de + infinitif pour une action qui vient juste de se passer. || Để kể chuyện ở quá khứ, ta chọn: passé composé cho hành động đã hoàn thành và sự kiện, imparfait cho miêu tả, thói quen và hành động đang diễn ra, và venir de + nguyên mẫu cho hành động vừa mới xảy ra.
+G.note: Tóm tắt: (1) Passé composé = avoir/être + phân từ. Être với động từ chuyển động (DR & MRS VANDERTRAMP) và động từ phản thân → hợp giống số với chủ ngữ. (2) Imparfait = gốc nous + -ais, -ais, -ait, -ions, -iez, -aient; être → ét-. (3) Imparfait + passé composé: Je dormais quand le téléphone a sonné. (4) Passé récent: Je viens de manger (Tôi vừa ăn xong). (5) Mốc thời gian: hier, il y a, la semaine dernière, pendant, depuis.
+G.table: Temps | Usage | Exemple
+G.row: passé composé | action terminée | Hier, j'ai visité le musée.
+G.row: passé composé (être) | mouvement | Elle est partie à huit heures.
+G.row: imparfait | description | Il faisait beau.
+G.row: imparfait | habitude | Avant, je fumais.
+G.row: imparfait + passé composé | action interrompue | Je lisais quand il est arrivé.
+G.row: venir de + infinitif | passé récent | Je viens de finir.
+G.ex: Quand j'étais petit, je passais mes vacances chez ma grand-mère. || Hồi nhỏ, tôi thường nghỉ hè ở nhà bà.
+G.ex: Un jour, pendant que nous jouions dans le jardin, un orage a éclaté. || Một ngày nọ, trong lúc chúng tôi đang chơi trong vườn, một cơn giông nổ ra.
+G.ex: Ma sœur est arrivée à Paris il y a deux jours. || Chị gái tôi đã đến Paris cách đây hai ngày.
+G.ex: Attends, je viens de rentrer, je suis encore en manteau ! || Chờ chút, tôi vừa về, tôi vẫn còn mặc áo khoác!
+G.q: Hier, nous ___ au restaurant. | allions toujours | *sommes allés | avons allé | allons
+G.q: Quand j'étais jeune, je ___ beaucoup. | ai lu | *lisais | lis | lirai
+G.q: Il pleuvait quand je ___. | sortais | *suis sorti | sors | sortirai
+G.q: Elles se sont ___ tôt. | levé | *levées | levés | levée
+G.q: Passé récent : Je ___ de manger. = viens
+V: raconter | /ʁa.kɔ̃.te/ | verbe | kể | Raconte-moi ton week-end. || Kể tôi nghe cuối tuần của bạn.
+V: venir de | /və.niʁ də/ | expression | vừa mới | Il vient de partir. || Anh ấy vừa đi.
+V: éclater | /e.kla.te/ | verbe | nổ ra, bùng nổ | Un orage a éclaté. || Một cơn giông nổ ra.
+V: la révision | /la ʁe.vi.zjɔ̃/ | nom f. | sự ôn tập | C'est la semaine de révision. || Đây là tuần ôn tập.
+V: réviser | /ʁe.vi.ze/ | verbe | ôn tập | Je révise pour l'examen. || Tôi ôn thi.
+V: le temps | /lə tɑ̃/ | nom m. | thì (ngữ pháp); thời gian | Quel temps utiliser ? || Dùng thì nào?
+V: terminé | /tɛʁ.mi.ne/ | adjectif | đã kết thúc | Une action terminée. || Một hành động đã kết thúc.
+V: en cours | /ɑ̃ kuʁ/ | expression | đang diễn ra | Une action en cours. || Một hành động đang diễn ra.
+V: interrompu | /ɛ̃.te.ʁɔ̃.py/ | adjectif | bị cắt ngang | Une action interrompue. || Một hành động bị cắt ngang.
+V: le récit | /lə ʁe.si/ | nom m. | câu chuyện kể | Un récit au passé. || Một câu chuyện ở quá khứ.
+VQ: « Je viens de manger » veut dire… | je vais manger | *j'ai mangé il y a très peu de temps | je mange | je mangeais
+VQ: « Une action en cours » est une action… | terminée | *qui se passe | future | habituelle
+VQ: Pour décrire le temps qu'il faisait, on utilise… | le passé composé | *l'imparfait | le futur | le passé récent
+VQ: Étudier encore une leçon avant un examen, c'est… | oublier | *réviser | raconter | éclater
+VQ: Une histoire racontée : un ___. = récit
+D: Quand j'étais petit, je passais mes vacances chez ma grand-mère.
+D: Pendant que nous jouions, un orage a éclaté.
+D: Ma sœur est arrivée il y a deux jours.
+D: Je viens de rentrer.
+L: Amie | Tu as l'air fatigué ! Qu'est-ce qui s'est passé ? || Trông bạn mệt quá! Có chuyện gì vậy?
+L: Nam | Je viens de rentrer de l'aéroport. Mon vol avait cinq heures de retard ! || Mình vừa từ sân bay về. Chuyến bay của mình trễ năm tiếng!
+L: Amie | Cinq heures ! Qu'est-ce que tu as fait pendant tout ce temps ? || Năm tiếng! Bạn đã làm gì suốt thời gian đó?
+L: Nam | J'ai lu, j'ai mangé, j'ai dormi un peu… Il y avait beaucoup de monde et il faisait très chaud. || Mình đọc sách, ăn, ngủ một chút… Có rất đông người và trời rất nóng.
+L: Nam | Et pendant que je dormais, quelqu'un a pris ma place près de la prise électrique ! || Và trong lúc mình đang ngủ, có người đã lấy mất chỗ của mình gần ổ cắm điện!
+L: Amie | Pauvre de toi ! Repose-toi maintenant. || Tội nghiệp bạn! Giờ nghỉ ngơi đi.
+LQ: D'où vient Nam ? | du travail | *de l'aéroport | de la gare | de chez lui
+LQ: Combien d'heures de retard ? | deux | trois | *cinq | dix
+LQ: Qu'est-ce qui s'est passé pendant qu'il dormait ? | il a raté son vol | *quelqu'un a pris sa place | on a volé son sac | il a rêvé
+RA: J'ai mangé. Je suis parti. Je me suis levé.
+RA: Il faisait beau. Je dormais. J'étais content.
+RA: Je viens de rentrer de l'aéroport.
+SH: Qu'est-ce qui s'est passé ?
+SH: Je viens de rentrer de l'aéroport.
+SH: Pendant que je dormais, quelqu'un a pris ma place !
+R.title: Le jour où j'ai commencé le français
+R: Il y a huit mois, je travaillais dans un bureau à Hô Chi Minh-Ville. || Tám tháng trước, tôi làm việc trong một văn phòng ở Thành phố Hồ Chí Minh.
+R: Un jour, mon chef m'a dit : « Nous allons ouvrir un bureau à Lyon. Tu veux partir ? » || Một hôm, sếp nói với tôi: « Chúng ta sẽ mở văn phòng ở Lyon. Em có muốn đi không? »
+R: Je ne parlais pas un mot de français, mais j'ai dit oui tout de suite ! || Tôi không nói được một chữ tiếng Pháp nào, nhưng tôi đã đồng ý ngay!
+R: Le soir même, j'ai téléchargé cette application et j'ai commencé la première leçon. || Ngay tối hôm đó, tôi tải ứng dụng này và bắt đầu bài học đầu tiên.
+R: Au début, c'était difficile : je confondais tout et je ne comprenais rien aux dialogues. || Lúc đầu, rất khó: tôi nhầm lẫn mọi thứ và không hiểu gì các đoạn hội thoại.
+R: Aujourd'hui, je viens de finir la trente-deuxième semaine, et je pars à Lyon le mois prochain ! || Hôm nay, tôi vừa hoàn thành tuần thứ ba mươi hai, và tháng sau tôi sẽ đi Lyon!
+RQ: Où travaillait l'auteur il y a huit mois ? | à Lyon | *à Hô Chi Minh-Ville | à Hanoï | à Paris
+RQ: Qu'est-ce que le chef a proposé ? | une augmentation | *de partir à Lyon | des cours de français | des vacances
+RQ: Quand part-il à Lyon ? | demain | la semaine prochaine | *le mois prochain | l'année prochaine
+W.prompt: Raconte ton apprentissage du français depuis le début : pourquoi tu as commencé, comment c'était au début, ce qui s'est passé, et ce que tu viens de réussir. Utilise tous les temps du passé. || Kể quá trình học tiếng Pháp của bạn từ đầu: tại sao bạn bắt đầu, lúc đầu thế nào, chuyện gì đã xảy ra, và điều bạn vừa đạt được. Dùng tất cả các thì quá khứ.
+W.min: 70
+W.must: j'ai commencé ; c'était ; je viens de
+W.check: Passé composé cho sự kiện, imparfait cho miêu tả
+W.check: Trợ động từ être + hợp giống số khi cần
+W.check: Có venir de + nguyên mẫu
+W.model: J'ai commencé à apprendre le français il y a huit mois. || Tôi bắt đầu học tiếng Pháp cách đây tám tháng.
+W.model: À cette époque, je voulais comprendre les chansons d'Édith Piaf que ma mère écoutait. || Thời điểm đó, tôi muốn hiểu những bài hát của Édith Piaf mà mẹ tôi hay nghe.
+W.model: Au début, c'était très difficile : je ne savais pas prononcer les « r » et j'oubliais tous les mots. || Lúc đầu, rất khó: tôi không biết phát âm chữ « r » và quên hết từ vựng.
+W.model: Je révisais mes flashcards tous les soirs dans le bus. || Tối nào tôi cũng ôn thẻ từ vựng trên xe buýt.
+W.model: Le mois dernier, je suis allée dans un café français à Hanoï et j'ai commandé en français ! Le serveur m'a comprise. || Tháng trước, tôi đến một quán cà phê Pháp ở Hà Nội và gọi món bằng tiếng Pháp! Người phục vụ đã hiểu tôi.
+W.model: Aujourd'hui, je viens de finir le programme A2, et je suis très fière de moi. || Hôm nay, tôi vừa hoàn thành chương trình A2, và tôi rất tự hào về bản thân.
+
+## 2 | Révision : les pronoms
+G.title: Le, lui, y, en, qui, que, où
+G.rule: Les pronoms évitent les répétitions. On choisit le pronom selon la construction : le/la/les (COD), lui/leur (à + personne), y (à + lieu ou chose), en (de + nom, quantité), et qui/que/où pour relier deux phrases. || Đại từ giúp tránh lặp từ. Ta chọn đại từ theo cấu trúc: le/la/les (COD), lui/leur (à + người), y (à + nơi chốn hoặc sự vật), en (de + danh từ, số lượng), và qui/que/où để nối hai câu.
+G.note: Vị trí đại từ bổ ngữ: trước động từ chia (Je le vois), trước trợ động từ (Je l'ai vu), trước nguyên mẫu (Je vais le voir), sau động từ ở mệnh lệnh khẳng định (Regarde-le !), trước động từ ở mệnh lệnh phủ định (Ne le regarde pas !). Phân từ hợp với COD đứng trước avoir: La lettre ? Je l'ai écrite. Đại từ quan hệ: qui (chủ ngữ), que (COD), où (nơi chốn, thời gian).
+G.table: Question | Réponse
+G.row: Tu vois Lan ? | Oui, je la vois.
+G.row: Tu téléphones à tes parents ? | Oui, je leur téléphone.
+G.row: Tu vas à la piscine ? | Oui, j'y vais.
+G.row: Tu veux du café ? | Oui, j'en veux.
+G.row: Tu as combien de frères ? | J'en ai deux.
+G.row: C'est l'ami… | qui habite à Lyon / que j'adore / où j'ai dormi (lieu)
+G.ex: Ton passeport ? Je l'ai mis dans ton sac. || Hộ chiếu của bạn à? Tôi đã để nó trong túi bạn.
+G.ex: Tes grands-parents ? Je leur ai envoyé une carte. || Ông bà bạn à? Tôi đã gửi cho họ một tấm thiệp.
+G.ex: Le marché ? J'y suis allée ce matin et j'en suis revenue avec des fleurs. || Chợ à? Tôi đã đến đó sáng nay và về với hoa.
+G.ex: C'est le restaurant où nous avons mangé le phở que tu as adoré. || Đó là nhà hàng nơi chúng ta đã ăn món phở mà bạn rất thích.
+G.q: Tu parles à ton chef ? — Oui, je ___ parle. | le | *lui | leur | y
+G.q: Tu reviens de la plage ? — Oui, j'___ reviens. | y | *en | la | lui
+G.q: Les photos ? Je les ai ___. | pris | *prises | prise | prends
+G.q: C'est le film ___ j'ai vu hier. | qui | *que | où | qu'il
+G.q: Tu penses à ton examen ? — Oui, j'___ pense. = y
+V: le pronom | /lə pʁɔ.nɔ̃/ | nom m. | đại từ | Remplace le nom par un pronom. || Thay danh từ bằng đại từ.
+V: remplacer | /ʁɑ̃.pla.se/ | verbe | thay thế | « Y » remplace un lieu. || « Y » thay cho một nơi chốn.
+V: la construction | /la kɔ̃s.tʁyk.sjɔ̃/ | nom f. | cấu trúc | La construction du verbe. || Cấu trúc của động từ.
+V: la place | /la plas/ | nom f. | vị trí; chỗ | La place du pronom. || Vị trí của đại từ.
+V: la piscine | /la pi.sin/ | nom f. | bể bơi | Je vais à la piscine. || Tôi đi bể bơi.
+V: mettre | /mɛtʁ/ | verbe | đặt, để | Je l'ai mis sur la table. || Tôi đã để nó trên bàn.
+V: revenir de | /ʁə.və.niʁ də/ | verbe | trở về từ | J'en reviens. || Tôi vừa từ đó về.
+V: le passeport | /lə pas.pɔʁ/ | nom m. | hộ chiếu | Je l'ai oublié ! || Tôi quên nó rồi!
+V: adorer | /a.dɔ.ʁe/ | verbe | rất thích | Le gâteau que tu as adoré. || Chiếc bánh mà bạn rất thích.
+V: répéter | /ʁe.pe.te/ | verbe | lặp lại | Évite de répéter le nom. || Tránh lặp lại danh từ.
+VQ: « J'y vais » : « y » remplace… | une personne | *un lieu | une quantité | un COD
+VQ: « J'en ai deux » : « en » remplace… | un lieu | *un nom avec une quantité | une personne | un verbe
+VQ: « Je lui parle » : « lui » remplace… | un objet | *à + une personne | un lieu | de + nom
+VQ: Dans « Regarde-le ! », le pronom est… | avant le verbe | *après le verbe | au milieu | absent
+VQ: Le lieu où on nage : la ___. = piscine
+D: Ton passeport ? Je l'ai mis dans ton sac.
+D: Tes grands-parents ? Je leur ai envoyé une carte.
+D: Le marché ? J'y suis allée ce matin.
+D: C'est le restaurant où nous avons mangé le phở que tu as adoré.
+L: Mère | Tu as pris tes médicaments ? || Con uống thuốc chưa?
+L: Fils | Oui, je les ai pris ce matin. || Rồi ạ, con uống sáng nay rồi.
+L: Mère | Et ta grand-mère ? Tu lui as téléphoné pour son anniversaire ? || Còn bà? Con đã gọi điện chúc sinh nhật bà chưa?
+L: Fils | Oui, je l'ai appelée hier. Elle est allée au restaurant avec ses amies et elle en est rentrée très contente. || Rồi ạ, con gọi bà hôm qua. Bà đi nhà hàng với các bạn và về rất vui.
+L: Mère | Tu vas aller la voir ce week-end ? || Cuối tuần này con có đến thăm bà không?
+L: Fils | Oui, j'y vais samedi. Je vais lui apporter les gâteaux qu'elle aime ! || Có ạ, thứ Bảy con đến. Con sẽ mang cho bà những chiếc bánh mà bà thích!
+LQ: Quand a-t-il pris ses médicaments ? | hier soir | *ce matin | à midi | il ne les a pas pris
+LQ: Où est allée la grand-mère ? | au cinéma | *au restaurant avec ses amies | chez son fils | au marché
+LQ: Quand va-t-il voir sa grand-mère ? | dimanche | *samedi | aujourd'hui | la semaine prochaine
+RA: Je le vois. Je lui parle. J'y vais. J'en veux.
+RA: Je les ai pris ce matin.
+RA: C'est le gâteau qu'elle aime.
+SH: Je les ai pris ce matin.
+SH: Tu lui as téléphoné pour son anniversaire ?
+SH: J'y vais samedi. Je vais lui apporter les gâteaux qu'elle aime !
+R.title: Mon carnet d'adresses
+R: Mon carnet d'adresses est petit, mais je l'adore. || Cuốn sổ địa chỉ của tôi nhỏ, nhưng tôi rất yêu nó.
+R: Il y a le numéro de Hà, une amie que j'ai rencontrée au lycée. Je lui écris chaque semaine. || Trong đó có số của Hà, một người bạn tôi quen thời cấp ba. Tuần nào tôi cũng viết cho cô ấy.
+R: Il y a l'adresse d'une petite librairie où je vais souvent. J'y achète des romans français. || Có địa chỉ của một hiệu sách nhỏ nơi tôi hay đến. Tôi mua tiểu thuyết Pháp ở đó.
+R: Des livres ? J'en ai déjà plus de cinquante ! || Sách à? Tôi đã có hơn năm mươi cuốn!
+R: Il y a aussi le numéro du médecin qui soigne toute ma famille. || Còn có số của bác sĩ chữa bệnh cho cả gia đình tôi.
+R: Mes parents ? Leur numéro, je le connais par cœur, bien sûr ! || Bố mẹ tôi à? Số của họ thì tất nhiên tôi thuộc lòng!
+RQ: Où l'auteur a-t-il rencontré Hà ? | à l'université | *au lycée | au travail | dans une librairie
+RQ: Qu'est-ce qu'il achète à la librairie ? | des magazines | *des romans français | des cahiers | des cartes
+RQ: Combien de livres a-t-il ? | dix | vingt | *plus de cinquante | cent
+W.prompt: Réponds aux questions d'un ami en remplaçant les mots par des pronoms : Tu as fini tes devoirs ? Tu téléphones souvent à tes parents ? Tu vas à la bibliothèque ? Tu bois du café ? Puis décris un lieu avec qui, que, où. || Trả lời câu hỏi của một người bạn, thay danh từ bằng đại từ: Bạn làm xong bài tập chưa? Bạn có hay gọi cho bố mẹ không? Bạn có đi thư viện không? Bạn có uống cà phê không? Sau đó miêu tả một nơi bằng qui, que, où.
+W.min: 60
+W.must: je les ; je leur ; j'y ; j'en
+W.check: Mỗi câu trả lời dùng đúng đại từ
+W.check: Vị trí đại từ đúng ở mỗi thì
+W.check: Có câu với qui, que và où
+W.model: Mes devoirs ? Oui, je les ai finis hier soir. || Bài tập à? Rồi, mình đã làm xong tối qua.
+W.model: Mes parents ? Je leur téléphone tous les dimanches. || Bố mẹ à? Chủ Nhật nào mình cũng gọi cho họ.
+W.model: La bibliothèque ? J'y vais deux fois par semaine pour réviser. || Thư viện à? Mình đến đó hai lần một tuần để ôn bài.
+W.model: Du café ? J'en bois trois tasses par jour, c'est trop ! || Cà phê à? Mình uống ba cốc mỗi ngày, nhiều quá!
+W.model: La bibliothèque où je vais est un vieux bâtiment qui se trouve près du lac. || Thư viện mình hay đến là một toà nhà cũ nằm gần hồ.
+W.model: C'est un endroit calme que j'adore. || Đó là một nơi yên tĩnh mà mình rất thích.
+
+## 3 | Révision : comparer et argumenter
+G.title: Comparer, donner son avis, justifier
+G.rule: Pour argumenter, on combine plusieurs outils : le comparatif et le superlatif (plus… que, le meilleur), les expressions d'opinion (je pense que, à mon avis), les connecteurs logiques (parce que, donc, mais, par contre, de plus, en conclusion). || Để lập luận, ta kết hợp nhiều công cụ: so sánh hơn và so sánh nhất (plus… que, le meilleur), cách diễn đạt ý kiến (je pense que, à mon avis), từ nối logic (parce que, donc, mais, par contre, de plus, en conclusion).
+G.note: Nhắc lại: meilleur (tính từ) / mieux (trạng từ); le plus + tính từ + de (le plus grand du monde). Ý kiến: je pense que / je trouve que / à mon avis (không có que). Đồng ý: je suis d'accord, tout à fait; không đồng ý: je ne suis pas d'accord, au contraire. Nguyên nhân: parce que, car, comme, grâce à, à cause de; kết quả: donc, alors, c'est pourquoi. Thêm ý: de plus, en plus; đối lập: mais, par contre, en revanche; kết luận: en conclusion, pour conclure.
+G.table: Outil | Exemples
+G.row: comparer | plus… que, moins… que, aussi… que, le plus…
+G.row: opinion | je pense que, je trouve que, à mon avis
+G.row: cause | parce que, car, grâce à, à cause de
+G.row: conséquence | donc, alors, c'est pourquoi
+G.row: opposition | mais, par contre, en revanche
+G.row: conclusion | en conclusion, pour conclure
+G.ex: À mon avis, la ville est plus pratique que la campagne. || Theo ý tôi, thành phố tiện lợi hơn nông thôn.
+G.ex: Par contre, la vie y est moins calme et plus chère. || Ngược lại, cuộc sống ở đó kém yên tĩnh hơn và đắt đỏ hơn.
+G.ex: Je pense que le vélo est le meilleur moyen de transport, parce qu'il ne pollue pas. || Tôi nghĩ xe đạp là phương tiện tốt nhất, vì nó không gây ô nhiễm.
+G.ex: En conclusion, chaque mode de vie a ses avantages. || Kết luận, mỗi lối sống đều có ưu điểm riêng.
+G.q: Le train est ___ rapide que le bus. | plus bon | *plus | meilleur | mieux
+G.q: Elle parle ___ que moi. | meilleure | *mieux | plus bonne | meilleur
+G.q: À mon avis, ___ une bonne idée. | que c'est | *c'est | qu'est | de c'est
+G.q: Il pleut, ___ je prends mon parapluie. | parce que | *donc | car | comme
+G.q: Pour ajouter un argument : ___ plus, … = De / de
+V: argumenter | /aʁ.ɡy.mɑ̃.te/ | verbe | lập luận | Il sait bien argumenter. || Anh ấy biết lập luận tốt.
+V: le moyen de transport | /lə mwa.jɛ̃ də tʁɑ̃s.pɔʁ/ | nom m. | phương tiện giao thông | Le métro est un moyen de transport rapide. || Tàu điện ngầm là phương tiện nhanh.
+V: polluer | /pɔ.lɥe/ | verbe | gây ô nhiễm | Les voitures polluent. || Ô tô gây ô nhiễm.
+V: le mode de vie | /lə mɔd də vi/ | nom m. | lối sống | J'aime ce mode de vie. || Tôi thích lối sống này.
+V: la campagne | /la kɑ̃.paɲ/ | nom f. | nông thôn | J'habite à la campagne. || Tôi sống ở nông thôn.
+V: pratique | /pʁa.tik/ | adjectif | tiện lợi | C'est très pratique. || Rất tiện lợi.
+V: l'avantage | /la.vɑ̃.taʒ/ | nom m. | ưu điểm | Quels sont les avantages ? || Ưu điểm là gì?
+V: l'inconvénient | /lɛ̃.kɔ̃.ve.njɑ̃/ | nom m. | nhược điểm | Il y a un inconvénient. || Có một nhược điểm.
+V: le connecteur | /lə kɔ.nɛk.tœʁ/ | nom m. | từ nối | Utilise des connecteurs. || Hãy dùng từ nối.
+V: justifier | /ʒys.ti.fje/ | verbe | giải thích, chứng minh | Justifie ta réponse. || Hãy giải thích câu trả lời.
+VQ: Le contraire de « avantage » : | moyen | *inconvénient | mode | connecteur
+VQ: Le contraire de « la ville » : | le quartier | *la campagne | la rue | le pays
+VQ: « Donc », « mais », « parce que » sont des… | pronoms | *connecteurs | verbes | adjectifs
+VQ: Le vélo, le bus, le métro sont des moyens de… | vie | *transport | communication | paiement
+VQ: Donner les raisons de son avis, c'est le ___. = justifier
+D: À mon avis, la ville est plus pratique que la campagne.
+D: Par contre, la vie y est plus chère.
+D: Le vélo est le meilleur moyen de transport.
+D: En conclusion, chaque mode de vie a ses avantages.
+L: Hương | Tu préfères habiter en ville ou à la campagne ? || Bạn thích sống ở thành phố hay nông thôn?
+L: Marc | En ville, parce que tout est plus proche : le travail, les magasins, les cinémas. || Thành phố, vì mọi thứ gần hơn: chỗ làm, cửa hàng, rạp phim.
+L: Hương | C'est vrai, mais la campagne est beaucoup plus calme. Et l'air y est meilleur ! || Đúng, nhưng nông thôn yên tĩnh hơn nhiều. Và không khí ở đó trong lành hơn!
+L: Marc | D'accord, mais on s'ennuie plus vite. De plus, il faut une voiture pour tout. || Đồng ý, nhưng dễ chán hơn. Hơn nữa, làm gì cũng cần ô tô.
+L: Hương | Grâce à Internet, on peut travailler à la maison, donc ce n'est plus un problème. || Nhờ Internet, có thể làm việc ở nhà, nên đó không còn là vấn đề.
+L: Marc | En conclusion, le mieux, c'est peut-être une petite ville près de la nature ! || Kết luận, tốt nhất có lẽ là một thị trấn nhỏ gần thiên nhiên!
+LQ: Pourquoi Marc préfère la ville ? | c'est moins cher | *tout est plus proche | l'air est meilleur | c'est calme
+LQ: Selon Hương, la campagne est… | plus animée | *plus calme et l'air est meilleur | plus chère | plus dangereuse
+LQ: Quelle est la conclusion de Marc ? | la grande ville | *une petite ville près de la nature | la campagne | il ne sait pas
+RA: plus… que, moins… que, aussi… que, le meilleur.
+RA: Je pense que… À mon avis… Par contre… Donc…
+RA: En conclusion, chaque mode de vie a ses avantages.
+SH: Tu préfères habiter en ville ou à la campagne ?
+SH: C'est vrai, mais la campagne est beaucoup plus calme.
+SH: En conclusion, le mieux, c'est une petite ville !
+R.title: Apprendre seul ou avec un professeur ?
+R: Aujourd'hui, avec les applications, on peut apprendre une langue seul. Mais est-ce la meilleure méthode ? || Ngày nay, với các ứng dụng, có thể tự học một ngôn ngữ. Nhưng đó có phải là phương pháp tốt nhất?
+R: D'un côté, apprendre seul est moins cher et plus flexible : on étudie quand on veut. || Một mặt, tự học rẻ hơn và linh hoạt hơn: ta học khi nào muốn.
+R: De plus, on peut avancer à son rythme. || Hơn nữa, có thể tiến bộ theo nhịp độ của riêng mình.
+R: D'un autre côté, un professeur corrige nos erreurs et nous motive quand on est fatigué. || Mặt khác, giáo viên sửa lỗi cho ta và tạo động lực khi ta mệt mỏi.
+R: Par contre, on parle beaucoup moins quand on apprend seul : c'est le plus grand inconvénient. || Ngược lại, khi tự học ta nói ít hơn nhiều: đó là nhược điểm lớn nhất.
+R: En conclusion, je pense que le mieux est de combiner les deux : une application chaque jour et un cours de conversation par semaine. || Kết luận, tôi nghĩ tốt nhất là kết hợp cả hai: học ứng dụng mỗi ngày và một buổi luyện nói mỗi tuần.
+RQ: Quel est un avantage d'apprendre seul ? | on parle plus | *c'est moins cher et plus flexible | on fait moins d'erreurs | c'est plus motivant
+RQ: Que fait un professeur ? | il donne des notes seulement | *il corrige les erreurs et motive | il parle à notre place | rien
+RQ: Quelle est la conclusion ? | apprendre seul | *combiner les deux | avoir seulement un professeur | arrêter
+W.prompt: Écris un texte argumenté : « Vaut-il mieux voyager seul ou en groupe ? ». Compare, donne ton avis, justifie avec des exemples et conclus. || Viết một bài lập luận: « Nên đi du lịch một mình hay theo nhóm? ». So sánh, nêu ý kiến, chứng minh bằng ví dụ và kết luận.
+W.min: 80
+W.must: plus ; à mon avis ; parce que ; en conclusion
+W.check: Có so sánh (plus/moins/aussi… que, le meilleur)
+W.check: Có ý kiến, lý do, ví dụ, đối lập, kết luận
+W.check: Từ nối đa dạng (de plus, par contre, donc…)
+W.model: Voyager seul ou en groupe ? C'est une question difficile, parce que les deux ont des avantages. || Đi du lịch một mình hay theo nhóm? Đó là câu hỏi khó, vì cả hai đều có ưu điểm.
+W.model: D'un côté, voyager seul est plus libre : on choisit son itinéraire et on change ses plans quand on veut. || Một mặt, đi một mình tự do hơn: ta tự chọn lộ trình và thay đổi kế hoạch khi muốn.
+W.model: De plus, on rencontre plus facilement des habitants. Par exemple, à Sapa, j'ai parlé avec une famille pendant deux heures ! || Hơn nữa, dễ gặp gỡ người dân địa phương hơn. Ví dụ, ở Sa Pa, tôi đã trò chuyện với một gia đình suốt hai tiếng!
+W.model: Par contre, voyager en groupe est plus sûr et souvent moins cher, car on partage les frais. || Ngược lại, đi theo nhóm an toàn hơn và thường rẻ hơn, vì chia sẻ chi phí.
+W.model: À mon avis, le meilleur souvenir, c'est un moment partagé avec des amis. || Theo ý tôi, kỷ niệm đẹp nhất là khoảnh khắc chia sẻ cùng bạn bè.
+W.model: En conclusion, je pense que voyager seul est une belle expérience une fois, mais je préfère voyager avec les gens que j'aime. || Kết luận, tôi nghĩ đi một mình là một trải nghiệm đẹp một lần, nhưng tôi thích đi cùng những người tôi yêu quý hơn.
+
+## 4 | Révision : écrire un e-mail
+G.title: La structure d'un e-mail
+G.rule: Un e-mail bien écrit a un objet clair, une formule d'appel adaptée, un message organisé en paragraphes et une formule de politesse finale. On choisit le registre (amical ou formel) selon le destinataire. || Một e-mail viết tốt có tiêu đề rõ ràng, lời chào mở đầu phù hợp, nội dung chia thành các đoạn và lời chào kết lịch sự. Ta chọn văn phong (thân mật hay trang trọng) tùy người nhận.
+G.note: Thân mật: Salut / Coucou / Cher Paul, → tu → Bisous, À bientôt, Je t'embrasse. Trang trọng: Madame, Monsieur, / Bonjour Madame Martin, → vous → Cordialement, Bien cordialement, Je vous prie d'agréer… (rất trang trọng). Cấu trúc nội dung: (1) Lý do viết: Je vous écris pour… / Je t'écris pour te dire que… (2) Nội dung chi tiết. (3) Yêu cầu hoặc đề xuất: Pourriez-vous… ? Est-ce que tu peux… ? (4) Kết: Dans l'attente de votre réponse… / J'attends ta réponse ! Các chức năng: cảm ơn (Merci pour…), xin lỗi (Je suis désolé(e) de…), mời (Je voudrais t'inviter à…), từ chối (Malheureusement, je ne peux pas…).
+G.table: Partie | Amical | Formel
+G.row: appel | Salut Paul, | Madame, Monsieur,
+G.row: raison | Je t'écris pour… | Je vous écris pour…
+G.row: demande | Est-ce que tu peux… ? | Pourriez-vous… ?
+G.row: fin | J'attends ta réponse ! | Dans l'attente de votre réponse,
+G.row: signature | Bisous, Mai | Cordialement, Mai Nguyễn
+G.ex: Objet : Demande d'informations sur les cours de français || Tiêu đề: Hỏi thông tin về các khoá học tiếng Pháp
+G.ex: Je vous écris pour avoir des renseignements sur vos cours du soir. || Tôi viết thư để hỏi thông tin về các lớp buổi tối của quý trung tâm.
+G.ex: Pourriez-vous m'envoyer les horaires et les tarifs ? || Quý vị có thể gửi cho tôi lịch học và học phí không?
+G.ex: Dans l'attente de votre réponse, je vous prie d'agréer mes salutations distinguées. || Trong khi chờ hồi âm, xin quý vị nhận lời chào trân trọng của tôi.
+G.q: Pour un e-mail formel, on commence par… | Salut ! | *Madame, Monsieur, | Coucou ! | Cher copain,
+G.q: Pour finir un e-mail amical : | Cordialement | *Bisous | Je vous prie d'agréer… | Salutations distinguées
+G.q: Pour demander poliment dans un e-mail formel : | Tu peux… ? | *Pourriez-vous… ? | Donne-moi… | Je veux…
+G.q: La ligne qui résume le sujet de l'e-mail : | la signature | *l'objet | la formule de politesse | le paragraphe
+G.q: Formule de fin formelle simple : ___ = Cordialement / cordialement
+V: l'objet | /lɔb.ʒɛ/ | nom m. | tiêu đề (e-mail) | L'objet de l'e-mail est clair. || Tiêu đề e-mail rõ ràng.
+V: le destinataire | /lə dɛs.ti.na.tɛʁ/ | nom m. | người nhận | Qui est le destinataire ? || Người nhận là ai?
+V: le registre | /lə ʁə.ʒistʁ/ | nom m. | văn phong | Le registre formel. || Văn phong trang trọng.
+V: cordialement | /kɔʁ.dja.lə.mɑ̃/ | adverbe | trân trọng | Cordialement, Lan. || Trân trọng, Lan.
+V: les renseignements | /le ʁɑ̃.sɛɲ.mɑ̃/ | nom m. pl. | thông tin | Je voudrais des renseignements. || Tôi muốn hỏi thông tin.
+V: le tarif | /lə ta.ʁif/ | nom m. | giá, biểu phí | Quels sont vos tarifs ? || Biểu phí của quý vị là gì?
+V: le paragraphe | /lə pa.ʁa.ɡʁaf/ | nom m. | đoạn văn | Écris trois paragraphes. || Viết ba đoạn văn.
+V: la pièce jointe | /la pjɛs ʒwɛ̃t/ | nom f. | tệp đính kèm | Vous trouverez mon CV en pièce jointe. || Quý vị sẽ thấy CV của tôi trong tệp đính kèm.
+V: répondre | /ʁe.pɔ̃dʁ/ | verbe | trả lời | Merci de répondre rapidement. || Xin trả lời sớm.
+V: l'attente | /la.tɑ̃t/ | nom f. | sự chờ đợi | Dans l'attente de votre réponse. || Trong khi chờ hồi âm của quý vị.
+VQ: La personne qui reçoit un e-mail : | l'auteur | *le destinataire | l'objet | le registre
+VQ: Le document qu'on ajoute à un e-mail : | l'objet | *la pièce jointe | le paragraphe | la signature
+VQ: Le prix d'un service : | le registre | *le tarif | le renseignement | l'objet
+VQ: Formel ou amical, c'est le… | destinataire | *registre | tarif | paragraphe
+VQ: Synonyme de « informations » : des ___. = renseignements
+D: Je vous écris pour avoir des renseignements.
+D: Pourriez-vous m'envoyer les horaires et les tarifs ?
+D: Vous trouverez mon CV en pièce jointe.
+D: Dans l'attente de votre réponse, cordialement.
+L: Collègue | Tu peux relire mon e-mail pour la directrice ? || Bạn đọc lại giúp mình e-mail gửi bà giám đốc được không?
+L: Phương | Bien sûr. Oh… tu commences par « Salut » ? Ce n'est pas assez formel ! || Tất nhiên. Ôi… bạn mở đầu bằng « Salut » à? Thế là không đủ trang trọng!
+L: Collègue | Ah oui ! Je mets « Madame » alors ? || À đúng! Vậy mình ghi « Madame » nhé?
+L: Phương | Oui, « Bonjour Madame Leroy » ou « Madame, ». Et à la fin, pas « Bisous », mais « Cordialement » ! || Ừ, « Bonjour Madame Leroy » hoặc « Madame, ». Và ở cuối, không phải « Bisous », mà là « Cordialement »!
+L: Collègue | Et j'ai oublié l'objet… || Và mình quên ghi tiêu đề…
+L: Phương | Écris « Demande de congé du 10 au 15 mai ». C'est clair et précis. N'oublie pas de vouvoyer ! || Ghi « Xin nghỉ phép từ ngày 10 đến 15 tháng Năm ». Rõ ràng và chính xác. Đừng quên xưng « vous »!
+LQ: À qui est l'e-mail ? | à un ami | *à la directrice | à un client | à Phương
+LQ: Qu'est-ce qui ne va pas au début ? | l'objet | *« Salut » n'est pas assez formel | il n'y a pas de nom | c'est trop long
+LQ: Quel est l'objet de l'e-mail ? | une invitation | *une demande de congé | une réclamation | un CV
+RA: Madame, Monsieur, je vous écris pour…
+RA: Pourriez-vous m'envoyer les tarifs ?
+RA: Dans l'attente de votre réponse, cordialement.
+SH: Tu peux relire mon e-mail ?
+SH: Ce n'est pas assez formel !
+SH: N'oublie pas de vouvoyer !
+R.title: Deux e-mails
+R: Objet : Ce week-end ! — Salut Léa, tu es libre samedi ? On fait un pique-nique au parc avec les amis. Tu viens ? Bisous, Thu. || Tiêu đề: Cuối tuần này! — Chào Léa, thứ Bảy bạn rảnh không? Bọn mình đi dã ngoại ở công viên với các bạn. Bạn đến nhé? Hôn bạn, Thu.
+R: Objet : Re : Ce week-end ! — Coucou Thu ! Super idée ! Malheureusement, je travaille samedi matin, mais je peux venir à partir de quinze heures. J'apporte un gâteau ! Léa. || Tiêu đề: Re: Cuối tuần này! — Chào Thu! Ý hay quá! Tiếc là sáng thứ Bảy mình làm việc, nhưng từ ba giờ chiều mình có thể đến. Mình mang bánh nhé! Léa.
+R: Objet : Réservation de la salle municipale — Madame, Monsieur, je vous écris pour réserver la salle municipale le samedi 12 juin. || Tiêu đề: Đặt phòng sinh hoạt thành phố — Kính gửi Ông/Bà, tôi viết thư để đặt phòng sinh hoạt thành phố vào thứ Bảy ngày 12 tháng Sáu.
+R: Nous organisons une fête pour les quatre-vingts ans de ma grand-mère, avec environ cinquante invités. || Chúng tôi tổ chức tiệc mừng thọ tám mươi tuổi của bà tôi, với khoảng năm mươi khách mời.
+R: Pourriez-vous m'indiquer le tarif et les horaires d'ouverture ? || Ông/bà có thể cho tôi biết giá thuê và giờ mở cửa không?
+R: Dans l'attente de votre réponse, je vous prie d'agréer mes salutations distinguées. Nguyễn Thu. || Trong khi chờ hồi âm, xin Ông/Bà nhận lời chào trân trọng của tôi. Nguyễn Thu.
+RQ: Pourquoi Léa ne peut pas venir le matin ? | elle est malade | *elle travaille | elle dort | elle a un rendez-vous
+RQ: Qu'est-ce que Léa va apporter ? | des boissons | *un gâteau | de la musique | des fleurs
+RQ: Pourquoi Thu réserve la salle ? | pour un mariage | *pour les quatre-vingts ans de sa grand-mère | pour un concert | pour une réunion
+W.prompt: Écris deux courts e-mails : (1) un e-mail amical pour inviter un ami à fêter la fin de ton programme de français ; (2) un e-mail formel à une école de langues pour t'inscrire au niveau B1. || Viết hai e-mail ngắn: (1) một e-mail thân mật mời một người bạn ăn mừng việc hoàn thành chương trình tiếng Pháp; (2) một e-mail trang trọng gửi trường ngôn ngữ để đăng ký trình độ B1.
+W.min: 90
+W.must: objet ; je t'écris ; je vous écris ; cordialement
+W.check: Mỗi e-mail có tiêu đề, lời chào, nội dung, lời kết phù hợp
+W.check: tu cho e-mail thân mật, vous cho e-mail trang trọng
+W.check: Có yêu cầu lịch sự (pourriez-vous…)
+W.model: Objet : On fête ça ! — Salut Minh, je t'écris pour te dire que je viens de finir mon programme de français A2 ! || Tiêu đề: Ăn mừng thôi! — Chào Minh, mình viết để báo với bạn rằng mình vừa hoàn thành chương trình tiếng Pháp A2!
+W.model: Je voudrais t'inviter à dîner samedi soir dans le petit restaurant français près du lac. Tu es libre ? Réponds-moi vite ! Bisous, Lan. || Mình muốn mời bạn ăn tối thứ Bảy ở nhà hàng Pháp nhỏ gần hồ. Bạn rảnh không? Trả lời mình sớm nhé! Thân, Lan.
+W.model: Objet : Inscription au cours de niveau B1 — Madame, Monsieur, je vous écris pour m'inscrire à votre cours de français de niveau B1. || Tiêu đề: Đăng ký khoá học trình độ B1 — Kính gửi Ông/Bà, tôi viết thư để đăng ký khoá tiếng Pháp trình độ B1 của quý trường.
+W.model: J'ai étudié le français pendant huit mois et je viens de terminer le niveau A2. || Tôi đã học tiếng Pháp trong tám tháng và vừa hoàn thành trình độ A2.
+W.model: Pourriez-vous m'indiquer les dates des prochains cours, les horaires et les tarifs ? || Ông/Bà có thể cho tôi biết ngày khai giảng, lịch học và học phí không?
+W.model: Dans l'attente de votre réponse, je vous remercie par avance. Cordialement, Lan Trần. || Trong khi chờ hồi âm, tôi xin cảm ơn trước. Trân trọng, Lan Trần.
+
+## 5 | Préparation au test final
+G.title: Stratégies pour l'examen A2
+G.rule: Pour réussir un examen A2, on lit bien les consignes, on gère son temps, on utilise des phrases simples mais correctes, et on vérifie à la fin les accords, les conjugaisons et l'orthographe. || Để thi đỗ A2, ta đọc kỹ đề bài, quản lý thời gian, dùng câu đơn giản nhưng đúng, và cuối cùng kiểm tra sự hợp giống số, cách chia động từ và chính tả.
+G.note: Bài thi DELF A2 có bốn phần: compréhension de l'oral (nghe hiểu), compréhension des écrits (đọc hiểu), production écrite (viết), production orale (nói). Mẹo: (1) Nghe: đọc câu hỏi trước khi nghe, chú ý số, giờ, địa điểm. (2) Đọc: tìm từ khoá, không cần hiểu từng từ. (3) Viết: đủ số từ, đúng dạng (thư, e-mail…), lời chào và lời kết. (4) Nói: nếu không biết từ, hãy miêu tả (c'est un objet qui…), nói chậm và rõ, dám đặt câu hỏi: Pouvez-vous répéter, s'il vous plaît ? Danh sách kiểm tra lỗi: giống/số của tính từ, trợ động từ être/avoir, đuôi động từ, dấu (é, è, à, ç).
+G.table: Épreuve | Conseil
+G.row: compréhension de l'oral | Lire les questions avant d'écouter.
+G.row: compréhension des écrits | Chercher les mots-clés.
+G.row: production écrite | Respecter le nombre de mots et la forme.
+G.row: production orale | Parler lentement, demander de répéter.
+G.row: à la fin | Vérifier les accords et les accents.
+G.ex: Avant d'écouter, je lis les questions et je souligne les mots importants. || Trước khi nghe, tôi đọc câu hỏi và gạch chân các từ quan trọng.
+G.ex: Si je ne connais pas un mot, je le décris avec une phrase simple. || Nếu không biết một từ, tôi miêu tả nó bằng một câu đơn giản.
+G.ex: Excusez-moi, pouvez-vous répéter la question, s'il vous plaît ? || Xin lỗi, thầy/cô có thể nhắc lại câu hỏi được không?
+G.ex: À la fin, je relis mon texte pour vérifier les accords et les accents. || Cuối cùng, tôi đọc lại bài để kiểm tra sự hợp giống số và dấu.
+G.q: Avant d'écouter un document, il faut… | fermer les yeux | *lire les questions | écrire la réponse | parler
+G.q: À l'oral, si on ne comprend pas, on peut dire… | Je ne sais pas, au revoir. | *Pouvez-vous répéter, s'il vous plaît ? | Quoi ? | Rien.
+G.q: Dans un texte, les mots les plus importants sont les… | articles | *mots-clés | pronoms | accents
+G.q: À la fin de l'écrit, on vérifie… | la couleur du stylo | *les accords et les accents | le nom du professeur | l'heure
+G.q: L'examen officiel de français pour le niveau A2 s'appelle le ___ A2. = DELF
+V: l'examen | /lɛɡ.za.mɛ̃/ | nom m. | kỳ thi | Je passe l'examen samedi. || Thứ Bảy tôi thi.
+V: la consigne | /la kɔ̃.siɲ/ | nom f. | yêu cầu đề bài | Lis bien la consigne. || Đọc kỹ yêu cầu đề bài.
+V: l'épreuve | /le.pʁœv/ | nom f. | phần thi | Il y a quatre épreuves. || Có bốn phần thi.
+V: la compréhension | /la kɔ̃.pʁe.ɑ̃.sjɔ̃/ | nom f. | sự hiểu | La compréhension de l'oral. || Nghe hiểu.
+V: la production | /la pʁɔ.dyk.sjɔ̃/ | nom f. | sự tạo lập (viết, nói) | La production écrite. || Phần viết.
+V: le mot-clé | /lə mo.kle/ | nom m. | từ khoá | Souligne les mots-clés. || Gạch chân từ khoá.
+V: souligner | /su.li.ɲe/ | verbe | gạch chân | Je souligne les mots importants. || Tôi gạch chân các từ quan trọng.
+V: relire | /ʁə.liʁ/ | verbe | đọc lại | Relis ton texte. || Đọc lại bài của bạn.
+V: l'orthographe | /lɔʁ.tɔ.ɡʁaf/ | nom f. | chính tả | Attention à l'orthographe ! || Chú ý chính tả!
+V: réussir | /ʁe.y.siʁ/ | verbe | thành công, thi đỗ | Tu vas réussir ! || Bạn sẽ thi đỗ!
+VQ: Les instructions d'un exercice : | l'épreuve | *la consigne | le mot-clé | l'orthographe
+VQ: Le contraire de « échouer » à un examen : | relire | *réussir | souligner | répéter
+VQ: La manière correcte d'écrire les mots : | la grammaire | *l'orthographe | la prononciation | la consigne
+VQ: Lire encore une fois son texte, c'est le… | souligner | *relire | réussir | répondre
+VQ: Une partie d'un examen : une ___. = épreuve
+D: Avant d'écouter, je lis les questions.
+D: Si je ne connais pas un mot, je le décris.
+D: Pouvez-vous répéter la question, s'il vous plaît ?
+D: À la fin, je relis mon texte.
+L: Professeure | Alors, prêts pour le test final ? || Nào, các em sẵn sàng cho bài kiểm tra cuối khoá chưa?
+L: Ánh | Je suis un peu stressée. J'ai peur de ne pas comprendre l'écoute. || Em hơi căng thẳng. Em sợ không hiểu phần nghe.
+L: Professeure | C'est normal. Lis les questions avant, et concentre-toi sur les chiffres et les lieux. || Bình thường thôi. Hãy đọc câu hỏi trước, và tập trung vào con số và địa điểm.
+L: Ánh | Et pour l'expression écrite ? || Còn phần viết thì sao ạ?
+L: Professeure | Fais des phrases simples, utilise des connecteurs et relis-toi à la fin. Vérifie bien les accords ! || Viết câu đơn giản, dùng từ nối và đọc lại bài ở cuối. Kiểm tra kỹ sự hợp giống số!
+L: Ánh | Merci, madame. Je vais faire de mon mieux ! || Cảm ơn cô. Em sẽ cố gắng hết sức!
+LQ: De quoi Ánh a-t-elle peur ? | de l'écrit | *de ne pas comprendre l'écoute | de l'oral | du professeur
+LQ: Pendant l'écoute, il faut se concentrer sur… | les couleurs | *les chiffres et les lieux | les noms seulement | la musique
+LQ: Pour l'écrit, la professeure conseille de… | écrire des phrases très longues | *faire des phrases simples et se relire | écrire vite | ne pas utiliser de connecteurs
+RA: compréhension de l'oral, compréhension des écrits.
+RA: production écrite, production orale.
+RA: Pouvez-vous répéter, s'il vous plaît ?
+SH: Je suis un peu stressée.
+SH: Lis les questions avant d'écouter.
+SH: Je vais faire de mon mieux !
+R.title: Lettre à moi-même
+R: Chère moi du passé, il y a trente-deux semaines, tu ne savais dire que « bonjour » et « merci ». || Gửi tôi của quá khứ, ba mươi hai tuần trước, bạn chỉ biết nói « bonjour » và « merci ».
+R: Aujourd'hui, tu peux te présenter, raconter tes souvenirs, donner ton avis et écrire des e-mails. || Hôm nay, bạn có thể giới thiệu bản thân, kể về kỷ niệm, nêu ý kiến và viết e-mail.
+R: Tu as appris à ne pas avoir peur des erreurs : elles t'ont aidée à progresser. || Bạn đã học được cách không sợ mắc lỗi: chúng đã giúp bạn tiến bộ.
+R: Il y a eu des jours difficiles où tu voulais abandonner, mais tu as continué. || Có những ngày khó khăn bạn muốn bỏ cuộc, nhưng bạn đã tiếp tục.
+R: Maintenant, une nouvelle aventure commence : le niveau B1 ! || Giờ đây, một cuộc phiêu lưu mới bắt đầu: trình độ B1!
+R: Je suis fière de toi. Continue à penser en français ! || Tôi tự hào về bạn. Hãy tiếp tục tư duy bằng tiếng Pháp!
+RQ: Il y a trente-deux semaines, elle savait dire… | beaucoup de phrases | *seulement « bonjour » et « merci » | rien | des chansons
+RQ: Qu'est-ce que les erreurs lui ont apporté ? | du stress | *elles l'ont aidée à progresser | de la honte | rien
+RQ: Quelle est la nouvelle aventure ? | un voyage | *le niveau B1 | un nouveau travail | un examen de maths
+W.prompt: Écris une lettre à toi-même : ce que tu savais au début, ce que tu sais faire maintenant, tes difficultés, tes réussites et tes objectifs pour le niveau B1. || Viết một lá thư cho chính mình: lúc đầu bạn biết gì, giờ bạn làm được gì, khó khăn, thành công và mục tiêu cho trình độ B1.
+W.min: 80
+W.must: au début ; maintenant ; je vais
+W.check: Dùng nhiều thì: imparfait, passé composé, présent, futur proche
+W.check: Có khó khăn, thành công và mục tiêu
+W.check: Kiểm tra hợp giống số, chia động từ và dấu
+W.model: Cher moi, au début de ce programme, je ne comprenais rien aux dialogues et j'avais peur de parler. || Gửi chính tôi, khi bắt đầu chương trình này, tôi không hiểu gì các đoạn hội thoại và tôi sợ nói.
+W.model: Les verbes irréguliers étaient mon cauchemar, et je confondais toujours « le » et « lui » ! || Động từ bất quy tắc là cơn ác mộng của tôi, và tôi luôn nhầm « le » với « lui »!
+W.model: Maintenant, je peux raconter un voyage, comparer deux villes et écrire un e-mail formel. || Bây giờ, tôi có thể kể về một chuyến đi, so sánh hai thành phố và viết một e-mail trang trọng.
+W.model: Ma plus grande réussite ? J'ai parlé vingt minutes avec un touriste français à Hội An, sans anglais ! || Thành công lớn nhất của tôi? Tôi đã nói chuyện hai mươi phút với một du khách Pháp ở Hội An, không dùng tiếng Anh!
+W.model: Pour le niveau B1, je vais lire un roman français, regarder des films sans sous-titres et passer le DELF B1 l'année prochaine. || Với trình độ B1, tôi sẽ đọc một cuốn tiểu thuyết Pháp, xem phim không phụ đề và thi DELF B1 vào năm sau.
+W.model: Bravo pour tous ces efforts, et continue à penser en français ! || Chúc mừng vì tất cả những nỗ lực đó, và hãy tiếp tục tư duy bằng tiếng Pháp!

@@ -2338,3 +2338,16 @@ la star | nom f. | ngôi sao
 varié | adjectif | đa dạng
 @v valoir | có giá trị (il vaut mieux: tốt hơn là) | vaux,vaux,vaut,valons,valez,valent | valu | val | vaudr
 l'obligation | nom f. | nghĩa vụ, sự bắt buộc
+l'augmentation | nom f. | sự tăng (lương)
+@er concentrer | tập trung (se concentrer)
+@re confondre | nhầm lẫn
+flexible | adjectif | linh hoạt
+@er gérer | quản lý
+l'instruction | nom f. | chỉ dẫn
+motivant | adjectif | tạo động lực
+@er motiver | tạo động lực
+le paiement | nom m. | sự thanh toán
+le renseignement | nom m. | thông tin
+la réclamation | nom f. | khiếu nại
+gère | verbe | quản lý (gérer)
+remplaçant | participe | thay thế (remplacer)
