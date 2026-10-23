@@ -2219,3 +2219,37 @@ tardif | adjectif | muộn
 turquoise | adjectif | xanh ngọc
 la tutrice | nom f. | người hướng dẫn (nữ)
 également | adverbe | cũng
+le hobby | nom m. | sở thích (hobbies)
+les hobbies | nom m. pl. | sở thích
+l'ambassade | nom f. | đại sứ quán
+@v atteindre | đạt tới | atteins,atteins,atteint,atteignons,atteignez,atteignent | atteint | atteign | atteindr
+le camping | nom m. | cắm trại
+la carrière | nom f. | sự nghiệp
+la chaleur | nom f. | sức nóng
+le chiffre | nom m. | con số
+climatique | adjectif | thuộc khí hậu
+le conflit | nom m. | xung đột
+le déchet | nom m. | rác thải
+l'environnement | nom m. | môi trường
+le fer | nom m. | sắt
+@er fonder | thành lập
+l'harmonie | nom f. | sự hài hoà
+l'horoscope | nom m. | tử vi
+improbable | adjectif | khó xảy ra
+incertain | adjectif | không chắc chắn
+logique | adjectif | hợp lý, logic
+la lune | nom f. | mặt trăng
+le milliard | nom m. | tỷ
+mondial | adjectif | toàn cầu
+le planning | nom m. | lịch làm việc
+le plastique | nom m. | nhựa
+pluvieux | adjectif | nhiều mưa
+la population | nom f. | dân số
+la probabilité | nom f. | khả năng, xác suất
+la réalité | nom f. | thực tế
+le réchauffement | nom m. | sự nóng lên
+scientifique | adjectif | khoa học; nhà khoa học
+sortant | participe | khi ra ngoài (en sortant)
+tentant | adjectif | hấp dẫn, cám dỗ
+@er trier | phân loại
+@er économiser | tiết kiệm

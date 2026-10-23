@@ -1,0 +1,383 @@
+@week 29
+@title Le futur simple
+@level A2
+
+## 1 | La formation du futur simple
+G.title: Infinitif + -ai, -as, -a…
+G.rule: Le futur simple exprime une action future, souvent plus lointaine ou plus certaine que le futur proche. On le forme avec l'infinitif + les terminaisons -ai, -as, -a, -ons, -ez, -ont. Pour les verbes en -re, on enlève le e final. || Thì tương lai đơn diễn tả một hành động trong tương lai, thường xa hơn hoặc chắc chắn hơn tương lai gần. Ta tạo nó bằng động từ nguyên mẫu + các đuôi -ai, -as, -a, -ons, -ez, -ont. Với động từ đuôi -re, bỏ chữ e cuối.
+G.note: parler → je parlerai, tu parleras, il parlera, nous parlerons, vous parlerez, ils parleront. finir → je finirai. prendre → je prendrai (bỏ e). Mẹo: đuôi giống động từ avoir ở hiện tại (ai, as, a, ons, ez, ont)! Phát âm: chữ R luôn nghe thấy ở mọi ngôi. So sánh: futur proche (je vais partir — sắp, chắc chắn sớm) / futur simple (je partirai — trong tương lai, kế hoạch, dự đoán). Từ chỉ thời gian: demain, la semaine prochaine, dans deux ans, un jour, plus tard.
+G.table: Pronom | Parler | Finir | Prendre
+G.row: je | parlerai | finirai | prendrai
+G.row: tu | parleras | finiras | prendras
+G.row: il / elle | parlera | finira | prendra
+G.row: nous | parlerons | finirons | prendrons
+G.row: vous | parlerez | finirez | prendrez
+G.row: ils / elles | parleront | finiront | prendront
+G.ex: L'année prochaine, je travaillerai en France. || Năm sau, tôi sẽ làm việc ở Pháp.
+G.ex: Nous partirons en vacances en juillet. || Chúng tôi sẽ đi nghỉ vào tháng Bảy.
+G.ex: Tu finiras tes études dans deux ans. || Hai năm nữa bạn sẽ học xong.
+G.ex: Ils prendront le train de huit heures. || Họ sẽ đi chuyến tàu tám giờ.
+G.q: Futur de « parler » avec « nous » : | parlons | *parlerons | parlerions | parlrons
+G.q: Futur de « prendre » avec « je » : | prenderai | *prendrai | prendai | prendrais
+G.q: Les terminaisons du futur ressemblent au présent de… | être | *avoir | aller | faire
+G.q: Elle ___ (finir) à six heures. | finit | *finira | finirai | finiras
+G.q: Futur de « manger » avec « ils » : ils ___ = mangeront
+V: le futur | /lə fy.tyʁ/ | nom m. | tương lai | On parle du futur. || Chúng ta nói về tương lai.
+V: l'avenir | /lav.niʁ/ | nom m. | tương lai, tiền đồ | Je pense à mon avenir. || Tôi nghĩ về tương lai của mình.
+V: un jour | /œ̃ ʒuʁ/ | expression | một ngày nào đó | Un jour, je visiterai Paris. || Một ngày nào đó, tôi sẽ đến thăm Paris.
+V: plus tard | /ply taʁ/ | expression | sau này | Plus tard, je serai médecin. || Sau này, tôi sẽ là bác sĩ.
+V: prochain | /pʁɔ.ʃɛ̃/ | adjectif | tới, sắp tới | L'année prochaine. || Năm tới.
+V: dans | /dɑ̃/ | préposition | trong (… nữa) | Je partirai dans deux semaines. || Hai tuần nữa tôi sẽ đi.
+V: lointain | /lwɛ̃.tɛ̃/ | adjectif | xa xôi | Dans un futur lointain. || Trong một tương lai xa.
+V: certain | /sɛʁ.tɛ̃/ | adjectif | chắc chắn | Je suis certain qu'il viendra. || Tôi chắc chắn anh ấy sẽ đến.
+V: le projet | /lə pʁɔ.ʒɛ/ | nom m. | dự định | Quels sont tes projets ? || Dự định của bạn là gì?
+V: bientôt | /bjɛ̃.to/ | adverbe | sắp, sớm | Nous arriverons bientôt. || Chúng tôi sắp đến nơi.
+VQ: Le contraire de « le passé » : | le présent | *le futur | hier | autrefois
+VQ: « Dans deux ans » parle… | du passé | *du futur | du présent | d'une habitude
+VQ: Synonyme de « le futur » (pour sa vie) : | le passé | *l'avenir | l'enfance | le souvenir
+VQ: Le contraire de « proche » (temps) : | prochain | *lointain | certain | bientôt
+VQ: Futur de « finir » avec « tu » : tu ___ = finiras
+D: L'année prochaine, je travaillerai en France.
+D: Nous partirons en vacances en juillet.
+D: Tu finiras tes études dans deux ans.
+D: Ils prendront le train de huit heures.
+L: Mẹ | Alors, tu as décidé ce que tu feras après le lycée ? || Thế, con đã quyết định sẽ làm gì sau cấp ba chưa?
+L: Fille | Oui ! J'étudierai le commerce international à l'université. || Rồi ạ! Con sẽ học thương mại quốc tế ở đại học.
+L: Mẹ | Et tu resteras à Hanoï ? || Con sẽ ở lại Hà Nội à?
+L: Fille | Les trois premières années, oui. Ensuite, je partirai en France pour un master. || Ba năm đầu thì có. Sau đó, con sẽ sang Pháp học thạc sĩ.
+L: Mẹ | Tu me manqueras beaucoup… || Mẹ sẽ nhớ con lắm…
+L: Fille | Je t'appellerai tous les jours, promis ! || Con sẽ gọi cho mẹ mỗi ngày, con hứa!
+LQ: Qu'est-ce que la fille étudiera ? | la médecine | *le commerce international | le français | le droit
+LQ: Combien d'années restera-t-elle à Hanoï ? | une | deux | *trois | cinq
+LQ: Qu'est-ce qu'elle promet ? | de revenir vite | *d'appeler tous les jours | d'écrire des lettres | de rester
+RA: je parlerai, tu parleras, il parlera.
+RA: nous parlerons, vous parlerez, ils parleront.
+RA: je finirai, je prendrai, je partirai.
+SH: J'étudierai le commerce international.
+SH: Ensuite, je partirai en France pour un master.
+SH: Je t'appellerai tous les jours, promis !
+R.title: Horoscope de la semaine : Lion
+R: Cette semaine, vous rencontrerez une personne importante pour votre carrière. || Tuần này, bạn sẽ gặp một người quan trọng cho sự nghiệp.
+R: Au travail, vous finirez enfin un projet difficile et votre chef vous félicitera. || Ở chỗ làm, cuối cùng bạn sẽ hoàn thành một dự án khó và sếp sẽ khen ngợi bạn.
+R: En amour, vous recevrez un message surprise mercredi. || Trong tình yêu, bạn sẽ nhận được một tin nhắn bất ngờ vào thứ Tư.
+R: Côté santé, vous dormirez mal en début de semaine : buvez moins de café ! || Về sức khoẻ, bạn sẽ ngủ không ngon vào đầu tuần: hãy uống ít cà phê hơn!
+R: Le week-end, vous partirez à la campagne et vous oublierez le stress. || Cuối tuần, bạn sẽ về nông thôn và quên đi căng thẳng.
+R: Votre chiffre de la chance : le sept. || Con số may mắn của bạn: số bảy.
+RQ: Qu'est-ce qui arrivera au travail ? | un nouveau travail | *le chef félicitera le Lion | un conflit | des vacances
+RQ: Quand recevra-t-il un message surprise ? | lundi | *mercredi | vendredi | dimanche
+RQ: Où partira-t-il le week-end ? | à la mer | *à la campagne | à l'étranger | à la montagne
+W.prompt: Écris ton horoscope personnel pour la semaine prochaine : travail, amour, santé, loisirs. Utilise au moins huit verbes au futur simple. || Viết tử vi của bạn cho tuần tới: công việc, tình yêu, sức khoẻ, giải trí. Dùng ít nhất tám động từ ở thì tương lai đơn.
+W.min: 50
+W.must: vous ; rai ; ront
+W.check: Nguyên mẫu + đuôi -ai, -as, -a, -ons, -ez, -ont
+W.check: Động từ -re bỏ e (prendre → prendr-)
+W.check: Có nhiều chủ đề khác nhau
+W.model: La semaine prochaine, je travaillerai beaucoup, mais je réussirai mon examen de français. || Tuần tới, tôi sẽ làm việc nhiều, nhưng tôi sẽ đỗ kỳ thi tiếng Pháp.
+W.model: Lundi, mon chef me donnera un nouveau projet. || Thứ Hai, sếp sẽ giao cho tôi một dự án mới.
+W.model: Mercredi, je rencontrerai une personne intéressante dans le métro. || Thứ Tư, tôi sẽ gặp một người thú vị trên tàu điện ngầm.
+W.model: Je mangerai mieux et je dormirai huit heures par nuit. || Tôi sẽ ăn uống tốt hơn và ngủ tám tiếng mỗi đêm.
+W.model: Samedi, mes amis et moi partirons à la plage. Nous nagerons et nous danserons ! || Thứ Bảy, các bạn và tôi sẽ đi biển. Chúng tôi sẽ bơi và nhảy múa!
+W.model: Dimanche, je me reposerai et je préparerai la semaine suivante. || Chủ Nhật, tôi sẽ nghỉ ngơi và chuẩn bị cho tuần tiếp theo.
+
+## 2 | Les futurs irréguliers
+G.title: Être → je serai, avoir → j'aurai…
+G.rule: Certains verbes fréquents ont un radical irrégulier au futur, mais les terminaisons restent les mêmes : être → ser-, avoir → aur-, aller → ir-, faire → fer-, venir → viendr-, pouvoir → pourr-, vouloir → voudr-, voir → verr-, savoir → saur-, devoir → devr-. || Một số động từ thông dụng có gốc bất quy tắc ở thì tương lai, nhưng đuôi vẫn giữ nguyên: être → ser-, avoir → aur-, aller → ir-, faire → fer-, venir → viendr-, pouvoir → pourr-, vouloir → voudr-, voir → verr-, savoir → saur-, devoir → devr-.
+G.note: Học theo cặp: je serai (tôi sẽ là), j'aurai (tôi sẽ có), j'irai (tôi sẽ đi), je ferai (tôi sẽ làm), je viendrai (tôi sẽ đến), je pourrai (tôi sẽ có thể), je voudrai (tôi sẽ muốn), je verrai (tôi sẽ thấy), je saurai (tôi sẽ biết), je devrai (tôi sẽ phải). Không nhân xưng: il faudra (sẽ cần), il pleuvra (trời sẽ mưa). Cụm phổ biến: On verra ! (Để xem đã!). Chú ý: je voudrai (tương lai) khác je voudrais (điều kiện lịch sự)!
+G.table: Infinitif | Futur | Infinitif | Futur
+G.row: être | je serai | aller | j'irai
+G.row: avoir | j'aurai | faire | je ferai
+G.row: venir | je viendrai | voir | je verrai
+G.row: pouvoir | je pourrai | savoir | je saurai
+G.row: devoir | je devrai | falloir | il faudra
+G.ex: Demain, il fera beau et nous irons à la plage. || Ngày mai trời sẽ đẹp và chúng tôi sẽ đi biển.
+G.ex: Tu viendras à ma fête samedi ? || Thứ Bảy bạn sẽ đến bữa tiệc của mình chứ?
+G.ex: Dans dix ans, j'aurai une grande maison avec un jardin. || Mười năm nữa, tôi sẽ có một ngôi nhà lớn với khu vườn.
+G.ex: Je ne sais pas encore. On verra ! || Tôi chưa biết. Để xem đã!
+G.q: Futur de « être » avec « je » : | j'étrai | *je serai | je sera | j'serai
+G.q: Futur de « aller » avec « nous » : | allerons | *irons | vont | irions
+G.q: Futur de « faire » avec « il » : | faira | *fera | fairera | fait
+G.q: Futur de « venir » avec « tu » : | veniras | *viendras | vendras | viens
+G.q: Futur de « avoir » avec « j' » : j'___ = aurai
+V: serai | /sə.ʁɛ/ | verbe | sẽ là (être) | Je serai là à huit heures. || Tôi sẽ có mặt lúc tám giờ.
+V: aurai | /o.ʁɛ/ | verbe | sẽ có (avoir) | J'aurai trente ans en mai. || Tháng Năm tôi sẽ tròn ba mươi tuổi.
+V: irai | /i.ʁɛ/ | verbe | sẽ đi (aller) | J'irai au Japon. || Tôi sẽ đi Nhật.
+V: ferai | /fə.ʁɛ/ | verbe | sẽ làm (faire) | Je ferai le ménage demain. || Mai tôi sẽ dọn nhà.
+V: viendrai | /vjɛ̃.dʁɛ/ | verbe | sẽ đến (venir) | Je viendrai avec ma sœur. || Tôi sẽ đến cùng chị gái.
+V: pourrai | /pu.ʁɛ/ | verbe | sẽ có thể (pouvoir) | Je pourrai t'aider. || Tôi sẽ có thể giúp bạn.
+V: verrai | /vɛ.ʁɛ/ | verbe | sẽ thấy (voir) | On verra ! || Để xem đã!
+V: saurai | /so.ʁɛ/ | verbe | sẽ biết (savoir) | Je saurai la réponse demain. || Mai tôi sẽ biết câu trả lời.
+V: devrai | /də.vʁɛ/ | verbe | sẽ phải (devoir) | Je devrai partir tôt. || Tôi sẽ phải đi sớm.
+V: il faudra | /il fo.dʁa/ | expression | sẽ cần | Il faudra réserver. || Sẽ cần đặt trước.
+VQ: « On verra ! » veut dire… | on regarde la télé | *on décidera plus tard | on ne sait jamais | c'est sûr
+VQ: Futur de « pouvoir » avec « nous » : | pouvrons | *pourrons | pourons | pouvons
+VQ: Futur de « savoir » avec « je » : | savrai | *saurai | sairai | serai
+VQ: Futur de « falloir » : | il fallera | *il faudra | il faut | il fallra
+VQ: Futur de « voir » avec « je » : je ___ = verrai
+D: Demain, il fera beau et nous irons à la plage.
+D: Tu viendras à ma fête samedi ?
+D: Dans dix ans, j'aurai une grande maison.
+D: Je ne sais pas encore. On verra !
+L: Paul | Tu viendras au festival de musique en août ? || Tháng Tám bạn sẽ đến lễ hội âm nhạc chứ?
+L: Hồng | Je ne sais pas. Je devrai peut-être travailler. || Mình không biết. Có thể mình sẽ phải làm việc.
+L: Paul | Dommage ! Il y aura des groupes géniaux. Et il fera chaud ! || Tiếc quá! Sẽ có những ban nhạc tuyệt vời. Và trời sẽ nóng!
+L: Hồng | Tu iras avec qui ? || Bạn sẽ đi với ai?
+L: Paul | Avec Marc et Julie. Nous ferons du camping. Tu pourras dormir dans notre tente ! || Với Marc và Julie. Bọn mình sẽ cắm trại. Bạn có thể ngủ trong lều của bọn mình!
+L: Hồng | C'est tentant… Je saurai mon planning la semaine prochaine. On verra ! || Hấp dẫn quá… Tuần sau mình sẽ biết lịch làm việc. Để xem đã!
+LQ: Quand a lieu le festival ? | en juillet | *en août | en juin | en septembre
+LQ: Avec qui ira Paul ? | seul | *avec Marc et Julie | avec Hồng | avec sa famille
+LQ: Quand Hồng saura-t-elle son planning ? | demain | *la semaine prochaine | en août | jamais
+RA: je serai, j'aurai, j'irai, je ferai.
+RA: je viendrai, je pourrai, je verrai, je saurai.
+RA: Il fera beau. Il faudra réserver. On verra !
+SH: Tu viendras au festival en août ?
+SH: Nous ferons du camping.
+SH: Je saurai mon planning la semaine prochaine. On verra !
+R.title: Programme du voyage scolaire
+R: Le voyage scolaire à Paris aura lieu du 10 au 14 mai. || Chuyến đi ngoại khoá đến Paris sẽ diễn ra từ ngày 10 đến 14 tháng Năm.
+R: Nous partirons de l'école le lundi à sept heures et nous serons à Paris à midi. || Chúng ta sẽ khởi hành từ trường vào thứ Hai lúc bảy giờ và sẽ đến Paris lúc trưa.
+R: Le mardi, nous irons au musée du Louvre et nous verrons la Joconde. || Thứ Ba, chúng ta sẽ đến bảo tàng Louvre và sẽ xem bức Mona Lisa.
+R: Le mercredi, les élèves feront une promenade en bateau sur la Seine. || Thứ Tư, học sinh sẽ đi dạo bằng thuyền trên sông Seine.
+R: Il faudra apporter un pique-nique pour le premier jour et un imperméable : il pleuvra peut-être ! || Cần mang đồ ăn trưa cho ngày đầu tiên và một áo mưa: có thể trời sẽ mưa!
+R: Les parents pourront suivre le voyage sur le blog de la classe. || Phụ huynh sẽ có thể theo dõi chuyến đi trên blog của lớp.
+RQ: Quand arriveront-ils à Paris ? | à sept heures | *à midi | le mardi | le soir
+RQ: Que verront-ils au Louvre ? | la tour Eiffel | *la Joconde | la Seine | Notre-Dame
+RQ: Qu'est-ce qu'il faudra apporter ? | de l'argent | *un pique-nique et un imperméable | un appareil photo | des livres
+W.prompt: Organise un week-end idéal avec des amis. Décris le programme au futur simple en utilisant au moins six verbes irréguliers (être, avoir, aller, faire, venir, pouvoir, voir…). || Lên kế hoạch cho một cuối tuần lý tưởng với bạn bè. Miêu tả chương trình ở thì tương lai đơn, dùng ít nhất sáu động từ bất quy tắc (être, avoir, aller, faire, venir, pouvoir, voir…).
+W.min: 55
+W.must: nous irons ; nous ferons ; il faudra
+W.check: Gốc bất quy tắc đúng (ser-, aur-, ir-, fer-, viendr-, pourr-, verr-)
+W.check: Đuôi tương lai đúng
+W.check: Có thứ tự thời gian (samedi matin, ensuite…)
+W.model: Le week-end prochain, nous irons à Mũi Né avec quatre amis. || Cuối tuần tới, chúng tôi sẽ đi Mũi Né với bốn người bạn.
+W.model: Nous partirons vendredi soir en bus et nous serons là-bas vers minuit. || Chúng tôi sẽ đi xe buýt tối thứ Sáu và sẽ đến đó khoảng nửa đêm.
+W.model: Samedi matin, nous verrons le lever du soleil sur les dunes de sable. || Sáng thứ Bảy, chúng tôi sẽ ngắm bình minh trên những đồi cát.
+W.model: L'après-midi, nous ferons du kitesurf : Bình viendra avec son matériel. || Buổi chiều, chúng tôi sẽ chơi lướt ván diều: Bình sẽ mang dụng cụ đến.
+W.model: Le soir, nous aurons un grand dîner de fruits de mer sur la plage. || Buổi tối, chúng tôi sẽ có một bữa tối hải sản lớn trên bãi biển.
+W.model: Il faudra réserver l'hôtel cette semaine. Je pourrai m'en occuper ! || Cần đặt khách sạn trong tuần này. Tôi có thể lo việc đó!
+
+## 3 | Si + présent, futur
+G.title: L'hypothèse probable
+G.rule: Pour exprimer une condition probable et sa conséquence, on utilise si + présent dans la condition, et le futur simple dans la conséquence : S'il fait beau, nous irons à la plage. || Để diễn tả một điều kiện có khả năng xảy ra và kết quả của nó, ta dùng si + hiện tại ở mệnh đề điều kiện, và tương lai đơn ở mệnh đề kết quả: S'il fait beau, nous irons à la plage (Nếu trời đẹp, chúng ta sẽ đi biển).
+G.note: Quy tắc vàng: KHÔNG BAO GIỜ dùng tương lai sau "si"! "Si il fera beau" ✗ → "S'il fait beau" ✓. si + il/ils → s'il / s'ils (nhưng si elle, si on giữ nguyên). Hai mệnh đề có thể đổi chỗ: Nous irons à la plage s'il fait beau. Kết quả cũng có thể là mệnh lệnh hoặc hiện tại: Si tu as faim, mange ! Si tu veux, je t'aide. Phủ định: Si tu ne te dépêches pas, tu rateras le bus.
+G.table: Si + présent | Futur
+G.row: S'il pleut, | je resterai à la maison.
+G.row: Si tu travailles bien, | tu réussiras.
+G.row: Si nous avons le temps, | nous visiterons le musée.
+G.row: Si tu ne te dépêches pas, | tu rateras le bus.
+G.ex: Si j'ai assez d'argent, j'irai en France l'été prochain. || Nếu tôi có đủ tiền, mùa hè tới tôi sẽ đi Pháp.
+G.ex: S'il pleut demain, nous regarderons un film à la maison. || Nếu mai trời mưa, chúng ta sẽ xem phim ở nhà.
+G.ex: Tu seras fatigué si tu te couches trop tard. || Bạn sẽ mệt nếu đi ngủ quá muộn.
+G.ex: Si vous avez des questions, n'hésitez pas à m'appeler. || Nếu anh có câu hỏi, đừng ngại gọi cho tôi.
+G.q: S'il ___ beau, nous sortirons. | fera | *fait | ferait | a fait
+G.q: Si tu travailles, tu ___. | réussis toujours | *réussiras | réussirais | as réussi
+G.q: si + il = | si il | *s'il | sil | si l'
+G.q: Après « si » (condition probable), on n'utilise jamais… | le présent | *le futur | l'indicatif | un verbe
+G.q: Si j'ai le temps, je t'___ (appeler). = appellerai
+V: si | /si/ | conjonction | nếu | Si tu veux, on y va. || Nếu bạn muốn, chúng ta đi.
+V: la condition | /la kɔ̃.di.sjɔ̃/ | nom f. | điều kiện | J'accepte, à une condition. || Tôi đồng ý, với một điều kiện.
+V: la conséquence | /la kɔ̃.se.kɑ̃s/ | nom f. | hậu quả, kết quả | C'est la conséquence logique. || Đó là hệ quả hợp lý.
+V: l'hypothèse | /li.pɔ.tɛz/ | nom f. | giả thuyết | C'est une hypothèse. || Đó là một giả thuyết.
+V: hésiter | /e.zi.te/ | verbe | do dự, ngại | N'hésitez pas à demander. || Đừng ngại hỏi.
+V: rater | /ʁa.te/ | verbe | lỡ, trượt | Tu rateras le train. || Bạn sẽ lỡ tàu.
+V: réussir | /ʁe.y.siʁ/ | verbe | thành công | Tu réussiras ! || Bạn sẽ thành công!
+V: le temps libre | /lə tɑ̃ libʁ/ | nom m. | thời gian rảnh | Si j'ai du temps libre, je lirai. || Nếu tôi có thời gian rảnh, tôi sẽ đọc sách.
+V: probable | /pʁɔ.babl/ | adjectif | có thể xảy ra | C'est très probable. || Rất có khả năng.
+V: dépêcher | /de.pe.ʃe/ | verbe | (se dépêcher) nhanh lên | Si tu ne te dépêches pas, on sera en retard. || Nếu bạn không nhanh lên, chúng ta sẽ trễ.
+VQ: Le contraire de « réussir » un examen : | passer | *rater | hésiter | finir
+VQ: « N'hésitez pas » veut dire… | attendez | *faites-le sans problème | ne le faites pas | réfléchissez
+VQ: Le contraire de « probable » : | certain | *improbable | possible | facile
+VQ: Le résultat d'une action, c'est la… | condition | *conséquence | hypothèse | question
+VQ: ___ tu viens, je serai content. (nếu) = Si
+D: Si j'ai assez d'argent, j'irai en France.
+D: S'il pleut demain, nous regarderons un film.
+D: Tu seras fatigué si tu te couches trop tard.
+D: Si vous avez des questions, n'hésitez pas.
+L: Père | Tu as un examen important demain. Si tu révises ce soir, tu réussiras. || Mai con có kỳ thi quan trọng. Nếu tối nay con ôn bài, con sẽ đỗ.
+L: Fils | Je sais… Mais si je réussis, tu m'achèteras le nouveau jeu vidéo ? || Con biết… Nhưng nếu con đỗ, bố sẽ mua cho con trò chơi điện tử mới chứ?
+L: Père | On verra. Si tu as une bonne note, nous en parlerons. || Để xem. Nếu con được điểm tốt, chúng ta sẽ bàn.
+L: Fils | Et si je rate ? || Còn nếu con trượt?
+L: Père | Si tu rates, tu travailleras pendant les vacances ! || Nếu con trượt, con sẽ học trong kỳ nghỉ!
+L: Fils | D'accord, d'accord… Je vais réviser tout de suite ! || Vâng, vâng… Con sẽ đi ôn bài ngay!
+LQ: Quand est l'examen ? | ce soir | *demain | la semaine prochaine | ce matin
+LQ: Qu'est-ce que le fils veut s'il réussit ? | de l'argent | *un nouveau jeu vidéo | des vacances | un téléphone
+LQ: Que se passera-t-il s'il rate ? | il ira en vacances | *il travaillera pendant les vacances | rien | il aura un jeu
+RA: S'il pleut, je resterai à la maison.
+RA: Si tu travailles bien, tu réussiras.
+RA: Si vous avez des questions, n'hésitez pas.
+SH: Si tu révises ce soir, tu réussiras.
+SH: Si tu as une bonne note, nous en parlerons.
+SH: Si tu rates, tu travailleras pendant les vacances !
+R.title: Les gestes pour la planète
+R: Si nous changeons nos habitudes, nous protégerons la planète. || Nếu chúng ta thay đổi thói quen, chúng ta sẽ bảo vệ hành tinh.
+R: Si vous prenez le vélo au lieu de la voiture, il y aura moins de pollution. || Nếu bạn đi xe đạp thay vì ô tô, sẽ ít ô nhiễm hơn.
+R: Si chacun trie ses déchets, nous pourrons recycler plus de plastique. || Nếu mỗi người phân loại rác, chúng ta sẽ có thể tái chế nhiều nhựa hơn.
+R: Si on mange moins de viande, on économisera beaucoup d'eau. || Nếu ăn ít thịt hơn, chúng ta sẽ tiết kiệm được nhiều nước.
+R: Si vous éteignez les lumières en sortant, vous paierez moins d'électricité. || Nếu bạn tắt đèn khi ra ngoài, bạn sẽ trả ít tiền điện hơn.
+R: Et si tout le monde fait un petit geste, nos enfants vivront dans un monde meilleur ! || Và nếu mọi người làm một hành động nhỏ, con cháu chúng ta sẽ sống trong một thế giới tốt đẹp hơn!
+RQ: Si on prend le vélo, il y aura… | plus de bruit | *moins de pollution | plus de voitures | moins de routes
+RQ: Si on trie ses déchets, on pourra… | jeter plus | *recycler plus de plastique | manger moins | voyager
+RQ: Si on mange moins de viande, on économisera… | de l'argent | *de l'eau | du temps | de l'électricité
+W.prompt: Écris six phrases avec si + présent, futur sur un sujet de ton choix : tes études, ta santé, l'environnement ou tes vacances. || Viết sáu câu với si + hiện tại, tương lai về một chủ đề bạn chọn: việc học, sức khoẻ, môi trường hoặc kỳ nghỉ.
+W.min: 50
+W.must: si ; s'il
+W.check: Sau si dùng hiện tại, không dùng tương lai
+W.check: si + il → s'il
+W.check: Mệnh đề kết quả ở tương lai đơn
+W.model: Si j'ai mon niveau B1 l'année prochaine, je pourrai étudier en France. || Nếu năm sau tôi đạt trình độ B1, tôi sẽ có thể du học Pháp.
+W.model: Si j'étudie en France, je partagerai un appartement avec des étudiants français. || Nếu tôi du học Pháp, tôi sẽ ở chung căn hộ với sinh viên Pháp.
+W.model: S'il fait trop froid en hiver, j'achèterai un bon manteau. || Nếu mùa đông quá lạnh, tôi sẽ mua một chiếc áo khoác tốt.
+W.model: Si mes parents viennent me voir, nous visiterons les châteaux de la Loire ensemble. || Nếu bố mẹ đến thăm tôi, chúng tôi sẽ cùng tham quan các lâu đài vùng Loire.
+W.model: Si je trouve un petit travail, je gagnerai un peu d'argent pour voyager. || Nếu tôi tìm được việc làm thêm, tôi sẽ kiếm chút tiền để đi du lịch.
+W.model: Et si je réussis mon master, je serai la personne la plus heureuse du monde ! || Và nếu tôi tốt nghiệp thạc sĩ, tôi sẽ là người hạnh phúc nhất thế giới!
+
+## 4 | Les prévisions
+G.title: Prévoir la météo et l'avenir
+G.rule: Pour faire des prévisions (météo, économie, technologie), on utilise le futur simple avec des expressions de probabilité : sans doute, probablement, peut-être, certainement, il est possible que… || Để đưa ra dự báo (thời tiết, kinh tế, công nghệ), ta dùng thì tương lai đơn với các cụm diễn tả khả năng: sans doute (chắc là), probablement (có lẽ), peut-être (có thể), certainement (chắc chắn).
+G.note: Dự báo thời tiết: Il fera beau / chaud / froid. Il pleuvra (pleuvoir → pleuvr-). Il neigera. Le ciel sera nuageux (nhiều mây). Les températures seront comprises entre 20 et 25 degrés. Il y aura des orages. Mức độ chắc chắn: certainement (100%) > sans doute / probablement (80%) > peut-être (50%). Vị trí trạng từ: sau động từ chia: Il pleuvra probablement. Hoặc đầu câu: Peut-être qu'il neigera.
+G.table: Présent | Futur (météo)
+G.row: il fait beau | il fera beau
+G.row: il pleut | il pleuvra
+G.row: il neige | il neigera
+G.row: il y a du vent | il y aura du vent
+G.row: le ciel est gris | le ciel sera gris
+G.ex: Demain, il pleuvra dans le nord, mais il fera beau dans le sud. || Ngày mai, miền bắc sẽ mưa, nhưng miền nam trời sẽ đẹp.
+G.ex: Les températures seront comprises entre vingt-cinq et trente degrés. || Nhiệt độ sẽ dao động trong khoảng hai mươi lăm đến ba mươi độ.
+G.ex: Dans vingt ans, les voitures seront probablement toutes électriques. || Hai mươi năm nữa, có lẽ tất cả ô tô sẽ chạy điện.
+G.ex: Il y aura sans doute des orages en fin de journée. || Chắc là sẽ có giông vào cuối ngày.
+G.q: Futur de « il pleut » : | il pleuvera | *il pleuvra | il plouvra | il pleura
+G.q: Le plus certain : | peut-être | *certainement | probablement | sans doute
+G.q: Futur de « il y a » : | il y avra | *il y aura | il y sera | il aura
+G.q: Le ciel ___ nuageux demain. | est | *sera | était | serait
+G.q: Futur de « il neige » : il ___ = neigera
+V: la prévision | /la pʁe.vi.zjɔ̃/ | nom f. | dự báo | Les prévisions météo. || Dự báo thời tiết.
+V: probablement | /pʁɔ.ba.blə.mɑ̃/ | adverbe | có lẽ | Il viendra probablement. || Có lẽ anh ấy sẽ đến.
+V: sans doute | /sɑ̃ dut/ | expression | chắc là | Il pleuvra sans doute. || Chắc là trời sẽ mưa.
+V: certainement | /sɛʁ.tɛn.mɑ̃/ | adverbe | chắc chắn | Il réussira certainement. || Chắc chắn anh ấy sẽ thành công.
+V: peut-être | /pø.tɛtʁ/ | adverbe | có thể | Peut-être qu'il neigera. || Có thể trời sẽ có tuyết.
+V: nuageux | /nɥa.ʒø/ | adjectif | nhiều mây | Le ciel sera nuageux. || Trời sẽ nhiều mây.
+V: ensoleillé | /ɑ̃.sɔ.le.je/ | adjectif | nắng | Une journée ensoleillée. || Một ngày nắng.
+V: la technologie | /la tɛk.nɔ.lɔ.ʒi/ | nom f. | công nghệ | La technologie changera notre vie. || Công nghệ sẽ thay đổi cuộc sống chúng ta.
+V: le robot | /lə ʁɔ.bo/ | nom m. | rô-bốt | Les robots feront le ménage. || Rô-bốt sẽ dọn nhà.
+V: la planète | /la pla.nɛt/ | nom f. | hành tinh | Il faut protéger la planète. || Cần bảo vệ hành tinh.
+VQ: Le contraire de « nuageux » : | pluvieux | *ensoleillé | orageux | gris
+VQ: Le plus incertain : | certainement | *peut-être | sans doute | probablement
+VQ: Une machine qui travaille seule : | une planète | *un robot | une prévision | un nuage
+VQ: La Terre est une… | étoile | *planète | lune | technologie
+VQ: Les ___ météo annoncent de la pluie. (dự báo) = prévisions
+D: Demain, il pleuvra dans le nord.
+D: Les températures seront entre vingt-cinq et trente degrés.
+D: Les voitures seront probablement toutes électriques.
+D: Il y aura sans doute des orages.
+L: Présentatrice | Bonsoir ! Voici la météo de demain. || Chào buổi tối! Đây là dự báo thời tiết ngày mai.
+L: Présentatrice | Dans le nord, le ciel sera nuageux et il pleuvra probablement l'après-midi. || Ở miền bắc, trời sẽ nhiều mây và có lẽ sẽ mưa vào buổi chiều.
+L: Présentatrice | À Paris, les températures seront fraîches : entre dix et quatorze degrés. || Ở Paris, nhiệt độ sẽ mát: từ mười đến mười bốn độ.
+L: Présentatrice | Dans le sud, en revanche, il fera beau et chaud, avec vingt-six degrés à Marseille. || Ngược lại, ở miền nam trời sẽ đẹp và nóng, với hai mươi sáu độ ở Marseille.
+L: Présentatrice | Dans les Alpes, il neigera sans doute au-dessus de deux mille mètres. || Ở dãy Alpes, chắc là sẽ có tuyết ở độ cao trên hai nghìn mét.
+L: Présentatrice | Et ce week-end ? Il y aura du soleil partout. Bonne soirée ! || Còn cuối tuần này? Trời sẽ nắng khắp nơi. Chúc buổi tối vui vẻ!
+LQ: Quel temps fera-t-il dans le nord ? | beau | *nuageux, probablement de la pluie | de la neige | très chaud
+LQ: Quelle température à Marseille ? | quatorze degrés | *vingt-six degrés | dix degrés | trente degrés
+LQ: Où neigera-t-il ? | à Paris | *dans les Alpes | à Marseille | dans le nord
+RA: Il fera beau. Il pleuvra. Il neigera.
+RA: Il y aura du vent. Le ciel sera nuageux.
+RA: probablement, sans doute, certainement, peut-être.
+SH: Voici la météo de demain.
+SH: Il pleuvra probablement l'après-midi.
+SH: Il y aura du soleil partout.
+R.title: La vie en 2050
+R: Comment vivrons-nous en 2050 ? Voici quelques prévisions des scientifiques. || Chúng ta sẽ sống thế nào vào năm 2050? Đây là một vài dự báo của các nhà khoa học.
+R: La population mondiale sera de presque dix milliards d'habitants. || Dân số thế giới sẽ gần mười tỷ người.
+R: Les voitures seront certainement électriques, et beaucoup seront sans conducteur. || Ô tô chắc chắn sẽ chạy điện, và nhiều chiếc sẽ không cần người lái.
+R: Dans les maisons, des robots feront probablement le ménage et la cuisine. || Trong nhà, có lẽ rô-bốt sẽ dọn dẹp và nấu ăn.
+R: À cause du réchauffement climatique, il fera plus chaud et il y aura plus de tempêtes. || Do biến đổi khí hậu, trời sẽ nóng hơn và sẽ có nhiều bão hơn.
+R: Mais nous apprendrons peut-être à vivre en harmonie avec la nature. || Nhưng có lẽ chúng ta sẽ học được cách sống hài hoà với thiên nhiên.
+RQ: Combien d'habitants y aura-t-il en 2050 ? | huit milliards | *presque dix milliards | cinq milliards | vingt milliards
+RQ: Que feront les robots ? | conduire les voitures | *le ménage et la cuisine | travailler au bureau | rien
+RQ: Quelle est la conséquence du réchauffement ? | plus de neige | *plus de chaleur et de tempêtes | moins de pluie | rien
+W.prompt: Écris tes prévisions pour ta ville ou ton pays dans vingt ans : transports, technologie, environnement, vie quotidienne. Utilise des expressions de probabilité. || Viết dự đoán của bạn cho thành phố hoặc đất nước bạn trong hai mươi năm tới: giao thông, công nghệ, môi trường, đời sống hằng ngày. Dùng các cụm diễn tả khả năng.
+W.min: 60
+W.must: probablement ; peut-être ; il y aura
+W.check: Động từ ở thì tương lai đơn
+W.check: Có ít nhất ba mức độ chắc chắn khác nhau
+W.check: Có nhiều lĩnh vực khác nhau
+W.model: Dans vingt ans, Hô Chi Minh-Ville sera sans doute une ville très moderne. || Hai mươi năm nữa, Thành phố Hồ Chí Minh chắc là sẽ là một thành phố rất hiện đại.
+W.model: Il y aura huit lignes de métro et les gens prendront moins la moto. || Sẽ có tám tuyến tàu điện ngầm và người dân sẽ ít đi xe máy hơn.
+W.model: Les motos seront probablement toutes électriques, donc il y aura moins de pollution. || Có lẽ tất cả xe máy sẽ chạy điện, nên sẽ ít ô nhiễm hơn.
+W.model: Malheureusement, à cause du changement climatique, il pleuvra plus fort et certains quartiers seront inondés. || Không may, do biến đổi khí hậu, mưa sẽ to hơn và một số khu phố sẽ bị ngập.
+W.model: Peut-être que nous travaillerons tous à la maison avec l'intelligence artificielle. || Có thể tất cả chúng ta sẽ làm việc ở nhà với trí tuệ nhân tạo.
+W.model: Mais je suis certain qu'on mangera toujours du phở et du bánh mì dans la rue ! || Nhưng tôi chắc chắn người ta vẫn sẽ ăn phở và bánh mì trên phố!
+
+## 5 | Mes rêves pour l'avenir
+G.title: Parler de ses projets et de ses rêves
+G.rule: Pour parler de ses projets et de ses rêves, on utilise le futur simple, et des expressions comme j'espère que + futur, je rêve de + infinitif, mon objectif est de + infinitif, quand + futur. || Để nói về dự định và ước mơ, ta dùng thì tương lai đơn, và các cụm như j'espère que + tương lai (tôi hy vọng rằng), je rêve de + nguyên mẫu (tôi mơ được), mon objectif est de + nguyên mẫu (mục tiêu của tôi là), quand + tương lai (khi).
+G.note: Điểm khác tiếng Việt: sau "quand" chỉ tương lai, tiếng Pháp dùng tương lai: Quand je serai grand, je serai pilote (Khi tôi lớn, tôi sẽ là phi công) — không nói "quand je suis grand". "J'espère que" + tương lai: J'espère que tu viendras. (Nhưng sau "si" thì không dùng tương lai!) Ước mơ: Je rêve de voyager dans le monde entier. Mục tiêu: Mon objectif est de parler couramment. Dự định chắc chắn: J'ai l'intention de… (Tôi có ý định…).
+G.table: Expression | Exemple
+G.row: j'espère que + futur | J'espère que je réussirai.
+G.row: je rêve de + infinitif | Je rêve de vivre à la mer.
+G.row: mon objectif est de + infinitif | Mon objectif est d'avoir le B1.
+G.row: quand + futur | Quand j'aurai de l'argent, je voyagerai.
+G.row: j'ai l'intention de + infinitif | J'ai l'intention de changer de travail.
+G.ex: Quand je serai à la retraite, j'habiterai à la campagne. || Khi tôi nghỉ hưu, tôi sẽ sống ở nông thôn.
+G.ex: J'espère que mes enfants seront heureux. || Tôi hy vọng các con tôi sẽ hạnh phúc.
+G.ex: Je rêve d'ouvrir un petit café avec une librairie. || Tôi mơ được mở một quán cà phê nhỏ kèm hiệu sách.
+G.ex: Mon objectif est de parler français couramment dans deux ans. || Mục tiêu của tôi là nói tiếng Pháp lưu loát trong hai năm.
+G.q: Quand je ___ grand, je serai médecin. | suis | *serai | serais | étais
+G.q: J'espère que tu ___ à ma fête. | viens toujours | *viendras | venir | viendrais
+G.q: Je rêve ___ voyager. | à | *de | que | pour
+G.q: Mon objectif est ___ réussir. | à | *de | que | pour
+G.q: Quand j'___ (avoir) de l'argent, j'achèterai une maison. = aurai
+V: le rêve | /lə ʁɛv/ | nom m. | ước mơ | Mon rêve est de voyager. || Ước mơ của tôi là đi du lịch.
+V: rêver de | /ʁɛ.ve də/ | verbe | mơ ước | Je rêve de vivre à Paris. || Tôi mơ được sống ở Paris.
+V: espérer | /ɛs.pe.ʁe/ | verbe | hy vọng | J'espère que tu viendras. || Tôi hy vọng bạn sẽ đến.
+V: l'objectif | /lɔb.ʒɛk.tif/ | nom m. | mục tiêu | Quel est ton objectif ? || Mục tiêu của bạn là gì?
+V: l'intention | /lɛ̃.tɑ̃.sjɔ̃/ | nom f. | ý định | J'ai l'intention de partir. || Tôi có ý định ra đi.
+V: la librairie | /la li.bʁɛ.ʁi/ | nom f. | hiệu sách | J'aime les petites librairies. || Tôi thích những hiệu sách nhỏ.
+V: la retraite | /la ʁə.tʁɛt/ | nom f. | sự nghỉ hưu | Il prendra sa retraite à soixante ans. || Ông ấy sẽ nghỉ hưu năm sáu mươi tuổi.
+V: réaliser | /ʁe.a.li.ze/ | verbe | thực hiện | Je réaliserai mon rêve. || Tôi sẽ thực hiện ước mơ của mình.
+V: fonder une famille | /fɔ̃.de yn fa.mij/ | expression | lập gia đình | Je veux fonder une famille. || Tôi muốn lập gia đình.
+V: le monde entier | /lə mɔ̃d ɑ̃.tje/ | expression | toàn thế giới | Je voyagerai dans le monde entier. || Tôi sẽ đi du lịch khắp thế giới.
+VQ: Un magasin qui vend des livres : | une bibliothèque | *une librairie | une boulangerie | une pharmacie
+VQ: « Réaliser son rêve » veut dire… | oublier son rêve | *faire de son rêve une réalité | dormir | raconter son rêve
+VQ: Se marier et avoir des enfants, c'est… | prendre sa retraite | *fonder une famille | changer de travail | voyager
+VQ: Le but qu'on veut atteindre : | le rêve seulement | *l'objectif | la retraite | l'intention passée
+VQ: J'___ que tu réussiras ! (hy vọng) = espère
+D: Quand je serai à la retraite, j'habiterai à la campagne.
+D: J'espère que mes enfants seront heureux.
+D: Je rêve d'ouvrir un petit café.
+D: Mon objectif est de parler français couramment.
+L: Professeure | Pour finir le cours, dites-moi : quels sont vos rêves pour l'avenir ? || Để kết thúc buổi học, hãy cho cô biết: ước mơ tương lai của các em là gì?
+L: Lucas | Moi, je rêve de devenir chef cuisinier. Quand j'aurai assez d'argent, j'ouvrirai mon restaurant. || Em mơ trở thành bếp trưởng. Khi có đủ tiền, em sẽ mở nhà hàng của mình.
+L: Trang | Mon objectif est d'avoir le niveau B2 en français. Ensuite, je travaillerai dans une ambassade. || Mục tiêu của em là đạt trình độ B2 tiếng Pháp. Sau đó, em sẽ làm việc ở một đại sứ quán.
+L: Professeure | Très bien ! Et vous, Nam ? || Rất tốt! Còn em, Nam?
+L: Nam | Moi, je n'ai pas de grands projets. J'espère juste que je serai en bonne santé et que je ferai un métier que j'aime. || Em không có dự định lớn. Em chỉ hy vọng mình sẽ khoẻ mạnh và làm một nghề mình yêu thích.
+L: Professeure | C'est peut-être le plus beau rêve ! || Có lẽ đó là ước mơ đẹp nhất!
+LQ: Quel est le rêve de Lucas ? | voyager | *devenir chef cuisinier | travailler dans une ambassade | être professeur
+LQ: Où Trang veut-elle travailler ? | dans un restaurant | *dans une ambassade | dans une école | à l'hôpital
+LQ: Qu'espère Nam ? | être riche | *être en bonne santé et faire un métier qu'il aime | voyager | être célèbre
+RA: Quand je serai grand, je serai pilote.
+RA: J'espère que tu viendras. Je rêve de voyager.
+RA: Mon objectif est de parler couramment.
+SH: Quels sont vos rêves pour l'avenir ?
+SH: Quand j'aurai assez d'argent, j'ouvrirai mon restaurant.
+SH: J'espère juste que je serai en bonne santé.
+R.title: Lettre à moi-même dans dix ans
+R: Chère moi du futur, || Gửi tôi của tương lai,
+R: Quand tu liras cette lettre, tu auras trente-cinq ans. || Khi bạn đọc lá thư này, bạn sẽ ba mươi lăm tuổi.
+R: J'espère que tu parleras français couramment et que tu auras visité la France. || Tôi hy vọng bạn sẽ nói tiếng Pháp lưu loát và đã đến thăm nước Pháp.
+R: Tu habiteras peut-être dans une autre ville, avec un chat ou deux. || Có thể bạn sẽ sống ở một thành phố khác, với một hoặc hai con mèo.
+R: Je rêve que tu feras un travail utile et que tu seras entourée de gens que tu aimes. || Tôi mong bạn sẽ làm một công việc có ích và được bao quanh bởi những người bạn yêu thương.
+R: N'oublie jamais la fille de vingt-cinq ans qui apprenait le français tous les soirs. Je t'embrasse, Hương. || Đừng bao giờ quên cô gái hai mươi lăm tuổi tối nào cũng học tiếng Pháp. Ôm bạn, Hương.
+RQ: Quel âge aura Hương quand elle lira la lettre ? | vingt-cinq ans | *trente-cinq ans | trente ans | quarante ans
+RQ: Qu'espère-t-elle sur le français ? | l'oublier | *le parler couramment | l'enseigner | le traduire
+RQ: Quel âge a Hương maintenant ? | quinze ans | *vingt-cinq ans | trente-cinq ans | vingt ans
+W.prompt: Écris une lettre à toi-même dans dix ans : tes projets, tes rêves, ce que tu espères pour ta vie personnelle et professionnelle. || Viết một lá thư cho chính bạn mười năm sau: dự định, ước mơ, những điều bạn hy vọng cho cuộc sống cá nhân và sự nghiệp.
+W.min: 70
+W.must: quand ; j'espère que ; je rêve de
+W.check: quand + tương lai (quand tu liras…)
+W.check: j'espère que + tương lai; je rêve de + nguyên mẫu
+W.check: Có cả đời sống cá nhân và sự nghiệp
+W.model: Cher moi du futur, || Gửi tôi của tương lai,
+W.model: Quand tu liras cette lettre, tu auras trente-huit ans et tu seras peut-être papa. || Khi bạn đọc lá thư này, bạn sẽ ba mươi tám tuổi và có thể đã làm bố.
+W.model: J'espère que tu travailleras toujours dans l'informatique, mais dans ta propre entreprise. || Tôi hy vọng bạn vẫn làm trong ngành tin học, nhưng ở công ty của chính mình.
+W.model: Mon objectif est d'apprendre trois langues : l'anglais, le français et le japonais. Tu les parleras, j'en suis sûr ! || Mục tiêu của tôi là học ba ngôn ngữ: tiếng Anh, tiếng Pháp và tiếng Nhật. Bạn sẽ nói được chúng, tôi chắc chắn!
+W.model: Je rêve de faire le tour du monde avec ma famille. Quand tes enfants seront grands, vous partirez ensemble. || Tôi mơ được đi vòng quanh thế giới với gia đình. Khi các con bạn lớn, các bạn sẽ cùng nhau lên đường.
+W.model: Prends soin de tes parents et n'oublie pas de rire. À dans dix ans ! Tuấn || Hãy chăm sóc bố mẹ và đừng quên cười. Hẹn mười năm nữa! Tuấn
