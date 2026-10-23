@@ -1,0 +1,379 @@
+@week 30
+@title Les pronoms relatifs
+@level A2
+
+## 1 | Qui et que
+G.title: Relier deux phrases
+G.rule: Les pronoms relatifs relient deux phrases et évitent les répétitions. Qui remplace le sujet du verbe qui suit. Que remplace le complément direct (COD) du verbe qui suit. || Đại từ quan hệ nối hai câu và tránh lặp từ. Qui thay cho chủ ngữ của động từ theo sau. Que thay cho bổ ngữ trực tiếp (COD) của động từ theo sau.
+G.note: J'ai un ami. Cet ami habite à Lyon. → J'ai un ami qui habite à Lyon (qui + động từ: qui làm chủ ngữ). J'ai un ami. Je vois cet ami tous les jours. → J'ai un ami que je vois tous les jours (que + chủ ngữ + động từ). Mẹo: sau "qui" thường là động từ ngay; sau "que" là một chủ ngữ (je, tu, il, Marie…). "que" + nguyên âm → "qu'": le livre qu'il lit. "qui" không bao giờ rút gọn: l'ami qui arrive. Tiếng Việt dùng "mà" cho cả hai!
+G.table: Pronom | Fonction | Exemple
+G.row: qui | sujet | Le garçon qui chante est mon frère.
+G.row: que | COD | Le garçon que tu vois est mon frère.
+G.row: qu' | COD + voyelle | Le film qu'il regarde est long.
+G.row: qui | sujet (chose) | Le bus qui arrive va à la gare.
+G.ex: J'ai une amie qui parle cinq langues. || Tôi có một người bạn nói được năm thứ tiếng.
+G.ex: Le livre que je lis est passionnant. || Cuốn sách mà tôi đang đọc rất hấp dẫn.
+G.ex: C'est la chanson qu'elle chante tous les jours. || Đó là bài hát mà cô ấy hát mỗi ngày.
+G.ex: Le train qui part à midi va à Lyon. || Chuyến tàu khởi hành lúc trưa đi Lyon.
+G.q: L'homme ___ parle est mon professeur. | que | *qui | qu' | où
+G.q: Le gâteau ___ tu as fait est délicieux. | qui | *que | où | qu'
+G.q: La fille ___ il aime s'appelle Lan. | qui | *qu' | que il | où
+G.q: Après « qui », on trouve généralement… | un sujet | *un verbe | un nom | une préposition
+G.q: Le film ___ commence à vingt heures est français. = qui
+V: le pronom relatif | /lə pʁɔ.nɔ̃ ʁə.la.tif/ | nom m. | đại từ quan hệ | « Qui » est un pronom relatif. || « Qui » là một đại từ quan hệ.
+V: relier | /ʁə.lje/ | verbe | nối | On relie deux phrases. || Ta nối hai câu.
+V: éviter | /e.vi.te/ | verbe | tránh | Il faut éviter les répétitions. || Cần tránh lặp từ.
+V: la répétition | /la ʁe.pe.ti.sjɔ̃/ | nom f. | sự lặp lại | Trop de répétitions ! || Lặp quá nhiều!
+V: le garçon | /lə ɡaʁ.sɔ̃/ | nom m. | cậu bé | Le garçon qui joue est mon fils. || Cậu bé đang chơi là con trai tôi.
+V: la chanson | /la ʃɑ̃.sɔ̃/ | nom f. | bài hát | C'est une chanson que j'adore. || Đó là bài hát tôi rất thích.
+V: la langue | /la lɑ̃ɡ/ | nom f. | ngôn ngữ | Elle parle trois langues. || Cô ấy nói ba thứ tiếng.
+V: le collègue | /lə kɔ.lɛɡ/ | nom m. | đồng nghiệp | C'est un collègue que j'apprécie. || Đó là một đồng nghiệp mà tôi quý.
+V: le roman | /lə ʁɔ.mɑ̃/ | nom m. | tiểu thuyết | Le roman que je lis est long. || Cuốn tiểu thuyết tôi đang đọc dài.
+V: apprécier | /a.pʁe.sje/ | verbe | quý mến, đánh giá cao | J'apprécie beaucoup ce professeur. || Tôi rất quý thầy giáo này.
+VQ: « Relier » deux phrases, c'est… | les séparer | *les unir | les répéter | les oublier
+VQ: Dire la même chose plusieurs fois, c'est une… | relation | *répétition | chanson | langue
+VQ: « Éviter » une erreur, c'est… | la faire | *ne pas la faire | la corriger | l'aimer
+VQ: Une personne qui travaille avec moi : un… | voisin | *collègue | cousin | client
+VQ: Dans « le livre que je lis », « que » est un pronom ___. = relatif
+D: J'ai une amie qui parle cinq langues.
+D: Le livre que je lis est passionnant.
+D: C'est la chanson qu'elle chante tous les jours.
+D: Le train qui part à midi va à Lyon.
+L: Mai | Tu vois la fille qui porte une robe rouge ? || Bạn có thấy cô gái mặc váy đỏ không?
+L: Tom | Oui. C'est qui ? || Có. Ai vậy?
+L: Mai | C'est Sophie, l'amie que j'ai rencontrée à l'université. || Đó là Sophie, người bạn mà mình quen ở đại học.
+L: Tom | Et le garçon qui parle avec elle ? || Còn cậu con trai đang nói chuyện với cô ấy?
+L: Mai | C'est son frère. C'est le chef qui a ouvert le restaurant que nous adorons ! || Đó là anh trai cô ấy. Anh ấy là đầu bếp đã mở nhà hàng mà chúng ta rất thích!
+L: Tom | Ah ! Alors je vais lui dire bonjour ! || À! Thế thì mình sẽ đến chào anh ấy!
+LQ: Comment est habillée Sophie ? | en bleu | *avec une robe rouge | en noir | avec un manteau
+LQ: Où Mai a-t-elle rencontré Sophie ? | au travail | *à l'université | au restaurant | en voyage
+LQ: Qui est le frère de Sophie ? | un professeur | *le chef du restaurant qu'ils adorent | un étudiant | le copain de Mai
+RA: Le garçon qui chante. Le garçon que tu vois.
+RA: J'ai une amie qui parle cinq langues.
+RA: Le film qu'il regarde est long.
+SH: Tu vois la fille qui porte une robe rouge ?
+SH: C'est l'amie que j'ai rencontrée à l'université.
+SH: C'est le chef qui a ouvert le restaurant que nous adorons !
+R.title: Mes personnes importantes
+R: Ma grand-mère est la personne qui m'a appris à cuisiner. || Bà tôi là người đã dạy tôi nấu ăn.
+R: Les plats qu'elle prépare sont simples, mais délicieux. || Những món bà nấu đơn giản, nhưng ngon tuyệt.
+R: Mon meilleur ami, Huy, est quelqu'un qui me fait toujours rire. || Bạn thân nhất của tôi, Huy, là người luôn làm tôi cười.
+R: C'est un ami que je connais depuis l'école primaire. || Đó là người bạn mà tôi quen từ hồi tiểu học.
+R: Ma professeure de français est une femme qui explique très bien. || Cô giáo tiếng Pháp của tôi là người giảng bài rất hay.
+R: Ce sont des personnes que j'aime et qui m'aident à grandir. || Đó là những người tôi yêu quý và giúp tôi trưởng thành.
+RQ: Qui a appris à cuisiner à l'auteur ? | sa mère | *sa grand-mère | son ami | sa professeure
+RQ: Depuis quand connaît-il Huy ? | l'université | *l'école primaire | le lycée | l'année dernière
+RQ: Comment est la professeure de français ? | sévère | *elle explique très bien | drôle | jeune
+W.prompt: Présente quatre personnes importantes pour toi avec des phrases relatives : « C'est quelqu'un qui… », « C'est la personne que… ». || Giới thiệu bốn người quan trọng với bạn bằng các mệnh đề quan hệ: « C'est quelqu'un qui… », « C'est la personne que… ».
+W.min: 50
+W.must: qui ; que ; quelqu'un
+W.check: qui + động từ (qui làm chủ ngữ)
+W.check: que + chủ ngữ + động từ (que làm COD)
+W.check: qu' trước nguyên âm, qui không rút gọn
+W.model: Ma mère est la personne qui me comprend le mieux. || Mẹ tôi là người hiểu tôi nhất.
+W.model: C'est quelqu'un que j'admire beaucoup, parce qu'elle travaille dur. || Đó là người mà tôi rất ngưỡng mộ, vì mẹ làm việc chăm chỉ.
+W.model: Mon frère est un garçon qui adore le sport et qui rit tout le temps. || Anh trai tôi là người rất thích thể thao và lúc nào cũng cười.
+W.model: Linh est l'amie que je vois chaque week-end. || Linh là người bạn mà tôi gặp mỗi cuối tuần.
+W.model: Mon chef est un homme qu'on respecte au bureau. || Sếp tôi là người được mọi người ở văn phòng tôn trọng.
+W.model: Ce sont des personnes qui comptent beaucoup pour moi. || Đó là những người rất quan trọng với tôi.
+
+## 2 | Où
+G.title: Où pour le lieu et le temps
+G.rule: Le pronom relatif où remplace un complément de lieu (la ville où j'habite) ou de temps (le jour où je suis né). || Đại từ quan hệ où thay thế cho bổ ngữ chỉ nơi chốn (la ville où j'habite — thành phố nơi tôi sống) hoặc thời gian (le jour où je suis né — ngày mà tôi sinh ra).
+G.note: Nơi chốn: J'habite dans une ville. Cette ville est belle. → La ville où j'habite est belle. Thời gian: Je suis né ce jour-là. → C'est le jour où je suis né. Lưu ý: tiếng Pháp dùng "où" cho thời gian, khác tiếng Anh (when)! Le moment où…, l'année où…, l'été où… Đừng nhầm "où" (ở đâu, có dấu) với "ou" (hoặc, không dấu).
+G.table: Type | Exemple
+G.row: lieu | La maison où j'ai grandi est à Huế.
+G.row: lieu | Le café où nous nous sommes rencontrés.
+G.row: temps | Le jour où je suis arrivé, il pleuvait.
+G.row: temps | L'année où j'ai eu mon bac.
+G.ex: Hanoï est la ville où je suis né. || Hà Nội là thành phố nơi tôi sinh ra.
+G.ex: C'est le restaurant où nous avons fêté notre anniversaire de mariage. || Đó là nhà hàng nơi chúng tôi mừng kỷ niệm ngày cưới.
+G.ex: Je me souviens du jour où j'ai rencontré ma femme. || Tôi nhớ ngày mà tôi gặp vợ mình.
+G.ex: L'été où nous sommes allés en France, il faisait très chaud. || Mùa hè năm chúng tôi đi Pháp, trời rất nóng.
+G.q: La ville ___ j'habite est petite. | qui | que | *où | ou
+G.q: Le jour ___ il est parti, j'ai pleuré. | que | qui | *où | quand que
+G.q: « Ou » sans accent veut dire… | où | *hoặc (choix) | quand | qui
+G.q: Le café ___ est en face de la gare est bon. | où | *qui | que | ou
+G.q: C'est l'école ___ j'ai appris à lire. = où
+V: où | /u/ | pronom | nơi mà; khi mà | Le pays où je vis. || Đất nước nơi tôi sống.
+V: grandir | /ɡʁɑ̃.diʁ/ | verbe | lớn lên | La maison où j'ai grandi. || Ngôi nhà nơi tôi lớn lên.
+V: se souvenir de | /sə su.və.niʁ də/ | verbe | nhớ | Je me souviens de ce jour. || Tôi nhớ ngày đó.
+V: le moment | /lə mɔ.mɑ̃/ | nom m. | khoảnh khắc | Le moment où il est arrivé. || Khoảnh khắc khi anh ấy đến.
+V: l'anniversaire de mariage | /la.ni.vɛʁ.sɛʁ də ma.ʁjaʒ/ | nom m. | kỷ niệm ngày cưới | C'est notre anniversaire de mariage. || Hôm nay là kỷ niệm ngày cưới của chúng tôi.
+V: l'endroit | /lɑ̃.dʁwa/ | nom m. | nơi, chỗ | C'est l'endroit où je me sens bien. || Đó là nơi tôi cảm thấy dễ chịu.
+V: la ville natale | /la vil na.tal/ | nom f. | thành phố quê hương | Huế est ma ville natale. || Huế là thành phố quê hương tôi.
+V: naître | /nɛtʁ/ | verbe | sinh ra | L'année où je suis né. || Năm tôi sinh ra.
+V: le quartier | /lə kaʁ.tje/ | nom m. | khu phố | Le quartier où j'habite est calme. || Khu phố nơi tôi sống yên tĩnh.
+V: l'époque | /le.pɔk/ | nom f. | thời kỳ | À l'époque où j'étais étudiant… || Vào thời tôi còn là sinh viên…
+VQ: La ville où on est né, c'est la ville… | capitale | *natale | moderne | voisine
+VQ: Synonyme de « lieu » : | moment | *endroit | époque | jour
+VQ: « Grandir » veut dire… | vieillir | *devenir grand | partir | naître
+VQ: « Je me souviens » veut dire… | j'oublie | *je n'ai pas oublié | je pense au futur | je rêve
+VQ: Le jour ___ je suis né, il neigeait. = où
+D: Hanoï est la ville où je suis né.
+D: C'est le restaurant où nous avons fêté notre anniversaire.
+D: Je me souviens du jour où j'ai rencontré ma femme.
+D: L'été où nous sommes allés en France, il faisait chaud.
+L: Fille | Papa, c'est quoi cette photo ? || Bố ơi, ảnh gì đây ạ?
+L: Père | C'est la maison où j'ai grandi, à Nam Định. || Đó là ngôi nhà nơi bố lớn lên, ở Nam Định.
+L: Fille | Et cet arbre ? || Còn cái cây này?
+L: Père | C'est l'arbre où je montais avec mes frères. Un jour, je suis tombé ! || Đó là cái cây mà bố hay trèo cùng các chú. Có một lần, bố bị ngã!
+L: Fille | Tu te souviens du jour où tu es parti de là ? || Bố có nhớ ngày bố rời khỏi đó không?
+L: Père | Oui, c'était l'année où j'ai eu mon bac. Ma mère a pleuré à la gare. || Có, đó là năm bố thi đỗ tốt nghiệp phổ thông. Bà nội con đã khóc ở nhà ga.
+LQ: Où le père a-t-il grandi ? | à Hanoï | *à Nam Định | à Huế | à Saïgon
+LQ: Qu'est-ce qui est arrivé dans l'arbre ? | il a trouvé un nid | *il est tombé | il a dormi | il a caché un trésor
+LQ: Quand est-il parti de la maison ? | à dix ans | *l'année de son bac | après son mariage | l'année dernière
+RA: La ville où j'habite. Le jour où je suis né.
+RA: C'est la maison où j'ai grandi.
+RA: Je me souviens du jour où j'ai rencontré ma femme.
+SH: C'est la maison où j'ai grandi.
+SH: Tu te souviens du jour où tu es parti ?
+SH: C'était l'année où j'ai eu mon bac.
+R.title: Mon endroit préféré
+R: L'endroit où je me sens le mieux, c'est la petite plage où ma famille allait chaque été. || Nơi tôi cảm thấy dễ chịu nhất là bãi biển nhỏ nơi gia đình tôi đến mỗi mùa hè.
+R: Elle se trouve près d'un village où il n'y a pas de touristes. || Nó nằm gần một ngôi làng không có khách du lịch.
+R: Il y a un vieux restaurant où on mange les meilleurs fruits de mer de la région. || Có một nhà hàng cũ nơi người ta ăn hải sản ngon nhất vùng.
+R: Je me souviens du jour où mon père m'a appris à nager là-bas. || Tôi nhớ ngày bố dạy tôi bơi ở đó.
+R: C'est aussi l'endroit où j'ai demandé ma femme en mariage ! || Đó cũng là nơi tôi đã cầu hôn vợ!
+R: Chaque fois que j'y retourne, j'ai l'impression de rentrer à la maison. || Mỗi lần quay lại đó, tôi có cảm giác như trở về nhà.
+RQ: Quand la famille allait-elle à la plage ? | chaque hiver | *chaque été | à Noël | jamais
+RQ: Qu'est-ce qu'on mange au vieux restaurant ? | du phở | *des fruits de mer | des pizzas | de la viande
+RQ: Qu'est-ce que l'auteur a fait sur cette plage ? | il a acheté une maison | *il a demandé sa femme en mariage | il a perdu son père | il a travaillé
+W.prompt: Décris un lieu important de ta vie (une maison, une ville, un café) avec où, et raconte un moment important avec « le jour où… ». || Miêu tả một nơi quan trọng trong đời bạn (ngôi nhà, thành phố, quán cà phê) bằng où, và kể một khoảnh khắc quan trọng với « le jour où… ».
+W.min: 50
+W.must: où ; le jour où
+W.check: où cho nơi chốn và thời gian
+W.check: Không nhầm où (nơi) với ou (hoặc)
+W.check: Có ít nhất một câu với qui hoặc que
+W.model: Le lieu le plus important de ma vie, c'est la ville où j'ai fait mes études : Đà Lạt. || Nơi quan trọng nhất trong đời tôi là thành phố nơi tôi đã đi học: Đà Lạt.
+W.model: C'est une ville où il fait frais toute l'année et où il y a beaucoup de fleurs. || Đó là một thành phố mát mẻ quanh năm và có rất nhiều hoa.
+W.model: J'habitais dans une petite chambre où on voyait le lac Xuân Hương. || Tôi sống trong một căn phòng nhỏ nhìn ra hồ Xuân Hương.
+W.model: Il y avait un café où j'allais réviser chaque soir. || Có một quán cà phê mà tối nào tôi cũng đến ôn bài.
+W.model: Je me souviens du jour où j'ai reçu mon diplôme : mes parents sont venus de Hô Chi Minh-Ville. || Tôi nhớ ngày tôi nhận bằng tốt nghiệp: bố mẹ tôi đã từ Thành phố Hồ Chí Minh lên.
+W.model: C'est une ville que je n'oublierai jamais. || Đó là thành phố mà tôi sẽ không bao giờ quên.
+
+## 3 | Décrire avec une relative
+G.title: Enrichir une description
+G.rule: Les relatives permettent de décrire précisément une personne, un objet ou un lieu en ajoutant des informations : une femme qui a les cheveux longs, un sac que j'ai acheté à Paris, un pays où il fait chaud. || Mệnh đề quan hệ giúp miêu tả chính xác một người, một đồ vật hoặc một nơi bằng cách bổ sung thông tin: một người phụ nữ có mái tóc dài, chiếc túi mà tôi mua ở Paris, một đất nước nơi trời nóng.
+G.note: Có thể kết hợp nhiều mệnh đề: C'est un homme qui travaille à la banque et que je vois tous les jours. Với passé composé + que: phân từ hợp với danh từ phía trước (COD đứng trước): la robe que j'ai achetée, les photos que j'ai prises. Cấu trúc nhấn mạnh rất thông dụng: C'est… qui / C'est… que: C'est Lan qui a gagné (Chính Lan đã thắng). C'est ce film que je préfère (Chính bộ phim này là phim tôi thích nhất).
+G.table: Structure | Exemple
+G.row: nom + qui + verbe | un homme qui porte des lunettes
+G.row: nom + que + sujet + verbe | la robe que j'ai achetée
+G.row: nom + où + sujet + verbe | le pays où il fait chaud
+G.row: C'est… qui | C'est Lan qui a gagné.
+G.row: C'est… que | C'est ce film que je préfère.
+G.ex: Je cherche un appartement qui a un balcon et qui n'est pas trop cher. || Tôi tìm một căn hộ có ban công và không quá đắt.
+G.ex: Regarde la robe que j'ai achetée en solde ! || Xem chiếc váy mà tôi mua lúc giảm giá này!
+G.ex: C'est mon frère qui a préparé le dîner ce soir. || Chính anh trai tôi đã nấu bữa tối nay.
+G.ex: C'est le Japon que je veux visiter en premier. || Nhật Bản là nơi tôi muốn đến đầu tiên.
+G.q: Les photos que j'ai ___ sont belles. | pris | *prises | prise | prendre
+G.q: C'est Minh ___ a cassé le vase ! | que | *qui | où | qu'
+G.q: C'est ce livre ___ je préfère. | qui | *que | où | dont
+G.q: Je cherche un hôtel ___ accepte les chiens. | que | *qui | où | qu'
+G.q: La robe que j'ai ___ hier est rouge. (acheter) = achetée
+V: décrire | /de.kʁiʁ/ | verbe | miêu tả | Décris ta maison. || Hãy miêu tả ngôi nhà của bạn.
+V: précisément | /pʁe.si.ze.mɑ̃/ | adverbe | chính xác | Explique précisément. || Giải thích chính xác.
+V: le balcon | /lə bal.kɔ̃/ | nom m. | ban công | Un appartement avec balcon. || Một căn hộ có ban công.
+V: les lunettes | /le ly.nɛt/ | nom f. pl. | kính mắt | L'homme qui porte des lunettes. || Người đàn ông đeo kính.
+V: le vase | /lə vaz/ | nom m. | lọ hoa | Qui a cassé le vase ? || Ai làm vỡ lọ hoa?
+V: casser | /ka.se/ | verbe | làm vỡ | J'ai cassé mon téléphone. || Tôi làm vỡ điện thoại.
+V: accepter | /ak.sɛp.te/ | verbe | chấp nhận | Cet hôtel accepte les chiens. || Khách sạn này nhận chó.
+V: la barbe | /la baʁb/ | nom f. | râu | Un homme qui a une barbe. || Một người đàn ông có râu.
+V: enrichir | /ɑ̃.ʁi.ʃiʁ/ | verbe | làm phong phú | Enrichis ta description. || Làm phong phú phần miêu tả của bạn.
+V: le portrait | /lə pɔʁ.tʁɛ/ | nom m. | chân dung | Fais le portrait de ton ami. || Hãy phác hoạ chân dung bạn của bạn.
+VQ: Les poils sur le menton d'un homme : | les cheveux | *la barbe | les lunettes | les sourcils
+VQ: On met des fleurs dans un… | balcon | *vase | sac | panier
+VQ: Le contraire de « refuser » : | casser | *accepter | décrire | enrichir
+VQ: Une description d'une personne : un… | paysage | *portrait | roman | vase
+VQ: On porte des ___ pour mieux voir. = lunettes
+D: Je cherche un appartement qui a un balcon.
+D: Regarde la robe que j'ai achetée en solde !
+D: C'est mon frère qui a préparé le dîner.
+D: C'est le Japon que je veux visiter en premier.
+L: Policier | Vous pouvez décrire la personne qui a pris votre sac ? || Chị có thể miêu tả người đã lấy túi của chị không?
+L: Victime | C'est un homme qui avait environ trente ans et qui portait une casquette noire. || Đó là một người đàn ông khoảng ba mươi tuổi và đội một chiếc mũ lưỡi trai màu đen.
+L: Policier | Et le sac ? || Còn cái túi?
+L: Victime | C'est un sac en cuir marron que mon mari m'a offert pour mon anniversaire. || Đó là một chiếc túi da màu nâu mà chồng tôi tặng nhân sinh nhật.
+L: Policier | Il y avait quoi dedans ? || Bên trong có gì?
+L: Victime | Mon portefeuille, mes clés et le téléphone que j'ai acheté la semaine dernière ! || Ví, chìa khoá và chiếc điện thoại mà tôi mới mua tuần trước!
+LQ: Quel âge avait l'homme ? | vingt ans | *environ trente ans | quarante ans | cinquante ans
+LQ: Qu'est-ce qu'il portait ? | des lunettes | *une casquette noire | un manteau rouge | une barbe
+LQ: Qui a offert le sac ? | sa mère | *son mari | une amie | elle l'a acheté
+RA: un homme qui porte des lunettes
+RA: la robe que j'ai achetée en solde
+RA: C'est mon frère qui a préparé le dîner.
+SH: C'est un homme qui portait une casquette noire.
+SH: C'est un sac que mon mari m'a offert.
+SH: Le téléphone que j'ai acheté la semaine dernière !
+R.title: Petites annonces
+R: Je cherche une colocataire qui aime les animaux et qui ne fume pas. || Tôi tìm một bạn nữ ở ghép yêu động vật và không hút thuốc.
+R: Je vends un vélo que j'ai acheté il y a un an et que j'ai très peu utilisé. || Tôi bán một chiếc xe đạp mua cách đây một năm và rất ít dùng.
+R: Perdu : chat gris qui a un collier rouge et qui répond au nom de Mimi. || Thất lạc: mèo xám đeo vòng cổ đỏ, tên là Mimi.
+R: Restaurant cherche un cuisinier qui connaît la cuisine vietnamienne. || Nhà hàng cần tuyển đầu bếp biết nấu món Việt.
+R: Famille cherche une maison à louer dans un village où il y a une école primaire. || Gia đình cần thuê nhà ở một ngôi làng có trường tiểu học.
+R: Étudiante donne des cours de vietnamien à des personnes qui veulent découvrir la langue. || Sinh viên dạy tiếng Việt cho những ai muốn khám phá ngôn ngữ này.
+RQ: Quelle colocataire cherche-t-on ? | qui fume | *qui aime les animaux et ne fume pas | qui cuisine | qui parle anglais
+RQ: Comment est le chat perdu ? | noir avec un collier bleu | *gris avec un collier rouge | blanc | roux
+RQ: Où la famille veut-elle louer une maison ? | en ville | *dans un village avec une école primaire | près de la mer | à la montagne
+W.prompt: Écris trois petites annonces : tu cherches quelque chose, tu vends un objet, tu as perdu quelque chose. Utilise qui, que et où pour décrire précisément. || Viết ba tin rao vặt: bạn tìm một thứ, bạn bán một đồ vật, bạn làm mất một thứ. Dùng qui, que và où để miêu tả chính xác.
+W.min: 50
+W.must: qui ; que ; où
+W.check: Mỗi tin có ít nhất một mệnh đề quan hệ
+W.check: Phân từ hợp với que đứng trước (que j'ai achetée)
+W.check: Câu ngắn, rõ ràng như một tin rao vặt
+W.model: Cherche : appartement qui a deux chambres, dans un quartier où il y a des transports. || Cần tìm: căn hộ có hai phòng ngủ, ở khu có phương tiện công cộng.
+W.model: Loyer maximum : huit cents euros. || Tiền thuê tối đa: tám trăm euro.
+W.model: Vends : machine à café que j'ai achetée il y a six mois. Elle marche parfaitement. || Bán: máy pha cà phê mua cách đây sáu tháng. Chạy hoàn hảo.
+W.model: Prix : cinquante euros. || Giá: năm mươi euro.
+W.model: Perdu : sac à dos bleu qui contient un ordinateur et des livres que je dois rendre à la bibliothèque. || Thất lạc: ba lô xanh có máy tính và sách mà tôi phải trả thư viện.
+W.model: Merci d'appeler le 06 11 22 33 44 ! || Xin gọi số 06 11 22 33 44!
+
+## 4 | Définir un objet
+G.title: C'est un objet qui sert à…
+G.rule: Pour définir un objet ou un mot qu'on ne connaît pas, on utilise des relatives : C'est un objet qui sert à…, C'est une chose qu'on utilise pour…, C'est un endroit où on… Cette stratégie est très utile quand on oublie un mot. || Để định nghĩa một đồ vật hoặc một từ mà ta không biết, ta dùng mệnh đề quan hệ: C'est un objet qui sert à… (Đó là đồ vật dùng để…), C'est une chose qu'on utilise pour… (Đó là thứ người ta dùng để…), C'est un endroit où on… (Đó là nơi người ta…). Chiến lược này rất hữu ích khi ta quên một từ.
+G.note: Khi quên từ, đừng im lặng! Hãy miêu tả: C'est un truc qui… (văn nói: truc = cái thứ), C'est une machine qui… / C'est une personne qui… / C'est un endroit où… "Servir à + nguyên mẫu" = dùng để: Un couteau sert à couper. Kết hợp với chất liệu: C'est en bois / en métal / en plastique. Hình dạng: C'est rond, carré, long. Đây là kỹ năng quan trọng trong bài thi nói DELF!
+G.table: Structure | Exemple
+G.row: C'est un objet qui sert à… | C'est un objet qui sert à couper. (un couteau)
+G.row: C'est une chose qu'on utilise pour… | C'est une chose qu'on utilise pour écrire. (un stylo)
+G.row: C'est un endroit où… | C'est un endroit où on emprunte des livres. (une bibliothèque)
+G.row: C'est une personne qui… | C'est une personne qui soigne les malades. (un médecin)
+G.ex: C'est un objet qui sert à ouvrir les bouteilles : un tire-bouchon. || Đó là đồ vật dùng để mở chai: cái mở nút chai.
+G.ex: C'est une machine qu'on utilise pour laver le linge. || Đó là cái máy người ta dùng để giặt quần áo.
+G.ex: C'est un endroit où on achète des médicaments : une pharmacie. || Đó là nơi người ta mua thuốc: hiệu thuốc.
+G.ex: Je ne connais pas le mot… c'est un truc qui fait du vent, en été. || Tôi không biết từ đó… là cái thứ tạo ra gió vào mùa hè.
+G.q: « C'est un endroit où on dort quand on voyage » : | un restaurant | *un hôtel | une gare | une banque
+G.q: Un couteau ___ à couper. | utilise | *sert | fait | est
+G.q: « C'est une personne qui soigne les animaux » : | un médecin | *un vétérinaire | un boucher | un fermier
+G.q: Quand on oublie un mot, on peut… | arrêter de parler | *décrire la chose avec une relative | parler anglais | partir
+G.q: « C'est une machine qui lave la vaisselle » : un lave-___. = vaisselle
+V: servir à | /sɛʁ.viʁ a/ | verbe | dùng để | Ça sert à quoi ? || Cái này dùng để làm gì?
+V: définir | /de.fi.niʁ/ | verbe | định nghĩa | Peux-tu définir ce mot ? || Bạn có thể định nghĩa từ này không?
+V: le truc | /lə tʁyk/ | nom m. | cái thứ (thân mật) | C'est quoi, ce truc ? || Cái thứ này là gì vậy?
+V: le couteau | /lə ku.to/ | nom m. | con dao | Ce couteau coupe bien. || Con dao này cắt tốt.
+V: le tire-bouchon | /lə tiʁ.bu.ʃɔ̃/ | nom m. | cái mở nút chai | Tu as un tire-bouchon ? || Bạn có cái mở nút chai không?
+V: le linge | /lə lɛ̃ʒ/ | nom m. | quần áo giặt, đồ vải | Je lave le linge. || Tôi giặt quần áo.
+V: soigner | /swa.ɲe/ | verbe | chữa trị, chăm sóc | Le médecin soigne les malades. || Bác sĩ chữa bệnh cho người ốm.
+V: le vétérinaire | /lə ve.te.ʁi.nɛʁ/ | nom m. | bác sĩ thú y | Le chat est chez le vétérinaire. || Con mèo đang ở chỗ bác sĩ thú y.
+V: rond | /ʁɔ̃/ | adjectif | tròn | Une table ronde. || Một cái bàn tròn.
+V: carré | /ka.ʁe/ | adjectif | vuông | Une boîte carrée. || Một cái hộp vuông.
+VQ: Une forme comme un cercle : | carré | *rond | long | plat
+VQ: L'objet qui sert à ouvrir une bouteille de vin : | un couteau | *un tire-bouchon | une clé | une fourchette
+VQ: Un médecin pour les animaux : | un pharmacien | *un vétérinaire | un infirmier | un fermier
+VQ: « Ça sert à quoi ? » demande… | le prix | *l'utilité | la couleur | l'origine
+VQ: Les vêtements qu'on lave, c'est le ___. = linge
+D: C'est un objet qui sert à ouvrir les bouteilles.
+D: C'est une machine qu'on utilise pour laver le linge.
+D: C'est un endroit où on achète des médicaments.
+D: C'est un truc qui fait du vent, en été.
+L: Client | Bonjour, je cherche… euh… je ne connais pas le mot en français. || Chào anh, tôi đang tìm… ờ… tôi không biết từ đó trong tiếng Pháp.
+L: Vendeur | Pas de problème. C'est quoi ? Ça sert à quoi ? || Không sao. Là cái gì? Dùng để làm gì?
+L: Client | C'est un objet qu'on utilise dans la cuisine. Ça sert à faire du jus avec des fruits. || Đó là đồ dùng trong bếp. Dùng để làm nước ép từ trái cây.
+L: Vendeur | Un presse-agrumes ? Ou un mixeur, une machine qui coupe et mélange tout ? || Máy vắt cam? Hay máy xay sinh tố, cái máy cắt và trộn mọi thứ?
+L: Client | Oui, c'est ça ! Une machine qui mélange tout, pour faire des smoothies. || Đúng rồi! Cái máy trộn mọi thứ, để làm sinh tố.
+L: Vendeur | Alors c'est un mixeur. Ils sont au rayon électroménager, au fond à droite. || Vậy là máy xay sinh tố. Chúng ở quầy đồ điện gia dụng, phía cuối bên phải.
+LQ: Quel est le problème du client ? | il n'a pas d'argent | *il ne connaît pas le mot | il est perdu | il cherche un vendeur
+LQ: L'objet sert à… | couper la viande | *faire du jus avec des fruits | laver la vaisselle | chauffer l'eau
+LQ: Où sont les mixeurs ? | à l'entrée | *au fond à droite | au premier étage | à gauche
+RA: C'est un objet qui sert à couper.
+RA: C'est une chose qu'on utilise pour écrire.
+RA: C'est un endroit où on emprunte des livres.
+SH: Je ne connais pas le mot en français.
+SH: C'est un objet qu'on utilise dans la cuisine.
+SH: Ça sert à faire du jus avec des fruits.
+R.title: Devinettes
+R: C'est un objet qu'on a toujours dans sa poche et qui sert à téléphoner. Qu'est-ce que c'est ? || Đó là đồ vật luôn ở trong túi và dùng để gọi điện. Đó là gì?
+R: C'est un endroit où on va quand on est malade et où travaillent des médecins. || Đó là nơi người ta đến khi ốm và có các bác sĩ làm việc.
+R: C'est une personne qui apporte les lettres et les colis chez vous. || Đó là người mang thư và bưu kiện đến nhà bạn.
+R: C'est une chose qui tombe du ciel en hiver et qui est blanche. || Đó là thứ rơi từ trên trời xuống vào mùa đông và có màu trắng.
+R: C'est un meuble où on dort la nuit. || Đó là món đồ nội thất nơi người ta ngủ vào ban đêm.
+R: Réponses : le téléphone, l'hôpital, le facteur, la neige, le lit. || Đáp án: điện thoại, bệnh viện, người đưa thư, tuyết, giường.
+RQ: Qu'est-ce qui sert à téléphoner ? | une lettre | *le téléphone | un colis | un ordinateur
+RQ: Qui apporte les lettres ? | le médecin | *le facteur | le voisin | le policier
+RQ: Qu'est-ce qui tombe du ciel en hiver et qui est blanc ? | la pluie | *la neige | le soleil | un nuage
+W.prompt: Écris cinq devinettes pour faire deviner des objets, des lieux ou des métiers, avec qui, que et où. Donne les réponses à la fin. || Viết năm câu đố để người khác đoán đồ vật, địa điểm hoặc nghề nghiệp, dùng qui, que và où. Ghi đáp án ở cuối.
+W.min: 50
+W.must: c'est un ; qui ; sert à
+W.check: Mỗi câu đố có ít nhất một mệnh đề quan hệ
+W.check: servir à + nguyên mẫu
+W.check: Có đáp án ở cuối
+W.model: Premièrement : c'est un objet qu'on utilise quand il pleut et qui nous protège. || Thứ nhất: đó là đồ vật dùng khi trời mưa và che chắn cho ta.
+W.model: Deuxièmement : c'est un endroit où on regarde des films sur un grand écran. || Thứ hai: đó là nơi người ta xem phim trên màn hình lớn.
+W.model: Troisièmement : c'est une personne qui coupe les cheveux. || Thứ ba: đó là người cắt tóc.
+W.model: Quatrièmement : c'est une machine qui sert à garder les aliments au froid. || Thứ tư: đó là cái máy dùng để giữ thực phẩm lạnh.
+W.model: Cinquièmement : c'est un véhicule qui a deux roues et qu'on fait avancer avec les pieds. || Thứ năm: đó là phương tiện có hai bánh và người ta dùng chân để làm nó chạy.
+W.model: Réponses : un parapluie, un cinéma, un coiffeur, un frigo, un vélo. || Đáp án: cái ô, rạp chiếu phim, thợ cắt tóc, tủ lạnh, xe đạp.
+
+## 5 | Synthèse
+G.title: Qui, que, où : comment choisir ?
+G.rule: Pour choisir le bon pronom relatif, on regarde la fonction du mot remplacé dans la deuxième phrase : sujet → qui, complément direct → que, lieu ou temps → où. || Để chọn đúng đại từ quan hệ, ta xem chức năng của từ được thay thế trong câu thứ hai: chủ ngữ → qui, bổ ngữ trực tiếp → que, nơi chốn hoặc thời gian → où.
+G.note: Phương pháp ba bước: (1) Tách thành hai câu. (2) Tìm từ lặp lại trong câu thứ hai và chức năng của nó. (3) Thay bằng qui / que / où. Ví dụ: J'ai visité un musée. Ce musée est célèbre. → "ce musée" là chủ ngữ của "est" → qui: J'ai visité un musée qui est célèbre. J'ai visité un musée. Mon ami adore ce musée. → COD của "adore" → que. J'ai visité un musée. Nous avons déjeuné dans ce musée. → nơi chốn → où. (Đại từ "dont" sẽ học ở B1.)
+G.table: Deuxième phrase | Fonction | Pronom
+G.row: Ce musée est célèbre. | sujet | qui
+G.row: Mon ami adore ce musée. | COD | que
+G.row: Nous avons déjeuné dans ce musée. | lieu | où
+G.row: Je suis né ce jour-là. | temps | où
+G.ex: J'ai visité un musée qui est très célèbre. || Tôi đã tham quan một bảo tàng rất nổi tiếng.
+G.ex: C'est un musée que mon ami adore. || Đó là một bảo tàng mà bạn tôi rất thích.
+G.ex: C'est le musée où nous avons déjeuné. || Đó là bảo tàng nơi chúng tôi ăn trưa.
+G.ex: Paris est la ville où j'ai rencontré les gens qui ont changé ma vie. || Paris là thành phố nơi tôi gặp những người đã thay đổi cuộc đời tôi.
+G.q: J'ai un voisin. Ce voisin joue du piano. → J'ai un voisin ___ joue du piano. | que | *qui | où | qu'
+G.q: Voici le stylo. Tu cherchais ce stylo. → Voici le stylo ___ tu cherchais. | qui | *que | où | qu'il
+G.q: C'est la plage. Nous nous sommes baignés là. → C'est la plage ___ nous nous sommes baignés. | que | qui | *où | ou
+G.q: Le gâteau ___ est sur la table est pour toi. | que | *qui | où | qu'
+G.q: Le film ___ nous avons vu hier était drôle. = que
+V: la fonction | /la fɔ̃k.sjɔ̃/ | nom f. | chức năng | Quelle est la fonction de ce mot ? || Chức năng của từ này là gì?
+V: le sujet | /lə sy.ʒɛ/ | nom m. | chủ ngữ; chủ đề | Le sujet du verbe est « je ». || Chủ ngữ của động từ là « je ».
+V: le musée | /lə my.ze/ | nom m. | bảo tàng | Le musée est fermé le lundi. || Bảo tàng đóng cửa vào thứ Hai.
+V: célèbre | /se.lɛbʁ/ | adjectif | nổi tiếng | Un musée très célèbre. || Một bảo tàng rất nổi tiếng.
+V: changer | /ʃɑ̃.ʒe/ | verbe | thay đổi | Ce voyage a changé ma vie. || Chuyến đi này đã thay đổi cuộc đời tôi.
+V: le piano | /lə pja.no/ | nom m. | đàn piano | Mon voisin joue du piano. || Hàng xóm tôi chơi piano.
+V: le stylo | /lə sti.lo/ | nom m. | bút bi | Voici le stylo que tu cherchais. || Đây là cây bút bạn tìm.
+V: la méthode | /la me.tɔd/ | nom f. | phương pháp | C'est une bonne méthode. || Đó là một phương pháp tốt.
+V: l'étape | /le.tap/ | nom f. | bước | Il y a trois étapes. || Có ba bước.
+V: le guide | /lə ɡid/ | nom m. | hướng dẫn viên | Le guide qui nous accompagne est drôle. || Hướng dẫn viên đi cùng chúng tôi rất vui tính.
+VQ: Un lieu où on voit des œuvres d'art : | une banque | *un musée | une gare | un stade
+VQ: Une personne connue par tout le monde est… | timide | *célèbre | ennuyeuse | âgée
+VQ: Une manière organisée de faire quelque chose : | une étape | *une méthode | une fonction | un sujet
+VQ: Une partie d'un processus : | une méthode | *une étape | un sujet | un musée
+VQ: Dans « Je mange », « je » est le ___. = sujet
+D: J'ai visité un musée qui est très célèbre.
+D: C'est un musée que mon ami adore.
+D: C'est le musée où nous avons déjeuné.
+D: J'ai rencontré les gens qui ont changé ma vie.
+L: Guide | Bienvenue à Hội An ! Voici la rue où se trouvent les plus vieilles maisons de la ville. || Chào mừng đến Hội An! Đây là con phố nơi có những ngôi nhà cổ nhất thành phố.
+L: Touriste | Et ce pont, c'est le pont qui est sur les cartes postales ? || Còn cây cầu này, có phải cây cầu trên bưu thiếp không?
+L: Guide | Oui ! C'est le pont japonais que des marchands ont construit au dix-septième siècle. || Đúng! Đó là chùa Cầu mà các thương nhân đã xây vào thế kỷ mười bảy.
+L: Touriste | Et les lanternes qu'on voit partout ? || Còn những chiếc đèn lồng nhìn thấy khắp nơi?
+L: Guide | Ce sont des lanternes que les artisans font à la main. Le soir, il y a un festival où tout le monde allume des lanternes sur la rivière. || Đó là những chiếc đèn lồng do thợ thủ công làm bằng tay. Buổi tối, có một lễ hội nơi mọi người thả đèn lồng trên sông.
+L: Touriste | C'est magique ! C'est la ville que je préfère au Viêt Nam ! || Thật kỳ diệu! Đây là thành phố mà tôi thích nhất ở Việt Nam!
+LQ: Qu'est-ce qu'on trouve dans cette rue ? | des restaurants | *les plus vieilles maisons | des musées | des hôtels
+LQ: Qui a construit le pont ? | des Français | *des marchands | des pêcheurs | des rois
+LQ: Que font les gens pendant le festival ? | ils dansent | *ils allument des lanternes sur la rivière | ils mangent | ils chantent
+RA: qui, que, où.
+RA: C'est le pont qui est sur les cartes postales.
+RA: Ce sont des lanternes que les artisans font à la main.
+SH: Voici la rue où se trouvent les plus vieilles maisons.
+SH: C'est le pont que des marchands ont construit.
+SH: C'est la ville que je préfère au Viêt Nam !
+R.title: Mon voyage idéal
+R: Mon voyage idéal, c'est un voyage qui commence sans plan précis, l'année prochaine. || Chuyến đi lý tưởng của tôi là chuyến đi bắt đầu không có kế hoạch cụ thể, vào năm sau.
+R: Je voudrais partir avec des amis qui aiment l'aventure et que je connais bien. || Tôi muốn đi cùng những người bạn thích phiêu lưu và tôi hiểu rõ.
+R: Nous irons dans des villages où les touristes ne vont jamais. || Chúng tôi sẽ đến những ngôi làng nơi khách du lịch không bao giờ đến.
+R: Nous mangerons les plats que les habitants préparent chez eux. || Chúng tôi sẽ ăn những món mà người dân địa phương nấu tại nhà.
+R: Je rapporterai des photos qui racontent des histoires, pas des souvenirs qu'on achète dans les boutiques. || Tôi sẽ mang về những bức ảnh kể chuyện, chứ không phải đồ lưu niệm mua ở cửa hàng.
+R: Ce sera un voyage que je n'oublierai jamais. || Đó sẽ là chuyến đi mà tôi không bao giờ quên.
+RQ: Avec qui veut-il partir ? | seul | *avec des amis qui aiment l'aventure | avec sa famille | avec un guide
+RQ: Où voudrait-il aller ? | dans les grandes villes | *dans des villages sans touristes | à la plage | dans des musées
+RQ: Que veut-il rapporter ? | des souvenirs de boutique | *des photos qui racontent des histoires | des vêtements | des plats
+W.prompt: Décris ta ville (ou un lieu que tu aimes) pour un touriste, en utilisant au moins deux fois qui, deux fois que et deux fois où. || Miêu tả thành phố của bạn (hoặc một nơi bạn yêu thích) cho một du khách, dùng qui, que và où mỗi loại ít nhất hai lần.
+W.min: 60
+W.must: qui ; que ; où
+W.check: Chọn đúng qui (chủ ngữ) / que (COD) / où (nơi, thời gian)
+W.check: Phân từ hợp với que đứng trước khi cần
+W.check: Mỗi đại từ dùng ít nhất hai lần
+W.model: Bienvenue à Huế, la ville où j'ai grandi ! || Chào mừng đến Huế, thành phố nơi tôi lớn lên!
+W.model: C'est une ville qui était autrefois la capitale du Viêt Nam et qui a gardé beaucoup de monuments. || Đó là thành phố từng là kinh đô của Việt Nam và còn giữ được nhiều di tích.
+W.model: La citadelle est le lieu que les touristes visitent en premier. || Kinh thành là nơi du khách tham quan đầu tiên.
+W.model: Il y a aussi la pagode Thiên Mụ, où on voit un magnifique coucher de soleil sur la rivière. || Còn có chùa Thiên Mụ, nơi ta ngắm hoàng hôn tuyệt đẹp trên sông.
+W.model: Il faut goûter le bún bò, la soupe épicée que tous les habitants adorent. || Phải nếm thử bún bò, món bún cay mà người dân nơi đây ai cũng mê.
+W.model: Et si vous aimez la tranquillité, louez un vélo qui vous emmènera dans les villages autour de la ville ! || Và nếu bạn thích sự yên tĩnh, hãy thuê một chiếc xe đạp đưa bạn đến những ngôi làng quanh thành phố!

@@ -2253,3 +2253,28 @@ sortant | participe | khi ra ngoài (en sortant)
 tentant | adjectif | hấp dẫn, cám dỗ
 @er trier | phân loại
 @er économiser | tiết kiệm
+l'aventure | nom f. | cuộc phiêu lưu
+le cercle | nom m. | hình tròn
+dedans | adverbe | bên trong
+la devinette | nom f. | câu đố
+le fermier | nom m. | nông dân
+généralement | adverbe | thường, nói chung
+la lanterne | nom f. | đèn lồng
+le menton | nom m. | cằm
+le mixeur | nom m. | máy xay sinh tố
+le nid | nom m. | tổ chim
+le poil | nom m. | lông
+le processus | nom m. | quá trình
+@er rapporter | mang về, mang trả
+le rayon | nom m. | quầy hàng; tia
+relatif | adjectif | quan hệ, tương đối
+le smoothie | nom m. | sinh tố
+le sourcil | nom m. | lông mày
+la stratégie | nom f. | chiến lược
+@er séparer | tách ra
+sévère | adjectif | nghiêm khắc
+le trésor | nom m. | kho báu
+@ir unir | hợp nhất
+l'utilité | nom f. | sự hữu ích
+@ir vieillir | già đi
+l'électroménager | nom m. | đồ điện gia dụng
